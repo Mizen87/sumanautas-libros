@@ -1,0 +1,80 @@
+{
+ "id": "2026-10-07-tito-y-las-estrellas-que-caen",
+ "fecha": "2026-10-07",
+ "tramo": "peques",
+ "edad": 5,
+ "titulo": [
+  "Tito y las estrellas que caen",
+  "Tito and the Falling Stars"
+ ],
+ "paginas": [
+  {
+   "es": "¡Plop! ¡Plop! Tito vio luces en el cielo. ¡Diez estrellas caían a la playa!",
+   "en": "Plop! Plop! Tito saw lights in the sky. Ten stars were falling to the beach!"
+  },
+  {
+   "es": "—¡Quiero verlas de cerca! —dijo Tito. —¡Espera, espera! —dijo Pico.",
+   "en": "I want to see them up close! said Tito. Wait, wait! said Pico."
+  },
+  {
+   "es": "Tito corrió y corrió. Una, dos, tres… ¡ya estaban en la arena!",
+   "en": "Tito ran and ran. One, two, three… they were already on the sand!"
+  },
+  {
+   "es": "Cuatro, cinco, seis… Tito tropezó. ¡Plop! Se cayó en la arena.",
+   "en": "Four, five, six… Tito tripped. Plop! He fell on the sand."
+  },
+  {
+   "es": "Siete, ocho, nueve… Tito se levantó. No se rindió. ¡Siguió contando!",
+   "en": "Seven, eight, nine… Tito got up. He did not give up. He kept counting!"
+  },
+  {
+   "es": "¡Diez! Las diez estrellas brillaron juntas. ¡Eran luciérnagas grandes! Tito y Pico rieron felices.",
+   "en": "Ten! The ten stars shone together. They were big fireflies! Tito and Pico laughed happily."
+  }
+ ],
+ "preguntas": [
+  {
+   "es": [
+    "¿Cuántas estrellas vio Tito?",
+    "Diez",
+    "Cinco",
+    "Ocho"
+   ],
+   "en": [
+    "How many stars did Tito see?",
+    "Ten",
+    "Five",
+    "Eight"
+   ]
+  },
+  {
+   "es": [
+    "¿Qué aprendió Tito?",
+    "No rendirse",
+    "Correr más",
+    "Dormir"
+   ],
+   "en": [
+    "What did Tito learn?",
+    "Not to give up",
+    "Run more",
+    "Sleep"
+   ]
+  },
+  {
+   "es": [
+    "¿Qué eran las estrellas en realidad?",
+    "Luciérnagas grandes",
+    "Estrellas de verdad",
+    "Peces voladores"
+   ],
+   "en": [
+    "What were the stars really?",
+    "Big fireflies",
+    "Real stars",
+    "Flying fish"
+   ]
+  }
+ ]
+}
