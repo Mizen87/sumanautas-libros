@@ -1,0 +1,80 @@
+{
+ "id": "2026-10-07-tita-y-el-pez-pegajoso",
+ "fecha": "2026-10-07",
+ "tramo": "peques",
+ "edad": 5,
+ "titulo": [
+  "Tita y el Pez Pegajoso",
+  "Tita and the Sticky Fish"
+ ],
+ "paginas": [
+  {
+   "es": "Tita paseaba por la selva. ¡Glup glup! Veía peces felices en el río.",
+   "en": "Tita walked through the jungle. Glup glup! She saw happy fish in the river."
+  },
+  {
+   "es": "Uno dos tres cuatro cinco seis. Todos en parejas. ¡Faltaba uno! ¿Dónde?",
+   "en": "One two three four five six. All in pairs. One was missing! Where?"
+  },
+  {
+   "es": "Tita esperó con mucha paciencia. Glup glup glup. ¡Nada de nada!",
+   "en": "Tita waited with much patience. Glup glup glup. Nothing at all!"
+  },
+  {
+   "es": "Tita movió una pata. ¡Fiuuu! Algo salió volando de su caparazón.",
+   "en": "Tita moved one leg. Whoosh! Something flew out of her shell."
+  },
+  {
+   "es": "¡El pez pegajoso estaba pegado en su caparazón! ¡Qué risa tan grande!",
+   "en": "The sticky fish was stuck on her shell! What a big laugh!"
+  },
+  {
+   "es": "El pez hizo muchas cosquillas. ¡Ji ji ji! Pico llegó y todos rieron juntos. ¡Ja ja ja!",
+   "en": "The fish gave many tickles. Hee hee hee! Pico arrived and everyone laughed together. Ha ha ha!"
+  }
+ ],
+ "preguntas": [
+  {
+   "es": [
+    "¿Cuántos peces contó Tita?",
+    "Seis",
+    "Cuatro",
+    "Ocho"
+   ],
+   "en": [
+    "How many fish did Tita count?",
+    "Six",
+    "Four",
+    "Eight"
+   ]
+  },
+  {
+   "es": [
+    "¿Dónde estaba el pez pegajoso?",
+    "En su caparazón",
+    "En el río",
+    "En una hoja"
+   ],
+   "en": [
+    "Where was the sticky fish?",
+    "On her shell",
+    "In the river",
+    "On a leaf"
+   ]
+  },
+  {
+   "es": [
+    "¿Qué valor descubre Tita?",
+    "La paciencia",
+    "La prisa",
+    "La fuerza"
+   ],
+   "en": [
+    "What value does Tita discover?",
+    "Patience",
+    "Speed",
+    "Strength"
+   ]
+  }
+ ]
+}
