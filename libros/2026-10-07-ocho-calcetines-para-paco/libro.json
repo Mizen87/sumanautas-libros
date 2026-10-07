@@ -1,0 +1,98 @@
+{
+ "id": "2026-10-07-ocho-calcetines-para-paco",
+ "fecha": "2026-10-07",
+ "tramo": "peques",
+ "edad": 5,
+ "dibujos": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "titulo": [
+  "Ocho calcetines para Paco",
+  "Eight Socks for Paco"
+ ],
+ "paginas": [
+  {
+   "es": "Paco es un pulpo naranja del puerto. El mar está calentito, pero Paco tiene frío. —¡Brrr! —dice, y le tiemblan los ocho brazos.",
+   "en": "Paco is an orange octopus who lives in the harbour. The sea is lovely and warm, but Paco is cold. “Brrr!” he says, and all eight of his arms shiver."
+  },
+  {
+   "es": "Su amiga Remedios, la oveja, teje con su propia lana. Cuenta los brazos con las patas y la cola: ¡cinco! ¡Clic-clac, clic-clac! —¡Toma, Paco!",
+   "en": "His friend Remedios the sheep knits with her very own wool. She counts Paco's arms on her legs and her tail: five! Click-clack, click-clack! “Here you go, Paco!”"
+  },
+  {
+   "es": "Un calcetín en cada brazo: uno, dos, tres, cuatro, cinco. Tres brazos sin calcetín se hacen un nudo: ¡brrr! —¡Hay menos calcetines que brazos!",
+   "en": "One sock on each arm: one, two, three, four, five. The three arms with no socks tie themselves in a knot: brrr! “There are fewer socks than arms!”"
+  },
+  {
+   "es": "—¡Ahora mismo! —dice Remedios. ¡Clic-clac, clic-clac! Cuenta otra vez con las patas y la cola: ¡otros cinco calcetines! Y ella, cada vez más peladita.",
+   "en": "“Coming right up!” says Remedios. Click-clack, click-clack! She counts again on her legs and her tail: five more socks! And she gets balder and balder."
+  },
+  {
+   "es": "¡Fuera nudo! Un calcetín en cada brazo frío: uno, dos, tres… ¡y sobran dos! —¡Ahora hay más calcetines que brazos! —se ríe Paco.",
+   "en": "Knot undone! One sock on each cold arm: one, two, three… and two are left over! “Now there are more socks than arms!” Paco laughs."
+  },
+  {
+   "es": "—¡Uno para ti y otro para ti! —dice Paco. El cangrejito cambia su concha por un calcetín: ¡rooonc! Y el caballito de mar… ¡gorro nuevo!",
+   "en": "“One for you and one for you!” says Paco. The little crab swaps its shell for a sock: snoooore! And the seahorse… a brand-new hat!"
+  },
+  {
+   "es": "Ocho brazos, ocho calcetines: ¡igual! Paco ya no tiene frío. Pero a Remedios… ¡solo le queda un pompón! —¡Brrr! ¡Ya me crecerá la lana!",
+   "en": "Eight arms, eight socks: the same! Paco isn't cold anymore. But all Remedios has left is one little pompom! “Brrr! My wool will grow back!”"
+  },
+  {
+   "es": "¡Chof! Paco sale del agua y envuelve a Remedios con sus ocho brazos de lana. —¡Un jersey de pulpo! ¡Calentito… y mojado! —se ríe ella.",
+   "en": "Splosh! Paco climbs out of the water and wraps Remedios in his eight woolly arms. “An octopus jumper! So warm… and so wet!” she laughs."
+  }
+ ],
+ "preguntas": [
+  {
+   "es": [
+    "¿Por qué tiembla Paco al principio?",
+    "Porque tiene frío.",
+    "Porque está bailando.",
+    "Porque tiene mucha hambre."
+   ],
+   "en": [
+    "Why is Paco shivering at the start?",
+    "Because he is cold.",
+    "Because he is dancing.",
+    "Because he is very hungry."
+   ]
+  },
+  {
+   "es": [
+    "Con los primeros cinco calcetines, ¿cuántos brazos quedan sin calcetín?",
+    "Tres brazos.",
+    "Ocho brazos.",
+    "Ningún brazo."
+   ],
+   "en": [
+    "After the first five socks, how many arms have no sock?",
+    "Three arms.",
+    "Eight arms.",
+    "No arms at all."
+   ]
+  },
+  {
+   "es": [
+    "¿Qué hace Paco cuando Remedios tiene frío?",
+    "La envuelve con sus ocho brazos.",
+    "Se esconde en el agua.",
+    "Se va a dormir."
+   ],
+   "en": [
+    "What does Paco do when Remedios is cold?",
+    "He wraps her in all eight arms.",
+    "He hides in the water.",
+    "He goes to sleep."
+   ]
+  }
+ ]
+}
