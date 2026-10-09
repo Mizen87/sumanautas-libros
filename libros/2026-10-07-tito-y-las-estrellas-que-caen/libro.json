@@ -9,71 +9,71 @@
  ],
  "paginas": [
   {
-   "es": "¡Plop! ¡Plop! Tito vio luces en el cielo. ¡Diez estrellas caían a la playa!",
-   "en": "Plop! Plop! Tito saw lights in the sky. Ten stars were falling to the beach!"
+   "es": "¡Oh! ¡Caen estrellitas! Tito, el mono con plátano en la cabeza, alza los brazos.",
+   "en": "Ooh! Little stars are falling! Tito, the monkey with a banana hat, waves his arms."
   },
   {
-   "es": "—¡Quiero verlas de cerca! —dijo Tito. —¡Espera, espera! —dijo Pico.",
-   "en": "I want to see them up close! said Tito. Wait, wait! said Pico."
+   "es": "—¡Las quiero todas, ya! —grita Tito. —¡Espera, espera! —dice Pico.",
+   "en": "“I want them all, right now!” shouts Tito. “Wait, wait!” says Pico."
   },
   {
-   "es": "Tito corrió y corrió. Una, dos, tres… ¡ya estaban en la arena!",
-   "en": "Tito ran and ran. One, two, three… they were already on the sand!"
+   "es": "Tito no espera. Corre: ¡zas, zas, zas! Las estrellitas saltan… ¡fiu!",
+   "en": "Tito doesn’t wait. He runs: zip, zip, zip! The little stars hop… whoosh!"
   },
   {
-   "es": "Cuatro, cinco, seis… Tito tropezó. ¡Plop! Se cayó en la arena.",
-   "en": "Four, five, six… Tito tripped. Plop! He fell on the sand."
+   "es": "¡Plaf! Tito tropieza y cae de culete. —¡Jo, jo! —se ríe Pico.",
+   "en": "Splat! Tito trips and lands on his bottom. “Ho, ho!” laughs Pico."
   },
   {
-   "es": "Siete, ocho, nueve… Tito se levantó. No se rindió. ¡Siguió contando!",
-   "en": "Seven, eight, nine… Tito got up. He did not give up. He kept counting!"
+   "es": "Tito se sacude. —Vale, Pico. Te hago caso. Quieto… quietito… ¡shhh!",
+   "en": "Tito shakes off the sand. “OK, Pico. You were right. Still… so still… shhh!”"
   },
   {
-   "es": "¡Diez! Las diez estrellas brillaron juntas. ¡Eran luciérnagas grandes! Tito y Pico rieron felices.",
-   "en": "Ten! The ten stars shone together. They were big fireflies! Tito and Pico laughed happily."
+   "es": "¡Las luces vienen solitas! Son luciérnagas. Una se posa en su plátano. —¡Ji, ji! ¡Qué cosquillas!",
+   "en": "The lights come all by themselves! They’re fireflies. One lands on his banana. “Hee-hee! That tickles!”"
   }
  ],
  "preguntas": [
   {
    "es": [
-    "¿Cuántas estrellas vio Tito?",
-    "Diez",
-    "Cinco",
-    "Ocho"
+    "¿Qué decía Pico?",
+    "¡Espera, espera!",
+    "¡Corre, corre!",
+    "¡A dormir!"
    ],
    "en": [
-    "How many stars did Tito see?",
-    "Ten",
-    "Five",
-    "Eight"
+    "What did Pico say?",
+    "Wait, wait!",
+    "Run, run!",
+    "Time for bed!"
    ]
   },
   {
    "es": [
-    "¿Qué aprendió Tito?",
-    "No rendirse",
-    "Correr más",
-    "Dormir"
+    "¿Qué le pasó a Tito al correr?",
+    "Se cayó de culete",
+    "Se mojó en el mar",
+    "Perdió el plátano"
    ],
    "en": [
-    "What did Tito learn?",
-    "Not to give up",
-    "Run more",
-    "Sleep"
+    "What happened when Tito ran?",
+    "He fell on his bottom",
+    "He got wet in the sea",
+    "He lost his banana"
    ]
   },
   {
    "es": [
-    "¿Qué eran las estrellas en realidad?",
-    "Luciérnagas grandes",
-    "Estrellas de verdad",
-    "Peces voladores"
+    "¿Cuándo vinieron las luces?",
+    "Cuando Tito esperó quieto",
+    "Cuando Tito gritó fuerte",
+    "Cuando Tito dio saltos"
    ],
    "en": [
-    "What were the stars really?",
-    "Big fireflies",
-    "Real stars",
-    "Flying fish"
+    "When did the lights come?",
+    "When Tito waited quietly",
+    "When Tito shouted loudly",
+    "When Tito jumped about"
    ]
   }
  ]
