@@ -9,71 +9,71 @@
  ],
  "paginas": [
   {
-   "es": "Tita, la tortuga sabia, pasea junto al río. ¡Glup! Un pez naranja la saluda.",
-   "en": "Tita, the wise old turtle, strolls by the river. Glup! An orange fish says hello."
+   "es": "Tita, la tortuga, pasea junto al río. Pico, el loro, vuela por encima. ¡Glup! Un pez naranja asoma: es Lolo, su amigo.",
+   "en": "Tita the turtle strolls by the river. Pico the parrot flies overhead. Glup! An orange fish pops up: it's Lolo, her friend."
   },
   {
-   "es": "¡Plaf! El pez se pega a Tita. —¿Juegas con ellos? —¡Me da vergüenza!",
-   "en": "Splat! The fish sticks to Tita. “Will you play with them?” “I'm too shy!”"
+   "es": "Tres peces de colores juegan en el río. ¡Plaf! Lolo se pega a Tita como una pegatina. —¿Juegas con ellos? —pregunta Tita. —¡Me da vergüenza!",
+   "en": "Three colourful fish are playing in the river. Splat! Lolo sticks to Tita like a sticker. “Will you play with them?” asks Tita. “I'm too shy!”"
   },
   {
-   "es": "—Ve a saludar —dice Tita—. Yo te espero aquí. Y espera, tranquila.",
-   "en": "“Go say hello,” says Tita. “I'll wait here.” And she waits."
+   "es": "—Di solo «hola» —dice Tita—. Yo te espero aquí. Lolo respira hondo… ¡y allá va! Tita espera, tranquila, en su piedra.",
+   "en": "“Just say hello,” says Tita. “I'll wait for you here.” Lolo takes a deep breath… and off he goes! Tita waits calmly on her rock."
   },
   {
-   "es": "¡Chof! El pez salta del agua: —¡Tita, Tita! ¡Tengo amigos nuevos!",
-   "en": "Splash! The fish leaps out: “Tita, Tita! I've got new friends!”"
+   "es": "¡Chof! Lolo salta del agua: —¡Tita, Tita! ¡Dije «hola» y me dijeron «hola»! ¡Tengo amigos nuevos!",
+   "en": "Splash! Lolo leaps out of the water: “Tita, Tita! I said hello and they said hello! I've got new friends!”"
   },
   {
-   "es": "Salta, salpica y ríe. Tita se ríe también. Pico grita: —¡Pez valiente!",
-   "en": "He splashes, giggles. Tita laughs. “Brave fish!” squawks Pico."
+   "es": "Lolo salta y salpica: ¡splash, splash! Tita se ríe. Y Pico grita desde su rama: —¡Bravo, pez valiente!",
+   "en": "Lolo jumps and splashes: splish, splash! Tita laughs. And Pico squawks from his branch: “Bravo, brave fish!”"
   },
   {
-   "es": "El pez abraza a Tita: ¡cosquillas! —¡Ji, ji! —¡Ja, ja! —ríe Pico. ¡Qué pez tan pegajoso!",
-   "en": "The fish hugs Tita: tickles! “Hee hee!” “Ha ha!” laughs Pico. What a sticky fish!"
+   "es": "Lolo abraza a Tita. ¡Plaf! Pegado otra vez. —¡Gracias, Tita! —¡Qué pez tan pegajoso! —ríe ella. —¡Pegajoso y valiente! —dice Pico.",
+   "en": "Lolo hugs Tita. Splat! Stuck again. “Thank you, Tita!” “What a sticky fish!” she laughs. “Sticky and brave!” says Pico."
   }
  ],
  "preguntas": [
   {
    "es": [
-    "¿Por qué el pez se pegaba a Tita?",
-    "Porque le daba vergüenza jugar",
+    "¿Por qué Lolo se pegaba a Tita?",
+    "Porque le daba vergüenza jugar con los otros peces",
     "Porque tenía mucho frío",
     "Porque estaba dormido"
    ],
    "en": [
-    "Why did the fish stick to Tita?",
-    "He was too shy to play",
-    "He was very cold",
-    "He was asleep"
+    "Why did Lolo stick to Tita?",
+    "Because he was too shy to play with the other fish",
+    "Because he was very cold",
+    "Because he was asleep"
    ]
   },
   {
    "es": [
-    "¿Qué hizo Tita mientras el pez iba a saludar?",
+    "¿Qué le dijo Tita que hiciera?",
+    "Decir solo «hola»",
+    "Esconderse en una cueva",
+    "Irse a casa"
+   ],
+   "en": [
+    "What did Tita tell him to do?",
+    "Just say hello",
+    "Hide in a cave",
+    "Go home"
+   ]
+  },
+  {
+   "es": [
+    "¿Qué hizo Tita mientras Lolo iba a saludar?",
     "Esperarle tranquila",
-    "Irse a casa",
+    "Irse a dormir",
     "Bañarse en la cascada"
    ],
    "en": [
-    "What did Tita do while the fish said hello?",
+    "What did Tita do while Lolo went to say hello?",
     "She waited calmly",
-    "She went home",
+    "She went to sleep",
     "She swam in the waterfall"
-   ]
-  },
-  {
-   "es": [
-    "¿Qué harías tú si un amigo tiene vergüenza?",
-    "Animarle a jugar con otros",
-    "Reírme de él",
-    "Dejarle solo"
-   ],
-   "en": [
-    "What would you do if a friend felt shy?",
-    "Help them play with others",
-    "Laugh at them",
-    "Leave them alone"
    ]
   }
  ]
