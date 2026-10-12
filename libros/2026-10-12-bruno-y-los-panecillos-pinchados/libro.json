@@ -1,0 +1,98 @@
+{
+ "id": "2026-10-12-bruno-y-los-panecillos-pinchados",
+ "fecha": "2026-10-12",
+ "tramo": "peques",
+ "edad": 5,
+ "dibujos": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "titulo": [
+  "Bruno y los panecillos pinchados",
+  "Bruno and the Prickly Buns"
+ ],
+ "paginas": [
+  {
+   "es": "Bruno es un erizo panadero de Puerto Suma. Hace panecillos redondos y blanditos. ¡Mmm, qué bien huelen!",
+   "en": "Bruno is a hedgehog baker in Puerto Suma. He makes soft, round little buns. Mmm, they smell so good!"
+  },
+  {
+   "es": "Su amigo Nico, un cangrejo pequeñito, viene a ayudar. Nico mete la cara en la harina y… ¡ACHÍS! ¡Todo blanco!",
+   "en": "His friend Nico, a teeny-tiny crab, comes to help. Nico sticks his face in the flour and… ACHOO! Everything goes white!"
+  },
+  {
+   "es": "—¡Grrr! —gruñe Bruno, muy enfadado. Sus púas se ponen de punta: ¡PINCH! Un panecillo se le queda pinchado en la espalda.",
+   "en": "“Grrr!” growls Bruno, very cross. His spines stand straight up: PRICK! A bun gets stuck on his back."
+  },
+  {
+   "es": "Nico quiere limpiar. Sopla la harina y… ¡ACHÍS! Otra vez. —¡GRRRR! ¡PINCH, PINCH, PINCH! Bruno parece un árbol de panecillos.",
+   "en": "Nico wants to tidy up. He blows on the flour and… ACHOO! Again! “GRRRR!” PRICK, PRICK, PRICK! Bruno looks like a bun tree."
+  },
+  {
+   "es": "Bruno quiere hornear, pero no puede. ¡Todos los panecillos están en sus púas! —¡Ay! ¡Soy un erizo-bocadillo!",
+   "en": "Bruno wants to bake, but he can't. All the buns are stuck on his spines! “Oh no! I'm a hedgehog sandwich!”"
+  },
+  {
+   "es": "Nico le da la pinza. —Cuando yo me enfado, respiro despacito. Así: fuuuuu. Bruno lo prueba: fuuuuu… fuuuuu…",
+   "en": "Nico holds out his claw. “When I get cross, I breathe really slowly. Like this: whoooosh.” Bruno tries it: whoooosh… whoooosh…"
+  },
+  {
+   "es": "Las púas bajan despacito. ¡Plop, plop, plop! Los panecillos caen en la cesta. Bruno sonríe. —Perdona, Nico. ¡Te gruñí!",
+   "en": "Slowly, slowly, his spines go down. Plop, plop, plop! The buns drop into the basket. Bruno smiles. “Sorry, Nico. I growled at you!”"
+  },
+  {
+   "es": "Entonces Bruno huele la harina y… ¡ACHÍS! Ahora el blanco es Nico. Se miran… ¡y se ríen los dos! ¡Ja, ja, ja!",
+   "en": "Then Bruno sniffs the flour and… ACHOO! Now Nico is the white one. They look at each other… and both burst out laughing! Ha, ha, ha!"
+  }
+ ],
+ "preguntas": [
+  {
+   "es": [
+    "¿Por qué se enfadó Bruno?",
+    "Porque Nico estornudó y lo llenó todo de harina.",
+    "Porque se le quemaron los panecillos.",
+    "Porque Nico se comió los panecillos."
+   ],
+   "en": [
+    "Why did Bruno get cross?",
+    "Because Nico sneezed and covered everything in flour.",
+    "Because his buns got burnt.",
+    "Because Nico ate the buns."
+   ]
+  },
+  {
+   "es": [
+    "¿Qué le pasaba a Bruno cuando se enfadaba?",
+    "Se le ponían las púas de punta y se le pinchaban los panecillos.",
+    "Se ponía de color rojo.",
+    "Se quedaba dormido."
+   ],
+   "en": [
+    "What happened to Bruno when he got cross?",
+    "His spines stood up and the buns got stuck on them.",
+    "He turned bright red.",
+    "He fell asleep."
+   ]
+  },
+  {
+   "es": [
+    "¿Qué hizo Bruno para calmarse?",
+    "Respirar despacito, como le enseñó Nico.",
+    "Comerse un panecillo.",
+    "Irse a la playa a correr."
+   ],
+   "en": [
+    "What did Bruno do to calm down?",
+    "He breathed slowly, like Nico showed him.",
+    "He ate a bun.",
+    "He went for a run on the beach."
+   ]
+  }
+ ]
+}
