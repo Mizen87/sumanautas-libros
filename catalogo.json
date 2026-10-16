@@ -2035,7 +2035,7 @@
     "p8.jpg",
     "portada.jpg"
    ],
-   "bytes": 2876686,
+   "bytes": 2864803,
    "semilla": {
     "protagonista": "Goyo, un cocodrilo grandote que solo come fruta, y Mila, una patita",
     "lugar": "el estanque del parque de Puerto Suma",
@@ -2111,7 +2111,7 @@
     "p8.jpg",
     "portada.jpg"
    ],
-   "bytes": 2917956,
+   "bytes": 2918953,
    "semilla": {
     "protagonista": "Pepa, una hipopotamita que tiene celos de su hermanito bebé",
     "lugar": "la laguna de los nenúfares de la isla",
@@ -2187,7 +2187,7 @@
     "p8.jpg",
     "portada.jpg"
    ],
-   "bytes": 2983188,
+   "bytes": 2957784,
    "semilla": {
     "protagonista": "Iris, una iguana pequeña que todo lo quiere hacer «¡yo sola!», y Flavio, un flamenco altísimo",
     "lugar": "el árbol de mangos junto a la playa de la isla",
@@ -2269,7 +2269,7 @@
     "p9.jpg",
     "portada.jpg"
    ],
-   "bytes": 5771812,
+   "bytes": 5741963,
    "semilla": {
     "protagonista": "Bernabé, un pelícano joven, y su abuela Rufina, que teje",
     "lugar": "el islote de los pelícanos, frente a Puerto Suma",
@@ -2351,7 +2351,7 @@
     "p9.jpg",
     "portada.jpg"
    ],
-   "bytes": 5655579,
+   "bytes": 5650267,
    "semilla": {
     "protagonista": "Lino, un perro pescador con gorro de lana que a todo dice «¡Prometido!»",
     "lugar": "la calle de las casas de colores de Puerto Suma",
@@ -2433,7 +2433,7 @@
     "p9.jpg",
     "portada.jpg"
    ],
-   "bytes": 5631551,
+   "bytes": 5618213,
    "semilla": {
     "protagonista": "Martina, una niña exploradora con salacot, y Chispa, una luciérnaga con mucho genio",
     "lugar": "el huerto de la abuela, junto al río, en una noche de verano",
@@ -2520,7 +2520,7 @@
     "p7.jpg",
     "portada.jpg"
    ],
-   "bytes": 8854734,
+   "bytes": 8853727,
    "semilla": {
     "protagonista": "Gonzalo, un sabelotodo de bata blanca que dice «Obviamente» a todo, y Rocío, nieta de un pescador",
     "lugar": "la bahía de Puerto Suma durante la Regata de Barcos Caseros",
@@ -2607,7 +2607,7 @@
     "p7.jpg",
     "portada.jpg"
    ],
-   "bytes": 8694507,
+   "bytes": 8637424,
    "semilla": {
     "protagonista": "Leo, el amigo leal de Darío (el de las ideas locas), y Samir, el chico nuevo",
     "lugar": "el Museo del Mar de Puerto Suma",
@@ -2701,7 +2701,7 @@
     "p7.jpg",
     "portada.jpg"
    ],
-   "bytes": 10841763,
+   "bytes": 10853706,
    "semilla": {
     "protagonista": "Hugo Salcedo, delegado de clase que lo somete todo a votación para no tener nunca la culpa",
     "lugar": "un viejo barco de recreo, La Medusa, en la bahía de Puerto Suma, durante la fiesta de fin de curso",
@@ -2795,7 +2795,7 @@
     "p7.jpg",
     "portada.jpg"
    ],
-   "bytes": 11158537,
+   "bytes": 11126629,
    "semilla": {
     "protagonista": "Noa, batería de Los Percebes con una lista de agravios, y Rubén, el guitarrista que los dejó tirados",
     "lugar": "el garaje de la abuela Engracia y el escenario de la Fiesta del Mar de Puerto Suma",
@@ -2889,12 +2889,99 @@
     "p7.jpg",
     "portada.jpg"
    ],
-   "bytes": 10638572,
+   "bytes": 10619267,
    "semilla": {
     "protagonista": "Álvaro Quintanilla, crítico venenoso de la radio del instituto, y Don Gerardo, pescador jubilado y actor aficionado",
     "lugar": "el Teatro Chico de Puerto Suma",
     "valor": "la empatía: ponerse en el lugar del otro",
     "tono": "comedia irónica de teatro con giro final"
+   },
+   "gratis": true,
+   "publicado": "2026-10-16"
+  },
+  {
+   "id": "gratis-2026-10-16-operacion-no-me-importa",
+   "titulo": [
+    "Operación No Me Importa",
+    "Operation I Don't Care"
+   ],
+   "tramo": "aventureros",
+   "edad": 12,
+   "paginas": 15,
+   "fecha": "",
+   "archivos": [
+    "en_p1.mp3",
+    "en_p10.mp3",
+    "en_p11.mp3",
+    "en_p12.mp3",
+    "en_p13.mp3",
+    "en_p14.mp3",
+    "en_p15.mp3",
+    "en_p2.mp3",
+    "en_p3.mp3",
+    "en_p4.mp3",
+    "en_p5.mp3",
+    "en_p6.mp3",
+    "en_p7.mp3",
+    "en_p8.mp3",
+    "en_p9.mp3",
+    "en_q1.mp3",
+    "en_q1_0.mp3",
+    "en_q1_1.mp3",
+    "en_q1_2.mp3",
+    "en_q2.mp3",
+    "en_q2_0.mp3",
+    "en_q2_1.mp3",
+    "en_q2_2.mp3",
+    "en_q3.mp3",
+    "en_q3_0.mp3",
+    "en_q3_1.mp3",
+    "en_q3_2.mp3",
+    "en_tiempos.json",
+    "en_titulo.mp3",
+    "es_p1.mp3",
+    "es_p10.mp3",
+    "es_p11.mp3",
+    "es_p12.mp3",
+    "es_p13.mp3",
+    "es_p14.mp3",
+    "es_p15.mp3",
+    "es_p2.mp3",
+    "es_p3.mp3",
+    "es_p4.mp3",
+    "es_p5.mp3",
+    "es_p6.mp3",
+    "es_p7.mp3",
+    "es_p8.mp3",
+    "es_p9.mp3",
+    "es_q1.mp3",
+    "es_q1_0.mp3",
+    "es_q1_1.mp3",
+    "es_q1_2.mp3",
+    "es_q2.mp3",
+    "es_q2_0.mp3",
+    "es_q2_1.mp3",
+    "es_q2_2.mp3",
+    "es_q3.mp3",
+    "es_q3_0.mp3",
+    "es_q3_1.mp3",
+    "es_q3_2.mp3",
+    "es_tiempos.json",
+    "es_titulo.mp3",
+    "libro.json",
+    "p1.jpg",
+    "p10.jpg",
+    "p13.jpg",
+    "p4.jpg",
+    "p7.jpg",
+    "portada.jpg"
+   ],
+   "bytes": 8072292,
+   "semilla": {
+    "protagonista": "Candela, la chica más bromista de la escuela, que no quiere estar triste, y Alma, su mejor amiga, que se muda",
+    "lugar": "las calles de Puerto Suma, de pista en pista, hasta el muelle del ferry",
+    "valor": "gestionar la tristeza: despedirse bien",
+    "tono": "comedia agridulce con un juego de pistas"
    },
    "gratis": true,
    "publicado": "2026-10-16"
