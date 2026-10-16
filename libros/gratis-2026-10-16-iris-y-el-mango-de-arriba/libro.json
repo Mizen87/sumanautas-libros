@@ -1,0 +1,100 @@
+{
+ "id": "gratis-2026-10-16-iris-y-el-mango-de-arriba",
+ "fecha": "",
+ "tramo": "peques",
+ "edad": 5,
+ "dibujos": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "titulo": [
+  "Iris y el mango de arriba",
+  "Iris and the Mango at the Top"
+ ],
+ "paginas": [
+  {
+   "es": "Iris es una iguana pequeña y verde. Le encantan los mangos. Y lo que más le gusta decir es: «¡Yo sola!».",
+   "en": "Iris is a small green iguana. She loves mangoes. And her favourite thing to say is: “All by myself!”"
+  },
+  {
+   "es": "Un día ve un mango enorme, en lo más alto del árbol. ¡Qué amarillo! ¡Qué rico! —¡Lo cojo yo sola!",
+   "en": "One day she sees an enormous mango at the very top of the tree. So yellow! So yummy! “I'll get it all by myself!”"
+  },
+  {
+   "es": "Iris salta: ¡boing! No llega. Salta más fuerte: ¡BOING! ¡PLAF! Cae de barriga en la arena.",
+   "en": "Iris jumps: boing! She can't reach. She jumps harder: BOING! SPLAT! She lands on her tummy in the sand."
+  },
+  {
+   "es": "Por la playa pasa Flavio, un flamenco rosa con las patas larguísimas. —¿Te ayudo, Iris? —¡No! ¡Yo sola!",
+   "en": "Along the beach comes Flavio, a pink flamingo with super-long legs. “Shall I help you, Iris?” “No! All by myself!”"
+  },
+  {
+   "es": "Iris se sube a un coco para llegar más alto. Pero el coco rueda... y rueda... ¡y Iris rueda con él hasta el mar! ¡SPLASH!",
+   "en": "Iris climbs onto a coconut to get higher. But the coconut rolls… and rolls… and Iris rolls with it, all the way into the sea! SPLASH!"
+  },
+  {
+   "es": "Iris sale del agua, empapada y con algas en la cabeza. Mira el mango. Mira a Flavio. Y dice bajito: —¿Me... ayudas?",
+   "en": "Iris crawls out of the water, soaking wet, with seaweed on her head. She looks at the mango. She looks at Flavio. Then she says quietly: “Will you… help me?”"
+  },
+  {
+   "es": "—¡Claro! —dice Flavio. Iris se sube a su espalda. Flavio estira el cuello, arriba, arriba... ¡y Iris coge el mango!",
+   "en": "“Of course!” says Flavio. Iris climbs onto his back. Flavio stretches his neck up, up, up… and Iris grabs the mango!"
+  },
+  {
+   "es": "Lo comparten. Pero Flavio, con su pico torcido, se pringa de mango. —¿Te ayudo, Flavio? —dice Iris. —¡Sí, por favor! Y se ríen los dos.",
+   "en": "They share it. But Flavio, with his bendy beak, gets mango all over his face. “Shall I help you, Flavio?” says Iris. “Yes, please!” And they both laugh."
+  }
+ ],
+ "preguntas": [
+  {
+   "es": [
+    "¿Qué quería coger Iris?",
+    "Un mango de lo alto del árbol.",
+    "Un coco de la playa.",
+    "Una estrella de mar."
+   ],
+   "en": [
+    "What did Iris want to get?",
+    "A mango from the top of the tree.",
+    "A coconut from the beach.",
+    "A starfish."
+   ]
+  },
+  {
+   "es": [
+    "¿Por qué no quería Iris la ayuda de Flavio?",
+    "Porque quería hacerlo todo ella sola.",
+    "Porque Flavio estaba dormido.",
+    "Porque le daban miedo los flamencos."
+   ],
+   "en": [
+    "Why didn't Iris want Flavio's help?",
+    "Because she wanted to do it all by herself.",
+    "Because Flavio was asleep.",
+    "Because she was scared of flamingos."
+   ]
+  },
+  {
+   "es": [
+    "¿Cómo consiguió Iris el mango?",
+    "Pidiéndole ayuda a Flavio.",
+    "Saltando muy, muy alto.",
+    "Esperando a que se cayera."
+   ],
+   "en": [
+    "How did Iris get the mango in the end?",
+    "By asking Flavio for help.",
+    "By jumping really, really high.",
+    "By waiting for it to fall."
+   ]
+  }
+ ],
+ "gratis": true,
+ "publicado": "2026-10-16"
+}
