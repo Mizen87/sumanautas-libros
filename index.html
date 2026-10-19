@@ -1,2 +1,1001 @@
-<!doctype html><meta charset="utf-8"><title>Sumanautas · Biblioteca</title>
-<p>Biblioteca de cuentos del juego Sumanautas. Ver <a href="catalogo.json">catalogo.json</a>.</p>
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title data-en="Sumanautas · Stories for kids and a 3D learning adventure">Sumanautas · Cuentos para niños y una aventura educativa en 3D</title>
+<meta name="description" content="40 cuentos con valores y humor, narrados en español e inglés, y una aventura en 3D donde aprendes mates, robótica, música e inglés sin darte cuenta. Sin anuncios." data-en-content="40 stories full of values and humour, narrated in Spanish and English, and a 3D adventure where you learn math, robotics, music and English without noticing. No ads.">
+<link rel="canonical" href="https://mizen87.github.io/sumanautas-libros/">
+<meta name="theme-color" content="#3fa9f5">
+<meta name="apple-itunes-app" content="app-id=6820056090">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Sumanautas">
+<meta property="og:url" content="https://mizen87.github.io/sumanautas-libros/">
+<meta property="og:title" content="Sumanautas · 40 cuentos y una aventura en 3D para aprender">
+<meta property="og:description" content="40 cuentos con valores y humor, narrados en español e inglés, y una aventura en 3D donde aprendes mates, robótica, música e inglés sin darte cuenta. Sin anuncios.">
+<meta property="og:image" content="https://mizen87.github.io/sumanautas-libros/web/og.jpg?v=d52c37f8">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Portadas de los cuentos de Sumanautas">
+<meta property="og:locale" content="es_ES">
+<meta property="og:locale:alternate" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Sumanautas · 40 cuentos y una aventura en 3D para aprender">
+<meta name="twitter:description" content="40 cuentos con valores y humor, narrados en español e inglés, y una aventura en 3D donde aprendes mates, robótica, música e inglés sin darte cuenta. Sin anuncios.">
+<meta name="twitter:image" content="https://mizen87.github.io/sumanautas-libros/web/og.jpg?v=d52c37f8">
+<link rel="icon" type="image/png" sizes="64x64" href="web/favicon.png">
+<link rel="apple-touch-icon" href="web/icono-180.png">
+<style>
+/* Web de la biblioteca de Sumanautas. genera_web.py lo mete DENTRO de index.html (una petición menos): se edita aquí y se
+   vuelve a ejecutar el generador. Sin fuentes de fuera: la redondeada del sistema (SF Rounded en iPhone, iPad y Mac). */
+:root {
+  color-scheme: light;
+  --cielo: #3fa9f5; --cielo-2: #2b86e3; --cielo-osc: #185cc4; --noche: #0f2f6b;
+  --sol: #ffc93c; --sol-osc: #e9a400; --coral: #ff5a5f;
+  --tinta: #1f2a44; --tinta-2: #4f5b76; --papel: #fff8ec; --blanco: #fff;
+  --peques: #22a35d; --exploradores: #1a86d6; --aventureros: #f06a12; --maestros: #8150d1;
+  --radio: 22px;
+  --sombra: 0 10px 28px rgba(24, 60, 120, .13), 0 2px 6px rgba(24, 60, 120, .08);
+  --f-titulo: ui-rounded, "SF Pro Rounded", "Arial Rounded MT Bold", "Nunito", "Varela Round", system-ui, sans-serif;
+  --f-texto: ui-rounded, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { animation: none !important; transition: none !important; } }
+body { margin: 0; background: var(--papel); color: var(--tinta); font: 16px/1.5 var(--f-texto); }
+img { max-width: 100%; display: block; }
+a { color: inherit; }
+button { font: inherit; }
+:focus-visible { outline: 3px solid var(--sol); outline-offset: 3px; border-radius: 8px; }
+.envoltorio { max-width: 1160px; margin: 0 auto; padding: 0 16px; }
+.salta { position: absolute; left: -999px; top: 8px; background: #fff; color: var(--tinta); padding: 8px 14px; border-radius: 10px; z-index: 9; }
+.salta:focus { left: 8px; }
+
+/* ── EL CIELO (cabecera) ── */
+.cielo {
+  position: relative; color: #fff; overflow: clip; padding-bottom: 76px;
+  background:
+    radial-gradient(140px 54px at 10% 30%, rgba(255, 255, 255, .32), transparent 70%),
+    radial-gradient(200px 70px at 92% 14%, rgba(255, 255, 255, .26), transparent 70%),
+    radial-gradient(160px 60px at 60% 88%, rgba(255, 255, 255, .18), transparent 70%),
+    linear-gradient(180deg, var(--cielo) 0%, var(--cielo-2) 55%, var(--cielo-osc) 100%);
+}
+.ola { position: absolute; left: 0; bottom: -1px; width: 100%; height: 56px; display: block; }
+.barra { display: flex; align-items: center; gap: 12px; padding: 14px 0 6px; }
+.marca { margin-right: auto; display: flex; align-items: center; gap: 10px; color: #fff; text-decoration: none; font: 900 21px/1 var(--f-titulo); }
+.marca img { width: 38px; height: 38px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, .25); }
+.barra .web { color: #fff; text-decoration: none; font: 800 15px var(--f-titulo); padding: 8px 4px; }
+.barra .web:hover { text-decoration: underline; }
+.idioma { display: inline-flex; background: rgba(255, 255, 255, .22); border-radius: 999px; padding: 3px; flex: none; }
+.idioma button { border: 0; background: transparent; color: #fff; font: 900 14px/1 var(--f-titulo); min-width: 44px; min-height: 36px; padding: 0 12px; border-radius: 999px; cursor: pointer; }
+.idioma button[aria-pressed="true"] { background: #fff; color: var(--cielo-osc); }
+
+.heroe { display: grid; grid-template-columns: 1.15fr .85fr; gap: 28px; align-items: center; padding: 22px 0 8px; }
+.icono-grande { width: 96px; height: 96px; border-radius: 24px; box-shadow: 0 8px 22px rgba(8, 30, 80, .35); border: 3px solid rgba(255, 255, 255, .85); }
+.heroe h1 { font: 900 clamp(46px, 8vw, 78px)/1 var(--f-titulo); margin: 14px 0 10px; letter-spacing: -.5px; text-shadow: 0 4px 0 rgba(10, 40, 100, .25); }
+.gancho { font: 900 clamp(21px, 3.2vw, 29px)/1.22 var(--f-titulo); margin: 0 0 18px; max-width: 30ch; }
+.chips { list-style: none; padding: 0; margin: 0 0 16px; display: flex; flex-wrap: wrap; gap: 8px; }
+.chips li { background: rgba(255, 255, 255, .96); color: var(--tinta); padding: 7px 13px; border-radius: 999px; font: 800 15px/1.2 var(--f-titulo); box-shadow: 0 3px 0 rgba(10, 40, 100, .18); }
+.chips li span[aria-hidden] { margin-right: 4px; }
+.lemas { display: flex; flex-wrap: wrap; gap: 10px; margin: 0 0 22px; padding: 0; list-style: none; }
+.lemas li { background: var(--sol); color: #402a00; padding: 7px 14px; border-radius: 12px; font: 900 15px/1.2 var(--f-titulo); box-shadow: 0 3px 0 var(--sol-osc); }
+.lemas li:nth-child(1) { transform: rotate(-2deg); }
+.lemas li:nth-child(2) { transform: rotate(1.5deg); }
+.acciones { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.appstore { display: inline-flex; align-items: center; gap: 10px; background: #000; color: #fff; text-decoration: none; padding: 8px 20px 8px 14px; border-radius: 13px; border: 1px solid #a6a6a6; min-height: 58px; transition: transform .15s; }
+.appstore:hover { transform: translateY(-2px); }
+.appstore svg { width: 30px; height: 36px; flex: none; }
+.appstore small { display: block; font: 500 12.5px/1.1 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: .2px; }
+.appstore b { display: block; font: 600 25px/1.05 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: -.4px; }
+.boton-claro { display: inline-flex; align-items: center; min-height: 58px; padding: 0 20px; border-radius: 14px; border: 2px solid rgba(255, 255, 255, .85); color: #fff; text-decoration: none; font: 900 17px var(--f-titulo); }
+.boton-claro:hover { background: rgba(255, 255, 255, .14); }
+.autor { margin: 16px 0 0; font-size: 15px; opacity: .95; }
+.autor a { font-weight: 800; }
+.abanico { position: relative; width: 100%; max-width: 420px; height: 380px; margin: 0 auto; }
+.abanico img { position: absolute; left: 27%; top: 6%; width: 46%; aspect-ratio: 3 / 4; height: auto; object-fit: cover; border-radius: 14px; border: 5px solid #fff; box-shadow: 0 14px 30px rgba(8, 30, 80, .35); background: #dfe8f6; }
+.abanico img:nth-child(1) { transform: translate(-58%, 9%) rotate(-11deg); }
+.abanico img:nth-child(2) { z-index: 2; }
+.abanico img:nth-child(3) { transform: translate(58%, 9%) rotate(11deg); }
+
+/* ── CAPTURAS ── */
+.juego { padding-top: 8px; }
+.titulo-seccion { font: 900 clamp(28px, 5vw, 42px)/1.1 var(--f-titulo); margin: 0 0 10px; text-align: center; }
+.carrusel { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(250px, 78%); gap: 14px; overflow-x: auto; scroll-snap-type: x mandatory; padding: 6px 16px 16px; margin: 0 -16px; list-style: none; }
+.carrusel li { scroll-snap-align: center; background: #fff; border-radius: 18px; padding: 8px; box-shadow: var(--sombra); }
+.carrusel img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; background: #dfe8f6; }
+.carrusel p { margin: 0; padding: 9px 6px 3px; text-align: center; font: 900 15.5px/1.25 var(--f-titulo); }
+
+/* ── LA BIBLIOTECA ── */
+.biblioteca { padding-top: 34px; padding-bottom: 10px; scroll-margin-top: 10px; }
+.entradilla { text-align: center; max-width: 660px; margin: 0 auto; color: var(--tinta-2); font-size: 17px; }
+.entradilla strong { color: var(--tinta); }
+.semanal { display: flex; justify-content: center; margin: 14px 0 22px; }
+.semanal span { background: #fff1bf; color: #5c4000; font: 900 15.5px/1.3 var(--f-titulo); border-radius: 999px; padding: 8px 16px; text-align: center; border: 2px dashed #f2c84b; }
+.filtros { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin: 0 0 8px; }
+.filtros button { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1px; min-height: 66px; padding: 8px 6px; border-radius: 16px; border: 2px solid #e3e9f4; background: #fff; color: var(--tinta); cursor: pointer; box-shadow: 0 3px 0 rgba(24, 60, 120, .1); transition: transform .12s, background .12s; }
+.filtros [data-tramo="todos"] { --c: var(--cielo-osc); }
+.filtros button:hover { transform: translateY(-2px); border-color: var(--c); }
+.filtros b { font: 900 16px/1.15 var(--f-titulo); }
+.filtros small { font: 700 13px/1.2 var(--f-texto); color: var(--tinta-2); }
+.filtros button[aria-pressed="true"] { background: var(--c); border-color: var(--c); color: #fff; box-shadow: 0 3px 0 rgba(0, 0, 0, .18); }
+.filtros button[aria-pressed="true"] small { color: rgba(255, 255, 255, .92); }
+.contador { text-align: center; color: var(--tinta-2); font-size: 14px; margin: 0 0 16px; min-height: 21px; }
+.t-peques { --c: var(--peques); --cc: #e3f6ea; }
+.t-exploradores { --c: var(--exploradores); --cc: #e2f0fc; }
+.t-aventureros { --c: var(--aventureros); --cc: #fff0e3; }
+.t-maestros { --c: var(--maestros); --cc: #efe7fb; }
+
+.cuentos { list-style: none; margin: 0; padding: 0; display: grid; gap: 22px; grid-template-columns: repeat(auto-fill, minmax(255px, 1fr)); }
+.cuento { display: flex; flex-direction: column; background: #fff; border-radius: var(--radio); overflow: hidden; box-shadow: var(--sombra); border-bottom: 6px solid var(--c); }
+.cuento[hidden] { display: none !important; }
+.tapa { position: relative; aspect-ratio: 3 / 4; background: var(--cc); }
+.tapa img { width: 100%; height: 100%; object-fit: cover; }
+.sellos-tapa { position: absolute; top: 10px; left: 10px; right: 10px; display: flex; flex-wrap: wrap; gap: 6px; pointer-events: none; }
+.sello { font: 900 13px/1 var(--f-titulo); padding: 6px 10px; border-radius: 999px; box-shadow: 0 2px 8px rgba(0, 0, 0, .22); }
+.sello.gratis { background: var(--sol); color: #402a00; }
+.sello.nuevo { background: var(--coral); color: #fff; }
+.sello.puntos { background: rgba(255, 255, 255, .94); color: #6b4a00; }
+.info { padding: 14px 16px 6px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+.edad { align-self: flex-start; margin: 0; font: 900 13px/1.2 var(--f-titulo); color: var(--tinta); background: var(--cc); border: 2px solid var(--c); padding: 3px 10px; border-radius: 999px; }
+.cuento h3 { font: 900 19px/1.22 var(--f-titulo); margin: 0; }
+.trozo { margin: 0; color: var(--tinta-2); font-size: 15px; line-height: 1.5; }
+.trozo::before { content: "«"; }
+.trozo::after { content: "…»"; color: var(--tinta-2); }
+html[lang="en"] .trozo::before { content: "\201C"; }
+html[lang="en"] .trozo::after { content: "…\201D"; }
+.botones { display: flex; flex-direction: column; gap: 8px; padding: 10px 16px 16px; }
+.oir, .leer { display: flex; align-items: center; justify-content: center; gap: 9px; min-height: 46px; padding: 9px 14px; border-radius: 14px; font: 900 15px/1.2 var(--f-titulo); text-align: center; text-decoration: none; cursor: pointer; }
+.oir { background: var(--cc); color: var(--tinta); border: 2px solid var(--c); }
+.oir:hover { filter: brightness(.97); }
+.oir .ico { width: 13px; height: 14px; flex: none; background: var(--c); clip-path: polygon(0 0, 100% 50%, 0 100%); }
+.oir.sonando { background: var(--c); color: #fff; animation: latido 1.2s ease-in-out infinite; }
+.oir.sonando .ico { background: #fff; clip-path: none; width: 12px; height: 12px; border-radius: 2px; }
+.oir.fallo { background: #fde8e8; border-color: #d33; }
+@keyframes latido { 0%, 100% { box-shadow: 0 0 0 0 rgba(0, 0, 0, .0); } 50% { box-shadow: 0 0 0 5px var(--cc); } }
+.leer { background: var(--sol); color: #3d2900; box-shadow: 0 3px 0 var(--sol-osc); }
+.leer:hover { filter: brightness(1.04); }
+.leer span[aria-hidden] { font-size: 17px; }
+
+/* ── EL FINAL ── */
+.ganas { margin: 40px auto 0; max-width: 860px; text-align: center; border-radius: 28px; padding: 30px 22px 32px; color: #3a2400; background: linear-gradient(135deg, #ffd65c 0%, #ffab4a 100%); box-shadow: var(--sombra); }
+.ganas h2 { font: 900 clamp(24px, 4vw, 34px)/1.15 var(--f-titulo); margin: 0 0 10px; }
+.ganas p { margin: 0 auto 20px; max-width: 600px; font-size: 17px; }
+.pie { margin-top: 56px; background: var(--noche); color: #cfdcf7; padding: 30px 0 40px; text-align: center; font-size: 15px; }
+.pie nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 22px; margin-bottom: 12px; }
+.pie nav a { color: #fff; font-weight: 800; text-decoration: none; padding: 6px 2px; }
+.pie nav a:hover { text-decoration: underline; }
+.pie p { margin: 6px 0; }
+.pie .marcas { font-size: 12px; opacity: .7; max-width: 640px; margin: 14px auto 0; }
+
+/* ── TABLETA ── */
+@media (max-width: 880px) {
+  .heroe { grid-template-columns: 1fr; text-align: center; gap: 8px; }
+  .icono-grande { margin: 0 auto; }
+  .gancho { margin-left: auto; margin-right: auto; }
+  .chips, .lemas, .acciones { justify-content: center; }
+  .abanico { max-width: 340px; height: 280px; margin-top: 14px; }
+  .filtros { grid-template-columns: repeat(3, 1fr); }
+  .filtros button:first-child { grid-column: span 3; min-height: 52px; }
+}
+@media (min-width: 900px) {
+  .carrusel { grid-auto-flow: row; grid-template-columns: repeat(4, 1fr); overflow: visible; margin: 0; padding: 6px 0 16px; }
+}
+/* ── MÓVIL: tarjetas en horizontal (la tapa a la izquierda, los botones debajo) ── */
+@media (max-width: 599px) {
+  .barra .web { display: none; }          /* jucabime.com sigue debajo del botón de la tienda y en el pie */
+  .heroe { padding-top: 10px; }
+  .icono-grande { width: 78px; height: 78px; border-radius: 20px; }
+  .heroe h1 { margin: 10px 0 8px; }
+  .gancho { margin-bottom: 14px; }
+  .chips { gap: 6px; }
+  .chips li { font-size: 14px; padding: 6px 11px; }
+  .lemas { margin-bottom: 18px; }
+  .filtros { grid-template-columns: 1fr 1fr; gap: 8px; }
+  .filtros button:first-child { grid-column: 1 / -1; }
+  .cuentos { grid-template-columns: 1fr; gap: 16px; }
+  .cuento { display: grid; grid-template-columns: 38% 1fr; grid-template-areas: "tapa info" "botones botones"; border-bottom-width: 5px; }
+  .tapa { grid-area: tapa; align-self: start; margin: 10px 0 0 10px; border-radius: 14px; overflow: hidden; }
+  .sellos-tapa { top: 6px; left: 6px; right: 6px; gap: 4px; }
+  .sello { font-size: 11.5px; padding: 5px 8px; }
+  .info { grid-area: info; padding: 12px 12px 0 12px; gap: 6px; min-width: 0; }
+  .cuento h3 { font-size: 17px; }
+  .trozo { font-size: 14px; line-height: 1.45; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 6; overflow: hidden; }
+  .botones { grid-area: botones; padding: 12px 10px 12px; }
+  .ganas { border-radius: 22px; }
+}
+@media (max-width: 360px) {
+  .filtros b { font-size: 14.5px; }
+  .filtros button { padding: 8px 4px; }
+}
+
+</style>
+</head>
+<body>
+<a class="salta" href="#biblioteca" data-en="Skip to the stories">Saltar a los cuentos</a>
+<header class="cielo">
+  <div class="envoltorio">
+    <nav class="barra" aria-label="Sumanautas">
+      <a class="marca" href="./"><img src="web/icono.jpg" width="38" height="38" alt="">Sumanautas</a>
+      <a class="web" href="https://jucabime.com">jucabime.com</a>
+      <div class="idioma" role="group" aria-label="Idioma" data-en-aria="Language">
+        <button type="button" data-idioma="es" aria-pressed="true" lang="es" title="Español">ES</button>
+        <button type="button" data-idioma="en" aria-pressed="false" lang="en" title="English">EN</button>
+      </div>
+    </nav>
+    <div class="heroe">
+      <div>
+        <img class="icono-grande" src="web/icono.jpg" width="96" height="96" alt="Icono de Sumanautas" data-en-alt="Sumanautas app icon">
+        <h1>Sumanautas</h1>
+        <p class="gancho" data-en="The 3D adventure where you learn without even noticing">La aventura en 3D donde aprendes sin darte cuenta</p>
+        <ul class="chips" aria-label="Lo que hay en el juego" data-en-aria="What's in the game"><li><span aria-hidden="true">🔢</span><span data-en="Math">Mates</span></li><li><span aria-hidden="true">📚</span><span data-en="New stories every week">Cuentos nuevos cada semana</span></li><li><span aria-hidden="true">🤖</span><span data-en="Robotics">Robótica</span></li><li><span aria-hidden="true">🎵</span><span data-en="Music">Música</span></li><li><span aria-hidden="true">💬</span><span data-en="English">Inglés</span></li><li><span aria-hidden="true">🧑‍🚀</span><span data-en="Astronaut card">Carné de astronauta</span></li><li><span aria-hidden="true">🌙</span><span data-en="The Moon and Mars">La Luna y Marte</span></li></ul>
+        <ul class="lemas"><li data-en="No ads">Sin anuncios</li><li data-en="From age 4 to grandparents">De 4 años a los abuelos</li></ul>
+        <div class="acciones">
+          <a class="appstore " href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-label="Descárgalo en el App Store" data-en-aria="Download on the App Store"><svg viewBox="0 0 384 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg><span><small data-en="Download on the">Descárgalo en el</small><b>App Store</b></span></a>
+          <a class="boton-claro" href="#biblioteca" data-en="See the 40 stories ↓">Ver los 40 cuentos ↓</a>
+        </div>
+        <p class="autor"><span data-en="A game by">Un juego de</span> <a href="https://jucabime.com">jucabime.com</a></p>
+      </div>
+      <div class="abanico" aria-hidden="true"><img src="web/portadas/2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo.jpg" width="480" height="640" alt="" decoding="async"><img src="web/portadas/2026-10-19-nina-y-la-mora-gigante.jpg" width="480" height="640" alt="" decoding="async"><img src="web/portadas/2026-10-19-fue-el-zumo-y-otras-excusas.jpg" width="480" height="640" alt="" decoding="async"></div>
+    </div>
+  </div>
+  <svg class="ola" viewBox="0 0 1440 56" preserveAspectRatio="none" aria-hidden="true" focusable="false"><path fill="#fff8ec" d="M0 30C240 66 480 2 720 22s480 30 720 2V56H0Z"/></svg>
+</header>
+
+<section class="juego envoltorio" aria-labelledby="h-juego">
+  <h2 class="titulo-seccion" id="h-juego" data-en="Take a look inside">Así es el juego</h2>
+  <ul class="carrusel"><li><img src="web/capturas/pueblo.jpg" width="800" height="450" loading="lazy" decoding="async" alt="Captura del juego: Explora Puerto Suma" data-en-alt="Game screenshot: Explore Puerto Suma"><p data-en="Explore Puerto Suma">Explora Puerto Suma</p></li><li><img src="web/capturas/escuela.jpg" width="800" height="450" loading="lazy" decoding="async" alt="Captura del juego: Aprende paso a paso en la escuela" data-en-alt="Game screenshot: Learn step by step at school"><p data-en="Learn step by step at school">Aprende paso a paso en la escuela</p></li><li><img src="web/capturas/marte.jpg" width="800" height="450" loading="lazy" decoding="async" alt="Captura del juego: Construye tu colonia en Marte" data-en-alt="Game screenshot: Build your colony on Mars"><p data-en="Build your colony on Mars">Construye tu colonia en Marte</p></li><li><img src="web/capturas/galaxia.jpg" width="800" height="450" loading="lazy" decoding="async" alt="Captura del juego: Viaja por el sistema solar" data-en-alt="Game screenshot: Travel across the solar system"><p data-en="Travel across the solar system">Viaja por el sistema solar</p></li></ul>
+</section>
+
+<main id="biblioteca" class="biblioteca envoltorio" aria-labelledby="h-bib">
+  <h2 class="titulo-seccion" id="h-bib" data-en="The story library">La biblioteca de cuentos</h2>
+  <p class="entradilla" data-en="40 original stories full of values and humour, illustrated and read aloud in Spanish and English. Here is how each one begins: the rest is waiting in the game.">40 cuentos originales con valores y humor, ilustrados y narrados en voz alta en español y en inglés. Aquí tienes el principio de cada uno: el resto te espera en el juego.</p>
+  <div class="semanal"><span data-en="📬 New stories arrive every week · Updated October 19, 2026">📬 Cada semana llegan cuentos nuevos · Actualizado el 19 de octubre de 2026</span></div>
+  <div class="filtros" role="group" aria-label="Filtrar por edad" data-en-aria="Filter by age">
+    <button type="button" data-tramo="todos" aria-pressed="true"><b data-en="All">Todos</b><small data-en="40 stories">40 cuentos</small></button><button type="button" class="t-peques" data-tramo="peques" aria-pressed="false"><b><span aria-hidden="true">🐣 </span><span data-en="Little ones">Peques</span></b><small data-en="Ages 4-6 · 10">4-6 años · 10</small></button><button type="button" class="t-exploradores" data-tramo="exploradores" aria-pressed="false"><b><span aria-hidden="true">🧭 </span><span data-en="Explorers">Exploradores</span></b><small data-en="Ages 7-10 · 10">7-10 años · 10</small></button><button type="button" class="t-aventureros" data-tramo="aventureros" aria-pressed="false"><b><span aria-hidden="true">🚀 </span><span data-en="Adventurers">Aventureros</span></b><small data-en="Ages 11-15 · 10">11-15 años · 10</small></button><button type="button" class="t-maestros" data-tramo="maestros" aria-pressed="false"><b><span aria-hidden="true">🎓 </span><span data-en="Masters">Maestros</span></b><small data-en="Ages 16+ · 10">16+ años · 10</small></button>
+  </div>
+  <p class="contador" aria-live="polite">Mostrando 40 cuentos</p>
+  <ul class="cuentos">
+    <li class="cuento t-peques" data-tramo="peques" id="2026-10-19-nina-y-la-mora-gigante">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-19-nina-y-la-mora-gigante.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Nina y la mora gigante»" data-en-alt="Cover of “Nina and the Giant Blackberry”">
+        <div class="sellos-tapa"><span class="sello nuevo" data-en="New!">¡Nuevo!</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
+        <h3 id="t1" data-en="Nina and the Giant Blackberry">Nina y la mora gigante</h3>
+        <p class="trozo" data-en="Nina is an otter from Puerto Suma. Do you know what happened to her one day, Sumanaut?">Nina es una nutria de Puerto Suma. ¿Sabes qué le pasó un día, sumanauta?</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t1" data-audio-es="libros/2026-10-19-nina-y-la-mora-gigante/es_p1.mp3" data-audio-en="libros/2026-10-19-nina-y-la-mora-gigante/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t1"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Tano y el abrazo más lento del mundo»" data-en-alt="Cover of “Tano and the Slowest Hug in the World”">
+        <div class="sellos-tapa"><span class="sello nuevo" data-en="New!">¡Nuevo!</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
+        <h3 id="t2" data-en="Tano and the Slowest Hug in the World">Tano y el abrazo más lento del mundo</h3>
+        <p class="trozo" data-en="Tano is a monkey with a very long tail and an even longer pride. He is the best climber on the island">Tano es un mono con una cola larguísima y un orgullo todavía más largo. Es el mejor trepador de la isla</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t2" data-audio-es="libros/2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo/es_p1.mp3" data-audio-en="libros/2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t2"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-19-fue-el-zumo-y-otras-excusas">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-19-fue-el-zumo-y-otras-excusas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Fue el zumo (y otras excusas)»" data-en-alt="Cover of “It Was the Juice (and Other Excuses)”">
+        <div class="sellos-tapa"><span class="sello nuevo" data-en="New!">¡Nuevo!</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
+        <h3 id="t3" data-en="It Was the Juice (and Other Excuses)">Fue el zumo (y otras excusas)</h3>
+        <p class="trozo" data-en="Radio Faro broadcasts from the top of Puerto Suma&#x27;s old lighthouse, from a round little room where the echo makes everyone sound as if they were talking from inside a bucket">Radio Faro emite desde lo alto del viejo faro de Puerto Suma, en un cuartito redondo donde el eco hace que todos suenen como si hablaran desde un cubo</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t3" data-audio-es="libros/2026-10-19-fue-el-zumo-y-otras-excusas/es_p1.mp3" data-audio-en="libros/2026-10-19-fue-el-zumo-y-otras-excusas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t3"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-19-la-frase-de-la-lata">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-19-la-frase-de-la-lata.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «La frase de la lata»" data-en-alt="Cover of “The Sentence on the Tin”">
+        <div class="sellos-tapa"><span class="sello nuevo" data-en="New!">¡Nuevo!</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
+        <h3 id="t4" data-en="The Sentence on the Tin">La frase de la lata</h3>
+        <p class="trozo" data-en="Puerto Suma&#x27;s mayor was Don Anselmo Quirós, a man as wide as a barrel, with a voice that made seagulls tremble and handwriting that made postmen cry">Puerto Suma tenía por alcalde a Don Anselmo Quirós, un hombre ancho como un barril, con una voz que hacía temblar a las gaviotas y una letra que hacía llorar a los carteros</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t4" data-audio-es="libros/2026-10-19-la-frase-de-la-lata/es_p1.mp3" data-audio-en="libros/2026-10-19-la-frase-de-la-lata/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t4"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-peques" data-tramo="peques" id="gratis-2026-10-16-iris-y-el-mango-de-arriba">
+      <div class="tapa">
+        <img src="web/portadas/gratis-2026-10-16-iris-y-el-mango-de-arriba.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Iris y el mango de arriba»" data-en-alt="Cover of “Iris and the Mango at the Top”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
+        <h3 id="t5" data-en="Iris and the Mango at the Top">Iris y el mango de arriba</h3>
+        <p class="trozo" data-en="Iris is a small green iguana. She loves mangoes. And her favourite thing to say is: “All by myself!”">Iris es una iguana pequeña y verde. Le encantan los mangos</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t5" data-audio-es="libros/gratis-2026-10-16-iris-y-el-mango-de-arriba/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-iris-y-el-mango-de-arriba/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t5"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-peques" data-tramo="peques" id="gratis-2026-10-16-la-sonrisa-de-goyo">
+      <div class="tapa">
+        <img src="web/portadas/gratis-2026-10-16-la-sonrisa-de-goyo.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «La sonrisa de Goyo»" data-en-alt="Cover of “Goyo&#x27;s Big Smile”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
+        <h3 id="t6" data-en="Goyo&#x27;s Big Smile">La sonrisa de Goyo</h3>
+        <p class="trozo" data-en="Goyo is a great big crocodile. He lives in the pond in Puerto Suma&#x27;s park">Goyo es un cocodrilo grandote. Vive en el estanque del parque de Puerto Suma</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t6" data-audio-es="libros/gratis-2026-10-16-la-sonrisa-de-goyo/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-la-sonrisa-de-goyo/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t6"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-peques" data-tramo="peques" id="gratis-2026-10-16-pepa-quiere-ser-bebe">
+      <div class="tapa">
+        <img src="web/portadas/gratis-2026-10-16-pepa-quiere-ser-bebe.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Pepa quiere ser bebé»" data-en-alt="Cover of “Pepa Wants to Be a Baby”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
+        <h3 id="t7" data-en="Pepa Wants to Be a Baby">Pepa quiere ser bebé</h3>
+        <p class="trozo" data-en="Pepa is a very round little hippo. She lives in the lily lagoon with her mum and with Bubu, her baby brother">Pepa es una hipopotamita muy redonda. Vive en la laguna de los nenúfares con su mamá y con Bubu, su hermanito bebé</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t7" data-audio-es="libros/gratis-2026-10-16-pepa-quiere-ser-bebe/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-pepa-quiere-ser-bebe/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t7"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-exploradores" data-tramo="exploradores" id="gratis-2026-10-16-el-perro-que-lo-prometia-todo">
+      <div class="tapa">
+        <img src="web/portadas/gratis-2026-10-16-el-perro-que-lo-prometia-todo.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El perro que lo prometía todo»" data-en-alt="Cover of “The Dog Who Promised Everything”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
+        <h3 id="t8" data-en="The Dog Who Promised Everything">El perro que lo prometía todo</h3>
+        <p class="trozo" data-en="Lino was a fisherman dog from Puerto Suma, with a red woolly hat he wouldn&#x27;t take off even in August">Lino era un perro pescador de Puerto Suma, con un gorro de lana rojo que no se quitaba ni en agosto</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t8" data-audio-es="libros/gratis-2026-10-16-el-perro-que-lo-prometia-todo/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-el-perro-que-lo-prometia-todo/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t8"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-exploradores" data-tramo="exploradores" id="gratis-2026-10-16-la-bufanda-de-la-abuela-rufina">
+      <div class="tapa">
+        <img src="web/portadas/gratis-2026-10-16-la-bufanda-de-la-abuela-rufina.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «La bufanda de la abuela Rufina»" data-en-alt="Cover of “Grandma Rufina&#x27;s Scarf”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
+        <h3 id="t9" data-en="Grandma Rufina&#x27;s Scarf">La bufanda de la abuela Rufina</h3>
+        <p class="trozo" data-en="On the pelican islet, just off Puerto Suma, lived Bernabé, a young pelican with a beak so big you could fit a melon inside">En el islote de los pelícanos, frente a Puerto Suma, vivía Bernabé, un pelícano joven con un pico tan grande que le cabía un melón dentro</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t9" data-audio-es="libros/gratis-2026-10-16-la-bufanda-de-la-abuela-rufina/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-la-bufanda-de-la-abuela-rufina/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t9"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-exploradores" data-tramo="exploradores" id="gratis-2026-10-16-martina-y-la-lampara-de-luciernagas">
+      <div class="tapa">
+        <img src="web/portadas/gratis-2026-10-16-martina-y-la-lampara-de-luciernagas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Martina y la lámpara de luciérnagas»" data-en-alt="Cover of “Martina and the Firefly Lamp”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
+        <h3 id="t10" data-en="Martina and the Firefly Lamp">Martina y la lámpara de luciérnagas</h3>
+        <p class="trozo" data-en="Martina was nine, had an explorer&#x27;s pith helmet that was too big for her and one habit: reading adventure stories until very late">Martina tenía nueve años, un salacot de exploradora que le quedaba grande y una costumbre: leer aventuras hasta muy tarde</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t10" data-audio-es="libros/gratis-2026-10-16-martina-y-la-lampara-de-luciernagas/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-martina-y-la-lampara-de-luciernagas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t10"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-aventureros" data-tramo="aventureros" id="gratis-2026-10-16-el-pacto-de-la-pandilla">
+      <div class="tapa">
+        <img src="web/portadas/gratis-2026-10-16-el-pacto-de-la-pandilla.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El Pacto de la Pandilla»" data-en-alt="Cover of “The Gang Pact”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
+        <h3 id="t11" data-en="The Gang Pact">El Pacto de la Pandilla</h3>
+        <p class="trozo" data-en="Leo and Darío had been friends since, aged four, they swapped sandwiches without asking and discovered they both hated cheese">Leo y Darío eran amigos desde que, con cuatro años, se cambiaron los bocadillos sin preguntar y descubrieron que los dos odiaban el queso</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t11" data-audio-es="libros/gratis-2026-10-16-el-pacto-de-la-pandilla/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-el-pacto-de-la-pandilla/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t11"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-aventureros" data-tramo="aventureros" id="gratis-2026-10-16-obviamente-una-sirena">
+      <div class="tapa">
+        <img src="web/portadas/gratis-2026-10-16-obviamente-una-sirena.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Obviamente, una sirena»" data-en-alt="Cover of “Obviously, a Mermaid”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
+        <h3 id="t12" data-en="Obviously, a Mermaid">Obviamente, una sirena</h3>
+        <p class="trozo" data-en="Gonzalo Pomares was thirteen, wore a white lab coat even to eat his snack, and had a favourite word: “Obviously.”">Gonzalo Pomares tenía trece años, una bata blanca que se ponía hasta para merendar y una palabra favorita: «Obviamente»</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t12" data-audio-es="libros/gratis-2026-10-16-obviamente-una-sirena/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-obviamente-una-sirena/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t12"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-aventureros" data-tramo="aventureros" id="gratis-2026-10-16-operacion-no-me-importa">
+      <div class="tapa">
+        <img src="web/portadas/gratis-2026-10-16-operacion-no-me-importa.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Operación No Me Importa»" data-en-alt="Cover of “Operation I Don&#x27;t Care”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
+        <h3 id="t13" data-en="Operation I Don&#x27;t Care">Operación No Me Importa</h3>
+        <p class="trozo" data-en="Candela was twelve and held a record at Puerto Suma school: nobody had ever seen her sad. She had a joke for everything, even pop quizzes (“The real surprise will be on the teacher!”)">Candela tenía doce años y un récord en la escuela de Puerto Suma: nadie la había visto nunca triste</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t13" data-audio-es="libros/gratis-2026-10-16-operacion-no-me-importa/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-operacion-no-me-importa/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t13"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-maestros" data-tramo="maestros" id="gratis-2026-10-16-el-critico-sale-a-escena">
+      <div class="tapa">
+        <img src="web/portadas/gratis-2026-10-16-el-critico-sale-a-escena.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El crítico sale a escena»" data-en-alt="Cover of “The Critic Takes the Stage”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
+        <h3 id="t14" data-en="The Critic Takes the Stage">El crítico sale a escena</h3>
+        <p class="trozo" data-en="Álvaro Quintanilla was sixteen, wore a silk scarf round his neck even in July, and had the most popular show on Puerto Suma&#x27;s school radio: “Álvaro&#x27;s Seat”, which played over the loudspeakers every Friday at break">Álvaro Quintanilla tenía dieciséis años, un pañuelo de seda que llevaba al cuello incluso en julio y el programa más escuchado de la radio del instituto de Puerto Suma: «La butaca de Álvaro»</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t14" data-audio-es="libros/gratis-2026-10-16-el-critico-sale-a-escena/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-el-critico-sale-a-escena/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t14"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-maestros" data-tramo="maestros" id="gratis-2026-10-16-la-lista-de-agravios">
+      <div class="tapa">
+        <img src="web/portadas/gratis-2026-10-16-la-lista-de-agravios.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «La lista de agravios»" data-en-alt="Cover of “The List of Grievances”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
+        <h3 id="t15" data-en="The List of Grievances">La lista de agravios</h3>
+        <p class="trozo" data-en="Noa Cifuentes played the drums the way some people collect debts: punctually and without mercy">Noa Cifuentes tocaba la batería como quien cobra deudas: con puntualidad y sin piedad</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t15" data-audio-es="libros/gratis-2026-10-16-la-lista-de-agravios/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-la-lista-de-agravios/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t15"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-maestros" data-tramo="maestros" id="gratis-2026-10-16-lo-votasteis-vosotros">
+      <div class="tapa">
+        <img src="web/portadas/gratis-2026-10-16-lo-votasteis-vosotros.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Lo votasteis vosotros»" data-en-alt="Cover of “You Voted for It”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
+        <h3 id="t16" data-en="You Voted for It">Lo votasteis vosotros</h3>
+        <p class="trozo" data-en="Hugo Salcedo won the election for class delegate in his final year of school with a single promise: “Everything will be put to a vote.”">Hugo Salcedo ganó las elecciones a delegado de segundo de Bachillerato con una sola promesa: «Todo se votará»</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t16" data-audio-es="libros/gratis-2026-10-16-lo-votasteis-vosotros/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-lo-votasteis-vosotros/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t16"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-peques" data-tramo="peques" id="2026-10-12-bruno-y-los-panecillos-pinchados">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-12-bruno-y-los-panecillos-pinchados.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Bruno y los panecillos pinchados»" data-en-alt="Cover of “Bruno and the Prickly Buns”">
+        
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
+        <h3 id="t17" data-en="Bruno and the Prickly Buns">Bruno y los panecillos pinchados</h3>
+        <p class="trozo" data-en="Bruno is a hedgehog baker in Puerto Suma. He makes soft, round little buns">Bruno es un erizo panadero de Puerto Suma. Hace panecillos redondos y blanditos</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t17" data-audio-es="libros/2026-10-12-bruno-y-los-panecillos-pinchados/es_p1.mp3" data-audio-en="libros/2026-10-12-bruno-y-los-panecillos-pinchados/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t17"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-12-tomasa-nunca-espera-al-final">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-12-tomasa-nunca-espera-al-final.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Tomasa nunca espera al final»" data-en-alt="Cover of “Tomasa Never Waits for the End”">
+        
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
+        <h3 id="t18" data-en="Tomasa Never Waits for the End">Tomasa nunca espera al final</h3>
+        <p class="trozo" data-en="Tomasa was a toucan postwoman in Puerto Suma, the fastest on the island. She had an enormous orange beak, a blue cap and one funny habit: she never let anyone finish">Tomasa era una tucana cartera de Puerto Suma, la más rápida de la isla. Tenía un pico naranja enorme, una gorra azul y una manía: nunca dejaba terminar a nadie</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t18" data-audio-es="libros/2026-10-12-tomasa-nunca-espera-al-final/es_p1.mp3" data-audio-en="libros/2026-10-12-tomasa-nunca-espera-al-final/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t18"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-12-el-pulpo-chiflado">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-12-el-pulpo-chiflado.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El Pulpo Chiflado»" data-en-alt="Cover of “The Loopy Octopus”">
+        
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
+        <h3 id="t19" data-en="The Loopy Octopus">El Pulpo Chiflado</h3>
+        <p class="trozo" data-en="Nora arrived at Puerto Suma school halfway through the year, with a backpack full of pencils and not a single friend">Nora llegó a la escuela de Puerto Suma a mitad de curso, con una mochila llena de lápices y ningún amigo</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t19" data-audio-es="libros/2026-10-12-el-pulpo-chiflado/es_p1.mp3" data-audio-en="libros/2026-10-12-el-pulpo-chiflado/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t19"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-12-dos-almendras">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-12-dos-almendras.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Dos almendras»" data-en-alt="Cover of “Two Almonds”">
+        
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
+        <h3 id="t20" data-en="Two Almonds">Dos almendras</h3>
+        <p class="trozo" data-en="Puerto Suma had only one serious thing a year, the Cake Contest, and only one war: Doña Amparo against Doña Clotilde">En Puerto Suma había una sola cosa seria al año, el Certamen de Tartas, y una sola guerra, la de Doña Amparo contra Doña Clotilde</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t20" data-audio-es="libros/2026-10-12-dos-almendras/es_p1.mp3" data-audio-en="libros/2026-10-12-dos-almendras/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t20"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-peques" data-tramo="peques" id="2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Las rayas de Zoe se escapan a jugar»" data-en-alt="Cover of “Zoe&#x27;s Stripes Run Off to Play”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
+        <h3 id="t21" data-en="Zoe&#x27;s Stripes Run Off to Play">Las rayas de Zoe se escapan a jugar</h3>
+        <p class="trozo" data-en="Swish, swash! Zoe the zebra is having a shower under the waterfall">¡Flis, flas! La cebra Zoe se ducha en la cascada. Sus rayas resbalan como espaguetis</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t21" data-audio-es="libros/2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar/es_p1.mp3" data-audio-en="libros/2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t21"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-peques" data-tramo="peques" id="2026-10-07-las-ruedas-cuadradas-de-fermina">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-las-ruedas-cuadradas-de-fermina.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Las ruedas cuadradas de Fermina»" data-en-alt="Cover of “Fermina&#x27;s Square Wheels”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
+        <h3 id="t22" data-en="Fermina&#x27;s Square Wheels">Las ruedas cuadradas de Fermina</h3>
+        <p class="trozo" data-en="At the top of the sleeping volcano lives Fermina, the inventor goat. Today there&#x27;s a party on the beach">En lo alto del volcán dormido vive Fermina, la cabra inventora. Hoy hay fiesta en la playa</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t22" data-audio-es="libros/2026-10-07-las-ruedas-cuadradas-de-fermina/es_p1.mp3" data-audio-en="libros/2026-10-07-las-ruedas-cuadradas-de-fermina/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t22"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-peques" data-tramo="peques" id="2026-10-07-ocho-calcetines-para-paco">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-ocho-calcetines-para-paco.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Ocho calcetines para Paco»" data-en-alt="Cover of “Eight Socks for Paco”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
+        <h3 id="t23" data-en="Eight Socks for Paco">Ocho calcetines para Paco</h3>
+        <p class="trozo" data-en="Paco is an orange octopus. The sea is warm and the sun is shining">Paco es un pulpo naranja. El mar está calentito y brilla el sol</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t23" data-audio-es="libros/2026-10-07-ocho-calcetines-para-paco/es_p1.mp3" data-audio-en="libros/2026-10-07-ocho-calcetines-para-paco/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t23"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-peques" data-tramo="peques" id="2026-10-07-tita-y-el-pez-pegajoso">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-tita-y-el-pez-pegajoso.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Tita y el Pez Pegajoso»" data-en-alt="Cover of “Tita and the Sticky Fish”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
+        <h3 id="t24" data-en="Tita and the Sticky Fish">Tita y el Pez Pegajoso</h3>
+        <p class="trozo" data-en="Tita the turtle strolls by the river. Pico the parrot flies overhead">Tita, la tortuga, pasea junto al río. Pico, el loro, vuela por encima</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t24" data-audio-es="libros/2026-10-07-tita-y-el-pez-pegajoso/es_p1.mp3" data-audio-en="libros/2026-10-07-tita-y-el-pez-pegajoso/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t24"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-peques" data-tramo="peques" id="2026-10-07-tito-y-las-estrellas-que-caen">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-tito-y-las-estrellas-que-caen.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Tito y las estrellas que caen»" data-en-alt="Cover of “Tito and the Falling Stars”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
+        <h3 id="t25" data-en="Tito and the Falling Stars">Tito y las estrellas que caen</h3>
+        <p class="trozo" data-en="Ooh! Little stars are falling! Tito, the monkey with a banana hat, waves his arms">¡Oh! ¡Caen estrellitas! Tito, el mono con plátano en la cabeza, alza los brazos</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t25" data-audio-es="libros/2026-10-07-tito-y-las-estrellas-que-caen/es_p1.mp3" data-audio-en="libros/2026-10-07-tito-y-las-estrellas-que-caen/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t25"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El cangrejo que quería pagar con su casa»" data-en-alt="Cover of “The Crab Who Wanted to Pay With His House”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
+        <h3 id="t26" data-en="The Crab Who Wanted to Pay With His House">El cangrejo que quería pagar con su casa</h3>
+        <p class="trozo" data-en="Tobías the hermit crab lived in a grey, lumpy shell so small it squeezed even his thoughts">La concha de Tobías, el cangrejo ermitaño, era gris, llena de bultos y tan pequeña que le apretaba hasta las ideas</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t26" data-audio-es="libros/2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa/es_p1.mp3" data-audio-en="libros/2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t26"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-07-el-castor-que-media-a-mordiscos">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-el-castor-que-media-a-mordiscos.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El castor que medía a mordiscos»" data-en-alt="Cover of “The Beaver Who Measured in Bites”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
+        <h3 id="t27" data-en="The Beaver Who Measured in Bites">El castor que medía a mordiscos</h3>
+        <p class="trozo" data-en="Bruno was a beaver, an apprentice builder, and he had his very first job: a bridge over the jungle river">Bruno era un castor aprendiz de constructor y tenía su primer encargo: un puente sobre el río de la selva</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t27" data-audio-es="libros/2026-10-07-el-castor-que-media-a-mordiscos/es_p1.mp3" data-audio-en="libros/2026-10-07-el-castor-que-media-a-mordiscos/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t27"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-07-el-colibri-que-empujaba-las-horas">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-el-colibri-que-empujaba-las-horas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El colibrí que empujaba las horas»" data-en-alt="Cover of “The Hummingbird Who Pushed the Hours”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
+        <h3 id="t28" data-en="The Hummingbird Who Pushed the Hours">El colibrí que empujaba las horas</h3>
+        <p class="trozo" data-en="Zum was a green hummingbird in a party hat who simply couldn&#x27;t keep still. He ate buzzing, bathed buzzing and even snored buzzing: zzzum, zzzum">Zum era un colibrí verde con gorrito de fiesta que no sabía estarse quieto. Comía zumbando, se bañaba zumbando y hasta roncaba zumbando: zzzum, zzzum</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t28" data-audio-es="libros/2026-10-07-el-colibri-que-empujaba-las-horas/es_p1.mp3" data-audio-en="libros/2026-10-07-el-colibri-que-empujaba-las-horas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t28"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-07-los-cristales-cosquilleros">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-los-cristales-cosquilleros.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Los cristales cosquilleros»" data-en-alt="Cover of “The Tickly Crystals”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
+        <h3 id="t29" data-en="The Tickly Crystals">Los cristales cosquilleros</h3>
+        <p class="trozo" data-en="&quot;Listen, Pico!&quot; said Grandma Matilde, adjusting her round glasses. From a cave among the plants came a little sound: &quot;hee-hee-hee&quot;">—¡Escucha, Pico! —dijo la abuela Matilde, ajustándose las gafas redondas. De una cueva escondida entre las plantas salía un ruidito: «jijiji»</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t29" data-audio-es="libros/2026-10-07-los-cristales-cosquilleros/es_p1.mp3" data-audio-en="libros/2026-10-07-los-cristales-cosquilleros/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t29"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Pompón, el portero que se hinchaba de risa»" data-en-alt="Cover of “Pompón, the Goalkeeper Who Puffed Up with Laughter”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
+        <h3 id="t30" data-en="Pompón, the Goalkeeper Who Puffed Up with Laughter">Pompón, el portero que se hinchaba de risa</h3>
+        <p class="trozo" data-en="Pompón was a yellow pufferfish with spots. Whenever he laughed, FWOOMP!, he puffed up like a ball">Pompón era un pez globo amarillo con lunares. Cuando se reía, ¡fuuup!, se hinchaba como una pelota</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t30" data-audio-es="libros/2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa/es_p1.mp3" data-audio-en="libros/2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t30"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-07-a-lo-mejor">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-a-lo-mejor.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «A lo mejor»" data-en-alt="Cover of “Maybe”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
+        <h3 id="t31" data-en="Maybe">A lo mejor</h3>
+        <p class="trozo" data-en="Aurelia, an armadillo in a mustard neckerchief, had an allergy no medical book had ever mentioned: she was allergic to “maybe”">Aurelia, una armadilla con pañuelo mostaza, tenía una alergia que no salía en ningún libro de medicina: era alérgica al «a lo mejor»</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t31" data-audio-es="libros/2026-10-07-a-lo-mejor/es_p1.mp3" data-audio-en="libros/2026-10-07-a-lo-mejor/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t31"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-07-el-hipo-de-la-ballena-barbara">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-el-hipo-de-la-ballena-barbara.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El hipo de la ballena Bárbara»" data-en-alt="Cover of “Bárbara the Whale&#x27;s Hiccups”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
+        <h3 id="t32" data-en="Bárbara the Whale&#x27;s Hiccups">El hipo de la ballena Bárbara</h3>
+        <p class="trozo" data-en="Bárbara was an enormous humpback whale, terribly polite and, for the last three days, terribly hiccupy">Bárbara era una ballena jorobada enorme, educadísima y, desde hacía tres días, con hipo. Cada hipido le sacaba por el lomo un chorro tan alto que las gaviotas tenían que frenar en seco y dar un rodeo</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t32" data-audio-es="libros/2026-10-07-el-hipo-de-la-ballena-barbara/es_p1.mp3" data-audio-en="libros/2026-10-07-el-hipo-de-la-ballena-barbara/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t32"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-07-el-testigo-boca-abajo">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-el-testigo-boca-abajo.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El testigo boca abajo»" data-en-alt="Cover of “The Upside-Down Witness”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
+        <h3 id="t33" data-en="The Upside-Down Witness">El testigo boca abajo</h3>
+        <p class="trozo" data-en="Simón was the lift operator at Mirasol Tower, the tallest skyscraper in Puerto Suma, whose glass lift ran up the outside like a bubble in a hurry">Simón era el ascensorista de la Torre Mirasol, el rascacielos más alto de Puerto Suma, con un ascensor de cristal que subía por fuera como una burbuja con prisa</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t33" data-audio-es="libros/2026-10-07-el-testigo-boca-abajo/es_p1.mp3" data-audio-en="libros/2026-10-07-el-testigo-boca-abajo/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t33"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-07-ocho-brazos-ocho-ofertas">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-ocho-brazos-ocho-ofertas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Ocho brazos, ocho ofertas»" data-en-alt="Cover of “Eight Arms, Eight Offers”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
+        <h3 id="t34" data-en="Eight Arms, Eight Offers">Ocho brazos, ocho ofertas</h3>
+        <p class="trozo" data-en="At the Puerto Suma market, Otilia sold mangoes from a wheeled barrel of seawater. She had coral-coloured skin, a straw hat and one iron rule: “I&#x27;m the head around here.”">En el mercado de Puerto Suma, Otilia vendía mangos desde un barril de agua de mar con ruedas</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t34" data-audio-es="libros/2026-10-07-ocho-brazos-ocho-ofertas/es_p1.mp3" data-audio-en="libros/2026-10-07-ocho-brazos-ocho-ofertas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t34"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-07-shhh">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-shhh.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «¡SHHH!»" data-en-alt="Cover of “SHHH!”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
+        <h3 id="t35" data-en="SHHH!">¡SHHH!</h3>
+        <p class="trozo" data-en="In the Puerto Suma bookshop, hanging upside down from the brass lamp, lives Celso, a sloth who reads in slow motion">En la librería de Puerto Suma, colgado boca arriba de la lámpara de latón, vive Celso, un perezoso que lee a cámara lenta</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t35" data-audio-es="libros/2026-10-07-shhh/es_p1.mp3" data-audio-en="libros/2026-10-07-shhh/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t35"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-07-la-farera-no-juega-a-la-suerte">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-la-farera-no-juega-a-la-suerte.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «La farera no juega a la suerte»" data-en-alt="Cover of “The Keeper Doesn&#x27;t Gamble”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
+        <h3 id="t36" data-en="The Keeper Doesn&#x27;t Gamble">La farera no juega a la suerte</h3>
+        <p class="trozo" data-en="Doña Remedios Albarrán, keeper of the Puerto Suma lighthouse, wears a pressed uniform, a perfectly level cap and the expression of a tide table">Doña Remedios Albarrán, farera de Puerto Suma, lleva el uniforme planchado, la gorra en su sitio y la expresión de una tabla de mareas</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t36" data-audio-es="libros/2026-10-07-la-farera-no-juega-a-la-suerte/es_p1.mp3" data-audio-en="libros/2026-10-07-la-farera-no-juega-a-la-suerte/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t36"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-07-las-doce-o-las-cero">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-las-doce-o-las-cero.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Las doce o las cero»" data-en-alt="Cover of “Twelve or Zero”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
+        <h3 id="t37" data-en="Twelve or Zero">Las doce o las cero</h3>
+        <p class="trozo" data-en="For a century, the Puerto Suma lighthouse had been saying the same thing: wink-wink, pause, wink-wink, which in lighthouse means &quot;there are rocks here; suit yourself&quot;">El faro de Puerto Suma llevaba un siglo diciendo lo mismo: guiño-guiño, pausa, guiño-guiño, que en idioma de faro significa «aquí hay rocas; usted verá»</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t37" data-audio-es="libros/2026-10-07-las-doce-o-las-cero/es_p1.mp3" data-audio-en="libros/2026-10-07-las-doce-o-las-cero/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t37"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-07-medio-volcan">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-medio-volcan.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Medio volcán»" data-en-alt="Cover of “Half a Volcano”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
+        <h3 id="t38" data-en="Half a Volcano">Medio volcán</h3>
+        <p class="trozo" data-en="In Puerto Suma, everything was on the map: the piers, the fountain in the plaza, the lighthouse with its height engraved on a plaque nobody had ever checked, even the pothole on Fish Street, marked with a little cross">En Puerto Suma todo estaba en el mapa: los muelles, la fuente de la plaza, el faro con su altura grabada en una placa que nadie había comprobado y hasta el bache de la calle del Pez, señalado con una crucecita</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t38" data-audio-es="libros/2026-10-07-medio-volcan/es_p1.mp3" data-audio-en="libros/2026-10-07-medio-volcan/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t38"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-07-pierdo-a-las-cartas">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-pierdo-a-las-cartas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Pierdo a las cartas»" data-en-alt="Cover of “I Lose at Cards”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
+        <h3 id="t39" data-en="I Lose at Cards">Pierdo a las cartas</h3>
+        <p class="trozo" data-en="In Puerto Suma, beside the turquoise whirlpools, three boats go out fishing, and each has its owner&#x27;s character painted on the hull">En Puerto Suma, junto a los remolinos turquesa, faenan tres barcas, y cada una lleva pintado en el casco el carácter de su dueño</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t39" data-audio-es="libros/2026-10-07-pierdo-a-las-cartas/es_p1.mp3" data-audio-en="libros/2026-10-07-pierdo-a-las-cartas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t39"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+    <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-07-se-sabe-desde-las-nueve">
+      <div class="tapa">
+        <img src="web/portadas/2026-10-07-se-sabe-desde-las-nueve.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Se sabe desde las nueve»" data-en-alt="Cover of “Known Since Nine”">
+        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
+      </div>
+      <div class="info">
+        <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
+        <h3 id="t40" data-en="Known Since Nine">Se sabe desde las nueve</h3>
+        <p class="trozo" data-en="Just after lunch, Adela Brea climbed the stairs to the office of The Lighthouse Gazette with a baguette poking out of her satchel">Después de comer, Adela Brea subió a la redacción de La Gaceta del Faro con una barra de pan asomando de la cartera</p>
+      </div>
+      <div class="botones">
+        <button type="button" class="oir" aria-pressed="false" aria-describedby="t40" data-audio-es="libros/2026-10-07-se-sabe-desde-las-nueve/es_p1.mp3" data-audio-en="libros/2026-10-07-se-sabe-desde-las-nueve/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t40"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+      </div>
+    </li>
+  </ul>
+
+  <section class="ganas" aria-labelledby="h-ganas">
+    <h2 id="h-ganas" data-en="Want to know what happens next?">¿Quieres saber cómo sigue?</h2>
+    <p data-en="In Sumanautas you read every story to the end, narrated aloud with the words lighting up as you go and questions at the end. And new stories arrive every week!">En Sumanautas cada cuento se lee entero, narrado en voz alta con las palabras iluminándose al leer y con preguntas al final. ¡Y cada semana llegan cuentos nuevos!</p>
+    <a class="appstore " href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-label="Descárgalo en el App Store" data-en-aria="Download on the App Store"><svg viewBox="0 0 384 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg><span><small data-en="Download on the">Descárgalo en el</small><b>App Store</b></span></a>
+  </section>
+</main>
+
+<footer class="pie">
+  <div class="envoltorio">
+    <nav aria-label="Enlaces" data-en-aria="Links">
+      <a href="https://jucabime.com">jucabime.com</a>
+      <a href="https://apps.apple.com/app/id6820056090" rel="noopener" data-en="Sumanautas on the App Store">Sumanautas en el App Store</a>
+      <a href="privacidad.html" data-en="Privacy">Privacidad</a>
+      <a href="soporte.html" data-en="Support">Soporte</a>
+    </nav>
+    <p>© 2026 jucabime</p>
+    <p class="marcas" data-en="Apple, the Apple logo and App Store are trademarks of Apple Inc., registered in the U.S. and other countries.">Apple, el logotipo de Apple y App Store son marcas comerciales de Apple Inc., registradas en EE. UU. y en otros países.</p>
+  </div>
+</footer>
+<script>
+/* Web de la biblioteca de Sumanautas: idioma ES/EN, filtro por edad y «Escuchar el principio». genera_web.py lo mete
+   DENTRO de index.html; se edita aquí y se vuelve a ejecutar el generador. Sin librerías. */
+(function () {
+  "use strict";
+  var raiz = document.documentElement;
+  var TXT = {
+    es: { oir: "Escuchar el principio", parar: "Parar", fallo: "No se ha podido oír",
+          cuentos: function (n) { return n === 1 ? "1 cuento" : n + " cuentos"; } },
+    en: { oir: "Listen to the beginning", parar: "Stop", fallo: "Couldn't play it",
+          cuentos: function (n) { return n === 1 ? "1 story" : n + " stories"; } }
+  };
+  var ATRIBUTOS = [["alt", "enAlt", "esAlt"], ["aria-label", "enAria", "esAria"], ["title", "enTitle", "esTitle"], ["content", "enContent", "esContent"]];
+  var TRAMOS = ["peques", "exploradores", "aventureros", "maestros"];
+  var idioma = "es", tramo = "todos";
+  var tarjetas = [].slice.call(document.querySelectorAll(".cuento"));
+  var filtros = [].slice.call(document.querySelectorAll(".filtros button"));
+  var contador = document.querySelector(".contador");
+
+  function lee(k) { try { return window.localStorage.getItem(k); } catch (e) { return null; } }
+  function guarda(k, v) { try { window.localStorage.setItem(k, v); } catch (e) { /* sin almacenamiento: da igual */ } }
+
+  /* ── idioma: cada texto traducible lleva su inglés en data-en (y sus atributos en data-en-alt, data-en-aria…) ── */
+  function ponIdioma(l) {
+    paraAudio();
+    idioma = l === "en" ? "en" : "es";
+    raiz.lang = idioma;
+    [].forEach.call(document.querySelectorAll("[data-en]"), function (el) {
+      if (el.dataset.es === undefined) el.dataset.es = el.textContent;
+      el.textContent = idioma === "en" ? el.dataset.en : el.dataset.es;
+    });
+    ATRIBUTOS.forEach(function (a) {
+      [].forEach.call(document.querySelectorAll("[data-en-" + a[0].replace("aria-label", "aria") + "]"), function (el) {
+        if (el.dataset[a[2]] === undefined) el.dataset[a[2]] = el.getAttribute(a[0]) || "";
+        el.setAttribute(a[0], idioma === "en" ? el.dataset[a[1]] : el.dataset[a[2]]);
+      });
+    });
+    [].forEach.call(document.querySelectorAll(".oir"), function (b) { etiqueta(b, "oir"); });
+    [].forEach.call(document.querySelectorAll(".idioma button"), function (b) {
+      b.setAttribute("aria-pressed", String(b.dataset.idioma === idioma));
+    });
+    pintaContador();
+  }
+
+  /* ── filtro por edad (se recuerda en la dirección: …/#peques) ── */
+  function filtra(t, desdeBoton) {
+    tramo = TRAMOS.indexOf(t) >= 0 ? t : "todos";
+    tarjetas.forEach(function (c) { c.hidden = !(tramo === "todos" || c.dataset.tramo === tramo); });
+    filtros.forEach(function (b) { b.setAttribute("aria-pressed", String(b.dataset.tramo === tramo)); });
+    pintaContador();
+    if (desdeBoton && window.history && history.replaceState) {
+      history.replaceState(null, "", tramo === "todos" ? location.pathname + location.search : "#" + tramo);
+    }
+  }
+  function pintaContador() {
+    if (!contador) return;
+    var n = tarjetas.filter(function (c) { return !c.hidden; }).length;
+    contador.textContent = (idioma === "en" ? "Showing " : "Mostrando ") + TXT[idioma].cuentos(n);
+  }
+  filtros.forEach(function (b) {
+    b.addEventListener("click", function () { paraAudio(); filtra(b.dataset.tramo, true); });
+  });
+
+  /* ── «Escuchar el principio»: la página 1 narrada (es_p1.mp3 / en_p1.mp3 de la carpeta del libro) ── */
+  var audio = new Audio();
+  audio.preload = "none";
+  var sonando = null, espera = 0;
+  function etiqueta(b, estado) {
+    var t = b.querySelector(".txt");
+    if (t) t.textContent = TXT[idioma][estado];
+    b.classList.toggle("sonando", estado === "parar");
+    b.classList.toggle("fallo", estado === "fallo");
+    b.setAttribute("aria-pressed", String(estado === "parar"));
+  }
+  function paraAudio() {
+    if (sonando) etiqueta(sonando, "oir");
+    sonando = null;
+    try { audio.pause(); audio.currentTime = 0; } catch (e) { /* nada */ }
+  }
+  function falla(b) {
+    if (sonando !== b) return;
+    sonando = null;
+    etiqueta(b, "fallo");
+    clearTimeout(espera);
+    espera = setTimeout(function () { if (sonando !== b) etiqueta(b, "oir"); }, 2600);
+  }
+  document.addEventListener("click", function (e) {
+    var b = e.target.closest ? e.target.closest(".oir") : null;
+    if (!b) return;
+    if (sonando === b) { paraAudio(); return; }
+    paraAudio();
+    sonando = b;
+    etiqueta(b, "parar");
+    audio.src = idioma === "en" ? b.dataset.audioEn : b.dataset.audioEs;
+    var p = audio.play();
+    if (p && p.catch) p.catch(function () { falla(b); });
+  });
+  audio.addEventListener("ended", paraAudio);
+  audio.addEventListener("error", function () { if (sonando) falla(sonando); });
+
+  [].forEach.call(document.querySelectorAll(".idioma button"), function (b) {
+    b.addEventListener("click", function () { ponIdioma(b.dataset.idioma); guarda("sumanautas-idioma", idioma); });
+  });
+
+  /* al cargar: ?lang=en (para compartir la web en inglés) o lo que eligió la otra vez; si no, español */
+  var pedido = (location.search.match(/[?&]lang=(es|en)\b/) || [])[1] || lee("sumanautas-idioma");
+  if (pedido === "en") ponIdioma("en");
+  var alCargar = (location.hash || "").replace("#", "");
+  filtra(alCargar, false);
+  if (TRAMOS.indexOf(alCargar) >= 0) {
+    var bib = document.getElementById("biblioteca");
+    var baja = function () { bib.scrollIntoView({ behavior: "instant", block: "start" }); };
+    if (bib) { if (document.readyState === "complete") baja(); else window.addEventListener("load", function () { setTimeout(baja, 0); }); }
+  }
+  window.addEventListener("hashchange", function () {
+    var h = (location.hash || "").replace("#", "");
+    if (TRAMOS.indexOf(h) >= 0 || h === "") filtra(h, false);
+  });
+})();
+
+</script>
+</body>
+</html>
