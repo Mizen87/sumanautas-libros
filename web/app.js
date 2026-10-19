@@ -4,9 +4,9 @@
   "use strict";
   var raiz = document.documentElement;
   var TXT = {
-    es: { oir: "Escuchar el principio", parar: "Parar", fallo: "No se ha podido oír",
+    es: { oir: "Escuchar", parar: "Parar", fallo: "No se ha podido oír",
           cuentos: function (n) { return n === 1 ? "1 cuento" : n + " cuentos"; } },
-    en: { oir: "Listen to the beginning", parar: "Stop", fallo: "Couldn't play it",
+    en: { oir: "Listen", parar: "Stop", fallo: "Couldn't play it",
           cuentos: function (n) { return n === 1 ? "1 story" : n + " stories"; } }
   };
   var ATRIBUTOS = [["alt", "enAlt", "esAlt"], ["aria-label", "enAria", "esAria"], ["title", "enTitle", "esTitle"], ["content", "enContent", "esContent"]];
@@ -35,6 +35,9 @@
       });
     });
     [].forEach.call(document.querySelectorAll(".oir"), function (b) { etiqueta(b, "oir"); });
+    [].forEach.call(document.querySelectorAll("[data-lector]"), function (a) {   // el lector se abre en el mismo idioma
+      a.href = "lector.html?id=" + encodeURIComponent(a.dataset.lector) + (idioma === "en" ? "&lang=en" : "");
+    });
     [].forEach.call(document.querySelectorAll(".idioma button"), function (b) {
       b.setAttribute("aria-pressed", String(b.dataset.idioma === idioma));
     });

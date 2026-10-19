@@ -113,22 +113,24 @@ button { font: inherit; }
 .semanal span { background: #fff1bf; color: #5c4000; font: 900 15.5px/1.3 var(--f-titulo); border-radius: 999px; padding: 8px 16px; text-align: center; border: 2px dashed #f2c84b; }
 .filtros { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; margin: 0 0 8px; }
 .filtros button { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1px; min-height: 66px; padding: 8px 6px; border-radius: 16px; border: 2px solid #e3e9f4; background: #fff; color: var(--tinta); cursor: pointer; box-shadow: 0 3px 0 rgba(24, 60, 120, .1); transition: transform .12s, background .12s; }
-.filtros [data-tramo="todos"] { --c: var(--cielo-osc); }
+.filtros [data-tramo="todos"] { --c: var(--cielo-osc); --co: var(--cielo-osc); }
 .filtros button:hover { transform: translateY(-2px); border-color: var(--c); }
 .filtros b { font: 900 16px/1.15 var(--f-titulo); }
 .filtros small { font: 700 13px/1.2 var(--f-texto); color: var(--tinta-2); }
-.filtros button[aria-pressed="true"] { background: var(--c); border-color: var(--c); color: #fff; box-shadow: 0 3px 0 rgba(0, 0, 0, .18); }
+.filtros button[aria-pressed="true"] { background: var(--co); border-color: var(--co); color: #fff; box-shadow: 0 3px 0 rgba(0, 0, 0, .18); }
 .filtros button[aria-pressed="true"] small { color: rgba(255, 255, 255, .92); }
 .contador { text-align: center; color: var(--tinta-2); font-size: 14px; margin: 0 0 16px; min-height: 21px; }
-.t-peques { --c: var(--peques); --cc: #e3f6ea; }
-.t-exploradores { --c: var(--exploradores); --cc: #e2f0fc; }
-.t-aventureros { --c: var(--aventureros); --cc: #fff0e3; }
-.t-maestros { --c: var(--maestros); --cc: #efe7fb; }
+.t-peques { --c: var(--peques); --cc: #e3f6ea; --co: #17834a; }
+.t-exploradores { --c: var(--exploradores); --cc: #e2f0fc; --co: #156fb3; }
+.t-aventureros { --c: var(--aventureros); --cc: #fff0e3; --co: #c4520a; }
+.t-maestros { --c: var(--maestros); --cc: #efe7fb; --co: #6a3fb5; }
 
 .cuentos { list-style: none; margin: 0; padding: 0; display: grid; gap: 22px; grid-template-columns: repeat(auto-fill, minmax(255px, 1fr)); }
 .cuento { display: flex; flex-direction: column; background: #fff; border-radius: var(--radio); overflow: hidden; box-shadow: var(--sombra); border-bottom: 6px solid var(--c); }
 .cuento[hidden] { display: none !important; }
-.tapa { position: relative; aspect-ratio: 3 / 4; background: var(--cc); }
+.tapa { position: relative; display: block; aspect-ratio: 3 / 4; background: var(--cc); }
+.tapa:hover img { transform: scale(1.03); }
+.tapa img { transition: transform .25s; }
 .tapa img { width: 100%; height: 100%; object-fit: cover; }
 .sellos-tapa { position: absolute; top: 10px; left: 10px; right: 10px; display: flex; flex-wrap: wrap; gap: 6px; pointer-events: none; }
 .sello { font: 900 13px/1 var(--f-titulo); padding: 6px 10px; border-radius: 999px; box-shadow: 0 2px 8px rgba(0, 0, 0, .22); }
@@ -138,13 +140,17 @@ button { font: inherit; }
 .info { padding: 14px 16px 6px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
 .edad { align-self: flex-start; margin: 0; font: 900 13px/1.2 var(--f-titulo); color: var(--tinta); background: var(--cc); border: 2px solid var(--c); padding: 3px 10px; border-radius: 999px; }
 .cuento h3 { font: 900 19px/1.22 var(--f-titulo); margin: 0; }
+.cuento h3 a { color: inherit; text-decoration: none; }
+.cuento h3 a:hover { text-decoration: underline; }
 .trozo { margin: 0; color: var(--tinta-2); font-size: 15px; line-height: 1.5; }
 .trozo::before { content: "«"; }
 .trozo::after { content: "…»"; color: var(--tinta-2); }
 html[lang="en"] .trozo::before { content: "\201C"; }
 html[lang="en"] .trozo::after { content: "…\201D"; }
 .botones { display: flex; flex-direction: column; gap: 8px; padding: 10px 16px 16px; }
-.oir, .leer { display: flex; align-items: center; justify-content: center; gap: 9px; min-height: 46px; padding: 9px 14px; border-radius: 14px; font: 900 15px/1.2 var(--f-titulo); text-align: center; text-decoration: none; cursor: pointer; }
+.fila { display: flex; flex-wrap: wrap; gap: 8px; }
+.fila > * { flex: 1 1 auto; }
+.oir, .leer, .leer-l { display: flex; align-items: center; justify-content: center; gap: 9px; min-height: 46px; padding: 9px 14px; border-radius: 14px; font: 900 15px/1.2 var(--f-titulo); text-align: center; text-decoration: none; cursor: pointer; }
 .oir { background: var(--cc); color: var(--tinta); border: 2px solid var(--c); }
 .oir:hover { filter: brightness(.97); }
 .oir .ico { width: 13px; height: 14px; flex: none; background: var(--c); clip-path: polygon(0 0, 100% 50%, 0 100%); }
@@ -152,6 +158,9 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
 .oir.sonando .ico { background: #fff; clip-path: none; width: 12px; height: 12px; border-radius: 2px; }
 .oir.fallo { background: #fde8e8; border-color: #d33; }
 @keyframes latido { 0%, 100% { box-shadow: 0 0 0 0 rgba(0, 0, 0, .0); } 50% { box-shadow: 0 0 0 5px var(--cc); } }
+.leer-l { background: var(--co); color: #fff; border: 2px solid var(--co); }
+.leer-l:hover { filter: brightness(1.08); }
+.leer-l .libro { width: 16px; height: 13px; flex: none; border: 2.5px solid #fff; border-top-width: 2px; border-radius: 2px 2px 3px 3px; background: linear-gradient(#fff, #fff) center / 2.5px 100% no-repeat; }
 .leer { background: var(--sol); color: #3d2900; box-shadow: 0 3px 0 var(--sol-osc); }
 .leer:hover { filter: brightness(1.04); }
 .leer span[aria-hidden] { font-size: 17px; }
@@ -199,6 +208,7 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
   .sello { font-size: 11.5px; padding: 5px 8px; }
   .info { grid-area: info; padding: 12px 12px 0 12px; gap: 6px; min-width: 0; }
   .cuento h3 { font-size: 17px; }
+  .tapa:hover img { transform: none; }
   .trozo { font-size: 14px; line-height: 1.45; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 6; overflow: hidden; }
   .botones { grid-area: botones; padding: 12px 10px 12px; }
   .ganas { border-radius: 22px; }
@@ -248,7 +258,7 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
 
 <main id="biblioteca" class="biblioteca envoltorio" aria-labelledby="h-bib">
   <h2 class="titulo-seccion" id="h-bib" data-en="The story library">La biblioteca de cuentos</h2>
-  <p class="entradilla" data-en="40 original stories full of values and humour, illustrated and read aloud in Spanish and English. Here is how each one begins: the rest is waiting in the game.">40 cuentos originales con valores y humor, ilustrados y narrados en voz alta en español y en inglés. Aquí tienes el principio de cada uno: el resto te espera en el juego.</p>
+  <p class="entradilla" data-en="40 original stories full of values and humour, illustrated and read aloud in Spanish and English. Open one to read it with its pictures and listen to it, page by page.">40 cuentos originales con valores y humor, ilustrados y narrados en voz alta en español y en inglés. Abre uno para leerlo con sus dibujos y escucharlo página a página.</p>
   <div class="semanal"><span data-en="📬 New stories arrive every week · Updated October 19, 2026">📬 Cada semana llegan cuentos nuevos · Actualizado el 19 de octubre de 2026</span></div>
   <div class="filtros" role="group" aria-label="Filtrar por edad" data-en-aria="Filter by age">
     <button type="button" data-tramo="todos" aria-pressed="true"><b data-en="All">Todos</b><small data-en="40 stories">40 cuentos</small></button><button type="button" class="t-peques" data-tramo="peques" aria-pressed="false"><b><span aria-hidden="true">🐣 </span><span data-en="Little ones">Peques</span></b><small data-en="Ages 4-6 · 10">4-6 años · 10</small></button><button type="button" class="t-exploradores" data-tramo="exploradores" aria-pressed="false"><b><span aria-hidden="true">🧭 </span><span data-en="Explorers">Exploradores</span></b><small data-en="Ages 7-10 · 10">7-10 años · 10</small></button><button type="button" class="t-aventureros" data-tramo="aventureros" aria-pressed="false"><b><span aria-hidden="true">🚀 </span><span data-en="Adventurers">Aventureros</span></b><small data-en="Ages 11-15 · 10">11-15 años · 10</small></button><button type="button" class="t-maestros" data-tramo="maestros" aria-pressed="false"><b><span aria-hidden="true">🎓 </span><span data-en="Masters">Maestros</span></b><small data-en="Ages 16+ · 10">16+ años · 10</small></button>
@@ -256,610 +266,730 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
   <p class="contador" aria-live="polite">Mostrando 40 cuentos</p>
   <ul class="cuentos">
     <li class="cuento t-peques" data-tramo="peques" id="2026-10-19-nina-y-la-mora-gigante">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-19-nina-y-la-mora-gigante.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Nina y la mora gigante»" data-en-alt="Cover of “Nina and the Giant Blackberry”">
-        <div class="sellos-tapa"><span class="sello nuevo" data-en="New!">¡Nuevo!</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-19-nina-y-la-mora-gigante" data-lector="2026-10-19-nina-y-la-mora-gigante">
+        <img src="web/portadas/2026-10-19-nina-y-la-mora-gigante.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Nina y la mora gigante»" data-en-alt="Read “Nina and the Giant Blackberry”">
+        <span class="sellos-tapa"><span class="sello nuevo" data-en="New!">¡Nuevo!</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
-        <h3 id="t1" data-en="Nina and the Giant Blackberry">Nina y la mora gigante</h3>
+        <h3 id="t1"><a href="lector.html?id=2026-10-19-nina-y-la-mora-gigante" data-lector="2026-10-19-nina-y-la-mora-gigante" data-en="Nina and the Giant Blackberry">Nina y la mora gigante</a></h3>
         <p class="trozo" data-en="Nina is an otter from Puerto Suma. Do you know what happened to her one day, Sumanaut?">Nina es una nutria de Puerto Suma. ¿Sabes qué le pasó un día, sumanauta?</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t1" data-audio-es="libros/2026-10-19-nina-y-la-mora-gigante/es_p1.mp3" data-audio-en="libros/2026-10-19-nina-y-la-mora-gigante/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t1"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t1" data-audio-es="libros/2026-10-19-nina-y-la-mora-gigante/es_p1.mp3" data-audio-en="libros/2026-10-19-nina-y-la-mora-gigante/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-19-nina-y-la-mora-gigante" data-lector="2026-10-19-nina-y-la-mora-gigante" aria-describedby="t1"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t1"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Tano y el abrazo más lento del mundo»" data-en-alt="Cover of “Tano and the Slowest Hug in the World”">
-        <div class="sellos-tapa"><span class="sello nuevo" data-en="New!">¡Nuevo!</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo" data-lector="2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo">
+        <img src="web/portadas/2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Tano y el abrazo más lento del mundo»" data-en-alt="Read “Tano and the Slowest Hug in the World”">
+        <span class="sellos-tapa"><span class="sello nuevo" data-en="New!">¡Nuevo!</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
-        <h3 id="t2" data-en="Tano and the Slowest Hug in the World">Tano y el abrazo más lento del mundo</h3>
+        <h3 id="t2"><a href="lector.html?id=2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo" data-lector="2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo" data-en="Tano and the Slowest Hug in the World">Tano y el abrazo más lento del mundo</a></h3>
         <p class="trozo" data-en="Tano is a monkey with a very long tail and an even longer pride. He is the best climber on the island">Tano es un mono con una cola larguísima y un orgullo todavía más largo. Es el mejor trepador de la isla</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t2" data-audio-es="libros/2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo/es_p1.mp3" data-audio-en="libros/2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t2"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t2" data-audio-es="libros/2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo/es_p1.mp3" data-audio-en="libros/2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo" data-lector="2026-10-19-tano-y-el-abrazo-mas-lento-del-mundo" aria-describedby="t2"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t2"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-19-fue-el-zumo-y-otras-excusas">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-19-fue-el-zumo-y-otras-excusas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Fue el zumo (y otras excusas)»" data-en-alt="Cover of “It Was the Juice (and Other Excuses)”">
-        <div class="sellos-tapa"><span class="sello nuevo" data-en="New!">¡Nuevo!</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-19-fue-el-zumo-y-otras-excusas" data-lector="2026-10-19-fue-el-zumo-y-otras-excusas">
+        <img src="web/portadas/2026-10-19-fue-el-zumo-y-otras-excusas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Fue el zumo (y otras excusas)»" data-en-alt="Read “It Was the Juice (and Other Excuses)”">
+        <span class="sellos-tapa"><span class="sello nuevo" data-en="New!">¡Nuevo!</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
-        <h3 id="t3" data-en="It Was the Juice (and Other Excuses)">Fue el zumo (y otras excusas)</h3>
+        <h3 id="t3"><a href="lector.html?id=2026-10-19-fue-el-zumo-y-otras-excusas" data-lector="2026-10-19-fue-el-zumo-y-otras-excusas" data-en="It Was the Juice (and Other Excuses)">Fue el zumo (y otras excusas)</a></h3>
         <p class="trozo" data-en="Radio Faro broadcasts from the top of Puerto Suma&#x27;s old lighthouse, from a round little room where the echo makes everyone sound as if they were talking from inside a bucket">Radio Faro emite desde lo alto del viejo faro de Puerto Suma, en un cuartito redondo donde el eco hace que todos suenen como si hablaran desde un cubo</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t3" data-audio-es="libros/2026-10-19-fue-el-zumo-y-otras-excusas/es_p1.mp3" data-audio-en="libros/2026-10-19-fue-el-zumo-y-otras-excusas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t3"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t3" data-audio-es="libros/2026-10-19-fue-el-zumo-y-otras-excusas/es_p1.mp3" data-audio-en="libros/2026-10-19-fue-el-zumo-y-otras-excusas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-19-fue-el-zumo-y-otras-excusas" data-lector="2026-10-19-fue-el-zumo-y-otras-excusas" aria-describedby="t3"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t3"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-19-la-frase-de-la-lata">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-19-la-frase-de-la-lata.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «La frase de la lata»" data-en-alt="Cover of “The Sentence on the Tin”">
-        <div class="sellos-tapa"><span class="sello nuevo" data-en="New!">¡Nuevo!</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-19-la-frase-de-la-lata" data-lector="2026-10-19-la-frase-de-la-lata">
+        <img src="web/portadas/2026-10-19-la-frase-de-la-lata.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «La frase de la lata»" data-en-alt="Read “The Sentence on the Tin”">
+        <span class="sellos-tapa"><span class="sello nuevo" data-en="New!">¡Nuevo!</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
-        <h3 id="t4" data-en="The Sentence on the Tin">La frase de la lata</h3>
+        <h3 id="t4"><a href="lector.html?id=2026-10-19-la-frase-de-la-lata" data-lector="2026-10-19-la-frase-de-la-lata" data-en="The Sentence on the Tin">La frase de la lata</a></h3>
         <p class="trozo" data-en="Puerto Suma&#x27;s mayor was Don Anselmo Quirós, a man as wide as a barrel, with a voice that made seagulls tremble and handwriting that made postmen cry">Puerto Suma tenía por alcalde a Don Anselmo Quirós, un hombre ancho como un barril, con una voz que hacía temblar a las gaviotas y una letra que hacía llorar a los carteros</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t4" data-audio-es="libros/2026-10-19-la-frase-de-la-lata/es_p1.mp3" data-audio-en="libros/2026-10-19-la-frase-de-la-lata/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t4"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t4" data-audio-es="libros/2026-10-19-la-frase-de-la-lata/es_p1.mp3" data-audio-en="libros/2026-10-19-la-frase-de-la-lata/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-19-la-frase-de-la-lata" data-lector="2026-10-19-la-frase-de-la-lata" aria-describedby="t4"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t4"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-peques" data-tramo="peques" id="gratis-2026-10-16-iris-y-el-mango-de-arriba">
-      <div class="tapa">
-        <img src="web/portadas/gratis-2026-10-16-iris-y-el-mango-de-arriba.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Iris y el mango de arriba»" data-en-alt="Cover of “Iris and the Mango at the Top”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=gratis-2026-10-16-iris-y-el-mango-de-arriba" data-lector="gratis-2026-10-16-iris-y-el-mango-de-arriba">
+        <img src="web/portadas/gratis-2026-10-16-iris-y-el-mango-de-arriba.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Iris y el mango de arriba»" data-en-alt="Read “Iris and the Mango at the Top”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
-        <h3 id="t5" data-en="Iris and the Mango at the Top">Iris y el mango de arriba</h3>
+        <h3 id="t5"><a href="lector.html?id=gratis-2026-10-16-iris-y-el-mango-de-arriba" data-lector="gratis-2026-10-16-iris-y-el-mango-de-arriba" data-en="Iris and the Mango at the Top">Iris y el mango de arriba</a></h3>
         <p class="trozo" data-en="Iris is a small green iguana. She loves mangoes. And her favourite thing to say is: “All by myself!”">Iris es una iguana pequeña y verde. Le encantan los mangos</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t5" data-audio-es="libros/gratis-2026-10-16-iris-y-el-mango-de-arriba/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-iris-y-el-mango-de-arriba/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t5"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t5" data-audio-es="libros/gratis-2026-10-16-iris-y-el-mango-de-arriba/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-iris-y-el-mango-de-arriba/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=gratis-2026-10-16-iris-y-el-mango-de-arriba" data-lector="gratis-2026-10-16-iris-y-el-mango-de-arriba" aria-describedby="t5"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t5"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-peques" data-tramo="peques" id="gratis-2026-10-16-la-sonrisa-de-goyo">
-      <div class="tapa">
-        <img src="web/portadas/gratis-2026-10-16-la-sonrisa-de-goyo.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «La sonrisa de Goyo»" data-en-alt="Cover of “Goyo&#x27;s Big Smile”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=gratis-2026-10-16-la-sonrisa-de-goyo" data-lector="gratis-2026-10-16-la-sonrisa-de-goyo">
+        <img src="web/portadas/gratis-2026-10-16-la-sonrisa-de-goyo.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «La sonrisa de Goyo»" data-en-alt="Read “Goyo&#x27;s Big Smile”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
-        <h3 id="t6" data-en="Goyo&#x27;s Big Smile">La sonrisa de Goyo</h3>
+        <h3 id="t6"><a href="lector.html?id=gratis-2026-10-16-la-sonrisa-de-goyo" data-lector="gratis-2026-10-16-la-sonrisa-de-goyo" data-en="Goyo&#x27;s Big Smile">La sonrisa de Goyo</a></h3>
         <p class="trozo" data-en="Goyo is a great big crocodile. He lives in the pond in Puerto Suma&#x27;s park">Goyo es un cocodrilo grandote. Vive en el estanque del parque de Puerto Suma</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t6" data-audio-es="libros/gratis-2026-10-16-la-sonrisa-de-goyo/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-la-sonrisa-de-goyo/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t6"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t6" data-audio-es="libros/gratis-2026-10-16-la-sonrisa-de-goyo/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-la-sonrisa-de-goyo/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=gratis-2026-10-16-la-sonrisa-de-goyo" data-lector="gratis-2026-10-16-la-sonrisa-de-goyo" aria-describedby="t6"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t6"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-peques" data-tramo="peques" id="gratis-2026-10-16-pepa-quiere-ser-bebe">
-      <div class="tapa">
-        <img src="web/portadas/gratis-2026-10-16-pepa-quiere-ser-bebe.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Pepa quiere ser bebé»" data-en-alt="Cover of “Pepa Wants to Be a Baby”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=gratis-2026-10-16-pepa-quiere-ser-bebe" data-lector="gratis-2026-10-16-pepa-quiere-ser-bebe">
+        <img src="web/portadas/gratis-2026-10-16-pepa-quiere-ser-bebe.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Pepa quiere ser bebé»" data-en-alt="Read “Pepa Wants to Be a Baby”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
-        <h3 id="t7" data-en="Pepa Wants to Be a Baby">Pepa quiere ser bebé</h3>
+        <h3 id="t7"><a href="lector.html?id=gratis-2026-10-16-pepa-quiere-ser-bebe" data-lector="gratis-2026-10-16-pepa-quiere-ser-bebe" data-en="Pepa Wants to Be a Baby">Pepa quiere ser bebé</a></h3>
         <p class="trozo" data-en="Pepa is a very round little hippo. She lives in the lily lagoon with her mum and with Bubu, her baby brother">Pepa es una hipopotamita muy redonda. Vive en la laguna de los nenúfares con su mamá y con Bubu, su hermanito bebé</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t7" data-audio-es="libros/gratis-2026-10-16-pepa-quiere-ser-bebe/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-pepa-quiere-ser-bebe/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t7"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t7" data-audio-es="libros/gratis-2026-10-16-pepa-quiere-ser-bebe/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-pepa-quiere-ser-bebe/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=gratis-2026-10-16-pepa-quiere-ser-bebe" data-lector="gratis-2026-10-16-pepa-quiere-ser-bebe" aria-describedby="t7"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t7"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-exploradores" data-tramo="exploradores" id="gratis-2026-10-16-el-perro-que-lo-prometia-todo">
-      <div class="tapa">
-        <img src="web/portadas/gratis-2026-10-16-el-perro-que-lo-prometia-todo.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El perro que lo prometía todo»" data-en-alt="Cover of “The Dog Who Promised Everything”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=gratis-2026-10-16-el-perro-que-lo-prometia-todo" data-lector="gratis-2026-10-16-el-perro-que-lo-prometia-todo">
+        <img src="web/portadas/gratis-2026-10-16-el-perro-que-lo-prometia-todo.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «El perro que lo prometía todo»" data-en-alt="Read “The Dog Who Promised Everything”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
-        <h3 id="t8" data-en="The Dog Who Promised Everything">El perro que lo prometía todo</h3>
+        <h3 id="t8"><a href="lector.html?id=gratis-2026-10-16-el-perro-que-lo-prometia-todo" data-lector="gratis-2026-10-16-el-perro-que-lo-prometia-todo" data-en="The Dog Who Promised Everything">El perro que lo prometía todo</a></h3>
         <p class="trozo" data-en="Lino was a fisherman dog from Puerto Suma, with a red woolly hat he wouldn&#x27;t take off even in August">Lino era un perro pescador de Puerto Suma, con un gorro de lana rojo que no se quitaba ni en agosto</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t8" data-audio-es="libros/gratis-2026-10-16-el-perro-que-lo-prometia-todo/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-el-perro-que-lo-prometia-todo/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t8"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t8" data-audio-es="libros/gratis-2026-10-16-el-perro-que-lo-prometia-todo/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-el-perro-que-lo-prometia-todo/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=gratis-2026-10-16-el-perro-que-lo-prometia-todo" data-lector="gratis-2026-10-16-el-perro-que-lo-prometia-todo" aria-describedby="t8"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t8"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-exploradores" data-tramo="exploradores" id="gratis-2026-10-16-la-bufanda-de-la-abuela-rufina">
-      <div class="tapa">
-        <img src="web/portadas/gratis-2026-10-16-la-bufanda-de-la-abuela-rufina.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «La bufanda de la abuela Rufina»" data-en-alt="Cover of “Grandma Rufina&#x27;s Scarf”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=gratis-2026-10-16-la-bufanda-de-la-abuela-rufina" data-lector="gratis-2026-10-16-la-bufanda-de-la-abuela-rufina">
+        <img src="web/portadas/gratis-2026-10-16-la-bufanda-de-la-abuela-rufina.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «La bufanda de la abuela Rufina»" data-en-alt="Read “Grandma Rufina&#x27;s Scarf”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
-        <h3 id="t9" data-en="Grandma Rufina&#x27;s Scarf">La bufanda de la abuela Rufina</h3>
+        <h3 id="t9"><a href="lector.html?id=gratis-2026-10-16-la-bufanda-de-la-abuela-rufina" data-lector="gratis-2026-10-16-la-bufanda-de-la-abuela-rufina" data-en="Grandma Rufina&#x27;s Scarf">La bufanda de la abuela Rufina</a></h3>
         <p class="trozo" data-en="On the pelican islet, just off Puerto Suma, lived Bernabé, a young pelican with a beak so big you could fit a melon inside">En el islote de los pelícanos, frente a Puerto Suma, vivía Bernabé, un pelícano joven con un pico tan grande que le cabía un melón dentro</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t9" data-audio-es="libros/gratis-2026-10-16-la-bufanda-de-la-abuela-rufina/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-la-bufanda-de-la-abuela-rufina/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t9"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t9" data-audio-es="libros/gratis-2026-10-16-la-bufanda-de-la-abuela-rufina/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-la-bufanda-de-la-abuela-rufina/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=gratis-2026-10-16-la-bufanda-de-la-abuela-rufina" data-lector="gratis-2026-10-16-la-bufanda-de-la-abuela-rufina" aria-describedby="t9"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t9"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-exploradores" data-tramo="exploradores" id="gratis-2026-10-16-martina-y-la-lampara-de-luciernagas">
-      <div class="tapa">
-        <img src="web/portadas/gratis-2026-10-16-martina-y-la-lampara-de-luciernagas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Martina y la lámpara de luciérnagas»" data-en-alt="Cover of “Martina and the Firefly Lamp”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=gratis-2026-10-16-martina-y-la-lampara-de-luciernagas" data-lector="gratis-2026-10-16-martina-y-la-lampara-de-luciernagas">
+        <img src="web/portadas/gratis-2026-10-16-martina-y-la-lampara-de-luciernagas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Martina y la lámpara de luciérnagas»" data-en-alt="Read “Martina and the Firefly Lamp”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
-        <h3 id="t10" data-en="Martina and the Firefly Lamp">Martina y la lámpara de luciérnagas</h3>
+        <h3 id="t10"><a href="lector.html?id=gratis-2026-10-16-martina-y-la-lampara-de-luciernagas" data-lector="gratis-2026-10-16-martina-y-la-lampara-de-luciernagas" data-en="Martina and the Firefly Lamp">Martina y la lámpara de luciérnagas</a></h3>
         <p class="trozo" data-en="Martina was nine, had an explorer&#x27;s pith helmet that was too big for her and one habit: reading adventure stories until very late">Martina tenía nueve años, un salacot de exploradora que le quedaba grande y una costumbre: leer aventuras hasta muy tarde</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t10" data-audio-es="libros/gratis-2026-10-16-martina-y-la-lampara-de-luciernagas/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-martina-y-la-lampara-de-luciernagas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t10"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t10" data-audio-es="libros/gratis-2026-10-16-martina-y-la-lampara-de-luciernagas/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-martina-y-la-lampara-de-luciernagas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=gratis-2026-10-16-martina-y-la-lampara-de-luciernagas" data-lector="gratis-2026-10-16-martina-y-la-lampara-de-luciernagas" aria-describedby="t10"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t10"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-aventureros" data-tramo="aventureros" id="gratis-2026-10-16-el-pacto-de-la-pandilla">
-      <div class="tapa">
-        <img src="web/portadas/gratis-2026-10-16-el-pacto-de-la-pandilla.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El Pacto de la Pandilla»" data-en-alt="Cover of “The Gang Pact”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=gratis-2026-10-16-el-pacto-de-la-pandilla" data-lector="gratis-2026-10-16-el-pacto-de-la-pandilla">
+        <img src="web/portadas/gratis-2026-10-16-el-pacto-de-la-pandilla.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «El Pacto de la Pandilla»" data-en-alt="Read “The Gang Pact”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
-        <h3 id="t11" data-en="The Gang Pact">El Pacto de la Pandilla</h3>
+        <h3 id="t11"><a href="lector.html?id=gratis-2026-10-16-el-pacto-de-la-pandilla" data-lector="gratis-2026-10-16-el-pacto-de-la-pandilla" data-en="The Gang Pact">El Pacto de la Pandilla</a></h3>
         <p class="trozo" data-en="Leo and Darío had been friends since, aged four, they swapped sandwiches without asking and discovered they both hated cheese">Leo y Darío eran amigos desde que, con cuatro años, se cambiaron los bocadillos sin preguntar y descubrieron que los dos odiaban el queso</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t11" data-audio-es="libros/gratis-2026-10-16-el-pacto-de-la-pandilla/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-el-pacto-de-la-pandilla/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t11"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t11" data-audio-es="libros/gratis-2026-10-16-el-pacto-de-la-pandilla/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-el-pacto-de-la-pandilla/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=gratis-2026-10-16-el-pacto-de-la-pandilla" data-lector="gratis-2026-10-16-el-pacto-de-la-pandilla" aria-describedby="t11"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t11"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-aventureros" data-tramo="aventureros" id="gratis-2026-10-16-obviamente-una-sirena">
-      <div class="tapa">
-        <img src="web/portadas/gratis-2026-10-16-obviamente-una-sirena.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Obviamente, una sirena»" data-en-alt="Cover of “Obviously, a Mermaid”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=gratis-2026-10-16-obviamente-una-sirena" data-lector="gratis-2026-10-16-obviamente-una-sirena">
+        <img src="web/portadas/gratis-2026-10-16-obviamente-una-sirena.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Obviamente, una sirena»" data-en-alt="Read “Obviously, a Mermaid”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
-        <h3 id="t12" data-en="Obviously, a Mermaid">Obviamente, una sirena</h3>
+        <h3 id="t12"><a href="lector.html?id=gratis-2026-10-16-obviamente-una-sirena" data-lector="gratis-2026-10-16-obviamente-una-sirena" data-en="Obviously, a Mermaid">Obviamente, una sirena</a></h3>
         <p class="trozo" data-en="Gonzalo Pomares was thirteen, wore a white lab coat even to eat his snack, and had a favourite word: “Obviously.”">Gonzalo Pomares tenía trece años, una bata blanca que se ponía hasta para merendar y una palabra favorita: «Obviamente»</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t12" data-audio-es="libros/gratis-2026-10-16-obviamente-una-sirena/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-obviamente-una-sirena/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t12"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t12" data-audio-es="libros/gratis-2026-10-16-obviamente-una-sirena/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-obviamente-una-sirena/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=gratis-2026-10-16-obviamente-una-sirena" data-lector="gratis-2026-10-16-obviamente-una-sirena" aria-describedby="t12"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t12"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-aventureros" data-tramo="aventureros" id="gratis-2026-10-16-operacion-no-me-importa">
-      <div class="tapa">
-        <img src="web/portadas/gratis-2026-10-16-operacion-no-me-importa.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Operación No Me Importa»" data-en-alt="Cover of “Operation I Don&#x27;t Care”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=gratis-2026-10-16-operacion-no-me-importa" data-lector="gratis-2026-10-16-operacion-no-me-importa">
+        <img src="web/portadas/gratis-2026-10-16-operacion-no-me-importa.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Operación No Me Importa»" data-en-alt="Read “Operation I Don&#x27;t Care”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
-        <h3 id="t13" data-en="Operation I Don&#x27;t Care">Operación No Me Importa</h3>
+        <h3 id="t13"><a href="lector.html?id=gratis-2026-10-16-operacion-no-me-importa" data-lector="gratis-2026-10-16-operacion-no-me-importa" data-en="Operation I Don&#x27;t Care">Operación No Me Importa</a></h3>
         <p class="trozo" data-en="Candela was twelve and held a record at Puerto Suma school: nobody had ever seen her sad. She had a joke for everything, even pop quizzes (“The real surprise will be on the teacher!”)">Candela tenía doce años y un récord en la escuela de Puerto Suma: nadie la había visto nunca triste</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t13" data-audio-es="libros/gratis-2026-10-16-operacion-no-me-importa/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-operacion-no-me-importa/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t13"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t13" data-audio-es="libros/gratis-2026-10-16-operacion-no-me-importa/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-operacion-no-me-importa/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=gratis-2026-10-16-operacion-no-me-importa" data-lector="gratis-2026-10-16-operacion-no-me-importa" aria-describedby="t13"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t13"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-maestros" data-tramo="maestros" id="gratis-2026-10-16-el-critico-sale-a-escena">
-      <div class="tapa">
-        <img src="web/portadas/gratis-2026-10-16-el-critico-sale-a-escena.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El crítico sale a escena»" data-en-alt="Cover of “The Critic Takes the Stage”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=gratis-2026-10-16-el-critico-sale-a-escena" data-lector="gratis-2026-10-16-el-critico-sale-a-escena">
+        <img src="web/portadas/gratis-2026-10-16-el-critico-sale-a-escena.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «El crítico sale a escena»" data-en-alt="Read “The Critic Takes the Stage”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
-        <h3 id="t14" data-en="The Critic Takes the Stage">El crítico sale a escena</h3>
+        <h3 id="t14"><a href="lector.html?id=gratis-2026-10-16-el-critico-sale-a-escena" data-lector="gratis-2026-10-16-el-critico-sale-a-escena" data-en="The Critic Takes the Stage">El crítico sale a escena</a></h3>
         <p class="trozo" data-en="Álvaro Quintanilla was sixteen, wore a silk scarf round his neck even in July, and had the most popular show on Puerto Suma&#x27;s school radio: “Álvaro&#x27;s Seat”, which played over the loudspeakers every Friday at break">Álvaro Quintanilla tenía dieciséis años, un pañuelo de seda que llevaba al cuello incluso en julio y el programa más escuchado de la radio del instituto de Puerto Suma: «La butaca de Álvaro»</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t14" data-audio-es="libros/gratis-2026-10-16-el-critico-sale-a-escena/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-el-critico-sale-a-escena/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t14"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t14" data-audio-es="libros/gratis-2026-10-16-el-critico-sale-a-escena/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-el-critico-sale-a-escena/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=gratis-2026-10-16-el-critico-sale-a-escena" data-lector="gratis-2026-10-16-el-critico-sale-a-escena" aria-describedby="t14"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t14"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-maestros" data-tramo="maestros" id="gratis-2026-10-16-la-lista-de-agravios">
-      <div class="tapa">
-        <img src="web/portadas/gratis-2026-10-16-la-lista-de-agravios.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «La lista de agravios»" data-en-alt="Cover of “The List of Grievances”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=gratis-2026-10-16-la-lista-de-agravios" data-lector="gratis-2026-10-16-la-lista-de-agravios">
+        <img src="web/portadas/gratis-2026-10-16-la-lista-de-agravios.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «La lista de agravios»" data-en-alt="Read “The List of Grievances”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
-        <h3 id="t15" data-en="The List of Grievances">La lista de agravios</h3>
+        <h3 id="t15"><a href="lector.html?id=gratis-2026-10-16-la-lista-de-agravios" data-lector="gratis-2026-10-16-la-lista-de-agravios" data-en="The List of Grievances">La lista de agravios</a></h3>
         <p class="trozo" data-en="Noa Cifuentes played the drums the way some people collect debts: punctually and without mercy">Noa Cifuentes tocaba la batería como quien cobra deudas: con puntualidad y sin piedad</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t15" data-audio-es="libros/gratis-2026-10-16-la-lista-de-agravios/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-la-lista-de-agravios/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t15"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t15" data-audio-es="libros/gratis-2026-10-16-la-lista-de-agravios/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-la-lista-de-agravios/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=gratis-2026-10-16-la-lista-de-agravios" data-lector="gratis-2026-10-16-la-lista-de-agravios" aria-describedby="t15"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t15"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-maestros" data-tramo="maestros" id="gratis-2026-10-16-lo-votasteis-vosotros">
-      <div class="tapa">
-        <img src="web/portadas/gratis-2026-10-16-lo-votasteis-vosotros.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Lo votasteis vosotros»" data-en-alt="Cover of “You Voted for It”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=gratis-2026-10-16-lo-votasteis-vosotros" data-lector="gratis-2026-10-16-lo-votasteis-vosotros">
+        <img src="web/portadas/gratis-2026-10-16-lo-votasteis-vosotros.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Lo votasteis vosotros»" data-en-alt="Read “You Voted for It”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
-        <h3 id="t16" data-en="You Voted for It">Lo votasteis vosotros</h3>
+        <h3 id="t16"><a href="lector.html?id=gratis-2026-10-16-lo-votasteis-vosotros" data-lector="gratis-2026-10-16-lo-votasteis-vosotros" data-en="You Voted for It">Lo votasteis vosotros</a></h3>
         <p class="trozo" data-en="Hugo Salcedo won the election for class delegate in his final year of school with a single promise: “Everything will be put to a vote.”">Hugo Salcedo ganó las elecciones a delegado de segundo de Bachillerato con una sola promesa: «Todo se votará»</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t16" data-audio-es="libros/gratis-2026-10-16-lo-votasteis-vosotros/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-lo-votasteis-vosotros/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t16"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t16" data-audio-es="libros/gratis-2026-10-16-lo-votasteis-vosotros/es_p1.mp3" data-audio-en="libros/gratis-2026-10-16-lo-votasteis-vosotros/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=gratis-2026-10-16-lo-votasteis-vosotros" data-lector="gratis-2026-10-16-lo-votasteis-vosotros" aria-describedby="t16"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t16"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-peques" data-tramo="peques" id="2026-10-12-bruno-y-los-panecillos-pinchados">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-12-bruno-y-los-panecillos-pinchados.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Bruno y los panecillos pinchados»" data-en-alt="Cover of “Bruno and the Prickly Buns”">
+      <a class="tapa" href="lector.html?id=2026-10-12-bruno-y-los-panecillos-pinchados" data-lector="2026-10-12-bruno-y-los-panecillos-pinchados">
+        <img src="web/portadas/2026-10-12-bruno-y-los-panecillos-pinchados.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Bruno y los panecillos pinchados»" data-en-alt="Read “Bruno and the Prickly Buns”">
         
-      </div>
+      </a>
       <div class="info">
         <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
-        <h3 id="t17" data-en="Bruno and the Prickly Buns">Bruno y los panecillos pinchados</h3>
+        <h3 id="t17"><a href="lector.html?id=2026-10-12-bruno-y-los-panecillos-pinchados" data-lector="2026-10-12-bruno-y-los-panecillos-pinchados" data-en="Bruno and the Prickly Buns">Bruno y los panecillos pinchados</a></h3>
         <p class="trozo" data-en="Bruno is a hedgehog baker in Puerto Suma. He makes soft, round little buns">Bruno es un erizo panadero de Puerto Suma. Hace panecillos redondos y blanditos</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t17" data-audio-es="libros/2026-10-12-bruno-y-los-panecillos-pinchados/es_p1.mp3" data-audio-en="libros/2026-10-12-bruno-y-los-panecillos-pinchados/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t17"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t17" data-audio-es="libros/2026-10-12-bruno-y-los-panecillos-pinchados/es_p1.mp3" data-audio-en="libros/2026-10-12-bruno-y-los-panecillos-pinchados/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-12-bruno-y-los-panecillos-pinchados" data-lector="2026-10-12-bruno-y-los-panecillos-pinchados" aria-describedby="t17"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t17"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-12-tomasa-nunca-espera-al-final">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-12-tomasa-nunca-espera-al-final.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Tomasa nunca espera al final»" data-en-alt="Cover of “Tomasa Never Waits for the End”">
+      <a class="tapa" href="lector.html?id=2026-10-12-tomasa-nunca-espera-al-final" data-lector="2026-10-12-tomasa-nunca-espera-al-final">
+        <img src="web/portadas/2026-10-12-tomasa-nunca-espera-al-final.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Tomasa nunca espera al final»" data-en-alt="Read “Tomasa Never Waits for the End”">
         
-      </div>
+      </a>
       <div class="info">
         <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
-        <h3 id="t18" data-en="Tomasa Never Waits for the End">Tomasa nunca espera al final</h3>
+        <h3 id="t18"><a href="lector.html?id=2026-10-12-tomasa-nunca-espera-al-final" data-lector="2026-10-12-tomasa-nunca-espera-al-final" data-en="Tomasa Never Waits for the End">Tomasa nunca espera al final</a></h3>
         <p class="trozo" data-en="Tomasa was a toucan postwoman in Puerto Suma, the fastest on the island. She had an enormous orange beak, a blue cap and one funny habit: she never let anyone finish">Tomasa era una tucana cartera de Puerto Suma, la más rápida de la isla. Tenía un pico naranja enorme, una gorra azul y una manía: nunca dejaba terminar a nadie</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t18" data-audio-es="libros/2026-10-12-tomasa-nunca-espera-al-final/es_p1.mp3" data-audio-en="libros/2026-10-12-tomasa-nunca-espera-al-final/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t18"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t18" data-audio-es="libros/2026-10-12-tomasa-nunca-espera-al-final/es_p1.mp3" data-audio-en="libros/2026-10-12-tomasa-nunca-espera-al-final/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-12-tomasa-nunca-espera-al-final" data-lector="2026-10-12-tomasa-nunca-espera-al-final" aria-describedby="t18"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t18"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-12-el-pulpo-chiflado">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-12-el-pulpo-chiflado.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El Pulpo Chiflado»" data-en-alt="Cover of “The Loopy Octopus”">
+      <a class="tapa" href="lector.html?id=2026-10-12-el-pulpo-chiflado" data-lector="2026-10-12-el-pulpo-chiflado">
+        <img src="web/portadas/2026-10-12-el-pulpo-chiflado.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «El Pulpo Chiflado»" data-en-alt="Read “The Loopy Octopus”">
         
-      </div>
+      </a>
       <div class="info">
         <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
-        <h3 id="t19" data-en="The Loopy Octopus">El Pulpo Chiflado</h3>
+        <h3 id="t19"><a href="lector.html?id=2026-10-12-el-pulpo-chiflado" data-lector="2026-10-12-el-pulpo-chiflado" data-en="The Loopy Octopus">El Pulpo Chiflado</a></h3>
         <p class="trozo" data-en="Nora arrived at Puerto Suma school halfway through the year, with a backpack full of pencils and not a single friend">Nora llegó a la escuela de Puerto Suma a mitad de curso, con una mochila llena de lápices y ningún amigo</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t19" data-audio-es="libros/2026-10-12-el-pulpo-chiflado/es_p1.mp3" data-audio-en="libros/2026-10-12-el-pulpo-chiflado/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t19"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t19" data-audio-es="libros/2026-10-12-el-pulpo-chiflado/es_p1.mp3" data-audio-en="libros/2026-10-12-el-pulpo-chiflado/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-12-el-pulpo-chiflado" data-lector="2026-10-12-el-pulpo-chiflado" aria-describedby="t19"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t19"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-12-dos-almendras">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-12-dos-almendras.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Dos almendras»" data-en-alt="Cover of “Two Almonds”">
+      <a class="tapa" href="lector.html?id=2026-10-12-dos-almendras" data-lector="2026-10-12-dos-almendras">
+        <img src="web/portadas/2026-10-12-dos-almendras.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Dos almendras»" data-en-alt="Read “Two Almonds”">
         
-      </div>
+      </a>
       <div class="info">
         <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
-        <h3 id="t20" data-en="Two Almonds">Dos almendras</h3>
+        <h3 id="t20"><a href="lector.html?id=2026-10-12-dos-almendras" data-lector="2026-10-12-dos-almendras" data-en="Two Almonds">Dos almendras</a></h3>
         <p class="trozo" data-en="Puerto Suma had only one serious thing a year, the Cake Contest, and only one war: Doña Amparo against Doña Clotilde">En Puerto Suma había una sola cosa seria al año, el Certamen de Tartas, y una sola guerra, la de Doña Amparo contra Doña Clotilde</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t20" data-audio-es="libros/2026-10-12-dos-almendras/es_p1.mp3" data-audio-en="libros/2026-10-12-dos-almendras/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t20"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t20" data-audio-es="libros/2026-10-12-dos-almendras/es_p1.mp3" data-audio-en="libros/2026-10-12-dos-almendras/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-12-dos-almendras" data-lector="2026-10-12-dos-almendras" aria-describedby="t20"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t20"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-peques" data-tramo="peques" id="2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Las rayas de Zoe se escapan a jugar»" data-en-alt="Cover of “Zoe&#x27;s Stripes Run Off to Play”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar" data-lector="2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar">
+        <img src="web/portadas/2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Las rayas de Zoe se escapan a jugar»" data-en-alt="Read “Zoe&#x27;s Stripes Run Off to Play”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
-        <h3 id="t21" data-en="Zoe&#x27;s Stripes Run Off to Play">Las rayas de Zoe se escapan a jugar</h3>
+        <h3 id="t21"><a href="lector.html?id=2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar" data-lector="2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar" data-en="Zoe&#x27;s Stripes Run Off to Play">Las rayas de Zoe se escapan a jugar</a></h3>
         <p class="trozo" data-en="Swish, swash! Zoe the zebra is having a shower under the waterfall">¡Flis, flas! La cebra Zoe se ducha en la cascada. Sus rayas resbalan como espaguetis</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t21" data-audio-es="libros/2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar/es_p1.mp3" data-audio-en="libros/2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t21"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t21" data-audio-es="libros/2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar/es_p1.mp3" data-audio-en="libros/2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar" data-lector="2026-10-07-las-rayas-de-zoe-se-escapan-a-jugar" aria-describedby="t21"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t21"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-peques" data-tramo="peques" id="2026-10-07-las-ruedas-cuadradas-de-fermina">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-las-ruedas-cuadradas-de-fermina.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Las ruedas cuadradas de Fermina»" data-en-alt="Cover of “Fermina&#x27;s Square Wheels”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-las-ruedas-cuadradas-de-fermina" data-lector="2026-10-07-las-ruedas-cuadradas-de-fermina">
+        <img src="web/portadas/2026-10-07-las-ruedas-cuadradas-de-fermina.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Las ruedas cuadradas de Fermina»" data-en-alt="Read “Fermina&#x27;s Square Wheels”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
-        <h3 id="t22" data-en="Fermina&#x27;s Square Wheels">Las ruedas cuadradas de Fermina</h3>
+        <h3 id="t22"><a href="lector.html?id=2026-10-07-las-ruedas-cuadradas-de-fermina" data-lector="2026-10-07-las-ruedas-cuadradas-de-fermina" data-en="Fermina&#x27;s Square Wheels">Las ruedas cuadradas de Fermina</a></h3>
         <p class="trozo" data-en="At the top of the sleeping volcano lives Fermina, the inventor goat. Today there&#x27;s a party on the beach">En lo alto del volcán dormido vive Fermina, la cabra inventora. Hoy hay fiesta en la playa</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t22" data-audio-es="libros/2026-10-07-las-ruedas-cuadradas-de-fermina/es_p1.mp3" data-audio-en="libros/2026-10-07-las-ruedas-cuadradas-de-fermina/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t22"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t22" data-audio-es="libros/2026-10-07-las-ruedas-cuadradas-de-fermina/es_p1.mp3" data-audio-en="libros/2026-10-07-las-ruedas-cuadradas-de-fermina/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-las-ruedas-cuadradas-de-fermina" data-lector="2026-10-07-las-ruedas-cuadradas-de-fermina" aria-describedby="t22"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t22"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-peques" data-tramo="peques" id="2026-10-07-ocho-calcetines-para-paco">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-ocho-calcetines-para-paco.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Ocho calcetines para Paco»" data-en-alt="Cover of “Eight Socks for Paco”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-ocho-calcetines-para-paco" data-lector="2026-10-07-ocho-calcetines-para-paco">
+        <img src="web/portadas/2026-10-07-ocho-calcetines-para-paco.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Ocho calcetines para Paco»" data-en-alt="Read “Eight Socks for Paco”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
-        <h3 id="t23" data-en="Eight Socks for Paco">Ocho calcetines para Paco</h3>
+        <h3 id="t23"><a href="lector.html?id=2026-10-07-ocho-calcetines-para-paco" data-lector="2026-10-07-ocho-calcetines-para-paco" data-en="Eight Socks for Paco">Ocho calcetines para Paco</a></h3>
         <p class="trozo" data-en="Paco is an orange octopus. The sea is warm and the sun is shining">Paco es un pulpo naranja. El mar está calentito y brilla el sol</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t23" data-audio-es="libros/2026-10-07-ocho-calcetines-para-paco/es_p1.mp3" data-audio-en="libros/2026-10-07-ocho-calcetines-para-paco/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t23"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t23" data-audio-es="libros/2026-10-07-ocho-calcetines-para-paco/es_p1.mp3" data-audio-en="libros/2026-10-07-ocho-calcetines-para-paco/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-ocho-calcetines-para-paco" data-lector="2026-10-07-ocho-calcetines-para-paco" aria-describedby="t23"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t23"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-peques" data-tramo="peques" id="2026-10-07-tita-y-el-pez-pegajoso">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-tita-y-el-pez-pegajoso.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Tita y el Pez Pegajoso»" data-en-alt="Cover of “Tita and the Sticky Fish”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-tita-y-el-pez-pegajoso" data-lector="2026-10-07-tita-y-el-pez-pegajoso">
+        <img src="web/portadas/2026-10-07-tita-y-el-pez-pegajoso.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Tita y el Pez Pegajoso»" data-en-alt="Read “Tita and the Sticky Fish”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
-        <h3 id="t24" data-en="Tita and the Sticky Fish">Tita y el Pez Pegajoso</h3>
+        <h3 id="t24"><a href="lector.html?id=2026-10-07-tita-y-el-pez-pegajoso" data-lector="2026-10-07-tita-y-el-pez-pegajoso" data-en="Tita and the Sticky Fish">Tita y el Pez Pegajoso</a></h3>
         <p class="trozo" data-en="Tita the turtle strolls by the river. Pico the parrot flies overhead">Tita, la tortuga, pasea junto al río. Pico, el loro, vuela por encima</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t24" data-audio-es="libros/2026-10-07-tita-y-el-pez-pegajoso/es_p1.mp3" data-audio-en="libros/2026-10-07-tita-y-el-pez-pegajoso/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t24"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t24" data-audio-es="libros/2026-10-07-tita-y-el-pez-pegajoso/es_p1.mp3" data-audio-en="libros/2026-10-07-tita-y-el-pez-pegajoso/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-tita-y-el-pez-pegajoso" data-lector="2026-10-07-tita-y-el-pez-pegajoso" aria-describedby="t24"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t24"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-peques" data-tramo="peques" id="2026-10-07-tito-y-las-estrellas-que-caen">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-tito-y-las-estrellas-que-caen.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Tito y las estrellas que caen»" data-en-alt="Cover of “Tito and the Falling Stars”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-tito-y-las-estrellas-que-caen" data-lector="2026-10-07-tito-y-las-estrellas-que-caen">
+        <img src="web/portadas/2026-10-07-tito-y-las-estrellas-que-caen.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Tito y las estrellas que caen»" data-en-alt="Read “Tito and the Falling Stars”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Little ones · Ages 4-6">Peques · 4-6 años</p>
-        <h3 id="t25" data-en="Tito and the Falling Stars">Tito y las estrellas que caen</h3>
+        <h3 id="t25"><a href="lector.html?id=2026-10-07-tito-y-las-estrellas-que-caen" data-lector="2026-10-07-tito-y-las-estrellas-que-caen" data-en="Tito and the Falling Stars">Tito y las estrellas que caen</a></h3>
         <p class="trozo" data-en="Ooh! Little stars are falling! Tito, the monkey with a banana hat, waves his arms">¡Oh! ¡Caen estrellitas! Tito, el mono con plátano en la cabeza, alza los brazos</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t25" data-audio-es="libros/2026-10-07-tito-y-las-estrellas-que-caen/es_p1.mp3" data-audio-en="libros/2026-10-07-tito-y-las-estrellas-que-caen/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t25"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t25" data-audio-es="libros/2026-10-07-tito-y-las-estrellas-que-caen/es_p1.mp3" data-audio-en="libros/2026-10-07-tito-y-las-estrellas-que-caen/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-tito-y-las-estrellas-que-caen" data-lector="2026-10-07-tito-y-las-estrellas-que-caen" aria-describedby="t25"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t25"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El cangrejo que quería pagar con su casa»" data-en-alt="Cover of “The Crab Who Wanted to Pay With His House”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa" data-lector="2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa">
+        <img src="web/portadas/2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «El cangrejo que quería pagar con su casa»" data-en-alt="Read “The Crab Who Wanted to Pay With His House”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
-        <h3 id="t26" data-en="The Crab Who Wanted to Pay With His House">El cangrejo que quería pagar con su casa</h3>
+        <h3 id="t26"><a href="lector.html?id=2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa" data-lector="2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa" data-en="The Crab Who Wanted to Pay With His House">El cangrejo que quería pagar con su casa</a></h3>
         <p class="trozo" data-en="Tobías the hermit crab lived in a grey, lumpy shell so small it squeezed even his thoughts">La concha de Tobías, el cangrejo ermitaño, era gris, llena de bultos y tan pequeña que le apretaba hasta las ideas</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t26" data-audio-es="libros/2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa/es_p1.mp3" data-audio-en="libros/2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t26"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t26" data-audio-es="libros/2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa/es_p1.mp3" data-audio-en="libros/2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa" data-lector="2026-10-07-el-cangrejo-que-queria-pagar-con-su-casa" aria-describedby="t26"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t26"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-07-el-castor-que-media-a-mordiscos">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-el-castor-que-media-a-mordiscos.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El castor que medía a mordiscos»" data-en-alt="Cover of “The Beaver Who Measured in Bites”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-el-castor-que-media-a-mordiscos" data-lector="2026-10-07-el-castor-que-media-a-mordiscos">
+        <img src="web/portadas/2026-10-07-el-castor-que-media-a-mordiscos.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «El castor que medía a mordiscos»" data-en-alt="Read “The Beaver Who Measured in Bites”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
-        <h3 id="t27" data-en="The Beaver Who Measured in Bites">El castor que medía a mordiscos</h3>
+        <h3 id="t27"><a href="lector.html?id=2026-10-07-el-castor-que-media-a-mordiscos" data-lector="2026-10-07-el-castor-que-media-a-mordiscos" data-en="The Beaver Who Measured in Bites">El castor que medía a mordiscos</a></h3>
         <p class="trozo" data-en="Bruno was a beaver, an apprentice builder, and he had his very first job: a bridge over the jungle river">Bruno era un castor aprendiz de constructor y tenía su primer encargo: un puente sobre el río de la selva</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t27" data-audio-es="libros/2026-10-07-el-castor-que-media-a-mordiscos/es_p1.mp3" data-audio-en="libros/2026-10-07-el-castor-que-media-a-mordiscos/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t27"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t27" data-audio-es="libros/2026-10-07-el-castor-que-media-a-mordiscos/es_p1.mp3" data-audio-en="libros/2026-10-07-el-castor-que-media-a-mordiscos/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-el-castor-que-media-a-mordiscos" data-lector="2026-10-07-el-castor-que-media-a-mordiscos" aria-describedby="t27"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t27"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-07-el-colibri-que-empujaba-las-horas">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-el-colibri-que-empujaba-las-horas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El colibrí que empujaba las horas»" data-en-alt="Cover of “The Hummingbird Who Pushed the Hours”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-el-colibri-que-empujaba-las-horas" data-lector="2026-10-07-el-colibri-que-empujaba-las-horas">
+        <img src="web/portadas/2026-10-07-el-colibri-que-empujaba-las-horas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «El colibrí que empujaba las horas»" data-en-alt="Read “The Hummingbird Who Pushed the Hours”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
-        <h3 id="t28" data-en="The Hummingbird Who Pushed the Hours">El colibrí que empujaba las horas</h3>
+        <h3 id="t28"><a href="lector.html?id=2026-10-07-el-colibri-que-empujaba-las-horas" data-lector="2026-10-07-el-colibri-que-empujaba-las-horas" data-en="The Hummingbird Who Pushed the Hours">El colibrí que empujaba las horas</a></h3>
         <p class="trozo" data-en="Zum was a green hummingbird in a party hat who simply couldn&#x27;t keep still. He ate buzzing, bathed buzzing and even snored buzzing: zzzum, zzzum">Zum era un colibrí verde con gorrito de fiesta que no sabía estarse quieto. Comía zumbando, se bañaba zumbando y hasta roncaba zumbando: zzzum, zzzum</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t28" data-audio-es="libros/2026-10-07-el-colibri-que-empujaba-las-horas/es_p1.mp3" data-audio-en="libros/2026-10-07-el-colibri-que-empujaba-las-horas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t28"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t28" data-audio-es="libros/2026-10-07-el-colibri-que-empujaba-las-horas/es_p1.mp3" data-audio-en="libros/2026-10-07-el-colibri-que-empujaba-las-horas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-el-colibri-que-empujaba-las-horas" data-lector="2026-10-07-el-colibri-que-empujaba-las-horas" aria-describedby="t28"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t28"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-07-los-cristales-cosquilleros">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-los-cristales-cosquilleros.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Los cristales cosquilleros»" data-en-alt="Cover of “The Tickly Crystals”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-los-cristales-cosquilleros" data-lector="2026-10-07-los-cristales-cosquilleros">
+        <img src="web/portadas/2026-10-07-los-cristales-cosquilleros.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Los cristales cosquilleros»" data-en-alt="Read “The Tickly Crystals”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
-        <h3 id="t29" data-en="The Tickly Crystals">Los cristales cosquilleros</h3>
+        <h3 id="t29"><a href="lector.html?id=2026-10-07-los-cristales-cosquilleros" data-lector="2026-10-07-los-cristales-cosquilleros" data-en="The Tickly Crystals">Los cristales cosquilleros</a></h3>
         <p class="trozo" data-en="&quot;Listen, Pico!&quot; said Grandma Matilde, adjusting her round glasses. From a cave among the plants came a little sound: &quot;hee-hee-hee&quot;">—¡Escucha, Pico! —dijo la abuela Matilde, ajustándose las gafas redondas. De una cueva escondida entre las plantas salía un ruidito: «jijiji»</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t29" data-audio-es="libros/2026-10-07-los-cristales-cosquilleros/es_p1.mp3" data-audio-en="libros/2026-10-07-los-cristales-cosquilleros/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t29"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t29" data-audio-es="libros/2026-10-07-los-cristales-cosquilleros/es_p1.mp3" data-audio-en="libros/2026-10-07-los-cristales-cosquilleros/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-los-cristales-cosquilleros" data-lector="2026-10-07-los-cristales-cosquilleros" aria-describedby="t29"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t29"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-exploradores" data-tramo="exploradores" id="2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Pompón, el portero que se hinchaba de risa»" data-en-alt="Cover of “Pompón, the Goalkeeper Who Puffed Up with Laughter”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa" data-lector="2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa">
+        <img src="web/portadas/2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Pompón, el portero que se hinchaba de risa»" data-en-alt="Read “Pompón, the Goalkeeper Who Puffed Up with Laughter”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Explorers · Ages 7-10">Exploradores · 7-10 años</p>
-        <h3 id="t30" data-en="Pompón, the Goalkeeper Who Puffed Up with Laughter">Pompón, el portero que se hinchaba de risa</h3>
+        <h3 id="t30"><a href="lector.html?id=2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa" data-lector="2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa" data-en="Pompón, the Goalkeeper Who Puffed Up with Laughter">Pompón, el portero que se hinchaba de risa</a></h3>
         <p class="trozo" data-en="Pompón was a yellow pufferfish with spots. Whenever he laughed, FWOOMP!, he puffed up like a ball">Pompón era un pez globo amarillo con lunares. Cuando se reía, ¡fuuup!, se hinchaba como una pelota</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t30" data-audio-es="libros/2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa/es_p1.mp3" data-audio-en="libros/2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t30"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t30" data-audio-es="libros/2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa/es_p1.mp3" data-audio-en="libros/2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa" data-lector="2026-10-07-pompon-el-portero-que-se-hinchaba-de-risa" aria-describedby="t30"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t30"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-07-a-lo-mejor">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-a-lo-mejor.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «A lo mejor»" data-en-alt="Cover of “Maybe”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-a-lo-mejor" data-lector="2026-10-07-a-lo-mejor">
+        <img src="web/portadas/2026-10-07-a-lo-mejor.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «A lo mejor»" data-en-alt="Read “Maybe”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
-        <h3 id="t31" data-en="Maybe">A lo mejor</h3>
+        <h3 id="t31"><a href="lector.html?id=2026-10-07-a-lo-mejor" data-lector="2026-10-07-a-lo-mejor" data-en="Maybe">A lo mejor</a></h3>
         <p class="trozo" data-en="Aurelia, an armadillo in a mustard neckerchief, had an allergy no medical book had ever mentioned: she was allergic to “maybe”">Aurelia, una armadilla con pañuelo mostaza, tenía una alergia que no salía en ningún libro de medicina: era alérgica al «a lo mejor»</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t31" data-audio-es="libros/2026-10-07-a-lo-mejor/es_p1.mp3" data-audio-en="libros/2026-10-07-a-lo-mejor/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t31"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t31" data-audio-es="libros/2026-10-07-a-lo-mejor/es_p1.mp3" data-audio-en="libros/2026-10-07-a-lo-mejor/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-a-lo-mejor" data-lector="2026-10-07-a-lo-mejor" aria-describedby="t31"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t31"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-07-el-hipo-de-la-ballena-barbara">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-el-hipo-de-la-ballena-barbara.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El hipo de la ballena Bárbara»" data-en-alt="Cover of “Bárbara the Whale&#x27;s Hiccups”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-el-hipo-de-la-ballena-barbara" data-lector="2026-10-07-el-hipo-de-la-ballena-barbara">
+        <img src="web/portadas/2026-10-07-el-hipo-de-la-ballena-barbara.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «El hipo de la ballena Bárbara»" data-en-alt="Read “Bárbara the Whale&#x27;s Hiccups”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
-        <h3 id="t32" data-en="Bárbara the Whale&#x27;s Hiccups">El hipo de la ballena Bárbara</h3>
+        <h3 id="t32"><a href="lector.html?id=2026-10-07-el-hipo-de-la-ballena-barbara" data-lector="2026-10-07-el-hipo-de-la-ballena-barbara" data-en="Bárbara the Whale&#x27;s Hiccups">El hipo de la ballena Bárbara</a></h3>
         <p class="trozo" data-en="Bárbara was an enormous humpback whale, terribly polite and, for the last three days, terribly hiccupy">Bárbara era una ballena jorobada enorme, educadísima y, desde hacía tres días, con hipo. Cada hipido le sacaba por el lomo un chorro tan alto que las gaviotas tenían que frenar en seco y dar un rodeo</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t32" data-audio-es="libros/2026-10-07-el-hipo-de-la-ballena-barbara/es_p1.mp3" data-audio-en="libros/2026-10-07-el-hipo-de-la-ballena-barbara/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t32"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t32" data-audio-es="libros/2026-10-07-el-hipo-de-la-ballena-barbara/es_p1.mp3" data-audio-en="libros/2026-10-07-el-hipo-de-la-ballena-barbara/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-el-hipo-de-la-ballena-barbara" data-lector="2026-10-07-el-hipo-de-la-ballena-barbara" aria-describedby="t32"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t32"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-07-el-testigo-boca-abajo">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-el-testigo-boca-abajo.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «El testigo boca abajo»" data-en-alt="Cover of “The Upside-Down Witness”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-el-testigo-boca-abajo" data-lector="2026-10-07-el-testigo-boca-abajo">
+        <img src="web/portadas/2026-10-07-el-testigo-boca-abajo.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «El testigo boca abajo»" data-en-alt="Read “The Upside-Down Witness”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
-        <h3 id="t33" data-en="The Upside-Down Witness">El testigo boca abajo</h3>
+        <h3 id="t33"><a href="lector.html?id=2026-10-07-el-testigo-boca-abajo" data-lector="2026-10-07-el-testigo-boca-abajo" data-en="The Upside-Down Witness">El testigo boca abajo</a></h3>
         <p class="trozo" data-en="Simón was the lift operator at Mirasol Tower, the tallest skyscraper in Puerto Suma, whose glass lift ran up the outside like a bubble in a hurry">Simón era el ascensorista de la Torre Mirasol, el rascacielos más alto de Puerto Suma, con un ascensor de cristal que subía por fuera como una burbuja con prisa</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t33" data-audio-es="libros/2026-10-07-el-testigo-boca-abajo/es_p1.mp3" data-audio-en="libros/2026-10-07-el-testigo-boca-abajo/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t33"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t33" data-audio-es="libros/2026-10-07-el-testigo-boca-abajo/es_p1.mp3" data-audio-en="libros/2026-10-07-el-testigo-boca-abajo/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-el-testigo-boca-abajo" data-lector="2026-10-07-el-testigo-boca-abajo" aria-describedby="t33"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t33"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-07-ocho-brazos-ocho-ofertas">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-ocho-brazos-ocho-ofertas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Ocho brazos, ocho ofertas»" data-en-alt="Cover of “Eight Arms, Eight Offers”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-ocho-brazos-ocho-ofertas" data-lector="2026-10-07-ocho-brazos-ocho-ofertas">
+        <img src="web/portadas/2026-10-07-ocho-brazos-ocho-ofertas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Ocho brazos, ocho ofertas»" data-en-alt="Read “Eight Arms, Eight Offers”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
-        <h3 id="t34" data-en="Eight Arms, Eight Offers">Ocho brazos, ocho ofertas</h3>
+        <h3 id="t34"><a href="lector.html?id=2026-10-07-ocho-brazos-ocho-ofertas" data-lector="2026-10-07-ocho-brazos-ocho-ofertas" data-en="Eight Arms, Eight Offers">Ocho brazos, ocho ofertas</a></h3>
         <p class="trozo" data-en="At the Puerto Suma market, Otilia sold mangoes from a wheeled barrel of seawater. She had coral-coloured skin, a straw hat and one iron rule: “I&#x27;m the head around here.”">En el mercado de Puerto Suma, Otilia vendía mangos desde un barril de agua de mar con ruedas</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t34" data-audio-es="libros/2026-10-07-ocho-brazos-ocho-ofertas/es_p1.mp3" data-audio-en="libros/2026-10-07-ocho-brazos-ocho-ofertas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t34"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t34" data-audio-es="libros/2026-10-07-ocho-brazos-ocho-ofertas/es_p1.mp3" data-audio-en="libros/2026-10-07-ocho-brazos-ocho-ofertas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-ocho-brazos-ocho-ofertas" data-lector="2026-10-07-ocho-brazos-ocho-ofertas" aria-describedby="t34"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t34"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-aventureros" data-tramo="aventureros" id="2026-10-07-shhh">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-shhh.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «¡SHHH!»" data-en-alt="Cover of “SHHH!”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-shhh" data-lector="2026-10-07-shhh">
+        <img src="web/portadas/2026-10-07-shhh.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «¡SHHH!»" data-en-alt="Read “SHHH!”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Adventurers · Ages 11-15">Aventureros · 11-15 años</p>
-        <h3 id="t35" data-en="SHHH!">¡SHHH!</h3>
+        <h3 id="t35"><a href="lector.html?id=2026-10-07-shhh" data-lector="2026-10-07-shhh" data-en="SHHH!">¡SHHH!</a></h3>
         <p class="trozo" data-en="In the Puerto Suma bookshop, hanging upside down from the brass lamp, lives Celso, a sloth who reads in slow motion">En la librería de Puerto Suma, colgado boca arriba de la lámpara de latón, vive Celso, un perezoso que lee a cámara lenta</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t35" data-audio-es="libros/2026-10-07-shhh/es_p1.mp3" data-audio-en="libros/2026-10-07-shhh/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t35"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t35" data-audio-es="libros/2026-10-07-shhh/es_p1.mp3" data-audio-en="libros/2026-10-07-shhh/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-shhh" data-lector="2026-10-07-shhh" aria-describedby="t35"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t35"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-07-la-farera-no-juega-a-la-suerte">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-la-farera-no-juega-a-la-suerte.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «La farera no juega a la suerte»" data-en-alt="Cover of “The Keeper Doesn&#x27;t Gamble”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-la-farera-no-juega-a-la-suerte" data-lector="2026-10-07-la-farera-no-juega-a-la-suerte">
+        <img src="web/portadas/2026-10-07-la-farera-no-juega-a-la-suerte.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «La farera no juega a la suerte»" data-en-alt="Read “The Keeper Doesn&#x27;t Gamble”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
-        <h3 id="t36" data-en="The Keeper Doesn&#x27;t Gamble">La farera no juega a la suerte</h3>
+        <h3 id="t36"><a href="lector.html?id=2026-10-07-la-farera-no-juega-a-la-suerte" data-lector="2026-10-07-la-farera-no-juega-a-la-suerte" data-en="The Keeper Doesn&#x27;t Gamble">La farera no juega a la suerte</a></h3>
         <p class="trozo" data-en="Doña Remedios Albarrán, keeper of the Puerto Suma lighthouse, wears a pressed uniform, a perfectly level cap and the expression of a tide table">Doña Remedios Albarrán, farera de Puerto Suma, lleva el uniforme planchado, la gorra en su sitio y la expresión de una tabla de mareas</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t36" data-audio-es="libros/2026-10-07-la-farera-no-juega-a-la-suerte/es_p1.mp3" data-audio-en="libros/2026-10-07-la-farera-no-juega-a-la-suerte/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t36"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t36" data-audio-es="libros/2026-10-07-la-farera-no-juega-a-la-suerte/es_p1.mp3" data-audio-en="libros/2026-10-07-la-farera-no-juega-a-la-suerte/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-la-farera-no-juega-a-la-suerte" data-lector="2026-10-07-la-farera-no-juega-a-la-suerte" aria-describedby="t36"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t36"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-07-las-doce-o-las-cero">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-las-doce-o-las-cero.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Las doce o las cero»" data-en-alt="Cover of “Twelve or Zero”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-las-doce-o-las-cero" data-lector="2026-10-07-las-doce-o-las-cero">
+        <img src="web/portadas/2026-10-07-las-doce-o-las-cero.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Las doce o las cero»" data-en-alt="Read “Twelve or Zero”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
-        <h3 id="t37" data-en="Twelve or Zero">Las doce o las cero</h3>
+        <h3 id="t37"><a href="lector.html?id=2026-10-07-las-doce-o-las-cero" data-lector="2026-10-07-las-doce-o-las-cero" data-en="Twelve or Zero">Las doce o las cero</a></h3>
         <p class="trozo" data-en="For a century, the Puerto Suma lighthouse had been saying the same thing: wink-wink, pause, wink-wink, which in lighthouse means &quot;there are rocks here; suit yourself&quot;">El faro de Puerto Suma llevaba un siglo diciendo lo mismo: guiño-guiño, pausa, guiño-guiño, que en idioma de faro significa «aquí hay rocas; usted verá»</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t37" data-audio-es="libros/2026-10-07-las-doce-o-las-cero/es_p1.mp3" data-audio-en="libros/2026-10-07-las-doce-o-las-cero/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t37"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t37" data-audio-es="libros/2026-10-07-las-doce-o-las-cero/es_p1.mp3" data-audio-en="libros/2026-10-07-las-doce-o-las-cero/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-las-doce-o-las-cero" data-lector="2026-10-07-las-doce-o-las-cero" aria-describedby="t37"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t37"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-07-medio-volcan">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-medio-volcan.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Medio volcán»" data-en-alt="Cover of “Half a Volcano”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-medio-volcan" data-lector="2026-10-07-medio-volcan">
+        <img src="web/portadas/2026-10-07-medio-volcan.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Medio volcán»" data-en-alt="Read “Half a Volcano”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
-        <h3 id="t38" data-en="Half a Volcano">Medio volcán</h3>
+        <h3 id="t38"><a href="lector.html?id=2026-10-07-medio-volcan" data-lector="2026-10-07-medio-volcan" data-en="Half a Volcano">Medio volcán</a></h3>
         <p class="trozo" data-en="In Puerto Suma, everything was on the map: the piers, the fountain in the plaza, the lighthouse with its height engraved on a plaque nobody had ever checked, even the pothole on Fish Street, marked with a little cross">En Puerto Suma todo estaba en el mapa: los muelles, la fuente de la plaza, el faro con su altura grabada en una placa que nadie había comprobado y hasta el bache de la calle del Pez, señalado con una crucecita</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t38" data-audio-es="libros/2026-10-07-medio-volcan/es_p1.mp3" data-audio-en="libros/2026-10-07-medio-volcan/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t38"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t38" data-audio-es="libros/2026-10-07-medio-volcan/es_p1.mp3" data-audio-en="libros/2026-10-07-medio-volcan/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-medio-volcan" data-lector="2026-10-07-medio-volcan" aria-describedby="t38"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t38"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-07-pierdo-a-las-cartas">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-pierdo-a-las-cartas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Pierdo a las cartas»" data-en-alt="Cover of “I Lose at Cards”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-pierdo-a-las-cartas" data-lector="2026-10-07-pierdo-a-las-cartas">
+        <img src="web/portadas/2026-10-07-pierdo-a-las-cartas.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Pierdo a las cartas»" data-en-alt="Read “I Lose at Cards”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
-        <h3 id="t39" data-en="I Lose at Cards">Pierdo a las cartas</h3>
+        <h3 id="t39"><a href="lector.html?id=2026-10-07-pierdo-a-las-cartas" data-lector="2026-10-07-pierdo-a-las-cartas" data-en="I Lose at Cards">Pierdo a las cartas</a></h3>
         <p class="trozo" data-en="In Puerto Suma, beside the turquoise whirlpools, three boats go out fishing, and each has its owner&#x27;s character painted on the hull">En Puerto Suma, junto a los remolinos turquesa, faenan tres barcas, y cada una lleva pintado en el casco el carácter de su dueño</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t39" data-audio-es="libros/2026-10-07-pierdo-a-las-cartas/es_p1.mp3" data-audio-en="libros/2026-10-07-pierdo-a-las-cartas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t39"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t39" data-audio-es="libros/2026-10-07-pierdo-a-las-cartas/es_p1.mp3" data-audio-en="libros/2026-10-07-pierdo-a-las-cartas/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-pierdo-a-las-cartas" data-lector="2026-10-07-pierdo-a-las-cartas" aria-describedby="t39"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t39"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
     <li class="cuento t-maestros" data-tramo="maestros" id="2026-10-07-se-sabe-desde-las-nueve">
-      <div class="tapa">
-        <img src="web/portadas/2026-10-07-se-sabe-desde-las-nueve.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «Se sabe desde las nueve»" data-en-alt="Cover of “Known Since Nine”">
-        <div class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></div>
-      </div>
+      <a class="tapa" href="lector.html?id=2026-10-07-se-sabe-desde-las-nueve" data-lector="2026-10-07-se-sabe-desde-las-nueve">
+        <img src="web/portadas/2026-10-07-se-sabe-desde-las-nueve.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «Se sabe desde las nueve»" data-en-alt="Read “Known Since Nine”">
+        <span class="sellos-tapa"><span class="sello gratis" title="Incluido en la Librería de Puerto Suma" data-en-title="Included in the Puerto Suma Bookshop" data-en="Included">Incluido</span></span>
+      </a>
       <div class="info">
         <p class="edad" data-en="Masters · Ages 16+">Maestros · 16+ años</p>
-        <h3 id="t40" data-en="Known Since Nine">Se sabe desde las nueve</h3>
+        <h3 id="t40"><a href="lector.html?id=2026-10-07-se-sabe-desde-las-nueve" data-lector="2026-10-07-se-sabe-desde-las-nueve" data-en="Known Since Nine">Se sabe desde las nueve</a></h3>
         <p class="trozo" data-en="Just after lunch, Adela Brea climbed the stairs to the office of The Lighthouse Gazette with a baguette poking out of her satchel">Después de comer, Adela Brea subió a la redacción de La Gaceta del Faro con una barra de pan asomando de la cartera</p>
       </div>
       <div class="botones">
-        <button type="button" class="oir" aria-pressed="false" aria-describedby="t40" data-audio-es="libros/2026-10-07-se-sabe-desde-las-nueve/es_p1.mp3" data-audio-en="libros/2026-10-07-se-sabe-desde-las-nueve/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar el principio</span></button>
-        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t40"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          <button type="button" class="oir" aria-pressed="false" aria-describedby="t40" data-audio-es="libros/2026-10-07-se-sabe-desde-las-nueve/es_p1.mp3" data-audio-en="libros/2026-10-07-se-sabe-desde-las-nueve/en_p1.mp3"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+          <a class="leer-l" href="lector.html?id=2026-10-07-se-sabe-desde-las-nueve" data-lector="2026-10-07-se-sabe-desde-las-nueve" aria-describedby="t40"><span class="libro" aria-hidden="true"></span><span data-en="Read">Leer</span></a>
+        </div>
+        <a class="leer" href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-describedby="t40"><span data-en="More stories in Sumanautas">Más cuentos en Sumanautas</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>
   </ul>
 
   <section class="ganas" aria-labelledby="h-ganas">
-    <h2 id="h-ganas" data-en="Want to know what happens next?">¿Quieres saber cómo sigue?</h2>
-    <p data-en="In Sumanautas you read every story to the end, narrated aloud with the words lighting up as you go and questions at the end. And new stories arrive every week!">En Sumanautas cada cuento se lee entero, narrado en voz alta con las palabras iluminándose al leer y con preguntas al final. ¡Y cada semana llegan cuentos nuevos!</p>
+    <h2 id="h-ganas" data-en="And in the game, even more!">¡Y en el juego, mucho más!</h2>
+    <p data-en="In Sumanautas every story is narrated aloud with the words lighting up as you go and questions at the end, inside a 3D adventure full of things to learn. And new stories arrive every week!">En Sumanautas cada cuento se lee narrado en voz alta, con las palabras iluminándose al leer y preguntas al final, dentro de una aventura en 3D llena de cosas que aprender. ¡Y cada semana llegan cuentos nuevos!</p>
     <a class="appstore " href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-label="Descárgalo en el App Store" data-en-aria="Download on the App Store"><svg viewBox="0 0 384 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg><span><small data-en="Download on the">Descárgalo en el</small><b>App Store</b></span></a>
   </section>
 </main>
@@ -883,9 +1013,9 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
   "use strict";
   var raiz = document.documentElement;
   var TXT = {
-    es: { oir: "Escuchar el principio", parar: "Parar", fallo: "No se ha podido oír",
+    es: { oir: "Escuchar", parar: "Parar", fallo: "No se ha podido oír",
           cuentos: function (n) { return n === 1 ? "1 cuento" : n + " cuentos"; } },
-    en: { oir: "Listen to the beginning", parar: "Stop", fallo: "Couldn't play it",
+    en: { oir: "Listen", parar: "Stop", fallo: "Couldn't play it",
           cuentos: function (n) { return n === 1 ? "1 story" : n + " stories"; } }
   };
   var ATRIBUTOS = [["alt", "enAlt", "esAlt"], ["aria-label", "enAria", "esAria"], ["title", "enTitle", "esTitle"], ["content", "enContent", "esContent"]];
@@ -914,6 +1044,9 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
       });
     });
     [].forEach.call(document.querySelectorAll(".oir"), function (b) { etiqueta(b, "oir"); });
+    [].forEach.call(document.querySelectorAll("[data-lector]"), function (a) {   // el lector se abre en el mismo idioma
+      a.href = "lector.html?id=" + encodeURIComponent(a.dataset.lector) + (idioma === "en" ? "&lang=en" : "");
+    });
     [].forEach.call(document.querySelectorAll(".idioma button"), function (b) {
       b.setAttribute("aria-pressed", String(b.dataset.idioma === idioma));
     });

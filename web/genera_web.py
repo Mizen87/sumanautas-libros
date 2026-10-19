@@ -4,13 +4,23 @@
 [19-oct-2026, el dueño: «una página web con todos los cuentos que hay en el juego; así sería publicidad, con mis enlaces al
 juego y a mi página web»]. Lee catalogo.json y cada libros/<id>/libro.json y escribe:
   · index.html               la portada del sitio (ES por defecto, botón ES/EN): el juego, capturas y TODOS los cuentos con
-                             su portada, edad, «Gratis»/«¡Nuevo!», el principio de la página 1 (una o dos frases, NO el
-                             cuento), «Escuchar el principio» (libros/<id>/es_p1.mp3 o en_p1.mp3) y «Léelo entero» → App Store.
+                             su portada, edad, «Incluido»/«¡Nuevo!», el principio de la página 1 (una o dos frases),
+                             «Escuchar» (libros/<id>/es_p1.mp3 o en_p1.mp3), «Leer» (→ el lector) y el App Store.
                              El CSS (web/estilo.css) y el JS (web/app.js) van DENTRO: se editan allí y se vuelve a ejecutar.
   · web/portadas/<id>.jpg    miniaturas 480×640 (≈40 KB); solo se rehacen si la portada es más nueva (dibujos rehechos).
   · web/og.jpg               1200×630 para compartir (WhatsApp, X, Facebook…): mosaico de portadas + icono + «N cuentos».
   · web/icono.jpg, icono-180.png, favicon.png y web/capturas/*.jpg   solo si faltan (del repo del juego).
-«Gratis» = como el juego (TiendaCuentos.DePago): los de regalo y los de antes del 8-oct-2026. «¡Nuevo!» = los de la última tanda.
+  · lector.html              [19-oct, él: «no se ven las imágenes del cuento: solo se puede escuchar, tampoco leer»] EL LECTOR:
+                             lector.html?id=<id>[&lang=en][#n] (URL para compartir). Portada, una hoja por página con su dibujo,
+                             su texto y «Escuchar» (es_pN.mp3 / en_pN.mp3), deslizar o flechas, ES/EN y una hoja final. Estático:
+                             web/lector.css y web/lector.js van dentro; los datos, en web/cuentos/<id>.json.
+  · web/cuentos/<id>.json    lo que el lector puede enseñar: título, edad, nº de páginas y SOLO las páginas legibles en la web
+                             (texto es/en y su dibujo, como Libro.Dibujo del juego). Sin las preguntas del final.
+  · web/paginas/<id>/pN.jpg  los dibujos de esas páginas, 600×800 (≈60 KB).
+ENTEROS O MUESTRA: [19-oct, él: «que se lean enteros en la web los que hay ahora, pero los que vayan saliendo a partir de
+ahora, esos no»] web/enteros.json es una lista FIJA (los 40 del 19-oct-2026; este script NUNCA la amplía): los que están, enteros;
+los demás, las MUESTRA primeras páginas y después «¿Quieres saber cómo sigue? Léelo entero en Sumanautas» (App Store).
+«Incluido» = como el juego (TiendaCuentos.DePago): los de regalo y los de antes del 8-oct-2026. «¡Nuevo!» = la última tanda.
 NUNCA nombra Android ni Google Play. No toca privacidad.html ni soporte.html (los enlaza el App Store), ni hace git.
 
 Uso:  python3 web/genera_web.py        (cada lunes, después de genera_libro.py: ver «publica» en genera_libro.py)"""
@@ -28,6 +38,8 @@ SITIO = "https://mizen87.github.io/sumanautas-libros/"
 APP_ID = "6820056090"
 APP_STORE = f"https://apps.apple.com/app/id{APP_ID}"
 JUCABIME = "https://jucabime.com"
+MUESTRA = 3                   # páginas que se pueden leer en la web de los cuentos que NO están en web/enteros.json
+ENTEROS = os.path.join(WEB, "enteros.json")
 CORTE = "2026-10-08"          # TiendaCuentos.Corte: desde ese día, los cuentos nuevos van a la tienda del castillo (puntos)
 
 TRAMOS = {   # id: (es, en, edades es, edades en, emoji) — como en el juego (Textos.cs: tramo_*)
@@ -74,6 +86,48 @@ def de_pago(b):
 
 def orden(b):
     return fecha_de(b) or (b["publicado"][:10] if es_fecha(b.get("publicado")) else "")
+
+
+def dibujo(lj, i):
+    """Como Libro.Dibujo(i) del juego (Libros.cs): la página i (desde 0) enseña el último de «dibujos» que no pasa de ella
+    (los dibujos se estrenan en esas páginas y las demás repiten el último); sin «dibujos», uno por página."""
+    p, dib = i + 1, lj.get("dibujos") or []
+    if not dib: return p
+    mejor = dib[0]
+    for d in dib:
+        if mejor < d <= p: mejor = d
+    return mejor
+
+
+def enteros():
+    """Los ids que la web deja leer enteros (lista FIJA del 19-oct-2026: aquí solo se lee, nunca se amplía)."""
+    try: return set(json.load(open(ENTEROS, encoding="utf-8"))["ids"])
+    except Exception as ex: aviso("sin web/enteros.json (todos irán con muestra):", ex); return set()
+
+
+def datos_lector(b, lj, entero):
+    """web/cuentos/<id>.json: SOLO lo que se puede leer en la web (enteros: todo; los demás, MUESTRA páginas). Sin preguntas."""
+    pags = lj.get("paginas") or []
+    arch = set(b.get("archivos", []))
+    legibles = []
+    for i, p in enumerate(pags if entero else pags[:MUESTRA]):
+        d = dibujo(lj, i)
+        legibles.append({"es": p.get("es", ""), "en": p.get("en", "") or p.get("es", ""),
+                         "d": d if f"p{d}.jpg" in arch or os.path.exists(os.path.join(BIB, "libros", b["id"], f"p{d}.jpg")) else 0,
+                         "audio": f"es_p{i + 1}.mp3" in arch and f"en_p{i + 1}.mp3" in arch})
+    tit = b["titulo"]
+    return {"id": b["id"], "titulo": [tit[0], tit[1] if len(tit) > 1 else tit[0]], "tramo": b["tramo"], "entero": entero,
+            "total": len(pags), "titulo_audio": "es_titulo.mp3" in arch and "en_titulo.mp3" in arch, "paginas": legibles}
+
+
+def escribe_si_cambia(ruta, texto):
+    try:
+        if open(ruta, encoding="utf-8").read() == texto: return False
+    except FileNotFoundError: pass
+    tmp = ruta + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f: f.write(texto)
+    os.replace(tmp, ruta)
+    return True
 
 
 # ── el principio de la página 1: la primera frase o dos (hasta ~90 letras; nunca el cuento) ──
@@ -123,6 +177,13 @@ def miniatura(src, dst):
     if os.path.exists(dst) and os.path.getmtime(dst) >= os.path.getmtime(src): return False
     im = ImageOps.fit(Image.open(src).convert("RGB"), (480, 640), Image.LANCZOS)
     guarda_jpg(im, dst, 40_000)
+    return True
+
+
+def dibujo_web(src, dst):
+    if os.path.exists(dst) and os.path.getmtime(dst) >= os.path.getmtime(src): return False
+    im = ImageOps.fit(Image.open(src).convert("RGB"), (600, 800), Image.LANCZOS)
+    guarda_jpg(im, dst, 65_000, calidades=(76, 72, 68, 64, 60, 56))
     return True
 
 
@@ -240,6 +301,12 @@ def badge_app(clase=""):
 
 def tarjeta(b, n, ultima):
     t = TRAMOS[b["tramo"]]
+    idq = urllib.parse.quote(b["id"])
+    url = f"lector.html?id={idq}"
+    entero = b["_entero"]
+    leer_es, leer_en = ("Leer", "Read") if entero else ("Leer el principio", "Read the beginning")
+    tienda_es, tienda_en = (("Más cuentos en Sumanautas", "More stories in Sumanautas") if entero
+                            else ("Léelo entero en Sumanautas", "Read it all in Sumanautas"))
     sellos = []
     if orden(b) == ultima: sellos.append('<span class="sello nuevo" data-en="New!">¡Nuevo!</span>')
     if not de_pago(b):
@@ -252,21 +319,24 @@ def tarjeta(b, n, ultima):
     if "es_p1.mp3" in b.get("archivos", []) and "en_p1.mp3" in b.get("archivos", []):
         oir = (f'<button type="button" class="oir" aria-pressed="false" aria-describedby="t{n}" data-audio-es="{ruta}es_p1.mp3" '
                f'data-audio-en="{ruta}en_p1.mp3"><span class="ico" aria-hidden="true"></span>'
-               f'<span class="txt">Escuchar el principio</span></button>')
+               f'<span class="txt">Escuchar</span></button>')
     return f"""
     <li class="cuento t-{b['tramo']}" data-tramo="{b['tramo']}" id="{e(b['id'])}">
-      <div class="tapa">
-        <img src="web/portadas/{urllib.parse.quote(b['id'])}.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Portada de «{e(tes)}»" data-en-alt="Cover of “{e(ten)}”">
-        {'<div class="sellos-tapa">' + ''.join(sellos) + '</div>' if sellos else ''}
-      </div>
+      <a class="tapa" href="{url}" data-lector="{e(b['id'])}">
+        <img src="web/portadas/{idq}.jpg" width="480" height="640" loading="lazy" decoding="async" alt="Leer «{e(tes)}»" data-en-alt="Read “{e(ten)}”">
+        {'<span class="sellos-tapa">' + ''.join(sellos) + '</span>' if sellos else ''}
+      </a>
       <div class="info">
         <p class="edad" data-en="{e(t[1])} · {e(t[3])}">{e(t[0])} · {e(t[2])}</p>
-        <h3 id="t{n}" data-en="{e(ten)}">{e(tes)}</h3>
+        <h3 id="t{n}"><a href="{url}" data-lector="{e(b['id'])}" data-en="{e(ten)}">{e(tes)}</a></h3>
         <p class="trozo" data-en="{e(b['_trozo_en'])}">{e(b['_trozo_es'])}</p>
       </div>
       <div class="botones">
-        {oir}
-        <a class="leer" href="{APP_STORE}" rel="noopener" aria-describedby="t{n}"><span data-en="Read it all in Sumanautas">Léelo entero en Sumanautas</span> <span aria-hidden="true">→</span></a>
+        <div class="fila">
+          {oir}
+          <a class="leer-l" href="{url}" data-lector="{e(b['id'])}" aria-describedby="t{n}"><span class="libro" aria-hidden="true"></span><span data-en="{leer_en}">{leer_es}</span></a>
+        </div>
+        <a class="leer" href="{APP_STORE}" rel="noopener" aria-describedby="t{n}"><span data-en="{tienda_en}">{tienda_es}</span> <span aria-hidden="true">→</span></a>
       </div>
     </li>"""
 
@@ -372,7 +442,7 @@ def pagina(libros, actualizado):
 
 <main id="biblioteca" class="biblioteca envoltorio" aria-labelledby="h-bib">
   <h2 class="titulo-seccion" id="h-bib" data-en="The story library">La biblioteca de cuentos</h2>
-  <p class="entradilla" data-en="{total} original stories full of values and humour, illustrated and read aloud in Spanish and English. Here is how each one begins: the rest is waiting in the game.">{total} cuentos originales con valores y humor, ilustrados y narrados en voz alta en español y en inglés. Aquí tienes el principio de cada uno: el resto te espera en el juego.</p>
+  <p class="entradilla" data-en="{total} original stories full of values and humour, illustrated and read aloud in Spanish and English. Open one to read it with its pictures and listen to it, page by page.">{total} cuentos originales con valores y humor, ilustrados y narrados en voz alta en español y en inglés. Abre uno para leerlo con sus dibujos y escucharlo página a página.</p>
   <div class="semanal"><span data-en="📬 New stories arrive every week · Updated {f_en}">📬 Cada semana llegan cuentos nuevos · Actualizado el {f_es}</span></div>
   <div class="filtros" role="group" aria-label="Filtrar por edad" data-en-aria="Filter by age">
     {''.join(filtros)}
@@ -382,8 +452,8 @@ def pagina(libros, actualizado):
   </ul>
 
   <section class="ganas" aria-labelledby="h-ganas">
-    <h2 id="h-ganas" data-en="Want to know what happens next?">¿Quieres saber cómo sigue?</h2>
-    <p data-en="In Sumanautas you read every story to the end, narrated aloud with the words lighting up as you go and questions at the end. And new stories arrive every week!">En Sumanautas cada cuento se lee entero, narrado en voz alta con las palabras iluminándose al leer y con preguntas al final. ¡Y cada semana llegan cuentos nuevos!</p>
+    <h2 id="h-ganas" data-en="And in the game, even more!">¡Y en el juego, mucho más!</h2>
+    <p data-en="In Sumanautas every story is narrated aloud with the words lighting up as you go and questions at the end, inside a 3D adventure full of things to learn. And new stories arrive every week!">En Sumanautas cada cuento se lee narrado en voz alta, con las palabras iluminándose al leer y preguntas al final, dentro de una aventura en 3D llena de cosas que aprender. ¡Y cada semana llegan cuentos nuevos!</p>
     {badge_app()}
   </section>
 </main>
@@ -408,10 +478,71 @@ def pagina(libros, actualizado):
 """, gratis
 
 
+def lector_html():
+    """lector.html: estático (lo mismo cada semana); los datos de cada cuento, en web/cuentos/<id>.json."""
+    css = open(os.path.join(WEB, "lector.css"), encoding="utf-8").read()
+    js = open(os.path.join(WEB, "lector.js"), encoding="utf-8").read()
+    v_og = hashlib.md5(open(os.path.join(WEB, "og.jpg"), "rb").read()).hexdigest()[:8]
+    desc = "Lee y escucha los cuentos de Sumanautas con sus dibujos, en español y en inglés."
+    return f"""<!doctype html>
+<html lang="es" data-sitio="{SITIO}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Cuentos de Sumanautas</title>
+<meta name="description" content="{e(desc)}">
+<meta name="theme-color" content="#3fa9f5">
+<meta name="apple-itunes-app" content="app-id={APP_ID}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Sumanautas">
+<meta property="og:title" content="Cuentos de Sumanautas">
+<meta property="og:description" content="{e(desc)}">
+<meta property="og:image" content="{SITIO}web/og.jpg?v={v_og}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="es_ES">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{SITIO}web/og.jpg?v={v_og}">
+<link rel="icon" type="image/png" sizes="64x64" href="web/favicon.png">
+<link rel="apple-touch-icon" href="web/icono-180.png">
+<style>
+{css}
+</style>
+</head>
+<body>
+<header class="lbarra">
+  <a class="volver" href="./"><span aria-hidden="true">←</span><img src="web/icono.jpg" width="26" height="26" alt=""><span class="t">Biblioteca</span></a>
+  <p class="ltitulo" id="ltitulo">Sumanautas</p>
+  <div class="idioma" role="group" aria-label="Idioma">
+    <button type="button" data-idioma="es" aria-pressed="true" lang="es" title="Español">ES</button>
+    <button type="button" data-idioma="en" aria-pressed="false" lang="en" title="English">EN</button>
+  </div>
+</header>
+<main class="hojas" id="hojas"><div class="aviso"><p>Cargando el cuento…</p></div></main>
+<nav class="lpie" hidden>
+  <button type="button" class="flecha ant" aria-label="Página anterior">‹</button>
+  <div class="centro">
+    <button type="button" class="oirp" aria-pressed="false"><span class="ico" aria-hidden="true"></span><span class="txt">Escuchar</span></button>
+    <span class="num" id="num" aria-live="polite"></span>
+  </div>
+  <button type="button" class="flecha sig" aria-label="Página siguiente">›</button>
+</nav>
+<template id="badge">{badge_app()}</template>
+<noscript><p class="aviso">Para leer los cuentos hace falta JavaScript. <a href="./">Volver a la biblioteca</a></p></noscript>
+<script>
+{js}
+</script>
+</body>
+</html>
+"""
+
+
 def main():
     cat = json.load(open(os.path.join(BIB, "catalogo.json"), encoding="utf-8"))
     os.makedirs(os.path.join(WEB, "portadas"), exist_ok=True)
-    libros, nuevas = [], 0
+    libros, nuevas, dibujos_nuevos, dibujos_usados = [], 0, 0, {}
+    lista_enteros = enteros()
+    for d in ("cuentos", "paginas"): os.makedirs(os.path.join(WEB, d), exist_ok=True)
     for b in cat["libros"]:
         d = os.path.join(BIB, "libros", b["id"])
         if b.get("tramo") not in TRAMOS: aviso("tramo desconocido, no sale:", b["id"]); continue
@@ -421,11 +552,23 @@ def main():
         p1 = (lj.get("paginas") or [{}])[0]
         b = dict(b, _trozo_es=trozo(p1.get("es", "")), _trozo_en=trozo(p1.get("en", "") or p1.get("es", "")))
         nuevas += miniatura(os.path.join(d, "portada.jpg"), os.path.join(WEB, "portadas", b["id"] + ".jpg"))
+        b["_entero"] = b["id"] in lista_enteros
+        datos = datos_lector(b, lj, b["_entero"])
+        escribe_si_cambia(os.path.join(WEB, "cuentos", b["id"] + ".json"), json.dumps(datos, ensure_ascii=False, separators=(",", ":")) + "\n")
+        dp = os.path.join(WEB, "paginas", b["id"])
+        os.makedirs(dp, exist_ok=True)
+        usados = {f"p{p['d']}.jpg" for p in datos["paginas"] if p["d"]}
+        for f in sorted(usados): dibujos_nuevos += dibujo_web(os.path.join(d, f), os.path.join(dp, f))
+        dibujos_usados[b["id"]] = usados
         libros.append(b)
     if not libros: sys.exit("no hay libros en el catálogo")
     ids = {b["id"] for b in libros}
-    for f in glob.glob(os.path.join(WEB, "portadas", "*.jpg")):     # las de libros que ya no están
-        if os.path.basename(f)[:-4] not in ids: os.remove(f); print("  fuera:", os.path.basename(f))
+    for f in glob.glob(os.path.join(WEB, "portadas", "*.jpg")) + glob.glob(os.path.join(WEB, "cuentos", "*.json")):   # de libros que ya no están
+        if os.path.splitext(os.path.basename(f))[0] not in ids: os.remove(f); print("  fuera:", os.path.relpath(f, WEB))
+    for dp in glob.glob(os.path.join(WEB, "paginas", "*")):
+        for f in glob.glob(os.path.join(dp, "*")):                  # dibujos que ya no se enseñan (libro fuera, o dibujos cambiados)
+            if os.path.basename(f) not in dibujos_usados.get(os.path.basename(dp), set()): os.remove(f)
+        if not os.listdir(dp): os.rmdir(dp)
     # los más nuevos primero (como la Librería del juego); en cada tanda, de peques a maestros
     libros.sort(key=lambda b: (b["titulo"][0].lower()))
     libros.sort(key=lambda b: ORDEN_TRAMO.index(b["tramo"]))
@@ -436,10 +579,17 @@ def main():
     tmp = os.path.join(BIB, "index.html.tmp")
     with open(tmp, "w", encoding="utf-8") as f: f.write(texto)
     os.replace(tmp, os.path.join(BIB, "index.html"))
+    escribe_si_cambia(os.path.join(BIB, "lector.html"), lector_html())
     kb = lambda ps: sum(os.path.getsize(p) for p in ps) / 1024
     port = glob.glob(os.path.join(WEB, "portadas", "*.jpg"))
     caps = glob.glob(os.path.join(WEB, "capturas", "*.jpg"))
-    print(f"web: {len(libros)} cuentos ({gratis} gratis) · miniaturas nuevas: {nuevas}" + (f" · creados: {', '.join(hechos)}" if hechos else ""))
+    pags = glob.glob(os.path.join(WEB, "paginas", "*", "*.jpg"))
+    jsons = glob.glob(os.path.join(WEB, "cuentos", "*.json"))
+    n_ent = sum(1 for b in libros if b["_entero"])
+    print(f"web: {len(libros)} cuentos ({gratis} incluidos en el juego) · lector: {n_ent} enteros y {len(libros) - n_ent} con muestra de {MUESTRA} páginas"
+          f" · miniaturas nuevas: {nuevas} · dibujos nuevos: {dibujos_nuevos}" + (f" · creados: {', '.join(hechos)}" if hechos else ""))
+    print(f"  lector.html {kb([os.path.join(BIB, 'lector.html')]):.0f} KB · dibujos {kb(pags) / 1024:.1f} MB ({len(pags)}) · "
+          f"datos {kb(jsons):.0f} KB ({len(jsons)})")
     print(f"  index.html {kb([os.path.join(BIB, 'index.html')]):.0f} KB · portadas {kb(port):.0f} KB ({len(port)}) · "
           f"capturas {kb(caps):.0f} KB · icono {kb([os.path.join(WEB, 'icono.jpg')]):.0f} KB · og.jpg {kb([os.path.join(WEB, 'og.jpg')]):.0f} KB")
 
