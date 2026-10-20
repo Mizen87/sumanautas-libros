@@ -489,6 +489,7 @@ def lector_html():
     """lector.html: estático (lo mismo cada semana); los datos de cada cuento, en web/cuentos/<id>.json."""
     css = open(os.path.join(WEB, "lector.css"), encoding="utf-8").read()
     js = open(os.path.join(WEB, "lector.js"), encoding="utf-8").read()
+    js = js.replace('"web/icono.jpg"', '"web/icono.jpg?v=' + version("icono.jpg") + '"')      # ([21-oct] la hoja final, también con su versión)
     v_og = hashlib.md5(open(os.path.join(WEB, "og.jpg"), "rb").read()).hexdigest()[:8]
     v_ic = version("icono.jpg"); v_180 = version("icono-180.png"); v_fav = version("favicon.png")      # ([21-oct, él: «aún no me sale el nuevo icono»] con su versión: al cambiar, el navegador lo vuelve a bajar)
     desc = "Lee y escucha los cuentos de Sumanautas con sus dibujos, en español y en inglés."
