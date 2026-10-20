@@ -11,12 +11,12 @@
 <meta property="og:site_name" content="Sumanautas">
 <meta property="og:title" content="Cuentos de Sumanautas">
 <meta property="og:description" content="Lee y escucha los cuentos de Sumanautas con sus dibujos, en español y en inglés.">
-<meta property="og:image" content="https://mizen87.github.io/sumanautas-libros/web/og.jpg?v=d52c37f8">
+<meta property="og:image" content="https://mizen87.github.io/sumanautas-libros/web/og.jpg?v=5658492d">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:locale" content="es_ES">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://mizen87.github.io/sumanautas-libros/web/og.jpg?v=d52c37f8">
+<meta name="twitter:image" content="https://mizen87.github.io/sumanautas-libros/web/og.jpg?v=5658492d">
 <link rel="icon" type="image/png" sizes="64x64" href="web/favicon.png">
 <link rel="apple-touch-icon" href="web/icono-180.png">
 <style>
@@ -52,6 +52,8 @@ button { font: inherit; }
 .idioma { flex: none; display: inline-flex; background: rgba(255, 255, 255, .22); border-radius: 999px; padding: 3px; }
 .idioma button { border: 0; background: transparent; color: #fff; font: 900 14px/1 var(--f-titulo); min-width: 40px; min-height: 34px; padding: 0 10px; border-radius: 999px; cursor: pointer; }
 .idioma button[aria-pressed="true"] { background: #fff; color: var(--cielo-osc); }
+.idioma button { display: inline-flex; align-items: center; gap: 6px; }   /* [21-oct, él: «pon una banderita en ES / EN para que sea más fácil verlo»] */
+.idioma .bandera { width: 20px; height: 14px; border-radius: 3px; box-shadow: 0 0 0 1px rgba(0, 0, 0, .18); flex: none; }
 
 /* ── las hojas ── */
 .hojas { flex: 1; min-height: 0; display: flex; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; overscroll-behavior-x: contain; scrollbar-width: none; }
@@ -120,8 +122,8 @@ button { font: inherit; }
   <a class="volver" href="./"><span aria-hidden="true">←</span><img src="web/icono.jpg" width="26" height="26" alt=""><span class="t">Biblioteca</span></a>
   <p class="ltitulo" id="ltitulo">Sumanautas</p>
   <div class="idioma" role="group" aria-label="Idioma">
-    <button type="button" data-idioma="es" aria-pressed="true" lang="es" title="Español">ES</button>
-    <button type="button" data-idioma="en" aria-pressed="false" lang="en" title="English">EN</button>
+    <button type="button" data-idioma="es" aria-pressed="true" lang="es" title="Español"><img class="bandera" src="web/bandera_es.png" alt="" width="20" height="14">ES</button>
+    <button type="button" data-idioma="en" aria-pressed="false" lang="en" title="English"><img class="bandera" src="web/bandera_gb.png" alt="" width="20" height="14">EN</button>
   </div>
 </header>
 <main class="hojas" id="hojas"><div class="aviso"><p>Cargando el cuento…</p></div></main>

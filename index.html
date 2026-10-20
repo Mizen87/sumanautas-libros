@@ -13,7 +13,7 @@
 <meta property="og:url" content="https://mizen87.github.io/sumanautas-libros/">
 <meta property="og:title" content="Sumanautas · 40 cuentos y una aventura en 3D para aprender">
 <meta property="og:description" content="40 cuentos con valores y humor, narrados en español e inglés, y una aventura en 3D donde aprendes mates, robótica, música e inglés sin darte cuenta. Sin anuncios.">
-<meta property="og:image" content="https://mizen87.github.io/sumanautas-libros/web/og.jpg?v=d52c37f8">
+<meta property="og:image" content="https://mizen87.github.io/sumanautas-libros/web/og.jpg?v=5658492d">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Portadas de los cuentos de Sumanautas">
@@ -22,7 +22,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Sumanautas · 40 cuentos y una aventura en 3D para aprender">
 <meta name="twitter:description" content="40 cuentos con valores y humor, narrados en español e inglés, y una aventura en 3D donde aprendes mates, robótica, música e inglés sin darte cuenta. Sin anuncios.">
-<meta name="twitter:image" content="https://mizen87.github.io/sumanautas-libros/web/og.jpg?v=d52c37f8">
+<meta name="twitter:image" content="https://mizen87.github.io/sumanautas-libros/web/og.jpg?v=5658492d">
 <link rel="icon" type="image/png" sizes="64x64" href="web/favicon.png">
 <link rel="apple-touch-icon" href="web/icono-180.png">
 <style>
@@ -69,6 +69,8 @@ button { font: inherit; }
 .idioma { display: inline-flex; background: rgba(255, 255, 255, .22); border-radius: 999px; padding: 3px; flex: none; }
 .idioma button { border: 0; background: transparent; color: #fff; font: 900 14px/1 var(--f-titulo); min-width: 44px; min-height: 36px; padding: 0 12px; border-radius: 999px; cursor: pointer; }
 .idioma button[aria-pressed="true"] { background: #fff; color: var(--cielo-osc); }
+.idioma button { display: inline-flex; align-items: center; gap: 6px; }   /* [21-oct, él: «pon una banderita en ES / EN para que sea más fácil verlo»] */
+.idioma .bandera { width: 20px; height: 14px; border-radius: 3px; box-shadow: 0 0 0 1px rgba(0, 0, 0, .18); flex: none; }
 
 .heroe { display: grid; grid-template-columns: 1.15fr .85fr; gap: 28px; align-items: center; padding: 22px 0 8px; }
 .icono-grande { width: 96px; height: 96px; border-radius: 24px; box-shadow: 0 8px 22px rgba(8, 30, 80, .35); border: 3px solid rgba(255, 255, 255, .85); }
@@ -228,8 +230,8 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
       <a class="marca" href="./"><img src="web/icono.jpg" width="38" height="38" alt="">Sumanautas</a>
       <a class="web" href="https://jucabime.com">jucabime.com</a>
       <div class="idioma" role="group" aria-label="Idioma" data-en-aria="Language">
-        <button type="button" data-idioma="es" aria-pressed="true" lang="es" title="Español">ES</button>
-        <button type="button" data-idioma="en" aria-pressed="false" lang="en" title="English">EN</button>
+        <button type="button" data-idioma="es" aria-pressed="true" lang="es" title="Español"><img class="bandera" src="web/bandera_es.png" alt="" width="20" height="14">ES</button>
+        <button type="button" data-idioma="en" aria-pressed="false" lang="en" title="English"><img class="bandera" src="web/bandera_gb.png" alt="" width="20" height="14">EN</button>
       </div>
     </nav>
     <div class="heroe">

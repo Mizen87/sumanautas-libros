@@ -30,6 +30,8 @@ button { font: inherit; }
 .idioma { flex: none; display: inline-flex; background: rgba(255, 255, 255, .22); border-radius: 999px; padding: 3px; }
 .idioma button { border: 0; background: transparent; color: #fff; font: 900 14px/1 var(--f-titulo); min-width: 40px; min-height: 34px; padding: 0 10px; border-radius: 999px; cursor: pointer; }
 .idioma button[aria-pressed="true"] { background: #fff; color: var(--cielo-osc); }
+.idioma button { display: inline-flex; align-items: center; gap: 6px; }   /* [21-oct, él: «pon una banderita en ES / EN para que sea más fácil verlo»] */
+.idioma .bandera { width: 20px; height: 14px; border-radius: 3px; box-shadow: 0 0 0 1px rgba(0, 0, 0, .18); flex: none; }
 
 /* ── las hojas ── */
 .hojas { flex: 1; min-height: 0; display: flex; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; overscroll-behavior-x: contain; scrollbar-width: none; }

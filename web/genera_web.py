@@ -412,8 +412,8 @@ def pagina(libros, actualizado):
       <a class="marca" href="./"><img src="web/icono.jpg" width="38" height="38" alt="">Sumanautas</a>
       <a class="web" href="{JUCABIME}">jucabime.com</a>
       <div class="idioma" role="group" aria-label="Idioma" data-en-aria="Language">
-        <button type="button" data-idioma="es" aria-pressed="true" lang="es" title="Español">ES</button>
-        <button type="button" data-idioma="en" aria-pressed="false" lang="en" title="English">EN</button>
+        <button type="button" data-idioma="es" aria-pressed="true" lang="es" title="Español"><img class="bandera" src="web/bandera_es.png" alt="" width="20" height="14">ES</button>
+        <button type="button" data-idioma="en" aria-pressed="false" lang="en" title="English"><img class="bandera" src="web/bandera_gb.png" alt="" width="20" height="14">EN</button>
       </div>
     </nav>
     <div class="heroe">
@@ -514,8 +514,8 @@ def lector_html():
   <a class="volver" href="./"><span aria-hidden="true">←</span><img src="web/icono.jpg" width="26" height="26" alt=""><span class="t">Biblioteca</span></a>
   <p class="ltitulo" id="ltitulo">Sumanautas</p>
   <div class="idioma" role="group" aria-label="Idioma">
-    <button type="button" data-idioma="es" aria-pressed="true" lang="es" title="Español">ES</button>
-    <button type="button" data-idioma="en" aria-pressed="false" lang="en" title="English">EN</button>
+    <button type="button" data-idioma="es" aria-pressed="true" lang="es" title="Español"><img class="bandera" src="web/bandera_es.png" alt="" width="20" height="14">ES</button>
+    <button type="button" data-idioma="en" aria-pressed="false" lang="en" title="English"><img class="bandera" src="web/bandera_gb.png" alt="" width="20" height="14">EN</button>
   </div>
 </header>
 <main class="hojas" id="hojas"><div class="aviso"><p>Cargando el cuento…</p></div></main>
