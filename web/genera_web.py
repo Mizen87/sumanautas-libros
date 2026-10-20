@@ -195,6 +195,12 @@ def redondea(im, radio):
     return out
 
 
+def version(n):
+    """Las 8 primeras letras del md5 de web/<n> (para «?v=…»: si el archivo cambia, la dirección también)."""
+    f = os.path.join(WEB, n)
+    return hashlib.md5(open(f, "rb").read()).hexdigest()[:8] if os.path.exists(f) else "0"
+
+
 def iconos():
     hechos = []
     faltan = [n for n in ("icono.jpg", "icono-180.png", "favicon.png") if not os.path.exists(os.path.join(WEB, n))]
@@ -350,6 +356,7 @@ def pagina(libros, actualizado):
     css = open(os.path.join(WEB, "estilo.css"), encoding="utf-8").read()
     js = open(os.path.join(WEB, "app.js"), encoding="utf-8").read()
     v_og = hashlib.md5(open(os.path.join(WEB, "og.jpg"), "rb").read()).hexdigest()[:8]
+    v_ic = version("icono.jpg"); v_180 = version("icono-180.png"); v_fav = version("favicon.png")      # ([21-oct, él: «aún no me sale el nuevo icono»] con su versión: al cambiar, el navegador lo vuelve a bajar)
     abanico, vistos = [], set()             # 3 portadas de la última tanda, de edades distintas (la del medio, delante)
     for b in libros:
         if b["tramo"] not in vistos and len(abanico) < 3: abanico.append(b); vistos.add(b["tramo"])
@@ -398,8 +405,8 @@ def pagina(libros, actualizado):
 <meta name="twitter:title" content="{e(og_titulo)}">
 <meta name="twitter:description" content="{e(desc_es)}">
 <meta name="twitter:image" content="{SITIO}web/og.jpg?v={v_og}">
-<link rel="icon" type="image/png" sizes="64x64" href="web/favicon.png">
-<link rel="apple-touch-icon" href="web/icono-180.png">
+<link rel="icon" type="image/png" sizes="64x64" href="web/favicon.png?v={v_fav}">
+<link rel="apple-touch-icon" href="web/icono-180.png?v={v_180}">
 <style>
 {css}
 </style>
@@ -409,7 +416,7 @@ def pagina(libros, actualizado):
 <header class="cielo">
   <div class="envoltorio">
     <nav class="barra" aria-label="Sumanautas">
-      <a class="marca" href="./"><img src="web/icono.jpg" width="38" height="38" alt="">Sumanautas</a>
+      <a class="marca" href="./"><img src="web/icono.jpg?v={v_ic}" width="38" height="38" alt="">Sumanautas</a>
       <a class="web" href="{JUCABIME}">jucabime.com</a>
       <div class="idioma" role="group" aria-label="Idioma" data-en-aria="Language">
         <button type="button" data-idioma="es" aria-pressed="true" lang="es" title="Español"><img class="bandera" src="web/bandera_es.png" alt="" width="20" height="14">ES</button>
@@ -418,7 +425,7 @@ def pagina(libros, actualizado):
     </nav>
     <div class="heroe">
       <div>
-        <img class="icono-grande" src="web/icono.jpg" width="96" height="96" alt="Icono de Sumanautas" data-en-alt="Sumanautas app icon">
+        <img class="icono-grande" src="web/icono.jpg?v={v_ic}" width="96" height="96" alt="Icono de Sumanautas" data-en-alt="Sumanautas app icon">
         <h1>Sumanautas</h1>
         <p class="gancho" data-en="The 3D adventure where you learn without even noticing">La aventura en 3D donde aprendes sin darte cuenta</p>
         <ul class="chips" aria-label="Lo que hay en el juego" data-en-aria="What's in the game">{chips}</ul>
@@ -483,6 +490,7 @@ def lector_html():
     css = open(os.path.join(WEB, "lector.css"), encoding="utf-8").read()
     js = open(os.path.join(WEB, "lector.js"), encoding="utf-8").read()
     v_og = hashlib.md5(open(os.path.join(WEB, "og.jpg"), "rb").read()).hexdigest()[:8]
+    v_ic = version("icono.jpg"); v_180 = version("icono-180.png"); v_fav = version("favicon.png")      # ([21-oct, él: «aún no me sale el nuevo icono»] con su versión: al cambiar, el navegador lo vuelve a bajar)
     desc = "Lee y escucha los cuentos de Sumanautas con sus dibujos, en español y en inglés."
     return f"""<!doctype html>
 <html lang="es" data-sitio="{SITIO}">
@@ -503,15 +511,15 @@ def lector_html():
 <meta property="og:locale" content="es_ES">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{SITIO}web/og.jpg?v={v_og}">
-<link rel="icon" type="image/png" sizes="64x64" href="web/favicon.png">
-<link rel="apple-touch-icon" href="web/icono-180.png">
+<link rel="icon" type="image/png" sizes="64x64" href="web/favicon.png?v={v_fav}">
+<link rel="apple-touch-icon" href="web/icono-180.png?v={v_180}">
 <style>
 {css}
 </style>
 </head>
 <body>
 <header class="lbarra">
-  <a class="volver" href="./"><span aria-hidden="true">←</span><img src="web/icono.jpg" width="26" height="26" alt=""><span class="t">Biblioteca</span></a>
+  <a class="volver" href="./"><span aria-hidden="true">←</span><img src="web/icono.jpg?v={v_ic}" width="26" height="26" alt=""><span class="t">Biblioteca</span></a>
   <p class="ltitulo" id="ltitulo">Sumanautas</p>
   <div class="idioma" role="group" aria-label="Idioma">
     <button type="button" data-idioma="es" aria-pressed="true" lang="es" title="Español"><img class="bandera" src="web/bandera_es.png" alt="" width="20" height="14">ES</button>
