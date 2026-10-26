@@ -1,0 +1,98 @@
+{
+ "id": "2026-10-26-bruna-no-cabe",
+ "fecha": "2026-10-26",
+ "tramo": "peques",
+ "edad": 5,
+ "dibujos": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "titulo": [
+  "¡Bruna no cabe!",
+  "Bruna Doesn't Fit!"
+ ],
+ "paginas": [
+  {
+   "es": "Cuqui es un cangrejo pequeñito. ¡Hoy es su cumple! Hay tarta y gorritos en su charca, junto al mar. ¡Clic, clac! ¿A quién invita, sumanauta?",
+   "en": "Cuqui is a teeny-tiny crab. It's his birthday! There's cake and party hats in his rock pool by the sea. Click, clack! Guess who he invites, Sumanaut?"
+  },
+  {
+   "es": "Invita al pulpo, a la estrella de mar y a los pececitos. Y a su mejor amiga: Bruna, la ballena. ¡Bruna es enorme!",
+   "en": "He invites the octopus, the starfish and the little fish. And his best friend: Bruna the whale. Bruna is ENORMOUS!"
+  },
+  {
+   "es": "Bruna llega muy contenta. Asoma por la orilla y mete la cola en la charca… ¡PLAF! ¡El pulpo sale volando! —¡Ay! ¡No quepo! —dice Bruna.",
+   "en": "Bruna arrives, very happy. She peeks over the shore and dips her tail into the pool… SPLOSH! The octopus goes flying! \"Oh no! I don't fit!\" says Bruna."
+  },
+  {
+   "es": "Bruna prueba con la cabeza. ¡PLAF, PLAF! La estrella acaba en una palmera. ¡La tarta vuela! Cuqui la atrapa. —¡AY, NO QUEPO!",
+   "en": "Bruna tries with her head. SPLOSH, SPLOSH! The starfish ends up in a palm tree. The cake flies! Cuqui catches it. \"OH NO, I DON'T FIT!\""
+  },
+  {
+   "es": "Bruna se pone triste. Llora por el agujero de su cabeza: ¡FUUUSH! Llueve en la fiesta. Cuqui la mira: —Sin ti, no es fiesta.",
+   "en": "Bruna feels sad. She cries out of the hole on top of her head: WHOOOSH! It rains on the party. Cuqui looks at her: \"Without you, it's no party.\""
+  },
+  {
+   "es": "Cuqui piensa y piensa. ¡Clic, clac! —Si Bruna no cabe en la fiesta… ¡llevamos la fiesta a Bruna! ¡Todos encima de Bruna!",
+   "en": "Cuqui thinks and thinks. Click, clack! \"If Bruna doesn't fit in the party… we'll take the party to Bruna! Everybody onto Bruna!\""
+  },
+  {
+   "es": "¡Plof! La estrella cae de la palmera, de culete encima de Bruna. ¡Plof! El pulpo también. Suben todos con la tarta. ¡Bruna sonríe!",
+   "en": "Plop! The starfish drops from the palm tree, bottom-first onto Bruna. Plop! The octopus too. Everyone climbs on with the cake. Bruna smiles!"
+  },
+  {
+   "es": "Cuqui sopla las velas: fff… ¡Nada! Bruna sopla por su agujero: ¡FUUUSH! Velas apagadas, todos empapados. Cuqui abraza a Bruna: —¡La mejor fiesta!",
+   "en": "Cuqui blows on the candles: fff… Nothing! Bruna blows through her blowhole: WHOOOSH! Candles out, everyone soaked. Cuqui hugs Bruna: \"Best party ever!\""
+  }
+ ],
+ "preguntas": [
+  {
+   "es": [
+    "¿Por qué Bruna no podía entrar en la fiesta?",
+    "Porque era enorme y no cabía en la charca.",
+    "Porque no la habían invitado.",
+    "Porque llegó muy tarde."
+   ],
+   "en": [
+    "Why couldn't Bruna join the party?",
+    "Because she was enormous and didn't fit in the pool.",
+    "Because she wasn't invited.",
+    "Because she arrived very late."
+   ]
+  },
+  {
+   "es": [
+    "¿Qué idea tuvo Cuqui para que Bruna estuviera en la fiesta?",
+    "Hacer la fiesta encima de Bruna, en el mar.",
+    "Pedirle a Bruna que se fuera.",
+    "Esconder la tarta en la arena."
+   ],
+   "en": [
+    "What idea did Cuqui have so Bruna could be at the party?",
+    "Having the party on Bruna's back, in the sea.",
+    "Asking Bruna to leave.",
+    "Hiding the cake in the sand."
+   ]
+  },
+  {
+   "es": [
+    "¿Cómo apagó Bruna las velas?",
+    "Soplando por el agujero de la cabeza.",
+    "Dando un coletazo.",
+    "Echándoles arena."
+   ],
+   "en": [
+    "How did Bruna blow out the candles?",
+    "By blowing through the hole on top of her head.",
+    "With a slap of her tail.",
+    "By throwing sand on them."
+   ]
+  }
+ ]
+}
