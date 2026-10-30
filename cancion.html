@@ -129,7 +129,7 @@ button { font: inherit; cursor: pointer; }
   var PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 4.5v15l12-7.5z"/></svg>';
   var PAUSA = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 4h4.5v16H6zM13.5 4H18v16h-4.5z"/></svg>';
   var main = document.getElementById("cmain"), tit = document.getElementById("ctitulo");
-  var datos = null, c = null, audio = null, lineas = [], actual = -1, traduce = false, raf = 0;
+  var datos = null, c = null, audio = null, lineas = [], actual = -1, traduce = false, raf = 0, metaDe = "";
   /* [30-oct, él] «Simultáneo»: debajo de cada línea, su traducción (se recuerda en este navegador) */
   var simul = lee("sumanautas-simultaneo") === "1";
   /* [30-oct, él: «un botón para continuar con la siguiente canción automáticamente al acabar»] «Seguidas» (se recuerda en este navegador) */
@@ -270,13 +270,16 @@ button { font: inherit; cursor: pointer; }
     // podrían leerlo y aprender»] en CarPlay y en la pantalla bloqueada: arriba (título) la frase que suena, debajo (artista) su
     // traducción; antes de la primera frase, el título de la canción y su traducción
     // ([30-oct, él: «parpadea la imagen, quiero que se vea la imagen como antes»] la portada siempre; solo cambia el texto, frase a frase)
+    // ([30-oct, él: «que no parpadee»] la portada se manda UNA vez por canción; en cada frase solo se cambia el texto)
     function meta(k) {
       if (!("mediaSession" in navigator) || typeof MediaMetadata === "undefined") return;
-      var ln = k >= 0 ? letra[k] : null;
+      var ln = k >= 0 ? letra[k] : null, ti = ln ? ln[0] : titulo, ar = ln ? (ln[3] || (otra[k] || ln)[0]) : trad, md = navigator.mediaSession.metadata;
       try {
-        navigator.mediaSession.metadata = new MediaMetadata({ title: ln ? ln[0] : titulo, artist: ln ? (ln[3] || (otra[k] || ln)[0]) : trad,
+        if (md && metaDe === c.id + idioma) { md.title = ti; md.artist = ar; if (md.title === ti) return; }
+        navigator.mediaSession.metadata = new MediaMetadata({ title: ti, artist: ar,
           album: "Sumanautas · " + (idioma === "en" ? "Songs to learn Spanish" : "Canciones para aprender inglés"),
           artwork: [{ src: new URL("canciones/" + encodeURIComponent(c.id) + "/portada.jpg", location.href).href, sizes: "768x768", type: "image/jpeg" }] });
+        metaDe = c.id + idioma;
       } catch (e) { /* navegador sin Media Session */ }
     }
     audio.ontimeupdate = function () { if (document.hidden) paso(); };     // (con la pantalla bloqueada no hay animación: así la frase de CarPlay sigue cambiando)
