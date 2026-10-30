@@ -290,7 +290,7 @@ button { font: inherit; cursor: pointer; }
       try {
         if (md && metaDe === c.id + idioma) { md.title = ti; md.artist = ar; if (md.title === ti) return; }
         navigator.mediaSession.metadata = new MediaMetadata({ title: ti, artist: ar,
-          album: "Sumanautas · " + (idioma === "en" ? "Songs to learn Spanish" : "Canciones para aprender inglés"),
+          album: titulo + " · Sumanautas",      // ([30-oct, él] «la 2»: la línea gris, el nombre de la canción)
           artwork: [{ src: new URL("canciones/" + encodeURIComponent(c.id) + "/portada.jpg", location.href).href, sizes: "768x768", type: "image/jpeg" }] });
         metaDe = c.id + idioma;
       } catch (e) { /* navegador sin Media Session */ }
