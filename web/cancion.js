@@ -11,11 +11,11 @@
   function guarda(k, v) { try { window.localStorage.setItem(k, v); } catch (e) { /* da igual */ } }
   var idioma = (q.match(/[?&]lang=(es|en)\b/) || [])[1] || lee("sumanautas-idioma") || "es";
   var TXT = {
-    es: { volver: "Canciones", atras: "Volver a las canciones", menos: "Letra más pequeña", mas: "Letra más grande", cargando: "Cargando la canción…", nohay: "No encontramos esta canción.", ver: "Ver en español", verMeta: "Ver en inglés",
+    es: { volver: "Canciones", sig: "Siguiente canción ▶", simul: "Simultáneo: las dos letras a la vez", atras: "Volver a las canciones", menos: "Letra más pequeña", mas: "Letra más grande", cargando: "Cargando la canción…", nohay: "No encontramos esta canción.", ver: "Ver en español", verMeta: "Ver en inglés",
           play: "Reproducir", pausa: "Pausa", reinicia: "Desde el principio", finT: "¡Muy bien!",
           fin: "En el juego Sumanautas, al acabar cada canción hay 3 preguntas para repasar lo aprendido, y cada semana llegan canciones nuevas.",
           muestraT: "¿Quieres oírla entera?", muestra: "Esta es solo una muestra. Escúchala entera, con su letra y sus preguntas, en Sumanautas." },
-    en: { volver: "Songs", atras: "Back to the songs", menos: "Smaller text", mas: "Bigger text", cargando: "Loading the song…", nohay: "We couldn't find this song.", ver: "See in English", verMeta: "See in Spanish",
+    en: { volver: "Songs", sig: "Next song ▶", simul: "Both at once: the two lyrics together", atras: "Back to the songs", menos: "Smaller text", mas: "Bigger text", cargando: "Loading the song…", nohay: "We couldn't find this song.", ver: "See in English", verMeta: "See in Spanish",
           play: "Play", pausa: "Pause", reinicia: "From the start", finT: "Well done!",
           fin: "In the Sumanautas game, every song ends with 3 questions to review what you learned, and new songs arrive every week.",
           muestraT: "Want to hear it all?", muestra: "This is just a preview. Listen to the whole song, with its lyrics and questions, in Sumanautas." }
@@ -24,6 +24,8 @@
   var PAUSA = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 4h4.5v16H6zM13.5 4H18v16h-4.5z"/></svg>';
   var main = document.getElementById("cmain"), tit = document.getElementById("ctitulo");
   var datos = null, c = null, audio = null, lineas = [], actual = -1, traduce = false, raf = 0;
+  /* [30-oct, él] «Simultáneo»: debajo de cada línea, su traducción (se recuerda en este navegador) */
+  var simul = lee("sumanautas-simultaneo") === "1";
 
   function T() { return TXT[idioma]; }
   /* el tamaño de la letra (px): 16-40; sin guardar, el de la pantalla */
@@ -63,6 +65,14 @@
     var bt = el("button", "traduce"); bt.type = "button";
     mandos.appendChild(bp); mandos.appendChild(br); mandos.appendChild(bt);
     lado.appendChild(mandos);
+    var bs = el("button", "simul"); bs.type = "button"; bs.textContent = T().simul;
+    lado.appendChild(bs);
+    // [30-oct, él: «otro botón que ponga siguiente y pase a la siguiente canción; así no tenemos que salir atrás para poner otra»]
+    var i = datos.canciones.indexOf(c), sig = datos.canciones[(i + 1) % datos.canciones.length];
+    var bn = el("a", "siguiente", T().sig);
+    bn.href = "?id=" + encodeURIComponent(sig.id) + (idioma === "en" ? "&lang=en" : "");
+    bn.addEventListener("click", function (ev) { ev.preventDefault(); id = sig.id; traduce = false; if (history.replaceState) history.replaceState(null, "", bn.getAttribute("href")); pinta(); window.scrollTo(0, 0); if (audio) audio.play(); });
+    lado.appendChild(bn);
     var barra = el("div", "barra"), relleno = el("i"); barra.appendChild(relleno); lado.appendChild(barra);
     var tiempo = el("p", "tiempo", "0:00 / " + mm(c[m].d)); lado.appendChild(tiempo);
     // [30-oct, él: «pon un botón para volver atrás, que hay mucho espacio para ponerlo»] grande, bajo los mandos
@@ -91,6 +101,9 @@
     var fin = el("div", "fin"); fin.hidden = true;
     fin.appendChild(el("h3", null, c.entera ? T().finT : T().muestraT));
     fin.appendChild(el("p", null, c.entera ? T().fin : T().muestra));
+    var bn2 = el("a", "siguiente", T().sig); bn2.href = bn.href;
+    bn2.addEventListener("click", function (ev) { ev.preventDefault(); bn.click(); });
+    fin.appendChild(bn2);
     fin.insertAdjacentHTML("beforeend", document.getElementById("badge").innerHTML);
     columna.appendChild(fin);
     main.appendChild(columna);
@@ -98,16 +111,21 @@
       bt.innerHTML = "";
       var f = el("img"); f.src = "web/bandera_" + ((traduce ? m : idioma) === "en" ? "gb" : "es") + ".png"; f.alt = "";
       bt.appendChild(f); bt.appendChild(el("span", null, traduce ? T().verMeta : T().ver));
+      bs.setAttribute("aria-pressed", String(simul));
       letra.forEach(function (ln, k) {
         var li = lineas[k];
         li.innerHTML = "";
         li.className = k > 0 && ln[1] - letra[k - 1][1] > 6 ? "parte" : "";
         if (traduce) { li.textContent = (otra[k] || ln)[0]; li.lang = idioma; }
-        else { li.lang = m; ln[0].split(" ").forEach(function (w, i) { if (i) li.appendChild(document.createTextNode(" ")); li.appendChild(el("span", "w", w)); }); }
+        else {
+          li.lang = m; ln[0].split(" ").forEach(function (w, i) { if (i) li.appendChild(document.createTextNode(" ")); li.appendChild(el("span", "w", w)); });
+          if (simul) { var tr = el("span", "tr", (otra[k] || ln)[0]); tr.lang = idioma; li.appendChild(tr); }
+        }
       });
       actual = -1;
     }
-    bt.addEventListener("click", function () { traduce = !traduce; textos(); paso(); });
+    bt.addEventListener("click", function () { if (simul) { simul = false; guarda("sumanautas-simultaneo", "0"); traduce = true; } else traduce = !traduce; textos(); paso(); });
+    bs.addEventListener("click", function () { simul = !simul; guarda("sumanautas-simultaneo", simul ? "1" : "0"); if (simul) traduce = false; textos(); paso(); });
     textos();
     audio = new Audio("canciones/" + encodeURIComponent(c.id) + "/" + m + (c.entera ? "" : "_muestra") + ".mp3");
     audio.preload = "auto";
