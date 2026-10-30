@@ -39,6 +39,8 @@ button { font: inherit; cursor: pointer; }
 .barra { position: relative; height: 12px; border-radius: 999px; background: rgba(255, 255, 255, .18); cursor: pointer; }
 .barra i { position: absolute; inset: 0 auto 0 0; width: 0; border-radius: 999px; background: var(--sol); }
 .tiempo { margin: 0; text-align: center; color: #c9d6f2; font-variant-numeric: tabular-nums; }
+.atras { display: flex; align-items: center; justify-content: center; min-height: 58px; border-radius: 18px; background: rgba(255, 255, 255, .14); color: #fff; text-decoration: none; font: 900 18px/1.1 var(--f-titulo); box-shadow: inset 0 0 0 2px rgba(255, 255, 255, .35); }
+.atras:hover { background: rgba(255, 255, 255, .24); }
 .letra { list-style: none; margin: 0; padding: 30vh 0 40vh; }
 .letra li { margin: 0; padding: 6px 10px; border-radius: 12px; font: 600 22px/1.35 var(--f-texto); color: rgba(255, 255, 255, .55); cursor: pointer; transition: color .2s, transform .2s; }
 .letra li.parte { margin-top: 18px; }

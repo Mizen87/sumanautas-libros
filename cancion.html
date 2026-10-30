@@ -57,6 +57,8 @@ button { font: inherit; cursor: pointer; }
 .barra { position: relative; height: 12px; border-radius: 999px; background: rgba(255, 255, 255, .18); cursor: pointer; }
 .barra i { position: absolute; inset: 0 auto 0 0; width: 0; border-radius: 999px; background: var(--sol); }
 .tiempo { margin: 0; text-align: center; color: #c9d6f2; font-variant-numeric: tabular-nums; }
+.atras { display: flex; align-items: center; justify-content: center; min-height: 58px; border-radius: 18px; background: rgba(255, 255, 255, .14); color: #fff; text-decoration: none; font: 900 18px/1.1 var(--f-titulo); box-shadow: inset 0 0 0 2px rgba(255, 255, 255, .35); }
+.atras:hover { background: rgba(255, 255, 255, .24); }
 .letra { list-style: none; margin: 0; padding: 30vh 0 40vh; }
 .letra li { margin: 0; padding: 6px 10px; border-radius: 12px; font: 600 22px/1.35 var(--f-texto); color: rgba(255, 255, 255, .55); cursor: pointer; transition: color .2s, transform .2s; }
 .letra li.parte { margin-top: 18px; }
@@ -105,11 +107,11 @@ button { font: inherit; cursor: pointer; }
   function guarda(k, v) { try { window.localStorage.setItem(k, v); } catch (e) { /* da igual */ } }
   var idioma = (q.match(/[?&]lang=(es|en)\b/) || [])[1] || lee("sumanautas-idioma") || "es";
   var TXT = {
-    es: { volver: "Canciones", cargando: "Cargando la canción…", nohay: "No encontramos esta canción.", ver: "Ver en español", verMeta: "Ver en inglés",
+    es: { volver: "Canciones", atras: "Volver a las canciones", cargando: "Cargando la canción…", nohay: "No encontramos esta canción.", ver: "Ver en español", verMeta: "Ver en inglés",
           play: "Reproducir", pausa: "Pausa", reinicia: "Desde el principio", finT: "¡Muy bien!",
           fin: "En el juego Sumanautas, al acabar cada canción hay 3 preguntas para repasar lo aprendido, y cada semana llegan canciones nuevas.",
           muestraT: "¿Quieres oírla entera?", muestra: "Esta es solo una muestra. Escúchala entera, con su letra y sus preguntas, en Sumanautas." },
-    en: { volver: "Songs", cargando: "Loading the song…", nohay: "We couldn't find this song.", ver: "See in English", verMeta: "See in Spanish",
+    en: { volver: "Songs", atras: "Back to the songs", cargando: "Loading the song…", nohay: "We couldn't find this song.", ver: "See in English", verMeta: "See in Spanish",
           play: "Play", pausa: "Pause", reinicia: "From the start", finT: "Well done!",
           fin: "In the Sumanautas game, every song ends with 3 questions to review what you learned, and new songs arrive every week.",
           muestraT: "Want to hear it all?", muestra: "This is just a preview. Listen to the whole song, with its lyrics and questions, in Sumanautas." }
@@ -150,6 +152,9 @@ button { font: inherit; cursor: pointer; }
     lado.appendChild(mandos);
     var barra = el("div", "barra"), relleno = el("i"); barra.appendChild(relleno); lado.appendChild(barra);
     var tiempo = el("p", "tiempo", "0:00 / " + mm(c[m].d)); lado.appendChild(tiempo);
+    // [30-oct, él: «pon un botón para volver atrás, que hay mucho espacio para ponerlo»] grande, bajo los mandos
+    var atras = el("a", "atras", "← " + T().atras); atras.href = "./" + (idioma === "en" ? "?lang=en" : "") + "#canciones";
+    lado.appendChild(atras);
     main.appendChild(lado);
     var ul = el("ul", "letra"); ul.setAttribute("lang", m);
     var letra = c[m].l, otra = c[m === "en" ? "es" : "en"].l;

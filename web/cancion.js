@@ -11,11 +11,11 @@
   function guarda(k, v) { try { window.localStorage.setItem(k, v); } catch (e) { /* da igual */ } }
   var idioma = (q.match(/[?&]lang=(es|en)\b/) || [])[1] || lee("sumanautas-idioma") || "es";
   var TXT = {
-    es: { volver: "Canciones", cargando: "Cargando la canción…", nohay: "No encontramos esta canción.", ver: "Ver en español", verMeta: "Ver en inglés",
+    es: { volver: "Canciones", atras: "Volver a las canciones", cargando: "Cargando la canción…", nohay: "No encontramos esta canción.", ver: "Ver en español", verMeta: "Ver en inglés",
           play: "Reproducir", pausa: "Pausa", reinicia: "Desde el principio", finT: "¡Muy bien!",
           fin: "En el juego Sumanautas, al acabar cada canción hay 3 preguntas para repasar lo aprendido, y cada semana llegan canciones nuevas.",
           muestraT: "¿Quieres oírla entera?", muestra: "Esta es solo una muestra. Escúchala entera, con su letra y sus preguntas, en Sumanautas." },
-    en: { volver: "Songs", cargando: "Loading the song…", nohay: "We couldn't find this song.", ver: "See in English", verMeta: "See in Spanish",
+    en: { volver: "Songs", atras: "Back to the songs", cargando: "Loading the song…", nohay: "We couldn't find this song.", ver: "See in English", verMeta: "See in Spanish",
           play: "Play", pausa: "Pause", reinicia: "From the start", finT: "Well done!",
           fin: "In the Sumanautas game, every song ends with 3 questions to review what you learned, and new songs arrive every week.",
           muestraT: "Want to hear it all?", muestra: "This is just a preview. Listen to the whole song, with its lyrics and questions, in Sumanautas." }
@@ -56,6 +56,9 @@
     lado.appendChild(mandos);
     var barra = el("div", "barra"), relleno = el("i"); barra.appendChild(relleno); lado.appendChild(barra);
     var tiempo = el("p", "tiempo", "0:00 / " + mm(c[m].d)); lado.appendChild(tiempo);
+    // [30-oct, él: «pon un botón para volver atrás, que hay mucho espacio para ponerlo»] grande, bajo los mandos
+    var atras = el("a", "atras", "← " + T().atras); atras.href = "./" + (idioma === "en" ? "?lang=en" : "") + "#canciones";
+    lado.appendChild(atras);
     main.appendChild(lado);
     var ul = el("ul", "letra"); ul.setAttribute("lang", m);
     var letra = c[m].l, otra = c[m === "en" ? "es" : "en"].l;
