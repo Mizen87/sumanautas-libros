@@ -26992,6 +26992,9273 @@
      ]
     }
    ]
+  },
+  {
+   "id": "11-abuela-flamenco",
+   "titulo_en": "Grandma Dances Flamenco!",
+   "titulo_es": "¡Mi abuela baila flamenco!",
+   "ensena_en": "the family and possessives (my, your, his, her, our, their)",
+   "ensena_es": "la familia y los posesivos (mi, tu, su, nuestro, vuestro)",
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Verse 1",
+      "texto": "My grandma dances flamenco in the kitchen every day,",
+      "ini": 0.0,
+      "fin": 11.86,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 0.0,
+        "fin": 8.42
+       },
+       {
+        "t": "grandma",
+        "ini": 8.48,
+        "fin": 8.9
+       },
+       {
+        "t": "dances",
+        "ini": 9.0,
+        "fin": 9.44
+       },
+       {
+        "t": "flamenco",
+        "ini": 9.5,
+        "fin": 10.24
+       },
+       {
+        "t": "in",
+        "ini": 10.3,
+        "fin": 10.36
+       },
+       {
+        "t": "the",
+        "ini": 10.4,
+        "fin": 10.48
+       },
+       {
+        "t": "kitchen",
+        "ini": 10.52,
+        "fin": 10.96
+       },
+       {
+        "t": "every",
+        "ini": 11.12,
+        "fin": 11.42
+       },
+       {
+        "t": "day,",
+        "ini": 11.52,
+        "fin": 11.86
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "her shoes go tap-tap-tap and her earrings shine and sway,",
+      "ini": 12.28,
+      "fin": 15.74,
+      "palabras": [
+       {
+        "t": "her",
+        "ini": 12.28,
+        "fin": 12.38
+       },
+       {
+        "t": "shoes",
+        "ini": 12.46,
+        "fin": 12.72
+       },
+       {
+        "t": "go",
+        "ini": 12.78,
+        "fin": 12.9
+       },
+       {
+        "t": "tap-tap-tap",
+        "ini": 13.02,
+        "fin": 14.0
+       },
+       {
+        "t": "and",
+        "ini": 14.26,
+        "fin": 14.38
+       },
+       {
+        "t": "her",
+        "ini": 14.4,
+        "fin": 14.5
+       },
+       {
+        "t": "earrings",
+        "ini": 14.58,
+        "fin": 14.94
+       },
+       {
+        "t": "shine",
+        "ini": 14.98,
+        "fin": 15.24
+       },
+       {
+        "t": "and",
+        "ini": 15.26,
+        "fin": 15.34
+       },
+       {
+        "t": "sway,",
+        "ini": 15.42,
+        "fin": 15.74
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "my grandpa plays the guitar — his hat is on the cat!",
+      "ini": 16.28,
+      "fin": 19.68,
+      "palabras": [
+       {
+        "t": "my",
+        "ini": 16.28,
+        "fin": 16.42
+       },
+       {
+        "t": "grandpa",
+        "ini": 16.5,
+        "fin": 16.88
+       },
+       {
+        "t": "plays",
+        "ini": 16.98,
+        "fin": 17.24
+       },
+       {
+        "t": "the",
+        "ini": 17.28,
+        "fin": 17.36
+       },
+       {
+        "t": "guitar",
+        "ini": 17.42,
+        "fin": 17.98
+       },
+       {
+        "t": "—",
+        "ini": 17.98,
+        "fin": 17.98
+       },
+       {
+        "t": "his",
+        "ini": 18.3,
+        "fin": 18.48
+       },
+       {
+        "t": "hat",
+        "ini": 18.54,
+        "fin": 18.8
+       },
+       {
+        "t": "is",
+        "ini": 18.86,
+        "fin": 19.02
+       },
+       {
+        "t": "on",
+        "ini": 19.1,
+        "fin": 19.22
+       },
+       {
+        "t": "the",
+        "ini": 19.26,
+        "fin": 19.36
+       },
+       {
+        "t": "cat!",
+        "ini": 19.42,
+        "fin": 19.68
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "and my mother claps her hands… what do you think of that?",
+      "ini": 20.26,
+      "fin": 23.72,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 20.26,
+        "fin": 20.34
+       },
+       {
+        "t": "my",
+        "ini": 20.38,
+        "fin": 20.48
+       },
+       {
+        "t": "mother",
+        "ini": 20.56,
+        "fin": 20.86
+       },
+       {
+        "t": "claps",
+        "ini": 20.98,
+        "fin": 21.34
+       },
+       {
+        "t": "her",
+        "ini": 21.4,
+        "fin": 21.66
+       },
+       {
+        "t": "hands…",
+        "ini": 21.76,
+        "fin": 22.16
+       },
+       {
+        "t": "what",
+        "ini": 22.26,
+        "fin": 22.48
+       },
+       {
+        "t": "do",
+        "ini": 22.52,
+        "fin": 22.68
+       },
+       {
+        "t": "you",
+        "ini": 22.78,
+        "fin": 22.88
+       },
+       {
+        "t": "think",
+        "ini": 22.98,
+        "fin": 23.24
+       },
+       {
+        "t": "of",
+        "ini": 23.28,
+        "fin": 23.36
+       },
+       {
+        "t": "that?",
+        "ini": 23.42,
+        "fin": 23.72
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "My family, your family — come on, dance with me!",
+      "ini": 24.26,
+      "fin": 27.82,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 24.26,
+        "fin": 24.44
+       },
+       {
+        "t": "family,",
+        "ini": 24.52,
+        "fin": 24.94
+       },
+       {
+        "t": "your",
+        "ini": 25.28,
+        "fin": 25.38
+       },
+       {
+        "t": "family",
+        "ini": 25.52,
+        "fin": 25.96
+       },
+       {
+        "t": "—",
+        "ini": 25.98,
+        "fin": 25.98
+       },
+       {
+        "t": "come",
+        "ini": 26.52,
+        "fin": 26.76
+       },
+       {
+        "t": "on,",
+        "ini": 26.82,
+        "fin": 26.94
+       },
+       {
+        "t": "dance",
+        "ini": 27.02,
+        "fin": 27.26
+       },
+       {
+        "t": "with",
+        "ini": 27.3,
+        "fin": 27.44
+       },
+       {
+        "t": "me!",
+        "ini": 27.52,
+        "fin": 27.82
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "My brother, your sister, his uncle, her auntie!",
+      "ini": 28.26,
+      "fin": 31.74,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 28.26,
+        "fin": 28.4
+       },
+       {
+        "t": "brother,",
+        "ini": 28.52,
+        "fin": 28.9
+       },
+       {
+        "t": "your",
+        "ini": 29.28,
+        "fin": 29.38
+       },
+       {
+        "t": "sister,",
+        "ini": 29.5,
+        "fin": 29.96
+       },
+       {
+        "t": "his",
+        "ini": 30.28,
+        "fin": 30.52
+       },
+       {
+        "t": "uncle,",
+        "ini": 30.58,
+        "fin": 30.92
+       },
+       {
+        "t": "her",
+        "ini": 31.04,
+        "fin": 31.26
+       },
+       {
+        "t": "auntie!",
+        "ini": 31.32,
+        "fin": 31.74
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Our house is full of music, their house is full of fun —",
+      "ini": 32.3,
+      "fin": 35.76,
+      "palabras": [
+       {
+        "t": "Our",
+        "ini": 32.3,
+        "fin": 32.42
+       },
+       {
+        "t": "house",
+        "ini": 32.52,
+        "fin": 32.76
+       },
+       {
+        "t": "is",
+        "ini": 32.82,
+        "fin": 32.94
+       },
+       {
+        "t": "full",
+        "ini": 33.02,
+        "fin": 33.16
+       },
+       {
+        "t": "of",
+        "ini": 33.2,
+        "fin": 33.32
+       },
+       {
+        "t": "music,",
+        "ini": 33.38,
+        "fin": 33.9
+       },
+       {
+        "t": "their",
+        "ini": 34.24,
+        "fin": 34.46
+       },
+       {
+        "t": "house",
+        "ini": 34.52,
+        "fin": 34.74
+       },
+       {
+        "t": "is",
+        "ini": 34.8,
+        "fin": 34.94
+       },
+       {
+        "t": "full",
+        "ini": 35.0,
+        "fin": 35.16
+       },
+       {
+        "t": "of",
+        "ini": 35.2,
+        "fin": 35.3
+       },
+       {
+        "t": "fun",
+        "ini": 35.4,
+        "fin": 35.76
+       },
+       {
+        "t": "—",
+        "ini": 35.76,
+        "fin": 35.76
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "clap your hands, stamp your feet, dance with everyone!",
+      "ini": 36.36,
+      "fin": 39.92,
+      "palabras": [
+       {
+        "t": "clap",
+        "ini": 36.36,
+        "fin": 36.7
+       },
+       {
+        "t": "your",
+        "ini": 36.78,
+        "fin": 36.94
+       },
+       {
+        "t": "hands,",
+        "ini": 37.0,
+        "fin": 37.32
+       },
+       {
+        "t": "stamp",
+        "ini": 37.36,
+        "fin": 37.7
+       },
+       {
+        "t": "your",
+        "ini": 37.76,
+        "fin": 37.86
+       },
+       {
+        "t": "feet,",
+        "ini": 38.0,
+        "fin": 38.24
+       },
+       {
+        "t": "dance",
+        "ini": 38.4,
+        "fin": 38.72
+       },
+       {
+        "t": "with",
+        "ini": 38.8,
+        "fin": 39.02
+       },
+       {
+        "t": "everyone!",
+        "ini": 39.12,
+        "fin": 39.92
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "My little brother sings, but his voice is very loud,",
+      "ini": 40.26,
+      "fin": 43.74,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 40.26,
+        "fin": 40.46
+       },
+       {
+        "t": "little",
+        "ini": 40.52,
+        "fin": 40.88
+       },
+       {
+        "t": "brother",
+        "ini": 40.98,
+        "fin": 41.24
+       },
+       {
+        "t": "sings,",
+        "ini": 41.4,
+        "fin": 41.86
+       },
+       {
+        "t": "but",
+        "ini": 42.24,
+        "fin": 42.36
+       },
+       {
+        "t": "his",
+        "ini": 42.38,
+        "fin": 42.5
+       },
+       {
+        "t": "voice",
+        "ini": 42.54,
+        "fin": 42.76
+       },
+       {
+        "t": "is",
+        "ini": 42.82,
+        "fin": 43.0
+       },
+       {
+        "t": "very",
+        "ini": 43.04,
+        "fin": 43.32
+       },
+       {
+        "t": "loud,",
+        "ini": 43.42,
+        "fin": 43.74
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "my sister plays the drums — she's the best, and she is proud!",
+      "ini": 44.28,
+      "fin": 47.84,
+      "palabras": [
+       {
+        "t": "my",
+        "ini": 44.28,
+        "fin": 44.44
+       },
+       {
+        "t": "sister",
+        "ini": 44.5,
+        "fin": 44.86
+       },
+       {
+        "t": "plays",
+        "ini": 44.98,
+        "fin": 45.24
+       },
+       {
+        "t": "the",
+        "ini": 45.26,
+        "fin": 45.36
+       },
+       {
+        "t": "drums",
+        "ini": 45.38,
+        "fin": 45.72
+       },
+       {
+        "t": "—",
+        "ini": 45.92,
+        "fin": 45.92
+       },
+       {
+        "t": "she's",
+        "ini": 45.98,
+        "fin": 46.24
+       },
+       {
+        "t": "the",
+        "ini": 46.26,
+        "fin": 46.36
+       },
+       {
+        "t": "best,",
+        "ini": 46.4,
+        "fin": 46.74
+       },
+       {
+        "t": "and",
+        "ini": 46.8,
+        "fin": 46.88
+       },
+       {
+        "t": "she",
+        "ini": 46.98,
+        "fin": 47.14
+       },
+       {
+        "t": "is",
+        "ini": 47.2,
+        "fin": 47.3
+       },
+       {
+        "t": "proud!",
+        "ini": 47.4,
+        "fin": 47.84
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Our dog is barking «olé», our parrot sings along,",
+      "ini": 48.3,
+      "fin": 51.72,
+      "palabras": [
+       {
+        "t": "Our",
+        "ini": 48.3,
+        "fin": 48.44
+       },
+       {
+        "t": "dog",
+        "ini": 48.5,
+        "fin": 48.76
+       },
+       {
+        "t": "is",
+        "ini": 48.82,
+        "fin": 48.98
+       },
+       {
+        "t": "barking",
+        "ini": 49.02,
+        "fin": 49.4
+       },
+       {
+        "t": "«olé»,",
+        "ini": 49.42,
+        "fin": 49.82
+       },
+       {
+        "t": "our",
+        "ini": 50.3,
+        "fin": 50.38
+       },
+       {
+        "t": "parrot",
+        "ini": 50.52,
+        "fin": 50.9
+       },
+       {
+        "t": "sings",
+        "ini": 51.0,
+        "fin": 51.26
+       },
+       {
+        "t": "along,",
+        "ini": 51.32,
+        "fin": 51.72
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "and all the neighbours dance to our crazy family song!",
+      "ini": 52.32,
+      "fin": 55.94,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 52.32,
+        "fin": 52.52
+       },
+       {
+        "t": "all",
+        "ini": 52.6,
+        "fin": 52.72
+       },
+       {
+        "t": "the",
+        "ini": 52.78,
+        "fin": 52.88
+       },
+       {
+        "t": "neighbours",
+        "ini": 53.0,
+        "fin": 53.3
+       },
+       {
+        "t": "dance",
+        "ini": 53.38,
+        "fin": 53.72
+       },
+       {
+        "t": "to",
+        "ini": 54.02,
+        "fin": 54.22
+       },
+       {
+        "t": "our",
+        "ini": 54.26,
+        "fin": 54.44
+       },
+       {
+        "t": "crazy",
+        "ini": 54.48,
+        "fin": 54.86
+       },
+       {
+        "t": "family",
+        "ini": 55.02,
+        "fin": 55.36
+       },
+       {
+        "t": "song!",
+        "ini": 55.5,
+        "fin": 55.94
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "My family, your family — come on, dance with me!",
+      "ini": 56.26,
+      "fin": 59.8,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 56.26,
+        "fin": 56.36
+       },
+       {
+        "t": "family,",
+        "ini": 56.5,
+        "fin": 56.94
+       },
+       {
+        "t": "your",
+        "ini": 57.26,
+        "fin": 57.38
+       },
+       {
+        "t": "family",
+        "ini": 57.52,
+        "fin": 57.94
+       },
+       {
+        "t": "—",
+        "ini": 57.96,
+        "fin": 57.96
+       },
+       {
+        "t": "come",
+        "ini": 58.52,
+        "fin": 58.76
+       },
+       {
+        "t": "on,",
+        "ini": 58.82,
+        "fin": 58.94
+       },
+       {
+        "t": "dance",
+        "ini": 59.02,
+        "fin": 59.24
+       },
+       {
+        "t": "with",
+        "ini": 59.3,
+        "fin": 59.44
+       },
+       {
+        "t": "me!",
+        "ini": 59.5,
+        "fin": 59.8
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "My brother, your sister, his uncle, her auntie!",
+      "ini": 60.26,
+      "fin": 63.84,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 60.26,
+        "fin": 60.4
+       },
+       {
+        "t": "brother,",
+        "ini": 60.48,
+        "fin": 60.94
+       },
+       {
+        "t": "your",
+        "ini": 61.28,
+        "fin": 61.36
+       },
+       {
+        "t": "sister,",
+        "ini": 61.5,
+        "fin": 61.94
+       },
+       {
+        "t": "his",
+        "ini": 62.28,
+        "fin": 62.5
+       },
+       {
+        "t": "uncle,",
+        "ini": 62.58,
+        "fin": 62.92
+       },
+       {
+        "t": "her",
+        "ini": 63.0,
+        "fin": 63.24
+       },
+       {
+        "t": "auntie!",
+        "ini": 63.32,
+        "fin": 63.84
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Our house is full of music, their house is full of fun —",
+      "ini": 64.3,
+      "fin": 67.76,
+      "palabras": [
+       {
+        "t": "Our",
+        "ini": 64.3,
+        "fin": 64.42
+       },
+       {
+        "t": "house",
+        "ini": 64.5,
+        "fin": 64.76
+       },
+       {
+        "t": "is",
+        "ini": 64.82,
+        "fin": 64.94
+       },
+       {
+        "t": "full",
+        "ini": 65.0,
+        "fin": 65.16
+       },
+       {
+        "t": "of",
+        "ini": 65.18,
+        "fin": 65.32
+       },
+       {
+        "t": "music,",
+        "ini": 65.38,
+        "fin": 65.92
+       },
+       {
+        "t": "their",
+        "ini": 66.24,
+        "fin": 66.42
+       },
+       {
+        "t": "house",
+        "ini": 66.5,
+        "fin": 66.76
+       },
+       {
+        "t": "is",
+        "ini": 66.8,
+        "fin": 66.94
+       },
+       {
+        "t": "full",
+        "ini": 67.0,
+        "fin": 67.14
+       },
+       {
+        "t": "of",
+        "ini": 67.18,
+        "fin": 67.32
+       },
+       {
+        "t": "fun",
+        "ini": 67.4,
+        "fin": 67.74
+       },
+       {
+        "t": "—",
+        "ini": 67.76,
+        "fin": 67.76
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "clap your hands, stamp your feet, dance with everyone!",
+      "ini": 68.36,
+      "fin": 71.88,
+      "palabras": [
+       {
+        "t": "clap",
+        "ini": 68.36,
+        "fin": 68.62
+       },
+       {
+        "t": "your",
+        "ini": 68.76,
+        "fin": 68.92
+       },
+       {
+        "t": "hands,",
+        "ini": 69.0,
+        "fin": 69.32
+       },
+       {
+        "t": "stamp",
+        "ini": 69.36,
+        "fin": 69.7
+       },
+       {
+        "t": "your",
+        "ini": 69.76,
+        "fin": 69.86
+       },
+       {
+        "t": "feet,",
+        "ini": 70.0,
+        "fin": 70.26
+       },
+       {
+        "t": "dance",
+        "ini": 70.4,
+        "fin": 70.72
+       },
+       {
+        "t": "with",
+        "ini": 70.8,
+        "fin": 71.04
+       },
+       {
+        "t": "everyone!",
+        "ini": 71.12,
+        "fin": 71.88
+       }
+      ]
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "My, your, his, her, our, their — say it, family!",
+      "ini": 72.02,
+      "fin": 79.68,
+      "palabras": [
+       {
+        "t": "My,",
+        "ini": 72.02,
+        "fin": 72.44
+       },
+       {
+        "t": "your,",
+        "ini": 73.04,
+        "fin": 73.38
+       },
+       {
+        "t": "his,",
+        "ini": 74.0,
+        "fin": 74.5
+       },
+       {
+        "t": "her,",
+        "ini": 75.0,
+        "fin": 75.36
+       },
+       {
+        "t": "our,",
+        "ini": 76.08,
+        "fin": 76.38
+       },
+       {
+        "t": "their",
+        "ini": 77.0,
+        "fin": 77.36
+       },
+       {
+        "t": "—",
+        "ini": 77.38,
+        "fin": 77.38
+       },
+       {
+        "t": "say",
+        "ini": 79.0,
+        "fin": 79.12
+       },
+       {
+        "t": "it,",
+        "ini": 79.16,
+        "fin": 79.2
+       },
+       {
+        "t": "family!",
+        "ini": 79.28,
+        "fin": 79.68
+       }
+      ]
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Mine, yours, his, hers, ours, theirs — clap it, one, two, three!",
+      "ini": 80.0,
+      "fin": 87.74,
+      "palabras": [
+       {
+        "t": "Mine,",
+        "ini": 80.0,
+        "fin": 80.48
+       },
+       {
+        "t": "yours,",
+        "ini": 81.04,
+        "fin": 81.58
+       },
+       {
+        "t": "his,",
+        "ini": 82.04,
+        "fin": 82.5
+       },
+       {
+        "t": "hers,",
+        "ini": 83.0,
+        "fin": 83.56
+       },
+       {
+        "t": "ours,",
+        "ini": 84.06,
+        "fin": 84.6
+       },
+       {
+        "t": "theirs",
+        "ini": 85.0,
+        "fin": 85.6
+       },
+       {
+        "t": "—",
+        "ini": 85.68,
+        "fin": 85.68
+       },
+       {
+        "t": "clap",
+        "ini": 85.72,
+        "fin": 86.02
+       },
+       {
+        "t": "it,",
+        "ini": 86.1,
+        "fin": 86.26
+       },
+       {
+        "t": "one,",
+        "ini": 87.02,
+        "fin": 87.16
+       },
+       {
+        "t": "two,",
+        "ini": 87.28,
+        "fin": 87.38
+       },
+       {
+        "t": "three!",
+        "ini": 87.5,
+        "fin": 87.74
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "And when the night is over and the kitchen's very quiet,",
+      "ini": 96.26,
+      "fin": 99.86,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 96.26,
+        "fin": 96.4
+       },
+       {
+        "t": "when",
+        "ini": 96.5,
+        "fin": 96.7
+       },
+       {
+        "t": "the",
+        "ini": 96.76,
+        "fin": 96.86
+       },
+       {
+        "t": "night",
+        "ini": 97.0,
+        "fin": 97.24
+       },
+       {
+        "t": "is",
+        "ini": 97.28,
+        "fin": 97.4
+       },
+       {
+        "t": "over",
+        "ini": 97.5,
+        "fin": 97.88
+       },
+       {
+        "t": "and",
+        "ini": 98.26,
+        "fin": 98.36
+       },
+       {
+        "t": "the",
+        "ini": 98.38,
+        "fin": 98.46
+       },
+       {
+        "t": "kitchen's",
+        "ini": 98.52,
+        "fin": 98.98
+       },
+       {
+        "t": "very",
+        "ini": 99.04,
+        "fin": 99.24
+       },
+       {
+        "t": "quiet,",
+        "ini": 99.36,
+        "fin": 99.86
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "my grandma whispers: «Family is the best — just try it!»",
+      "ini": 100.28,
+      "fin": 103.92,
+      "palabras": [
+       {
+        "t": "my",
+        "ini": 100.28,
+        "fin": 100.44
+       },
+       {
+        "t": "grandma",
+        "ini": 100.5,
+        "fin": 100.94
+       },
+       {
+        "t": "whispers:",
+        "ini": 101.02,
+        "fin": 101.64
+       },
+       {
+        "t": "«Family",
+        "ini": 101.66,
+        "fin": 102.48
+       },
+       {
+        "t": "is",
+        "ini": 102.58,
+        "fin": 102.72
+       },
+       {
+        "t": "the",
+        "ini": 102.76,
+        "fin": 102.82
+       },
+       {
+        "t": "best",
+        "ini": 102.88,
+        "fin": 103.14
+       },
+       {
+        "t": "—",
+        "ini": 103.2,
+        "fin": 103.2
+       },
+       {
+        "t": "just",
+        "ini": 103.28,
+        "fin": 103.46
+       },
+       {
+        "t": "try",
+        "ini": 103.5,
+        "fin": 103.74
+       },
+       {
+        "t": "it!»",
+        "ini": 103.8,
+        "fin": 103.92
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "My family, your family — come on, dance with me!",
+      "ini": 104.26,
+      "fin": 107.84,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 104.26,
+        "fin": 104.36
+       },
+       {
+        "t": "family,",
+        "ini": 104.52,
+        "fin": 104.94
+       },
+       {
+        "t": "your",
+        "ini": 105.28,
+        "fin": 105.38
+       },
+       {
+        "t": "family",
+        "ini": 105.52,
+        "fin": 105.96
+       },
+       {
+        "t": "—",
+        "ini": 105.98,
+        "fin": 105.98
+       },
+       {
+        "t": "come",
+        "ini": 106.52,
+        "fin": 106.76
+       },
+       {
+        "t": "on,",
+        "ini": 106.82,
+        "fin": 106.94
+       },
+       {
+        "t": "dance",
+        "ini": 107.02,
+        "fin": 107.24
+       },
+       {
+        "t": "with",
+        "ini": 107.28,
+        "fin": 107.44
+       },
+       {
+        "t": "me!",
+        "ini": 107.52,
+        "fin": 107.84
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "My brother, your sister, his uncle, her auntie!",
+      "ini": 108.26,
+      "fin": 111.84,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 108.26,
+        "fin": 108.44
+       },
+       {
+        "t": "brother,",
+        "ini": 108.5,
+        "fin": 108.94
+       },
+       {
+        "t": "your",
+        "ini": 109.28,
+        "fin": 109.36
+       },
+       {
+        "t": "sister,",
+        "ini": 109.5,
+        "fin": 109.92
+       },
+       {
+        "t": "his",
+        "ini": 110.28,
+        "fin": 110.5
+       },
+       {
+        "t": "uncle,",
+        "ini": 110.58,
+        "fin": 110.9
+       },
+       {
+        "t": "her",
+        "ini": 111.04,
+        "fin": 111.26
+       },
+       {
+        "t": "auntie!",
+        "ini": 111.34,
+        "fin": 111.84
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Our house is full of music, their house is full of fun —",
+      "ini": 112.3,
+      "fin": 115.98,
+      "palabras": [
+       {
+        "t": "Our",
+        "ini": 112.3,
+        "fin": 112.44
+       },
+       {
+        "t": "house",
+        "ini": 112.52,
+        "fin": 112.76
+       },
+       {
+        "t": "is",
+        "ini": 112.82,
+        "fin": 112.94
+       },
+       {
+        "t": "full",
+        "ini": 113.02,
+        "fin": 113.16
+       },
+       {
+        "t": "of",
+        "ini": 113.2,
+        "fin": 113.32
+       },
+       {
+        "t": "music,",
+        "ini": 113.38,
+        "fin": 113.94
+       },
+       {
+        "t": "their",
+        "ini": 114.26,
+        "fin": 114.44
+       },
+       {
+        "t": "house",
+        "ini": 114.52,
+        "fin": 114.76
+       },
+       {
+        "t": "is",
+        "ini": 114.82,
+        "fin": 114.96
+       },
+       {
+        "t": "full",
+        "ini": 115.02,
+        "fin": 115.16
+       },
+       {
+        "t": "of",
+        "ini": 115.2,
+        "fin": 115.32
+       },
+       {
+        "t": "fun",
+        "ini": 115.4,
+        "fin": 115.76
+       },
+       {
+        "t": "—",
+        "ini": 115.98,
+        "fin": 115.98
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "clap your hands, stamp your feet, dance with everyone!",
+      "ini": 116.36,
+      "fin": 119.86,
+      "palabras": [
+       {
+        "t": "clap",
+        "ini": 116.36,
+        "fin": 116.7
+       },
+       {
+        "t": "your",
+        "ini": 116.78,
+        "fin": 116.94
+       },
+       {
+        "t": "hands,",
+        "ini": 117.04,
+        "fin": 117.32
+       },
+       {
+        "t": "stamp",
+        "ini": 117.36,
+        "fin": 117.68
+       },
+       {
+        "t": "your",
+        "ini": 117.76,
+        "fin": 117.88
+       },
+       {
+        "t": "feet,",
+        "ini": 118.04,
+        "fin": 118.3
+       },
+       {
+        "t": "dance",
+        "ini": 118.42,
+        "fin": 118.72
+       },
+       {
+        "t": "with",
+        "ini": 118.8,
+        "fin": 119.02
+       },
+       {
+        "t": "everyone!",
+        "ini": 119.14,
+        "fin": 119.86
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "My family, your family — come on, dance with me!",
+      "ini": 120.26,
+      "fin": 123.86,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 120.26,
+        "fin": 120.38
+       },
+       {
+        "t": "family,",
+        "ini": 120.52,
+        "fin": 120.94
+       },
+       {
+        "t": "your",
+        "ini": 121.28,
+        "fin": 121.38
+       },
+       {
+        "t": "family",
+        "ini": 121.52,
+        "fin": 121.98
+       },
+       {
+        "t": "—",
+        "ini": 121.98,
+        "fin": 121.98
+       },
+       {
+        "t": "come",
+        "ini": 122.52,
+        "fin": 122.76
+       },
+       {
+        "t": "on,",
+        "ini": 122.82,
+        "fin": 122.94
+       },
+       {
+        "t": "dance",
+        "ini": 123.02,
+        "fin": 123.24
+       },
+       {
+        "t": "with",
+        "ini": 123.3,
+        "fin": 123.44
+       },
+       {
+        "t": "me!",
+        "ini": 123.52,
+        "fin": 123.86
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "My brother, your sister, his uncle, her auntie!",
+      "ini": 124.26,
+      "fin": 127.84,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 124.26,
+        "fin": 124.44
+       },
+       {
+        "t": "brother,",
+        "ini": 124.5,
+        "fin": 124.98
+       },
+       {
+        "t": "your",
+        "ini": 125.28,
+        "fin": 125.36
+       },
+       {
+        "t": "sister,",
+        "ini": 125.5,
+        "fin": 125.96
+       },
+       {
+        "t": "his",
+        "ini": 126.28,
+        "fin": 126.5
+       },
+       {
+        "t": "uncle,",
+        "ini": 126.58,
+        "fin": 126.92
+       },
+       {
+        "t": "her",
+        "ini": 127.04,
+        "fin": 127.26
+       },
+       {
+        "t": "auntie!",
+        "ini": 127.32,
+        "fin": 127.84
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Our house is full of music, their house is full of fun —",
+      "ini": 128.3,
+      "fin": 131.76,
+      "palabras": [
+       {
+        "t": "Our",
+        "ini": 128.3,
+        "fin": 128.44
+       },
+       {
+        "t": "house",
+        "ini": 128.52,
+        "fin": 128.76
+       },
+       {
+        "t": "is",
+        "ini": 128.82,
+        "fin": 128.94
+       },
+       {
+        "t": "full",
+        "ini": 129.04,
+        "fin": 129.18
+       },
+       {
+        "t": "of",
+        "ini": 129.22,
+        "fin": 129.32
+       },
+       {
+        "t": "music,",
+        "ini": 129.38,
+        "fin": 129.92
+       },
+       {
+        "t": "their",
+        "ini": 130.24,
+        "fin": 130.46
+       },
+       {
+        "t": "house",
+        "ini": 130.52,
+        "fin": 130.76
+       },
+       {
+        "t": "is",
+        "ini": 130.82,
+        "fin": 130.94
+       },
+       {
+        "t": "full",
+        "ini": 131.0,
+        "fin": 131.16
+       },
+       {
+        "t": "of",
+        "ini": 131.2,
+        "fin": 131.3
+       },
+       {
+        "t": "fun",
+        "ini": 131.4,
+        "fin": 131.76
+       },
+       {
+        "t": "—",
+        "ini": 131.76,
+        "fin": 131.76
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "clap your hands, stamp your feet, dance with everyone!",
+      "ini": 132.36,
+      "fin": 135.92,
+      "palabras": [
+       {
+        "t": "clap",
+        "ini": 132.36,
+        "fin": 132.64
+       },
+       {
+        "t": "your",
+        "ini": 132.76,
+        "fin": 132.92
+       },
+       {
+        "t": "hands,",
+        "ini": 133.04,
+        "fin": 133.32
+       },
+       {
+        "t": "stamp",
+        "ini": 133.36,
+        "fin": 133.7
+       },
+       {
+        "t": "your",
+        "ini": 133.76,
+        "fin": 133.86
+       },
+       {
+        "t": "feet,",
+        "ini": 134.04,
+        "fin": 134.3
+       },
+       {
+        "t": "dance",
+        "ini": 134.42,
+        "fin": 134.72
+       },
+       {
+        "t": "with",
+        "ini": 134.8,
+        "fin": 135.04
+       },
+       {
+        "t": "everyone!",
+        "ini": 135.14,
+        "fin": 135.92
+       }
+      ]
+     }
+    ],
+    "duracion": 144.02
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Verse 1",
+      "texto": "Mi abuela baila flamenco en la cocina cada día,",
+      "ini": 8.34,
+      "fin": 11.88,
+      "palabras": [
+       {
+        "t": "Mi",
+        "ini": 8.34,
+        "fin": 8.42
+       },
+       {
+        "t": "abuela",
+        "ini": 8.46,
+        "fin": 8.84
+       },
+       {
+        "t": "baila",
+        "ini": 8.9,
+        "fin": 9.24
+       },
+       {
+        "t": "flamenco",
+        "ini": 9.34,
+        "fin": 9.9
+       },
+       {
+        "t": "en",
+        "ini": 9.98,
+        "fin": 10.1
+       },
+       {
+        "t": "la",
+        "ini": 10.16,
+        "fin": 10.26
+       },
+       {
+        "t": "cocina",
+        "ini": 10.36,
+        "fin": 10.96
+       },
+       {
+        "t": "cada",
+        "ini": 11.14,
+        "fin": 11.5
+       },
+       {
+        "t": "día,",
+        "ini": 11.56,
+        "fin": 11.88
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "sus zapatos hacen tap, tap, y sus pendientes, ¡qué alegría!",
+      "ini": 12.14,
+      "fin": 15.92,
+      "palabras": [
+       {
+        "t": "sus",
+        "ini": 12.14,
+        "fin": 12.34
+       },
+       {
+        "t": "zapatos",
+        "ini": 12.38,
+        "fin": 12.9
+       },
+       {
+        "t": "hacen",
+        "ini": 12.92,
+        "fin": 13.32
+       },
+       {
+        "t": "tap,",
+        "ini": 13.4,
+        "fin": 13.58
+       },
+       {
+        "t": "tap,",
+        "ini": 13.66,
+        "fin": 13.9
+       },
+       {
+        "t": "y",
+        "ini": 13.94,
+        "fin": 14.0
+       },
+       {
+        "t": "sus",
+        "ini": 14.12,
+        "fin": 14.36
+       },
+       {
+        "t": "pendientes,",
+        "ini": 14.38,
+        "fin": 15.08
+       },
+       {
+        "t": "¡qué",
+        "ini": 15.14,
+        "fin": 15.22
+       },
+       {
+        "t": "alegría!",
+        "ini": 15.26,
+        "fin": 15.92
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Mi abuelo toca la guitarra… ¡su sombrero lo lleva el gato!",
+      "ini": 16.36,
+      "fin": 19.94,
+      "palabras": [
+       {
+        "t": "Mi",
+        "ini": 16.36,
+        "fin": 16.42
+       },
+       {
+        "t": "abuelo",
+        "ini": 16.46,
+        "fin": 16.7
+       },
+       {
+        "t": "toca",
+        "ini": 16.76,
+        "fin": 17.1
+       },
+       {
+        "t": "la",
+        "ini": 17.14,
+        "fin": 17.3
+       },
+       {
+        "t": "guitarra…",
+        "ini": 17.36,
+        "fin": 17.92
+       },
+       {
+        "t": "¡su",
+        "ini": 18.14,
+        "fin": 18.26
+       },
+       {
+        "t": "sombrero",
+        "ini": 18.36,
+        "fin": 18.86
+       },
+       {
+        "t": "lo",
+        "ini": 18.9,
+        "fin": 19.1
+       },
+       {
+        "t": "lleva",
+        "ini": 19.14,
+        "fin": 19.42
+       },
+       {
+        "t": "el",
+        "ini": 19.46,
+        "fin": 19.5
+       },
+       {
+        "t": "gato!",
+        "ini": 19.56,
+        "fin": 19.94
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "y mi madre da palmas… ¡y así pasamos el rato!",
+      "ini": 20.22,
+      "fin": 23.9,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 20.22,
+        "fin": 20.34
+       },
+       {
+        "t": "mi",
+        "ini": 20.42,
+        "fin": 20.64
+       },
+       {
+        "t": "madre",
+        "ini": 20.82,
+        "fin": 21.34
+       },
+       {
+        "t": "da",
+        "ini": 21.36,
+        "fin": 21.46
+       },
+       {
+        "t": "palmas…",
+        "ini": 21.54,
+        "fin": 22.08
+       },
+       {
+        "t": "¡y",
+        "ini": 22.14,
+        "fin": 22.2
+       },
+       {
+        "t": "así",
+        "ini": 22.26,
+        "fin": 22.56
+       },
+       {
+        "t": "pasamos",
+        "ini": 22.66,
+        "fin": 23.36
+       },
+       {
+        "t": "el",
+        "ini": 23.4,
+        "fin": 23.48
+       },
+       {
+        "t": "rato!",
+        "ini": 23.56,
+        "fin": 23.9
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Mi familia, tu familia, ven a bailar conmigo!",
+      "ini": 24.16,
+      "fin": 27.88,
+      "palabras": [
+       {
+        "t": "¡Mi",
+        "ini": 24.16,
+        "fin": 24.24
+       },
+       {
+        "t": "familia,",
+        "ini": 24.38,
+        "fin": 24.76
+       },
+       {
+        "t": "tu",
+        "ini": 24.9,
+        "fin": 24.98
+       },
+       {
+        "t": "familia,",
+        "ini": 25.14,
+        "fin": 25.84
+       },
+       {
+        "t": "ven",
+        "ini": 26.16,
+        "fin": 26.4
+       },
+       {
+        "t": "a",
+        "ini": 26.48,
+        "fin": 26.58
+       },
+       {
+        "t": "bailar",
+        "ini": 26.64,
+        "fin": 27.06
+       },
+       {
+        "t": "conmigo!",
+        "ini": 27.16,
+        "fin": 27.88
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Mi hermano, tu hermana, su tío y su amigo!",
+      "ini": 27.96,
+      "fin": 31.36,
+      "palabras": [
+       {
+        "t": "¡Mi",
+        "ini": 27.96,
+        "fin": 28.42
+       },
+       {
+        "t": "hermano,",
+        "ini": 28.44,
+        "fin": 29.0
+       },
+       {
+        "t": "tu",
+        "ini": 29.14,
+        "fin": 29.2
+       },
+       {
+        "t": "hermana,",
+        "ini": 29.24,
+        "fin": 29.74
+       },
+       {
+        "t": "su",
+        "ini": 29.9,
+        "fin": 30.04
+       },
+       {
+        "t": "tío",
+        "ini": 30.16,
+        "fin": 30.48
+       },
+       {
+        "t": "y",
+        "ini": 30.5,
+        "fin": 30.54
+       },
+       {
+        "t": "su",
+        "ini": 30.64,
+        "fin": 30.72
+       },
+       {
+        "t": "amigo!",
+        "ini": 30.76,
+        "fin": 31.36
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Nuestra casa está llena de música, la suya de alegría,",
+      "ini": 32.14,
+      "fin": 35.84,
+      "palabras": [
+       {
+        "t": "Nuestra",
+        "ini": 32.14,
+        "fin": 32.34
+       },
+       {
+        "t": "casa",
+        "ini": 32.38,
+        "fin": 32.58
+       },
+       {
+        "t": "está",
+        "ini": 32.62,
+        "fin": 32.86
+       },
+       {
+        "t": "llena",
+        "ini": 32.88,
+        "fin": 33.24
+       },
+       {
+        "t": "de",
+        "ini": 33.28,
+        "fin": 33.36
+       },
+       {
+        "t": "música,",
+        "ini": 33.42,
+        "fin": 34.08
+       },
+       {
+        "t": "la",
+        "ini": 34.38,
+        "fin": 34.44
+       },
+       {
+        "t": "suya",
+        "ini": 34.54,
+        "fin": 34.88
+       },
+       {
+        "t": "de",
+        "ini": 34.92,
+        "fin": 35.0
+       },
+       {
+        "t": "alegría,",
+        "ini": 35.06,
+        "fin": 35.84
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡da palmas, zapatea, baila todo el día!",
+      "ini": 35.94,
+      "fin": 39.38,
+      "palabras": [
+       {
+        "t": "¡da",
+        "ini": 35.94,
+        "fin": 36.44
+       },
+       {
+        "t": "palmas,",
+        "ini": 36.52,
+        "fin": 36.84
+       },
+       {
+        "t": "zapatea,",
+        "ini": 36.92,
+        "fin": 37.74
+       },
+       {
+        "t": "baila",
+        "ini": 37.9,
+        "fin": 38.28
+       },
+       {
+        "t": "todo",
+        "ini": 38.4,
+        "fin": 38.7
+       },
+       {
+        "t": "el",
+        "ini": 38.76,
+        "fin": 38.84
+       },
+       {
+        "t": "día!",
+        "ini": 38.92,
+        "fin": 39.38
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Mi hermano pequeño canta, pero su voz es un trueno,",
+      "ini": 40.36,
+      "fin": 43.92,
+      "palabras": [
+       {
+        "t": "Mi",
+        "ini": 40.36,
+        "fin": 40.4
+       },
+       {
+        "t": "hermano",
+        "ini": 40.42,
+        "fin": 40.82
+       },
+       {
+        "t": "pequeño",
+        "ini": 40.9,
+        "fin": 41.46
+       },
+       {
+        "t": "canta,",
+        "ini": 41.52,
+        "fin": 41.94
+       },
+       {
+        "t": "pero",
+        "ini": 42.18,
+        "fin": 42.5
+       },
+       {
+        "t": "su",
+        "ini": 42.62,
+        "fin": 42.84
+       },
+       {
+        "t": "voz",
+        "ini": 42.9,
+        "fin": 43.16
+       },
+       {
+        "t": "es",
+        "ini": 43.22,
+        "fin": 43.36
+       },
+       {
+        "t": "un",
+        "ini": 43.4,
+        "fin": 43.5
+       },
+       {
+        "t": "trueno,",
+        "ini": 43.54,
+        "fin": 43.92
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "mi hermana toca el tambor y dice: «¡Esto está bueno!»",
+      "ini": 44.36,
+      "fin": 47.88,
+      "palabras": [
+       {
+        "t": "mi",
+        "ini": 44.36,
+        "fin": 44.4
+       },
+       {
+        "t": "hermana",
+        "ini": 44.42,
+        "fin": 44.82
+       },
+       {
+        "t": "toca",
+        "ini": 44.92,
+        "fin": 45.2
+       },
+       {
+        "t": "el",
+        "ini": 45.24,
+        "fin": 45.32
+       },
+       {
+        "t": "tambor",
+        "ini": 45.4,
+        "fin": 45.94
+       },
+       {
+        "t": "y",
+        "ini": 46.22,
+        "fin": 46.32
+       },
+       {
+        "t": "dice:",
+        "ini": 46.42,
+        "fin": 46.8
+       },
+       {
+        "t": "«¡Esto",
+        "ini": 46.9,
+        "fin": 47.22
+       },
+       {
+        "t": "está",
+        "ini": 47.24,
+        "fin": 47.5
+       },
+       {
+        "t": "bueno!»",
+        "ini": 47.54,
+        "fin": 47.88
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Nuestro perro ladra «¡olé!», nuestro loro canta igual,",
+      "ini": 48.16,
+      "fin": 51.7,
+      "palabras": [
+       {
+        "t": "Nuestro",
+        "ini": 48.16,
+        "fin": 48.44
+       },
+       {
+        "t": "perro",
+        "ini": 48.54,
+        "fin": 48.86
+       },
+       {
+        "t": "ladra",
+        "ini": 48.9,
+        "fin": 49.3
+       },
+       {
+        "t": "«¡olé!»,",
+        "ini": 49.36,
+        "fin": 49.8
+       },
+       {
+        "t": "nuestro",
+        "ini": 50.14,
+        "fin": 50.5
+       },
+       {
+        "t": "loro",
+        "ini": 50.56,
+        "fin": 50.76
+       },
+       {
+        "t": "canta",
+        "ini": 50.9,
+        "fin": 51.2
+       },
+       {
+        "t": "igual,",
+        "ini": 51.3,
+        "fin": 51.7
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¡y todos los vecinos bailan con nuestra familia genial!",
+      "ini": 51.72,
+      "fin": 55.94,
+      "palabras": [
+       {
+        "t": "¡y",
+        "ini": 51.72,
+        "fin": 52.26
+       },
+       {
+        "t": "todos",
+        "ini": 52.38,
+        "fin": 52.68
+       },
+       {
+        "t": "los",
+        "ini": 52.72,
+        "fin": 52.84
+       },
+       {
+        "t": "vecinos",
+        "ini": 52.86,
+        "fin": 53.36
+       },
+       {
+        "t": "bailan",
+        "ini": 53.4,
+        "fin": 53.82
+       },
+       {
+        "t": "con",
+        "ini": 53.9,
+        "fin": 54.08
+       },
+       {
+        "t": "nuestra",
+        "ini": 54.14,
+        "fin": 54.5
+       },
+       {
+        "t": "familia",
+        "ini": 54.66,
+        "fin": 55.28
+       },
+       {
+        "t": "genial!",
+        "ini": 55.36,
+        "fin": 55.94
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Mi familia, tu familia, ven a bailar conmigo!",
+      "ini": 55.96,
+      "fin": 59.86,
+      "palabras": [
+       {
+        "t": "¡Mi",
+        "ini": 55.96,
+        "fin": 56.26
+       },
+       {
+        "t": "familia,",
+        "ini": 56.38,
+        "fin": 56.76
+       },
+       {
+        "t": "tu",
+        "ini": 56.9,
+        "fin": 56.98
+       },
+       {
+        "t": "familia,",
+        "ini": 57.16,
+        "fin": 57.76
+       },
+       {
+        "t": "ven",
+        "ini": 58.16,
+        "fin": 58.4
+       },
+       {
+        "t": "a",
+        "ini": 58.44,
+        "fin": 58.58
+       },
+       {
+        "t": "bailar",
+        "ini": 58.64,
+        "fin": 59.06
+       },
+       {
+        "t": "conmigo!",
+        "ini": 59.16,
+        "fin": 59.86
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Mi hermano, tu hermana, su tío y su amigo!",
+      "ini": 59.96,
+      "fin": 63.38,
+      "palabras": [
+       {
+        "t": "¡Mi",
+        "ini": 59.96,
+        "fin": 60.4
+       },
+       {
+        "t": "hermano,",
+        "ini": 60.42,
+        "fin": 60.96
+       },
+       {
+        "t": "tu",
+        "ini": 61.14,
+        "fin": 61.22
+       },
+       {
+        "t": "hermana,",
+        "ini": 61.24,
+        "fin": 61.74
+       },
+       {
+        "t": "su",
+        "ini": 61.88,
+        "fin": 62.04
+       },
+       {
+        "t": "tío",
+        "ini": 62.16,
+        "fin": 62.48
+       },
+       {
+        "t": "y",
+        "ini": 62.5,
+        "fin": 62.54
+       },
+       {
+        "t": "su",
+        "ini": 62.62,
+        "fin": 62.72
+       },
+       {
+        "t": "amigo!",
+        "ini": 62.76,
+        "fin": 63.38
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Nuestra casa está llena de música, la suya de alegría,",
+      "ini": 64.14,
+      "fin": 67.74,
+      "palabras": [
+       {
+        "t": "Nuestra",
+        "ini": 64.14,
+        "fin": 64.34
+       },
+       {
+        "t": "casa",
+        "ini": 64.38,
+        "fin": 64.58
+       },
+       {
+        "t": "está",
+        "ini": 64.62,
+        "fin": 64.86
+       },
+       {
+        "t": "llena",
+        "ini": 64.88,
+        "fin": 65.22
+       },
+       {
+        "t": "de",
+        "ini": 65.26,
+        "fin": 65.36
+       },
+       {
+        "t": "música,",
+        "ini": 65.4,
+        "fin": 66.0
+       },
+       {
+        "t": "la",
+        "ini": 66.38,
+        "fin": 66.44
+       },
+       {
+        "t": "suya",
+        "ini": 66.5,
+        "fin": 66.88
+       },
+       {
+        "t": "de",
+        "ini": 66.9,
+        "fin": 67.0
+       },
+       {
+        "t": "alegría,",
+        "ini": 67.06,
+        "fin": 67.74
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡da palmas, zapatea, baila todo el día!",
+      "ini": 67.96,
+      "fin": 71.38,
+      "palabras": [
+       {
+        "t": "¡da",
+        "ini": 67.96,
+        "fin": 68.46
+       },
+       {
+        "t": "palmas,",
+        "ini": 68.52,
+        "fin": 68.86
+       },
+       {
+        "t": "zapatea,",
+        "ini": 68.92,
+        "fin": 69.74
+       },
+       {
+        "t": "baila",
+        "ini": 69.9,
+        "fin": 70.28
+       },
+       {
+        "t": "todo",
+        "ini": 70.4,
+        "fin": 70.7
+       },
+       {
+        "t": "el",
+        "ini": 70.74,
+        "fin": 70.84
+       },
+       {
+        "t": "día!",
+        "ini": 70.9,
+        "fin": 71.38
+       }
+      ]
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Mi, tu, su, nuestro, vuestro, su… ¡dilo, familia!",
+      "ini": 72.04,
+      "fin": 78.62,
+      "palabras": [
+       {
+        "t": "Mi,",
+        "ini": 72.04,
+        "fin": 72.36
+       },
+       {
+        "t": "tu,",
+        "ini": 73.5,
+        "fin": 73.74
+       },
+       {
+        "t": "su,",
+        "ini": 74.0,
+        "fin": 74.24
+       },
+       {
+        "t": "nuestro,",
+        "ini": 75.0,
+        "fin": 75.42
+       },
+       {
+        "t": "vuestro,",
+        "ini": 75.5,
+        "fin": 75.86
+       },
+       {
+        "t": "su…",
+        "ini": 76.0,
+        "fin": 76.36
+       },
+       {
+        "t": "¡dilo,",
+        "ini": 76.5,
+        "fin": 77.6
+       },
+       {
+        "t": "familia!",
+        "ini": 77.76,
+        "fin": 78.62
+       }
+      ]
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Mío, tuyo, suyo, nuestro… ¡palmas y alegría!",
+      "ini": 80.0,
+      "fin": 86.5,
+      "palabras": [
+       {
+        "t": "Mío,",
+        "ini": 80.0,
+        "fin": 81.36
+       },
+       {
+        "t": "tuyo,",
+        "ini": 81.5,
+        "fin": 81.86
+       },
+       {
+        "t": "suyo,",
+        "ini": 82.0,
+        "fin": 83.38
+       },
+       {
+        "t": "nuestro…",
+        "ini": 83.5,
+        "fin": 83.88
+       },
+       {
+        "t": "¡palmas",
+        "ini": 83.98,
+        "fin": 85.46
+       },
+       {
+        "t": "y",
+        "ini": 85.5,
+        "fin": 85.56
+       },
+       {
+        "t": "alegría!",
+        "ini": 85.6,
+        "fin": 86.5
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Y cuando llega la noche y la cocina está en calma,",
+      "ini": 96.38,
+      "fin": 99.94,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 96.38,
+        "fin": 96.44
+       },
+       {
+        "t": "cuando",
+        "ini": 96.5,
+        "fin": 96.82
+       },
+       {
+        "t": "llega",
+        "ini": 96.9,
+        "fin": 97.24
+       },
+       {
+        "t": "la",
+        "ini": 97.36,
+        "fin": 97.46
+       },
+       {
+        "t": "noche",
+        "ini": 97.54,
+        "fin": 97.98
+       },
+       {
+        "t": "y",
+        "ini": 98.22,
+        "fin": 98.34
+       },
+       {
+        "t": "la",
+        "ini": 98.4,
+        "fin": 98.5
+       },
+       {
+        "t": "cocina",
+        "ini": 98.62,
+        "fin": 99.2
+       },
+       {
+        "t": "está",
+        "ini": 99.22,
+        "fin": 99.4
+       },
+       {
+        "t": "en",
+        "ini": 99.44,
+        "fin": 99.5
+       },
+       {
+        "t": "calma,",
+        "ini": 99.54,
+        "fin": 99.94
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "mi abuela dice bajito: «La familia… ¡es el alma!»",
+      "ini": 100.36,
+      "fin": 103.98,
+      "palabras": [
+       {
+        "t": "mi",
+        "ini": 100.36,
+        "fin": 100.42
+       },
+       {
+        "t": "abuela",
+        "ini": 100.46,
+        "fin": 100.86
+       },
+       {
+        "t": "dice",
+        "ini": 100.92,
+        "fin": 101.32
+       },
+       {
+        "t": "bajito:",
+        "ini": 101.38,
+        "fin": 101.94
+       },
+       {
+        "t": "«La",
+        "ini": 102.12,
+        "fin": 102.24
+       },
+       {
+        "t": "familia…",
+        "ini": 102.38,
+        "fin": 102.94
+       },
+       {
+        "t": "¡es",
+        "ini": 103.14,
+        "fin": 103.36
+       },
+       {
+        "t": "el",
+        "ini": 103.44,
+        "fin": 103.52
+       },
+       {
+        "t": "alma!»",
+        "ini": 103.6,
+        "fin": 103.98
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Mi familia, tu familia, ven a bailar conmigo!",
+      "ini": 104.16,
+      "fin": 107.84,
+      "palabras": [
+       {
+        "t": "¡Mi",
+        "ini": 104.16,
+        "fin": 104.26
+       },
+       {
+        "t": "familia,",
+        "ini": 104.4,
+        "fin": 104.76
+       },
+       {
+        "t": "tu",
+        "ini": 104.9,
+        "fin": 105.0
+       },
+       {
+        "t": "familia,",
+        "ini": 105.18,
+        "fin": 105.88
+       },
+       {
+        "t": "ven",
+        "ini": 106.18,
+        "fin": 106.4
+       },
+       {
+        "t": "a",
+        "ini": 106.46,
+        "fin": 106.58
+       },
+       {
+        "t": "bailar",
+        "ini": 106.66,
+        "fin": 107.06
+       },
+       {
+        "t": "conmigo!",
+        "ini": 107.16,
+        "fin": 107.84
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Mi hermano, tu hermana, su tío y su amigo!",
+      "ini": 108.0,
+      "fin": 111.38,
+      "palabras": [
+       {
+        "t": "¡Mi",
+        "ini": 108.0,
+        "fin": 108.4
+       },
+       {
+        "t": "hermano,",
+        "ini": 108.44,
+        "fin": 109.0
+       },
+       {
+        "t": "tu",
+        "ini": 109.16,
+        "fin": 109.22
+       },
+       {
+        "t": "hermana,",
+        "ini": 109.24,
+        "fin": 109.76
+       },
+       {
+        "t": "su",
+        "ini": 109.92,
+        "fin": 110.04
+       },
+       {
+        "t": "tío",
+        "ini": 110.2,
+        "fin": 110.48
+       },
+       {
+        "t": "y",
+        "ini": 110.52,
+        "fin": 110.58
+       },
+       {
+        "t": "su",
+        "ini": 110.64,
+        "fin": 110.72
+       },
+       {
+        "t": "amigo!",
+        "ini": 110.82,
+        "fin": 111.38
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Nuestra casa está llena de música, la suya de alegría,",
+      "ini": 112.14,
+      "fin": 115.76,
+      "palabras": [
+       {
+        "t": "Nuestra",
+        "ini": 112.14,
+        "fin": 112.34
+       },
+       {
+        "t": "casa",
+        "ini": 112.4,
+        "fin": 112.58
+       },
+       {
+        "t": "está",
+        "ini": 112.62,
+        "fin": 112.86
+       },
+       {
+        "t": "llena",
+        "ini": 112.9,
+        "fin": 113.24
+       },
+       {
+        "t": "de",
+        "ini": 113.28,
+        "fin": 113.36
+       },
+       {
+        "t": "música,",
+        "ini": 113.44,
+        "fin": 114.1
+       },
+       {
+        "t": "la",
+        "ini": 114.38,
+        "fin": 114.44
+       },
+       {
+        "t": "suya",
+        "ini": 114.56,
+        "fin": 114.88
+       },
+       {
+        "t": "de",
+        "ini": 114.94,
+        "fin": 115.0
+       },
+       {
+        "t": "alegría,",
+        "ini": 115.1,
+        "fin": 115.76
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡da palmas, zapatea, baila todo el día!",
+      "ini": 116.36,
+      "fin": 119.38,
+      "palabras": [
+       {
+        "t": "¡da",
+        "ini": 116.36,
+        "fin": 116.46
+       },
+       {
+        "t": "palmas,",
+        "ini": 116.54,
+        "fin": 116.84
+       },
+       {
+        "t": "zapatea,",
+        "ini": 116.94,
+        "fin": 117.74
+       },
+       {
+        "t": "baila",
+        "ini": 117.92,
+        "fin": 118.28
+       },
+       {
+        "t": "todo",
+        "ini": 118.42,
+        "fin": 118.72
+       },
+       {
+        "t": "el",
+        "ini": 118.76,
+        "fin": 118.86
+       },
+       {
+        "t": "día!",
+        "ini": 118.92,
+        "fin": 119.38
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Mi familia, tu familia, ven a bailar conmigo!",
+      "ini": 119.62,
+      "fin": 123.92,
+      "palabras": [
+       {
+        "t": "¡Mi",
+        "ini": 119.62,
+        "fin": 120.26
+       },
+       {
+        "t": "familia,",
+        "ini": 120.4,
+        "fin": 120.78
+       },
+       {
+        "t": "tu",
+        "ini": 120.92,
+        "fin": 121.0
+       },
+       {
+        "t": "familia,",
+        "ini": 121.18,
+        "fin": 121.98
+       },
+       {
+        "t": "ven",
+        "ini": 122.18,
+        "fin": 122.4
+       },
+       {
+        "t": "a",
+        "ini": 122.46,
+        "fin": 122.6
+       },
+       {
+        "t": "bailar",
+        "ini": 122.66,
+        "fin": 123.06
+       },
+       {
+        "t": "conmigo!",
+        "ini": 123.16,
+        "fin": 123.92
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Mi hermano, tu hermana, su tío y su amigo!",
+      "ini": 124.0,
+      "fin": 127.38,
+      "palabras": [
+       {
+        "t": "¡Mi",
+        "ini": 124.0,
+        "fin": 124.4
+       },
+       {
+        "t": "hermano,",
+        "ini": 124.44,
+        "fin": 125.0
+       },
+       {
+        "t": "tu",
+        "ini": 125.14,
+        "fin": 125.22
+       },
+       {
+        "t": "hermana,",
+        "ini": 125.26,
+        "fin": 125.74
+       },
+       {
+        "t": "su",
+        "ini": 125.92,
+        "fin": 126.02
+       },
+       {
+        "t": "tío",
+        "ini": 126.16,
+        "fin": 126.48
+       },
+       {
+        "t": "y",
+        "ini": 126.5,
+        "fin": 126.58
+       },
+       {
+        "t": "su",
+        "ini": 126.64,
+        "fin": 126.72
+       },
+       {
+        "t": "amigo!",
+        "ini": 126.82,
+        "fin": 127.38
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Nuestra casa está llena de música, la suya de alegría,",
+      "ini": 128.14,
+      "fin": 131.76,
+      "palabras": [
+       {
+        "t": "Nuestra",
+        "ini": 128.14,
+        "fin": 128.34
+       },
+       {
+        "t": "casa",
+        "ini": 128.38,
+        "fin": 128.58
+       },
+       {
+        "t": "está",
+        "ini": 128.62,
+        "fin": 128.86
+       },
+       {
+        "t": "llena",
+        "ini": 128.9,
+        "fin": 129.24
+       },
+       {
+        "t": "de",
+        "ini": 129.28,
+        "fin": 129.36
+       },
+       {
+        "t": "música,",
+        "ini": 129.44,
+        "fin": 130.1
+       },
+       {
+        "t": "la",
+        "ini": 130.38,
+        "fin": 130.48
+       },
+       {
+        "t": "suya",
+        "ini": 130.54,
+        "fin": 130.88
+       },
+       {
+        "t": "de",
+        "ini": 130.92,
+        "fin": 131.0
+       },
+       {
+        "t": "alegría,",
+        "ini": 131.06,
+        "fin": 131.76
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡da palmas, zapatea, baila todo el día!",
+      "ini": 132.36,
+      "fin": 135.38,
+      "palabras": [
+       {
+        "t": "¡da",
+        "ini": 132.36,
+        "fin": 132.46
+       },
+       {
+        "t": "palmas,",
+        "ini": 132.54,
+        "fin": 132.86
+       },
+       {
+        "t": "zapatea,",
+        "ini": 132.94,
+        "fin": 133.74
+       },
+       {
+        "t": "baila",
+        "ini": 133.9,
+        "fin": 134.3
+       },
+       {
+        "t": "todo",
+        "ini": 134.4,
+        "fin": 134.7
+       },
+       {
+        "t": "el",
+        "ini": 134.74,
+        "fin": 134.86
+       },
+       {
+        "t": "día!",
+        "ini": 134.92,
+        "fin": 135.38
+       }
+      ]
+     }
+    ],
+    "duracion": 144.02
+   },
+   "preguntas": [
+    {
+     "en": "Where does grandma dance flamenco?",
+     "en_op": [
+      "In the kitchen",
+      "In the garden",
+      "At school"
+     ],
+     "es": "¿Dónde baila flamenco la abuela?",
+     "es_op": [
+      "En la cocina",
+      "En el jardín",
+      "En el cole"
+     ]
+    },
+    {
+     "en": "Who has grandpa's hat?",
+     "en_op": [
+      "The cat",
+      "The dog",
+      "The parrot"
+     ],
+     "es": "¿Quién lleva el sombrero del abuelo?",
+     "es_op": [
+      "El gato",
+      "El perro",
+      "El loro"
+     ]
+    },
+    {
+     "en": "«This is ___ house» (it belongs to us)",
+     "en_op": [
+      "our",
+      "their",
+      "your"
+     ],
+     "es": "«Esta es ___ casa» (es de nosotros)",
+     "es_op": [
+      "nuestra",
+      "vuestra",
+      "su"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "12-pirata-nadar",
+   "titulo_en": "The Pirate Who Couldn't Swim",
+   "titulo_es": "El pirata que no sabía nadar",
+   "ensena_en": "can / can't (now) and could / couldn't (before)",
+   "ensena_es": "saber y poder: sé / no sé, puedo / no podía",
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Verse 1",
+      "texto": "Captain Bones can sail a ship, he can read a map,",
+      "ini": 8.58,
+      "fin": 12.62,
+      "palabras": [
+       {
+        "t": "Captain",
+        "ini": 8.58,
+        "fin": 9.02
+       },
+       {
+        "t": "Bones",
+        "ini": 9.1,
+        "fin": 9.38
+       },
+       {
+        "t": "can",
+        "ini": 9.42,
+        "fin": 9.54
+       },
+       {
+        "t": "sail",
+        "ini": 9.64,
+        "fin": 9.92
+       },
+       {
+        "t": "a",
+        "ini": 9.96,
+        "fin": 10.04
+       },
+       {
+        "t": "ship,",
+        "ini": 10.08,
+        "fin": 10.44
+       },
+       {
+        "t": "he",
+        "ini": 10.74,
+        "fin": 10.86
+       },
+       {
+        "t": "can",
+        "ini": 11.0,
+        "fin": 11.14
+       },
+       {
+        "t": "read",
+        "ini": 11.26,
+        "fin": 12.08
+       },
+       {
+        "t": "a",
+        "ini": 12.12,
+        "fin": 12.18
+       },
+       {
+        "t": "map,",
+        "ini": 12.32,
+        "fin": 12.62
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "he can fight a giant squid and he can take a nap,",
+      "ini": 12.9,
+      "fin": 16.9,
+      "palabras": [
+       {
+        "t": "he",
+        "ini": 12.9,
+        "fin": 13.02
+       },
+       {
+        "t": "can",
+        "ini": 13.12,
+        "fin": 13.28
+       },
+       {
+        "t": "fight",
+        "ini": 13.38,
+        "fin": 13.68
+       },
+       {
+        "t": "a",
+        "ini": 13.74,
+        "fin": 13.78
+       },
+       {
+        "t": "giant",
+        "ini": 13.92,
+        "fin": 14.34
+       },
+       {
+        "t": "squid",
+        "ini": 14.42,
+        "fin": 14.86
+       },
+       {
+        "t": "and",
+        "ini": 15.34,
+        "fin": 15.52
+       },
+       {
+        "t": "he",
+        "ini": 15.58,
+        "fin": 15.7
+       },
+       {
+        "t": "can",
+        "ini": 15.82,
+        "fin": 15.98
+       },
+       {
+        "t": "take",
+        "ini": 16.08,
+        "fin": 16.36
+       },
+       {
+        "t": "a",
+        "ini": 16.42,
+        "fin": 16.46
+       },
+       {
+        "t": "nap,",
+        "ini": 16.6,
+        "fin": 16.9
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "he can sing and he can dance and he can cook a stew,",
+      "ini": 17.18,
+      "fin": 21.36,
+      "palabras": [
+       {
+        "t": "he",
+        "ini": 17.18,
+        "fin": 17.3
+       },
+       {
+        "t": "can",
+        "ini": 17.4,
+        "fin": 17.54
+       },
+       {
+        "t": "sing",
+        "ini": 17.68,
+        "fin": 17.96
+       },
+       {
+        "t": "and",
+        "ini": 18.02,
+        "fin": 18.18
+       },
+       {
+        "t": "he",
+        "ini": 18.26,
+        "fin": 18.38
+       },
+       {
+        "t": "can",
+        "ini": 18.48,
+        "fin": 18.64
+       },
+       {
+        "t": "dance",
+        "ini": 18.74,
+        "fin": 19.26
+       },
+       {
+        "t": "and",
+        "ini": 19.64,
+        "fin": 19.8
+       },
+       {
+        "t": "he",
+        "ini": 19.86,
+        "fin": 19.98
+       },
+       {
+        "t": "can",
+        "ini": 20.1,
+        "fin": 20.26
+       },
+       {
+        "t": "cook",
+        "ini": 20.36,
+        "fin": 20.6
+       },
+       {
+        "t": "a",
+        "ini": 20.66,
+        "fin": 20.72
+       },
+       {
+        "t": "stew,",
+        "ini": 20.86,
+        "fin": 21.36
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "but there's one thing Captain Bones just can't do:",
+      "ini": 21.46,
+      "fin": 25.44,
+      "palabras": [
+       {
+        "t": "but",
+        "ini": 21.46,
+        "fin": 21.66
+       },
+       {
+        "t": "there's",
+        "ini": 21.7,
+        "fin": 21.94
+       },
+       {
+        "t": "one",
+        "ini": 22.06,
+        "fin": 22.38
+       },
+       {
+        "t": "thing",
+        "ini": 22.48,
+        "fin": 22.94
+       },
+       {
+        "t": "Captain",
+        "ini": 23.04,
+        "fin": 23.5
+       },
+       {
+        "t": "Bones",
+        "ini": 23.58,
+        "fin": 24.04
+       },
+       {
+        "t": "just",
+        "ini": 24.18,
+        "fin": 24.52
+       },
+       {
+        "t": "can't",
+        "ini": 24.64,
+        "fin": 25.14
+       },
+       {
+        "t": "do:",
+        "ini": 25.18,
+        "fin": 25.44
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "He can't swim! No, he can't swim!",
+      "ini": 25.76,
+      "fin": 29.46,
+      "palabras": [
+       {
+        "t": "He",
+        "ini": 25.76,
+        "fin": 25.88
+       },
+       {
+        "t": "can't",
+        "ini": 25.98,
+        "fin": 26.18
+       },
+       {
+        "t": "swim!",
+        "ini": 26.26,
+        "fin": 26.78
+       },
+       {
+        "t": "No,",
+        "ini": 27.62,
+        "fin": 27.78
+       },
+       {
+        "t": "he",
+        "ini": 27.9,
+        "fin": 28.0
+       },
+       {
+        "t": "can't",
+        "ini": 28.12,
+        "fin": 28.34
+       },
+       {
+        "t": "swim!",
+        "ini": 28.4,
+        "fin": 29.46
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Heave-ho, heave-ho, the captain can't swim!",
+      "ini": 30.04,
+      "fin": 34.18,
+      "palabras": [
+       {
+        "t": "Heave-ho,",
+        "ini": 30.04,
+        "fin": 30.96
+       },
+       {
+        "t": "heave-ho,",
+        "ini": 31.1,
+        "fin": 31.86
+       },
+       {
+        "t": "the",
+        "ini": 32.44,
+        "fin": 32.52
+       },
+       {
+        "t": "captain",
+        "ini": 32.66,
+        "fin": 33.12
+       },
+       {
+        "t": "can't",
+        "ini": 33.22,
+        "fin": 33.58
+       },
+       {
+        "t": "swim!",
+        "ini": 33.7,
+        "fin": 34.18
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Can you swim? — Yes, I can!",
+      "ini": 34.28,
+      "fin": 37.5,
+      "palabras": [
+       {
+        "t": "Can",
+        "ini": 34.28,
+        "fin": 34.52
+       },
+       {
+        "t": "you",
+        "ini": 34.6,
+        "fin": 34.68
+       },
+       {
+        "t": "swim?",
+        "ini": 34.78,
+        "fin": 35.24
+       },
+       {
+        "t": "—",
+        "ini": 36.28,
+        "fin": 36.28
+       },
+       {
+        "t": "Yes,",
+        "ini": 36.42,
+        "fin": 36.68
+       },
+       {
+        "t": "I",
+        "ini": 36.82,
+        "fin": 36.86
+       },
+       {
+        "t": "can!",
+        "ini": 36.98,
+        "fin": 37.5
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "And if you can't… you can learn, my friend!",
+      "ini": 38.88,
+      "fin": 42.8,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 38.88,
+        "fin": 39.1
+       },
+       {
+        "t": "if",
+        "ini": 39.3,
+        "fin": 39.62
+       },
+       {
+        "t": "you",
+        "ini": 39.74,
+        "fin": 40.02
+       },
+       {
+        "t": "can't…",
+        "ini": 40.18,
+        "fin": 40.68
+       },
+       {
+        "t": "you",
+        "ini": 40.78,
+        "fin": 40.88
+       },
+       {
+        "t": "can",
+        "ini": 40.98,
+        "fin": 41.14
+       },
+       {
+        "t": "learn,",
+        "ini": 41.26,
+        "fin": 41.64
+       },
+       {
+        "t": "my",
+        "ini": 41.82,
+        "fin": 42.16
+       },
+       {
+        "t": "friend!",
+        "ini": 42.32,
+        "fin": 42.8
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "When he was a little boy, he couldn't ride a bike,",
+      "ini": 42.92,
+      "fin": 46.96,
+      "palabras": [
+       {
+        "t": "When",
+        "ini": 42.92,
+        "fin": 43.14
+       },
+       {
+        "t": "he",
+        "ini": 43.2,
+        "fin": 43.32
+       },
+       {
+        "t": "was",
+        "ini": 43.44,
+        "fin": 43.7
+       },
+       {
+        "t": "a",
+        "ini": 43.76,
+        "fin": 43.8
+       },
+       {
+        "t": "little",
+        "ini": 43.94,
+        "fin": 44.34
+       },
+       {
+        "t": "boy,",
+        "ini": 44.48,
+        "fin": 44.94
+       },
+       {
+        "t": "he",
+        "ini": 45.3,
+        "fin": 45.4
+       },
+       {
+        "t": "couldn't",
+        "ini": 45.56,
+        "fin": 45.98
+       },
+       {
+        "t": "ride",
+        "ini": 46.1,
+        "fin": 46.38
+       },
+       {
+        "t": "a",
+        "ini": 46.42,
+        "fin": 46.48
+       },
+       {
+        "t": "bike,",
+        "ini": 46.62,
+        "fin": 46.96
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "he couldn't tie his shoes and he couldn't fly a kite,",
+      "ini": 47.46,
+      "fin": 51.2,
+      "palabras": [
+       {
+        "t": "he",
+        "ini": 47.46,
+        "fin": 47.54
+       },
+       {
+        "t": "couldn't",
+        "ini": 47.68,
+        "fin": 48.1
+       },
+       {
+        "t": "tie",
+        "ini": 48.22,
+        "fin": 48.48
+       },
+       {
+        "t": "his",
+        "ini": 48.54,
+        "fin": 48.68
+       },
+       {
+        "t": "shoes",
+        "ini": 48.72,
+        "fin": 49.28
+       },
+       {
+        "t": "and",
+        "ini": 49.38,
+        "fin": 49.58
+       },
+       {
+        "t": "he",
+        "ini": 49.62,
+        "fin": 49.76
+       },
+       {
+        "t": "couldn't",
+        "ini": 49.82,
+        "fin": 50.22
+       },
+       {
+        "t": "fly",
+        "ini": 50.32,
+        "fin": 50.64
+       },
+       {
+        "t": "a",
+        "ini": 50.72,
+        "fin": 50.74
+       },
+       {
+        "t": "kite,",
+        "ini": 50.88,
+        "fin": 51.2
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "but he practised every day, and now he can, it's true —",
+      "ini": 51.46,
+      "fin": 55.64,
+      "palabras": [
+       {
+        "t": "but",
+        "ini": 51.46,
+        "fin": 51.72
+       },
+       {
+        "t": "he",
+        "ini": 51.74,
+        "fin": 51.82
+       },
+       {
+        "t": "practised",
+        "ini": 51.94,
+        "fin": 52.52
+       },
+       {
+        "t": "every",
+        "ini": 52.62,
+        "fin": 52.9
+       },
+       {
+        "t": "day,",
+        "ini": 53.06,
+        "fin": 53.54
+       },
+       {
+        "t": "and",
+        "ini": 53.88,
+        "fin": 54.04
+       },
+       {
+        "t": "now",
+        "ini": 54.12,
+        "fin": 54.38
+       },
+       {
+        "t": "he",
+        "ini": 54.42,
+        "fin": 54.58
+       },
+       {
+        "t": "can,",
+        "ini": 54.66,
+        "fin": 54.92
+       },
+       {
+        "t": "it's",
+        "ini": 54.96,
+        "fin": 55.14
+       },
+       {
+        "t": "true",
+        "ini": 55.16,
+        "fin": 55.56
+       },
+       {
+        "t": "—",
+        "ini": 55.64,
+        "fin": 55.64
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "so the crew said: «Captain, you can learn this too!»",
+      "ini": 55.72,
+      "fin": 59.74,
+      "palabras": [
+       {
+        "t": "so",
+        "ini": 55.72,
+        "fin": 55.94
+       },
+       {
+        "t": "the",
+        "ini": 56.02,
+        "fin": 56.08
+       },
+       {
+        "t": "crew",
+        "ini": 56.2,
+        "fin": 56.6
+       },
+       {
+        "t": "said:",
+        "ini": 56.78,
+        "fin": 57.18
+       },
+       {
+        "t": "«Captain,",
+        "ini": 57.28,
+        "fin": 57.76
+       },
+       {
+        "t": "you",
+        "ini": 57.9,
+        "fin": 58.0
+       },
+       {
+        "t": "can",
+        "ini": 58.12,
+        "fin": 58.26
+       },
+       {
+        "t": "learn",
+        "ini": 58.38,
+        "fin": 58.88
+       },
+       {
+        "t": "this",
+        "ini": 58.92,
+        "fin": 59.36
+       },
+       {
+        "t": "too!»",
+        "ini": 59.46,
+        "fin": 59.74
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "He can't swim! No, he can't swim!",
+      "ini": 60.06,
+      "fin": 63.22,
+      "palabras": [
+       {
+        "t": "He",
+        "ini": 60.06,
+        "fin": 60.16
+       },
+       {
+        "t": "can't",
+        "ini": 60.28,
+        "fin": 60.46
+       },
+       {
+        "t": "swim!",
+        "ini": 60.54,
+        "fin": 61.08
+       },
+       {
+        "t": "No,",
+        "ini": 61.9,
+        "fin": 62.08
+       },
+       {
+        "t": "he",
+        "ini": 62.18,
+        "fin": 62.28
+       },
+       {
+        "t": "can't",
+        "ini": 62.4,
+        "fin": 62.62
+       },
+       {
+        "t": "swim!",
+        "ini": 62.68,
+        "fin": 63.22
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Heave-ho, heave-ho, the captain can't swim!",
+      "ini": 64.34,
+      "fin": 68.46,
+      "palabras": [
+       {
+        "t": "Heave-ho,",
+        "ini": 64.34,
+        "fin": 65.28
+       },
+       {
+        "t": "heave-ho,",
+        "ini": 65.38,
+        "fin": 66.16
+       },
+       {
+        "t": "the",
+        "ini": 66.72,
+        "fin": 66.82
+       },
+       {
+        "t": "captain",
+        "ini": 66.94,
+        "fin": 67.4
+       },
+       {
+        "t": "can't",
+        "ini": 67.5,
+        "fin": 67.88
+       },
+       {
+        "t": "swim!",
+        "ini": 68.0,
+        "fin": 68.46
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Can you swim? — Yes, I can!",
+      "ini": 68.56,
+      "fin": 71.66,
+      "palabras": [
+       {
+        "t": "Can",
+        "ini": 68.56,
+        "fin": 68.82
+       },
+       {
+        "t": "you",
+        "ini": 68.86,
+        "fin": 68.94
+       },
+       {
+        "t": "swim?",
+        "ini": 69.06,
+        "fin": 70.56
+       },
+       {
+        "t": "—",
+        "ini": 70.58,
+        "fin": 70.58
+       },
+       {
+        "t": "Yes,",
+        "ini": 70.7,
+        "fin": 70.96
+       },
+       {
+        "t": "I",
+        "ini": 71.1,
+        "fin": 71.14
+       },
+       {
+        "t": "can!",
+        "ini": 71.26,
+        "fin": 71.66
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "And if you can't… you can learn, my friend!",
+      "ini": 73.16,
+      "fin": 77.1,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 73.16,
+        "fin": 73.38
+       },
+       {
+        "t": "if",
+        "ini": 73.48,
+        "fin": 73.88
+       },
+       {
+        "t": "you",
+        "ini": 74.02,
+        "fin": 74.3
+       },
+       {
+        "t": "can't…",
+        "ini": 74.46,
+        "fin": 74.96
+       },
+       {
+        "t": "you",
+        "ini": 75.04,
+        "fin": 75.16
+       },
+       {
+        "t": "can",
+        "ini": 75.26,
+        "fin": 75.42
+       },
+       {
+        "t": "learn,",
+        "ini": 75.54,
+        "fin": 76.0
+       },
+       {
+        "t": "my",
+        "ini": 76.1,
+        "fin": 76.44
+       },
+       {
+        "t": "friend!",
+        "ini": 76.58,
+        "fin": 77.1
+       }
+      ]
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "I can, you can, he can, she can — we can all learn!",
+      "ini": 77.84,
+      "fin": 84.64,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 77.84,
+        "fin": 78.06
+       },
+       {
+        "t": "can,",
+        "ini": 78.26,
+        "fin": 78.7
+       },
+       {
+        "t": "you",
+        "ini": 78.86,
+        "fin": 79.12
+       },
+       {
+        "t": "can,",
+        "ini": 79.32,
+        "fin": 79.74
+       },
+       {
+        "t": "he",
+        "ini": 79.88,
+        "fin": 80.22
+       },
+       {
+        "t": "can,",
+        "ini": 80.36,
+        "fin": 80.74
+       },
+       {
+        "t": "she",
+        "ini": 80.86,
+        "fin": 81.26
+       },
+       {
+        "t": "can",
+        "ini": 81.44,
+        "fin": 81.86
+       },
+       {
+        "t": "—",
+        "ini": 81.96,
+        "fin": 81.96
+       },
+       {
+        "t": "we",
+        "ini": 82.04,
+        "fin": 82.34
+       },
+       {
+        "t": "can",
+        "ini": 82.52,
+        "fin": 83.04
+       },
+       {
+        "t": "all",
+        "ini": 83.14,
+        "fin": 84.02
+       },
+       {
+        "t": "learn!",
+        "ini": 84.12,
+        "fin": 84.64
+       }
+      ]
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "I couldn't before, but now I can — and now it's your turn!",
+      "ini": 86.06,
+      "fin": 93.22,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 86.06,
+        "fin": 86.1
+       },
+       {
+        "t": "couldn't",
+        "ini": 86.24,
+        "fin": 86.72
+       },
+       {
+        "t": "before,",
+        "ini": 86.84,
+        "fin": 87.76
+       },
+       {
+        "t": "but",
+        "ini": 88.12,
+        "fin": 88.34
+       },
+       {
+        "t": "now",
+        "ini": 88.4,
+        "fin": 88.94
+       },
+       {
+        "t": "I",
+        "ini": 89.26,
+        "fin": 89.28
+       },
+       {
+        "t": "can",
+        "ini": 89.48,
+        "fin": 90.0
+       },
+       {
+        "t": "—",
+        "ini": 90.0,
+        "fin": 90.0
+       },
+       {
+        "t": "and",
+        "ini": 90.3,
+        "fin": 90.46
+       },
+       {
+        "t": "now",
+        "ini": 90.56,
+        "fin": 91.02
+       },
+       {
+        "t": "it's",
+        "ini": 91.14,
+        "fin": 91.58
+       },
+       {
+        "t": "your",
+        "ini": 91.66,
+        "fin": 92.54
+       },
+       {
+        "t": "turn!",
+        "ini": 92.68,
+        "fin": 93.22
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Now the captain swims with dolphins every afternoon,",
+      "ini": 98.6,
+      "fin": 103.92,
+      "palabras": [
+       {
+        "t": "Now",
+        "ini": 98.6,
+        "fin": 98.82
+       },
+       {
+        "t": "the",
+        "ini": 98.88,
+        "fin": 98.96
+       },
+       {
+        "t": "captain",
+        "ini": 99.12,
+        "fin": 99.94
+       },
+       {
+        "t": "swims",
+        "ini": 100.12,
+        "fin": 100.66
+       },
+       {
+        "t": "with",
+        "ini": 100.76,
+        "fin": 101.08
+       },
+       {
+        "t": "dolphins",
+        "ini": 101.24,
+        "fin": 101.78
+       },
+       {
+        "t": "every",
+        "ini": 101.9,
+        "fin": 102.3
+       },
+       {
+        "t": "afternoon,",
+        "ini": 102.46,
+        "fin": 103.92
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "and he sings: «I couldn't then, but I can now — and so can you!»",
+      "ini": 105.1,
+      "fin": 111.34,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 105.1,
+        "fin": 105.28
+       },
+       {
+        "t": "he",
+        "ini": 105.32,
+        "fin": 105.44
+       },
+       {
+        "t": "sings:",
+        "ini": 105.46,
+        "fin": 105.8
+       },
+       {
+        "t": "«I",
+        "ini": 105.84,
+        "fin": 105.96
+       },
+       {
+        "t": "couldn't",
+        "ini": 106.1,
+        "fin": 106.5
+       },
+       {
+        "t": "then,",
+        "ini": 106.62,
+        "fin": 107.02
+       },
+       {
+        "t": "but",
+        "ini": 107.18,
+        "fin": 107.42
+       },
+       {
+        "t": "I",
+        "ini": 107.52,
+        "fin": 107.62
+       },
+       {
+        "t": "can",
+        "ini": 107.7,
+        "fin": 108.14
+       },
+       {
+        "t": "now",
+        "ini": 108.26,
+        "fin": 108.74
+       },
+       {
+        "t": "—",
+        "ini": 108.74,
+        "fin": 108.74
+       },
+       {
+        "t": "and",
+        "ini": 109.56,
+        "fin": 109.66
+       },
+       {
+        "t": "so",
+        "ini": 109.82,
+        "fin": 110.22
+       },
+       {
+        "t": "can",
+        "ini": 110.38,
+        "fin": 110.82
+       },
+       {
+        "t": "you!»",
+        "ini": 111.0,
+        "fin": 111.34
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "He can't swim! No, he can't swim!",
+      "ini": 111.48,
+      "fin": 114.64,
+      "palabras": [
+       {
+        "t": "He",
+        "ini": 111.48,
+        "fin": 111.6
+       },
+       {
+        "t": "can't",
+        "ini": 111.72,
+        "fin": 111.9
+       },
+       {
+        "t": "swim!",
+        "ini": 112.0,
+        "fin": 112.5
+       },
+       {
+        "t": "No,",
+        "ini": 113.32,
+        "fin": 113.5
+       },
+       {
+        "t": "he",
+        "ini": 113.6,
+        "fin": 113.72
+       },
+       {
+        "t": "can't",
+        "ini": 113.82,
+        "fin": 114.02
+       },
+       {
+        "t": "swim!",
+        "ini": 114.12,
+        "fin": 114.64
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Heave-ho, heave-ho, the captain can't swim!",
+      "ini": 115.76,
+      "fin": 119.88,
+      "palabras": [
+       {
+        "t": "Heave-ho,",
+        "ini": 115.76,
+        "fin": 116.7
+       },
+       {
+        "t": "heave-ho,",
+        "ini": 116.84,
+        "fin": 117.58
+       },
+       {
+        "t": "the",
+        "ini": 118.16,
+        "fin": 118.28
+       },
+       {
+        "t": "captain",
+        "ini": 118.38,
+        "fin": 118.84
+       },
+       {
+        "t": "can't",
+        "ini": 118.94,
+        "fin": 119.28
+       },
+       {
+        "t": "swim!",
+        "ini": 119.44,
+        "fin": 119.88
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Can you swim? — Yes, I can!",
+      "ini": 120.02,
+      "fin": 122.98,
+      "palabras": [
+       {
+        "t": "Can",
+        "ini": 120.02,
+        "fin": 120.26
+       },
+       {
+        "t": "you",
+        "ini": 120.3,
+        "fin": 120.38
+       },
+       {
+        "t": "swim?",
+        "ini": 120.5,
+        "fin": 120.84
+       },
+       {
+        "t": "—",
+        "ini": 121.98,
+        "fin": 121.98
+       },
+       {
+        "t": "Yes,",
+        "ini": 122.14,
+        "fin": 122.38
+       },
+       {
+        "t": "I",
+        "ini": 122.52,
+        "fin": 122.56
+       },
+       {
+        "t": "can!",
+        "ini": 122.7,
+        "fin": 122.98
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "And if you can't… you can learn, my friend!",
+      "ini": 124.64,
+      "fin": 128.54,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 124.64,
+        "fin": 124.82
+       },
+       {
+        "t": "if",
+        "ini": 125.14,
+        "fin": 125.36
+       },
+       {
+        "t": "you",
+        "ini": 125.48,
+        "fin": 125.72
+       },
+       {
+        "t": "can't…",
+        "ini": 125.9,
+        "fin": 126.38
+       },
+       {
+        "t": "you",
+        "ini": 126.48,
+        "fin": 126.58
+       },
+       {
+        "t": "can",
+        "ini": 126.7,
+        "fin": 126.84
+       },
+       {
+        "t": "learn,",
+        "ini": 126.98,
+        "fin": 127.42
+       },
+       {
+        "t": "my",
+        "ini": 127.54,
+        "fin": 127.88
+       },
+       {
+        "t": "friend!",
+        "ini": 128.04,
+        "fin": 128.54
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "He can't swim! No, he can't swim!",
+      "ini": 128.62,
+      "fin": 131.78,
+      "palabras": [
+       {
+        "t": "He",
+        "ini": 128.62,
+        "fin": 128.74
+       },
+       {
+        "t": "can't",
+        "ini": 128.86,
+        "fin": 129.06
+       },
+       {
+        "t": "swim!",
+        "ini": 129.14,
+        "fin": 129.64
+       },
+       {
+        "t": "No,",
+        "ini": 130.48,
+        "fin": 130.66
+       },
+       {
+        "t": "he",
+        "ini": 130.76,
+        "fin": 130.86
+       },
+       {
+        "t": "can't",
+        "ini": 130.98,
+        "fin": 131.18
+       },
+       {
+        "t": "swim!",
+        "ini": 131.24,
+        "fin": 131.78
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Heave-ho, heave-ho, the captain can't swim!",
+      "ini": 132.9,
+      "fin": 137.04,
+      "palabras": [
+       {
+        "t": "Heave-ho,",
+        "ini": 132.9,
+        "fin": 133.8
+       },
+       {
+        "t": "heave-ho,",
+        "ini": 133.96,
+        "fin": 134.7
+       },
+       {
+        "t": "the",
+        "ini": 135.3,
+        "fin": 135.42
+       },
+       {
+        "t": "captain",
+        "ini": 135.52,
+        "fin": 135.96
+       },
+       {
+        "t": "can't",
+        "ini": 136.08,
+        "fin": 136.44
+       },
+       {
+        "t": "swim!",
+        "ini": 136.56,
+        "fin": 137.04
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Can you swim? — Yes, I can!",
+      "ini": 137.16,
+      "fin": 140.1,
+      "palabras": [
+       {
+        "t": "Can",
+        "ini": 137.16,
+        "fin": 137.4
+       },
+       {
+        "t": "you",
+        "ini": 137.46,
+        "fin": 137.52
+       },
+       {
+        "t": "swim?",
+        "ini": 137.64,
+        "fin": 138.48
+       },
+       {
+        "t": "—",
+        "ini": 139.12,
+        "fin": 139.12
+       },
+       {
+        "t": "Yes,",
+        "ini": 139.28,
+        "fin": 139.52
+       },
+       {
+        "t": "I",
+        "ini": 139.68,
+        "fin": 139.78
+       },
+       {
+        "t": "can!",
+        "ini": 139.86,
+        "fin": 140.1
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "And if you can't… you can learn, my friend!",
+      "ini": 141.72,
+      "fin": 145.7,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 141.72,
+        "fin": 142.02
+       },
+       {
+        "t": "if",
+        "ini": 142.22,
+        "fin": 142.5
+       },
+       {
+        "t": "you",
+        "ini": 142.62,
+        "fin": 142.88
+       },
+       {
+        "t": "can't…",
+        "ini": 143.04,
+        "fin": 143.52
+       },
+       {
+        "t": "you",
+        "ini": 143.62,
+        "fin": 143.72
+       },
+       {
+        "t": "can",
+        "ini": 143.84,
+        "fin": 143.98
+       },
+       {
+        "t": "learn,",
+        "ini": 144.1,
+        "fin": 144.56
+       },
+       {
+        "t": "my",
+        "ini": 144.68,
+        "fin": 145.02
+       },
+       {
+        "t": "friend!",
+        "ini": 145.16,
+        "fin": 145.7
+       }
+      ]
+     }
+    ],
+    "duracion": 154.39
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Verse 1",
+      "texto": "El capitán Huesos sabe navegar, sabe leer un mapa,",
+      "ini": 0.56,
+      "fin": 12.8,
+      "palabras": [
+       {
+        "t": "El",
+        "ini": 0.56,
+        "fin": 8.74
+       },
+       {
+        "t": "capitán",
+        "ini": 8.84,
+        "fin": 9.32
+       },
+       {
+        "t": "Huesos",
+        "ini": 9.36,
+        "fin": 9.78
+       },
+       {
+        "t": "sabe",
+        "ini": 9.92,
+        "fin": 10.16
+       },
+       {
+        "t": "navegar,",
+        "ini": 10.22,
+        "fin": 11.02
+       },
+       {
+        "t": "sabe",
+        "ini": 11.24,
+        "fin": 11.48
+       },
+       {
+        "t": "leer",
+        "ini": 11.54,
+        "fin": 12.08
+       },
+       {
+        "t": "un",
+        "ini": 12.12,
+        "fin": 12.26
+       },
+       {
+        "t": "mapa,",
+        "ini": 12.34,
+        "fin": 12.8
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "sabe luchar con un calamar y dormir con su capa,",
+      "ini": 13.36,
+      "fin": 17.1,
+      "palabras": [
+       {
+        "t": "sabe",
+        "ini": 13.36,
+        "fin": 13.62
+       },
+       {
+        "t": "luchar",
+        "ini": 13.66,
+        "fin": 14.1
+       },
+       {
+        "t": "con",
+        "ini": 14.22,
+        "fin": 14.46
+       },
+       {
+        "t": "un",
+        "ini": 14.52,
+        "fin": 14.64
+       },
+       {
+        "t": "calamar",
+        "ini": 14.74,
+        "fin": 15.3
+       },
+       {
+        "t": "y",
+        "ini": 15.36,
+        "fin": 15.46
+       },
+       {
+        "t": "dormir",
+        "ini": 15.54,
+        "fin": 15.96
+       },
+       {
+        "t": "con",
+        "ini": 16.08,
+        "fin": 16.24
+       },
+       {
+        "t": "su",
+        "ini": 16.34,
+        "fin": 16.48
+       },
+       {
+        "t": "capa,",
+        "ini": 16.62,
+        "fin": 17.1
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "sabe cantar y sabe bailar, y cocina un guiso genial,",
+      "ini": 17.66,
+      "fin": 21.36,
+      "palabras": [
+       {
+        "t": "sabe",
+        "ini": 17.66,
+        "fin": 17.88
+       },
+       {
+        "t": "cantar",
+        "ini": 17.96,
+        "fin": 18.5
+       },
+       {
+        "t": "y",
+        "ini": 18.54,
+        "fin": 18.6
+       },
+       {
+        "t": "sabe",
+        "ini": 18.74,
+        "fin": 18.98
+       },
+       {
+        "t": "bailar,",
+        "ini": 19.02,
+        "fin": 19.54
+       },
+       {
+        "t": "y",
+        "ini": 19.58,
+        "fin": 19.64
+       },
+       {
+        "t": "cocina",
+        "ini": 19.68,
+        "fin": 20.16
+       },
+       {
+        "t": "un",
+        "ini": 20.2,
+        "fin": 20.3
+       },
+       {
+        "t": "guiso",
+        "ini": 20.36,
+        "fin": 20.7
+       },
+       {
+        "t": "genial,",
+        "ini": 20.76,
+        "fin": 21.36
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "pero hay una cosa, una sola, que le sale fatal:",
+      "ini": 21.74,
+      "fin": 25.6,
+      "palabras": [
+       {
+        "t": "pero",
+        "ini": 21.74,
+        "fin": 22.0
+       },
+       {
+        "t": "hay",
+        "ini": 22.02,
+        "fin": 22.18
+       },
+       {
+        "t": "una",
+        "ini": 22.24,
+        "fin": 22.38
+       },
+       {
+        "t": "cosa,",
+        "ini": 22.48,
+        "fin": 22.76
+       },
+       {
+        "t": "una",
+        "ini": 22.82,
+        "fin": 22.94
+       },
+       {
+        "t": "sola,",
+        "ini": 23.04,
+        "fin": 23.42
+       },
+       {
+        "t": "que",
+        "ini": 23.56,
+        "fin": 23.78
+       },
+       {
+        "t": "le",
+        "ini": 23.84,
+        "fin": 23.94
+       },
+       {
+        "t": "sale",
+        "ini": 24.1,
+        "fin": 24.76
+       },
+       {
+        "t": "fatal:",
+        "ini": 24.9,
+        "fin": 25.6
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡No sabe nadar! ¡No sabe nadar!",
+      "ini": 25.7,
+      "fin": 29.34,
+      "palabras": [
+       {
+        "t": "¡No",
+        "ini": 25.7,
+        "fin": 25.84
+       },
+       {
+        "t": "sabe",
+        "ini": 25.98,
+        "fin": 26.48
+       },
+       {
+        "t": "nadar!",
+        "ini": 26.54,
+        "fin": 27.26
+       },
+       {
+        "t": "¡No",
+        "ini": 27.26,
+        "fin": 27.96
+       },
+       {
+        "t": "sabe",
+        "ini": 28.12,
+        "fin": 28.62
+       },
+       {
+        "t": "nadar!",
+        "ini": 28.68,
+        "fin": 29.34
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Ay, marineros, el capitán no sabe nadar!",
+      "ini": 29.34,
+      "fin": 34.1,
+      "palabras": [
+       {
+        "t": "¡Ay,",
+        "ini": 29.34,
+        "fin": 29.9
+       },
+       {
+        "t": "marineros,",
+        "ini": 30.02,
+        "fin": 31.3
+       },
+       {
+        "t": "el",
+        "ini": 31.4,
+        "fin": 31.5
+       },
+       {
+        "t": "capitán",
+        "ini": 31.62,
+        "fin": 32.28
+       },
+       {
+        "t": "no",
+        "ini": 32.4,
+        "fin": 32.52
+       },
+       {
+        "t": "sabe",
+        "ini": 32.66,
+        "fin": 33.44
+       },
+       {
+        "t": "nadar!",
+        "ini": 33.5,
+        "fin": 34.1
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Tú sabes nadar? —¡Sí, sé nadar!",
+      "ini": 34.24,
+      "fin": 37.88,
+      "palabras": [
+       {
+        "t": "¿Tú",
+        "ini": 34.24,
+        "fin": 34.44
+       },
+       {
+        "t": "sabes",
+        "ini": 34.54,
+        "fin": 35.02
+       },
+       {
+        "t": "nadar?",
+        "ini": 35.1,
+        "fin": 35.78
+       },
+       {
+        "t": "—¡Sí,",
+        "ini": 35.86,
+        "fin": 36.8
+       },
+       {
+        "t": "sé",
+        "ini": 36.96,
+        "fin": 37.18
+       },
+       {
+        "t": "nadar!",
+        "ini": 37.24,
+        "fin": 37.88
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Y si no sabes… ¡puedes aprender a nadar!",
+      "ini": 38.32,
+      "fin": 42.72,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 38.32,
+        "fin": 38.42
+       },
+       {
+        "t": "si",
+        "ini": 38.56,
+        "fin": 38.76
+       },
+       {
+        "t": "no",
+        "ini": 38.84,
+        "fin": 38.94
+       },
+       {
+        "t": "sabes…",
+        "ini": 39.1,
+        "fin": 40.04
+       },
+       {
+        "t": "¡puedes",
+        "ini": 40.16,
+        "fin": 40.7
+       },
+       {
+        "t": "aprender",
+        "ini": 40.78,
+        "fin": 41.8
+       },
+       {
+        "t": "a",
+        "ini": 41.88,
+        "fin": 41.98
+       },
+       {
+        "t": "nadar!",
+        "ini": 42.06,
+        "fin": 42.72
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Cuando era pequeño, no podía montar en bici,",
+      "ini": 43.36,
+      "fin": 47.08,
+      "palabras": [
+       {
+        "t": "Cuando",
+        "ini": 43.36,
+        "fin": 43.76
+       },
+       {
+        "t": "era",
+        "ini": 43.82,
+        "fin": 44.04
+       },
+       {
+        "t": "pequeño,",
+        "ini": 44.2,
+        "fin": 44.9
+       },
+       {
+        "t": "no",
+        "ini": 45.02,
+        "fin": 45.12
+       },
+       {
+        "t": "podía",
+        "ini": 45.28,
+        "fin": 45.76
+       },
+       {
+        "t": "montar",
+        "ini": 45.8,
+        "fin": 46.36
+       },
+       {
+        "t": "en",
+        "ini": 46.4,
+        "fin": 46.56
+       },
+       {
+        "t": "bici,",
+        "ini": 46.62,
+        "fin": 47.08
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "ni atarse los cordones, ni volar una cometa así,",
+      "ini": 47.4,
+      "fin": 51.22,
+      "palabras": [
+       {
+        "t": "ni",
+        "ini": 47.4,
+        "fin": 47.46
+       },
+       {
+        "t": "atarse",
+        "ini": 47.52,
+        "fin": 48.16
+       },
+       {
+        "t": "los",
+        "ini": 48.2,
+        "fin": 48.38
+       },
+       {
+        "t": "cordones,",
+        "ini": 48.48,
+        "fin": 49.22
+       },
+       {
+        "t": "ni",
+        "ini": 49.3,
+        "fin": 49.4
+       },
+       {
+        "t": "volar",
+        "ini": 49.44,
+        "fin": 49.7
+       },
+       {
+        "t": "una",
+        "ini": 49.78,
+        "fin": 49.94
+       },
+       {
+        "t": "cometa",
+        "ini": 50.08,
+        "fin": 50.7
+       },
+       {
+        "t": "así,",
+        "ini": 50.72,
+        "fin": 51.22
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "pero practicó cada día, y ahora sí puede, de verdad,",
+      "ini": 51.7,
+      "fin": 55.7,
+      "palabras": [
+       {
+        "t": "pero",
+        "ini": 51.7,
+        "fin": 51.88
+       },
+       {
+        "t": "practicó",
+        "ini": 51.96,
+        "fin": 52.64
+       },
+       {
+        "t": "cada",
+        "ini": 52.78,
+        "fin": 53.02
+       },
+       {
+        "t": "día,",
+        "ini": 53.04,
+        "fin": 53.44
+       },
+       {
+        "t": "y",
+        "ini": 53.54,
+        "fin": 53.6
+       },
+       {
+        "t": "ahora",
+        "ini": 53.66,
+        "fin": 53.88
+       },
+       {
+        "t": "sí",
+        "ini": 53.96,
+        "fin": 54.08
+       },
+       {
+        "t": "puede,",
+        "ini": 54.12,
+        "fin": 54.54
+       },
+       {
+        "t": "de",
+        "ini": 54.66,
+        "fin": 54.86
+       },
+       {
+        "t": "verdad,",
+        "ini": 54.92,
+        "fin": 55.7
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "y la tripulación le dijo: «¡Capitán, también podrás nadar!»",
+      "ini": 56.16,
+      "fin": 59.86,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 56.16,
+        "fin": 56.22
+       },
+       {
+        "t": "la",
+        "ini": 56.24,
+        "fin": 56.34
+       },
+       {
+        "t": "tripulación",
+        "ini": 56.36,
+        "fin": 57.02
+       },
+       {
+        "t": "le",
+        "ini": 57.06,
+        "fin": 57.16
+       },
+       {
+        "t": "dijo:",
+        "ini": 57.2,
+        "fin": 57.48
+       },
+       {
+        "t": "«¡Capitán,",
+        "ini": 57.56,
+        "fin": 58.04
+       },
+       {
+        "t": "también",
+        "ini": 58.14,
+        "fin": 58.58
+       },
+       {
+        "t": "podrás",
+        "ini": 58.68,
+        "fin": 59.14
+       },
+       {
+        "t": "nadar!»",
+        "ini": 59.22,
+        "fin": 59.86
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡No sabe nadar! ¡No sabe nadar!",
+      "ini": 60.0,
+      "fin": 63.58,
+      "palabras": [
+       {
+        "t": "¡No",
+        "ini": 60.0,
+        "fin": 60.1
+       },
+       {
+        "t": "sabe",
+        "ini": 60.26,
+        "fin": 60.76
+       },
+       {
+        "t": "nadar!",
+        "ini": 60.82,
+        "fin": 61.48
+       },
+       {
+        "t": "¡No",
+        "ini": 61.48,
+        "fin": 62.24
+       },
+       {
+        "t": "sabe",
+        "ini": 62.4,
+        "fin": 62.9
+       },
+       {
+        "t": "nadar!",
+        "ini": 62.96,
+        "fin": 63.58
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Ay, marineros, el capitán no sabe nadar!",
+      "ini": 63.58,
+      "fin": 68.38,
+      "palabras": [
+       {
+        "t": "¡Ay,",
+        "ini": 63.58,
+        "fin": 64.18
+       },
+       {
+        "t": "marineros,",
+        "ini": 64.3,
+        "fin": 65.56
+       },
+       {
+        "t": "el",
+        "ini": 65.68,
+        "fin": 65.8
+       },
+       {
+        "t": "capitán",
+        "ini": 65.88,
+        "fin": 66.58
+       },
+       {
+        "t": "no",
+        "ini": 66.7,
+        "fin": 66.8
+       },
+       {
+        "t": "sabe",
+        "ini": 66.96,
+        "fin": 67.72
+       },
+       {
+        "t": "nadar!",
+        "ini": 67.78,
+        "fin": 68.38
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Tú sabes nadar? —¡Sí, sé nadar!",
+      "ini": 68.38,
+      "fin": 72.18,
+      "palabras": [
+       {
+        "t": "¿Tú",
+        "ini": 68.38,
+        "fin": 68.7
+       },
+       {
+        "t": "sabes",
+        "ini": 68.82,
+        "fin": 69.3
+       },
+       {
+        "t": "nadar?",
+        "ini": 69.38,
+        "fin": 70.1
+       },
+       {
+        "t": "—¡Sí,",
+        "ini": 70.16,
+        "fin": 71.1
+       },
+       {
+        "t": "sé",
+        "ini": 71.24,
+        "fin": 71.46
+       },
+       {
+        "t": "nadar!",
+        "ini": 71.52,
+        "fin": 72.18
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Y si no sabes… ¡puedes aprender a nadar!",
+      "ini": 72.6,
+      "fin": 77.0,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 72.6,
+        "fin": 72.7
+       },
+       {
+        "t": "si",
+        "ini": 72.8,
+        "fin": 73.06
+       },
+       {
+        "t": "no",
+        "ini": 73.12,
+        "fin": 73.22
+       },
+       {
+        "t": "sabes…",
+        "ini": 73.36,
+        "fin": 74.34
+       },
+       {
+        "t": "¡puedes",
+        "ini": 74.44,
+        "fin": 74.98
+       },
+       {
+        "t": "aprender",
+        "ini": 75.08,
+        "fin": 76.08
+       },
+       {
+        "t": "a",
+        "ini": 76.16,
+        "fin": 76.26
+       },
+       {
+        "t": "nadar!",
+        "ini": 76.34,
+        "fin": 77.0
+       }
+      ]
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Yo puedo, tú puedes, él puede, ella puede… ¡todos aprendemos!",
+      "ini": 77.42,
+      "fin": 85.14,
+      "palabras": [
+       {
+        "t": "Yo",
+        "ini": 77.42,
+        "fin": 77.54
+       },
+       {
+        "t": "puedo,",
+        "ini": 77.66,
+        "fin": 78.34
+       },
+       {
+        "t": "tú",
+        "ini": 78.5,
+        "fin": 78.62
+       },
+       {
+        "t": "puedes,",
+        "ini": 78.74,
+        "fin": 79.52
+       },
+       {
+        "t": "él",
+        "ini": 79.62,
+        "fin": 79.72
+       },
+       {
+        "t": "puede,",
+        "ini": 79.82,
+        "fin": 80.52
+       },
+       {
+        "t": "ella",
+        "ini": 80.6,
+        "fin": 80.76
+       },
+       {
+        "t": "puede…",
+        "ini": 80.88,
+        "fin": 81.66
+       },
+       {
+        "t": "¡todos",
+        "ini": 81.9,
+        "fin": 83.56
+       },
+       {
+        "t": "aprendemos!",
+        "ini": 83.64,
+        "fin": 85.14
+       }
+      ]
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Antes no podía, ahora sí… ¡y tú también, ya lo veremos!",
+      "ini": 85.72,
+      "fin": 94.26,
+      "palabras": [
+       {
+        "t": "Antes",
+        "ini": 85.72,
+        "fin": 86.18
+       },
+       {
+        "t": "no",
+        "ini": 86.26,
+        "fin": 86.52
+       },
+       {
+        "t": "podía,",
+        "ini": 86.78,
+        "fin": 87.86
+       },
+       {
+        "t": "ahora",
+        "ini": 87.96,
+        "fin": 88.22
+       },
+       {
+        "t": "sí…",
+        "ini": 88.32,
+        "fin": 88.9
+       },
+       {
+        "t": "¡y",
+        "ini": 88.9,
+        "fin": 89.88
+       },
+       {
+        "t": "tú",
+        "ini": 90.0,
+        "fin": 90.16
+       },
+       {
+        "t": "también,",
+        "ini": 90.26,
+        "fin": 91.02
+       },
+       {
+        "t": "ya",
+        "ini": 91.86,
+        "fin": 92.02
+       },
+       {
+        "t": "lo",
+        "ini": 92.18,
+        "fin": 92.38
+       },
+       {
+        "t": "veremos!",
+        "ini": 92.42,
+        "fin": 94.26
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Ahora el capitán nada con delfines cada tarde,",
+      "ini": 94.6,
+      "fin": 102.04,
+      "palabras": [
+       {
+        "t": "Ahora",
+        "ini": 94.6,
+        "fin": 95.46
+       },
+       {
+        "t": "el",
+        "ini": 95.54,
+        "fin": 95.76
+       },
+       {
+        "t": "capitán",
+        "ini": 95.9,
+        "fin": 96.92
+       },
+       {
+        "t": "nada",
+        "ini": 97.0,
+        "fin": 97.86
+       },
+       {
+        "t": "con",
+        "ini": 99.12,
+        "fin": 99.58
+       },
+       {
+        "t": "delfines",
+        "ini": 99.64,
+        "fin": 100.64
+       },
+       {
+        "t": "cada",
+        "ini": 100.74,
+        "fin": 101.12
+       },
+       {
+        "t": "tarde,",
+        "ini": 101.24,
+        "fin": 102.04
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "y canta: «¡Nunca es tarde para aprender, que nadie se acobarde!»",
+      "ini": 103.18,
+      "fin": 110.62,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 103.18,
+        "fin": 103.26
+       },
+       {
+        "t": "canta:",
+        "ini": 103.4,
+        "fin": 104.2
+       },
+       {
+        "t": "«¡Nunca",
+        "ini": 104.44,
+        "fin": 105.18
+       },
+       {
+        "t": "es",
+        "ini": 105.22,
+        "fin": 105.42
+       },
+       {
+        "t": "tarde",
+        "ini": 105.54,
+        "fin": 106.18
+       },
+       {
+        "t": "para",
+        "ini": 106.34,
+        "fin": 106.84
+       },
+       {
+        "t": "aprender,",
+        "ini": 107.08,
+        "fin": 108.1
+       },
+       {
+        "t": "que",
+        "ini": 108.5,
+        "fin": 108.72
+       },
+       {
+        "t": "nadie",
+        "ini": 108.76,
+        "fin": 109.18
+       },
+       {
+        "t": "se",
+        "ini": 109.22,
+        "fin": 109.36
+       },
+       {
+        "t": "acobarde!»",
+        "ini": 109.42,
+        "fin": 110.62
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡No sabe nadar! ¡No sabe nadar!",
+      "ini": 111.64,
+      "fin": 115.04,
+      "palabras": [
+       {
+        "t": "¡No",
+        "ini": 111.64,
+        "fin": 111.66
+       },
+       {
+        "t": "sabe",
+        "ini": 111.74,
+        "fin": 112.2
+       },
+       {
+        "t": "nadar!",
+        "ini": 112.28,
+        "fin": 113.02
+       },
+       {
+        "t": "¡No",
+        "ini": 113.04,
+        "fin": 113.68
+       },
+       {
+        "t": "sabe",
+        "ini": 113.84,
+        "fin": 114.34
+       },
+       {
+        "t": "nadar!",
+        "ini": 114.42,
+        "fin": 115.04
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Ay, marineros, el capitán no sabe nadar!",
+      "ini": 115.1,
+      "fin": 119.82,
+      "palabras": [
+       {
+        "t": "¡Ay,",
+        "ini": 115.1,
+        "fin": 115.62
+       },
+       {
+        "t": "marineros,",
+        "ini": 115.76,
+        "fin": 116.98
+       },
+       {
+        "t": "el",
+        "ini": 117.14,
+        "fin": 117.24
+       },
+       {
+        "t": "capitán",
+        "ini": 117.36,
+        "fin": 118.04
+       },
+       {
+        "t": "no",
+        "ini": 118.14,
+        "fin": 118.22
+       },
+       {
+        "t": "sabe",
+        "ini": 118.42,
+        "fin": 119.16
+       },
+       {
+        "t": "nadar!",
+        "ini": 119.24,
+        "fin": 119.82
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Tú sabes nadar? —¡Sí, sé nadar!",
+      "ini": 119.86,
+      "fin": 123.66,
+      "palabras": [
+       {
+        "t": "¿Tú",
+        "ini": 119.86,
+        "fin": 120.16
+       },
+       {
+        "t": "sabes",
+        "ini": 120.28,
+        "fin": 120.76
+       },
+       {
+        "t": "nadar?",
+        "ini": 120.84,
+        "fin": 121.54
+       },
+       {
+        "t": "—¡Sí,",
+        "ini": 121.6,
+        "fin": 122.52
+       },
+       {
+        "t": "sé",
+        "ini": 122.68,
+        "fin": 122.92
+       },
+       {
+        "t": "nadar!",
+        "ini": 123.0,
+        "fin": 123.66
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Y si no sabes… ¡puedes aprender a nadar!",
+      "ini": 124.08,
+      "fin": 128.48,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 124.08,
+        "fin": 124.14
+       },
+       {
+        "t": "si",
+        "ini": 124.3,
+        "fin": 124.5
+       },
+       {
+        "t": "no",
+        "ini": 124.56,
+        "fin": 124.7
+       },
+       {
+        "t": "sabes…",
+        "ini": 124.82,
+        "fin": 125.76
+       },
+       {
+        "t": "¡puedes",
+        "ini": 125.86,
+        "fin": 126.42
+       },
+       {
+        "t": "aprender",
+        "ini": 126.54,
+        "fin": 127.52
+       },
+       {
+        "t": "a",
+        "ini": 127.6,
+        "fin": 127.72
+       },
+       {
+        "t": "nadar!",
+        "ini": 127.8,
+        "fin": 128.48
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡No sabe nadar! ¡No sabe nadar!",
+      "ini": 128.54,
+      "fin": 132.12,
+      "palabras": [
+       {
+        "t": "¡No",
+        "ini": 128.54,
+        "fin": 128.68
+       },
+       {
+        "t": "sabe",
+        "ini": 128.84,
+        "fin": 129.34
+       },
+       {
+        "t": "nadar!",
+        "ini": 129.42,
+        "fin": 130.18
+       },
+       {
+        "t": "¡No",
+        "ini": 130.18,
+        "fin": 130.82
+       },
+       {
+        "t": "sabe",
+        "ini": 131.0,
+        "fin": 131.48
+       },
+       {
+        "t": "nadar!",
+        "ini": 131.56,
+        "fin": 132.12
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Ay, marineros, el capitán no sabe nadar!",
+      "ini": 132.32,
+      "fin": 136.88,
+      "palabras": [
+       {
+        "t": "¡Ay,",
+        "ini": 132.32,
+        "fin": 132.74
+       },
+       {
+        "t": "marineros,",
+        "ini": 132.9,
+        "fin": 134.14
+       },
+       {
+        "t": "el",
+        "ini": 134.28,
+        "fin": 134.36
+       },
+       {
+        "t": "capitán",
+        "ini": 134.5,
+        "fin": 135.2
+       },
+       {
+        "t": "no",
+        "ini": 135.28,
+        "fin": 135.36
+       },
+       {
+        "t": "sabe",
+        "ini": 135.54,
+        "fin": 136.3
+       },
+       {
+        "t": "nadar!",
+        "ini": 136.36,
+        "fin": 136.88
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Tú sabes nadar? —¡Sí, sé nadar!",
+      "ini": 136.94,
+      "fin": 140.76,
+      "palabras": [
+       {
+        "t": "¿Tú",
+        "ini": 136.94,
+        "fin": 137.3
+       },
+       {
+        "t": "sabes",
+        "ini": 137.44,
+        "fin": 137.88
+       },
+       {
+        "t": "nadar?",
+        "ini": 137.98,
+        "fin": 138.7
+       },
+       {
+        "t": "—¡Sí,",
+        "ini": 138.74,
+        "fin": 139.66
+       },
+       {
+        "t": "sé",
+        "ini": 139.82,
+        "fin": 140.04
+       },
+       {
+        "t": "nadar!",
+        "ini": 140.14,
+        "fin": 140.76
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Y si no sabes… ¡puedes aprender a nadar!",
+      "ini": 141.22,
+      "fin": 145.7,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 141.22,
+        "fin": 141.28
+       },
+       {
+        "t": "si",
+        "ini": 141.42,
+        "fin": 141.66
+       },
+       {
+        "t": "no",
+        "ini": 141.7,
+        "fin": 141.8
+       },
+       {
+        "t": "sabes…",
+        "ini": 141.96,
+        "fin": 142.9
+       },
+       {
+        "t": "¡puedes",
+        "ini": 143.0,
+        "fin": 143.5
+       },
+       {
+        "t": "aprender",
+        "ini": 143.68,
+        "fin": 144.66
+       },
+       {
+        "t": "a",
+        "ini": 144.74,
+        "fin": 144.84
+       },
+       {
+        "t": "nadar!",
+        "ini": 144.92,
+        "fin": 145.7
+       }
+      ]
+     }
+    ],
+    "duracion": 154.39
+   },
+   "preguntas": [
+    {
+     "en": "What can't Captain Bones do?",
+     "en_op": [
+      "Swim",
+      "Sail a ship",
+      "Read a map"
+     ],
+     "es": "¿Qué no sabe hacer el capitán Huesos?",
+     "es_op": [
+      "Nadar",
+      "Navegar",
+      "Leer un mapa"
+     ]
+    },
+    {
+     "en": "When he was little, he ___ ride a bike.",
+     "en_op": [
+      "couldn't",
+      "can't",
+      "don't"
+     ],
+     "es": "Cuando era pequeño, no ___ montar en bici.",
+     "es_op": [
+      "podía",
+      "puede",
+      "podrá"
+     ]
+    },
+    {
+     "en": "Who does the captain swim with now?",
+     "en_op": [
+      "Dolphins",
+      "Sharks",
+      "Crabs"
+     ],
+     "es": "¿Con quién nada ahora el capitán?",
+     "es_op": [
+      "Con delfines",
+      "Con tiburones",
+      "Con cangrejos"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "13-misterio-universo",
+   "titulo_en": "The Mystery of the Universe",
+   "titulo_es": "El misterio del universo",
+   "ensena_en": "there is / there are, is there…? and space words",
+   "ensena_es": "hay, ¿hay…?, no hay y las palabras del espacio",
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Verse 1",
+      "texto": "I'm flying in my rocket past the Moon and Mars,",
+      "ini": 9.96,
+      "fin": 13.78,
+      "palabras": [
+       {
+        "t": "I'm",
+        "ini": 9.96,
+        "fin": 10.12
+       },
+       {
+        "t": "flying",
+        "ini": 10.2,
+        "fin": 10.82
+       },
+       {
+        "t": "in",
+        "ini": 10.88,
+        "fin": 11.04
+       },
+       {
+        "t": "my",
+        "ini": 11.1,
+        "fin": 11.38
+       },
+       {
+        "t": "rocket",
+        "ini": 11.44,
+        "fin": 11.9
+       },
+       {
+        "t": "past",
+        "ini": 12.0,
+        "fin": 12.3
+       },
+       {
+        "t": "the",
+        "ini": 12.36,
+        "fin": 12.44
+       },
+       {
+        "t": "Moon",
+        "ini": 12.6,
+        "fin": 12.92
+       },
+       {
+        "t": "and",
+        "ini": 12.96,
+        "fin": 13.1
+       },
+       {
+        "t": "Mars,",
+        "ini": 13.2,
+        "fin": 13.78
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "there is a giant planet, there are a million stars,",
+      "ini": 14.74,
+      "fin": 19.32,
+      "palabras": [
+       {
+        "t": "there",
+        "ini": 14.74,
+        "fin": 15.04
+       },
+       {
+        "t": "is",
+        "ini": 15.16,
+        "fin": 15.32
+       },
+       {
+        "t": "a",
+        "ini": 15.42,
+        "fin": 15.54
+       },
+       {
+        "t": "giant",
+        "ini": 15.6,
+        "fin": 16.06
+       },
+       {
+        "t": "planet,",
+        "ini": 16.16,
+        "fin": 16.72
+       },
+       {
+        "t": "there",
+        "ini": 17.12,
+        "fin": 17.42
+       },
+       {
+        "t": "are",
+        "ini": 17.5,
+        "fin": 17.72
+       },
+       {
+        "t": "a",
+        "ini": 17.82,
+        "fin": 17.86
+       },
+       {
+        "t": "million",
+        "ini": 18.0,
+        "fin": 18.46
+       },
+       {
+        "t": "stars,",
+        "ini": 18.6,
+        "fin": 19.32
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "there's a comet with a tail as bright as morning light,",
+      "ini": 19.8,
+      "fin": 23.84,
+      "palabras": [
+       {
+        "t": "there's",
+        "ini": 19.8,
+        "fin": 20.14
+       },
+       {
+        "t": "a",
+        "ini": 20.22,
+        "fin": 20.32
+       },
+       {
+        "t": "comet",
+        "ini": 20.4,
+        "fin": 20.98
+       },
+       {
+        "t": "with",
+        "ini": 21.06,
+        "fin": 21.32
+       },
+       {
+        "t": "a",
+        "ini": 21.36,
+        "fin": 21.52
+       },
+       {
+        "t": "tail",
+        "ini": 21.6,
+        "fin": 21.92
+       },
+       {
+        "t": "as",
+        "ini": 22.0,
+        "fin": 22.12
+       },
+       {
+        "t": "bright",
+        "ini": 22.22,
+        "fin": 22.56
+       },
+       {
+        "t": "as",
+        "ini": 22.6,
+        "fin": 22.76
+       },
+       {
+        "t": "morning",
+        "ini": 22.84,
+        "fin": 23.26
+       },
+       {
+        "t": "light,",
+        "ini": 23.4,
+        "fin": 23.84
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "and there are seven moons that dance around at night.",
+      "ini": 24.34,
+      "fin": 28.14,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 24.34,
+        "fin": 24.54
+       },
+       {
+        "t": "there",
+        "ini": 24.64,
+        "fin": 24.92
+       },
+       {
+        "t": "are",
+        "ini": 24.94,
+        "fin": 25.1
+       },
+       {
+        "t": "seven",
+        "ini": 25.2,
+        "fin": 25.66
+       },
+       {
+        "t": "moons",
+        "ini": 25.8,
+        "fin": 26.1
+       },
+       {
+        "t": "that",
+        "ini": 26.14,
+        "fin": 26.36
+       },
+       {
+        "t": "dance",
+        "ini": 26.4,
+        "fin": 26.74
+       },
+       {
+        "t": "around",
+        "ini": 26.84,
+        "fin": 27.32
+       },
+       {
+        "t": "at",
+        "ini": 27.36,
+        "fin": 27.52
+       },
+       {
+        "t": "night.",
+        "ini": 27.6,
+        "fin": 28.14
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Is there life on other planets? Is there someone far away?",
+      "ini": 29.52,
+      "fin": 33.8,
+      "palabras": [
+       {
+        "t": "Is",
+        "ini": 29.52,
+        "fin": 29.68
+       },
+       {
+        "t": "there",
+        "ini": 29.72,
+        "fin": 29.96
+       },
+       {
+        "t": "life",
+        "ini": 30.02,
+        "fin": 30.34
+       },
+       {
+        "t": "on",
+        "ini": 30.44,
+        "fin": 30.64
+       },
+       {
+        "t": "other",
+        "ini": 30.72,
+        "fin": 30.98
+       },
+       {
+        "t": "planets?",
+        "ini": 31.06,
+        "fin": 31.8
+       },
+       {
+        "t": "Is",
+        "ini": 31.92,
+        "fin": 32.04
+       },
+       {
+        "t": "there",
+        "ini": 32.12,
+        "fin": 32.32
+       },
+       {
+        "t": "someone",
+        "ini": 32.44,
+        "fin": 32.9
+       },
+       {
+        "t": "far",
+        "ini": 33.04,
+        "fin": 33.3
+       },
+       {
+        "t": "away?",
+        "ini": 33.38,
+        "fin": 33.8
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "There are questions in the sky, and I'm flying there today!",
+      "ini": 34.2,
+      "fin": 38.64,
+      "palabras": [
+       {
+        "t": "There",
+        "ini": 34.2,
+        "fin": 34.5
+       },
+       {
+        "t": "are",
+        "ini": 34.56,
+        "fin": 34.74
+       },
+       {
+        "t": "questions",
+        "ini": 34.8,
+        "fin": 35.44
+       },
+       {
+        "t": "in",
+        "ini": 35.52,
+        "fin": 35.64
+       },
+       {
+        "t": "the",
+        "ini": 35.7,
+        "fin": 35.8
+       },
+       {
+        "t": "sky,",
+        "ini": 35.9,
+        "fin": 36.28
+       },
+       {
+        "t": "and",
+        "ini": 36.66,
+        "fin": 36.9
+       },
+       {
+        "t": "I'm",
+        "ini": 36.98,
+        "fin": 37.12
+       },
+       {
+        "t": "flying",
+        "ini": 37.18,
+        "fin": 37.76
+       },
+       {
+        "t": "there",
+        "ini": 37.84,
+        "fin": 38.06
+       },
+       {
+        "t": "today!",
+        "ini": 38.12,
+        "fin": 38.64
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "There is a mystery, there is a dream —",
+      "ini": 38.74,
+      "fin": 42.3,
+      "palabras": [
+       {
+        "t": "There",
+        "ini": 38.74,
+        "fin": 39.04
+       },
+       {
+        "t": "is",
+        "ini": 39.14,
+        "fin": 39.3
+       },
+       {
+        "t": "a",
+        "ini": 39.36,
+        "fin": 39.4
+       },
+       {
+        "t": "mystery,",
+        "ini": 39.5,
+        "fin": 40.34
+       },
+       {
+        "t": "there",
+        "ini": 41.14,
+        "fin": 41.44
+       },
+       {
+        "t": "is",
+        "ini": 41.54,
+        "fin": 41.7
+       },
+       {
+        "t": "a",
+        "ini": 41.76,
+        "fin": 41.82
+       },
+       {
+        "t": "dream",
+        "ini": 41.88,
+        "fin": 42.3
+       },
+       {
+        "t": "—",
+        "ini": 42.3,
+        "fin": 42.3
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "and in this giant universe, nobody's small, it seems!",
+      "ini": 43.56,
+      "fin": 47.96,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 43.56,
+        "fin": 43.8
+       },
+       {
+        "t": "in",
+        "ini": 43.9,
+        "fin": 44.06
+       },
+       {
+        "t": "this",
+        "ini": 44.12,
+        "fin": 44.36
+       },
+       {
+        "t": "giant",
+        "ini": 44.4,
+        "fin": 44.98
+       },
+       {
+        "t": "universe,",
+        "ini": 45.14,
+        "fin": 45.84
+       },
+       {
+        "t": "nobody's",
+        "ini": 45.94,
+        "fin": 46.7
+       },
+       {
+        "t": "small,",
+        "ini": 46.78,
+        "fin": 47.12
+       },
+       {
+        "t": "it",
+        "ini": 47.18,
+        "fin": 47.3
+       },
+       {
+        "t": "seems!",
+        "ini": 47.46,
+        "fin": 47.96
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "There is a black hole spinning, there isn't any sound,",
+      "ini": 48.34,
+      "fin": 52.8,
+      "palabras": [
+       {
+        "t": "There",
+        "ini": 48.34,
+        "fin": 48.64
+       },
+       {
+        "t": "is",
+        "ini": 48.74,
+        "fin": 48.92
+       },
+       {
+        "t": "a",
+        "ini": 49.0,
+        "fin": 49.06
+       },
+       {
+        "t": "black",
+        "ini": 49.16,
+        "fin": 49.48
+       },
+       {
+        "t": "hole",
+        "ini": 49.52,
+        "fin": 49.66
+       },
+       {
+        "t": "spinning,",
+        "ini": 49.8,
+        "fin": 50.3
+       },
+       {
+        "t": "there",
+        "ini": 50.74,
+        "fin": 51.04
+       },
+       {
+        "t": "isn't",
+        "ini": 51.16,
+        "fin": 51.58
+       },
+       {
+        "t": "any",
+        "ini": 51.72,
+        "fin": 52.02
+       },
+       {
+        "t": "sound,",
+        "ini": 52.24,
+        "fin": 52.8
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "there are clouds of pink and purple where new stars are found,",
+      "ini": 53.42,
+      "fin": 57.54,
+      "palabras": [
+       {
+        "t": "there",
+        "ini": 53.42,
+        "fin": 53.72
+       },
+       {
+        "t": "are",
+        "ini": 53.76,
+        "fin": 53.86
+       },
+       {
+        "t": "clouds",
+        "ini": 53.96,
+        "fin": 54.34
+       },
+       {
+        "t": "of",
+        "ini": 54.4,
+        "fin": 54.54
+       },
+       {
+        "t": "pink",
+        "ini": 54.64,
+        "fin": 54.92
+       },
+       {
+        "t": "and",
+        "ini": 54.96,
+        "fin": 55.1
+       },
+       {
+        "t": "purple",
+        "ini": 55.2,
+        "fin": 55.76
+       },
+       {
+        "t": "where",
+        "ini": 55.8,
+        "fin": 56.06
+       },
+       {
+        "t": "new",
+        "ini": 56.12,
+        "fin": 56.22
+       },
+       {
+        "t": "stars",
+        "ini": 56.38,
+        "fin": 56.74
+       },
+       {
+        "t": "are",
+        "ini": 56.78,
+        "fin": 56.94
+       },
+       {
+        "t": "found,",
+        "ini": 57.06,
+        "fin": 57.54
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Is there water on that planet? Is there air to breathe?",
+      "ini": 57.94,
+      "fin": 61.8,
+      "palabras": [
+       {
+        "t": "Is",
+        "ini": 57.94,
+        "fin": 58.04
+       },
+       {
+        "t": "there",
+        "ini": 58.08,
+        "fin": 58.2
+       },
+       {
+        "t": "water",
+        "ini": 58.26,
+        "fin": 58.7
+       },
+       {
+        "t": "on",
+        "ini": 58.8,
+        "fin": 59.08
+       },
+       {
+        "t": "that",
+        "ini": 59.16,
+        "fin": 59.34
+       },
+       {
+        "t": "planet?",
+        "ini": 59.4,
+        "fin": 59.92
+       },
+       {
+        "t": "Is",
+        "ini": 60.34,
+        "fin": 60.44
+       },
+       {
+        "t": "there",
+        "ini": 60.5,
+        "fin": 60.64
+       },
+       {
+        "t": "air",
+        "ini": 60.7,
+        "fin": 60.88
+       },
+       {
+        "t": "to",
+        "ini": 60.92,
+        "fin": 61.04
+       },
+       {
+        "t": "breathe?",
+        "ini": 61.1,
+        "fin": 61.8
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "I'll take a little sample in the pocket of my sleeve!",
+      "ini": 62.8,
+      "fin": 67.18,
+      "palabras": [
+       {
+        "t": "I'll",
+        "ini": 62.8,
+        "fin": 62.96
+       },
+       {
+        "t": "take",
+        "ini": 63.04,
+        "fin": 63.32
+       },
+       {
+        "t": "a",
+        "ini": 63.44,
+        "fin": 63.54
+       },
+       {
+        "t": "little",
+        "ini": 63.64,
+        "fin": 64.02
+       },
+       {
+        "t": "sample",
+        "ini": 64.2,
+        "fin": 64.74
+       },
+       {
+        "t": "in",
+        "ini": 65.14,
+        "fin": 65.22
+       },
+       {
+        "t": "the",
+        "ini": 65.26,
+        "fin": 65.36
+       },
+       {
+        "t": "pocket",
+        "ini": 65.42,
+        "fin": 66.02
+       },
+       {
+        "t": "of",
+        "ini": 66.14,
+        "fin": 66.26
+       },
+       {
+        "t": "my",
+        "ini": 66.32,
+        "fin": 66.52
+       },
+       {
+        "t": "sleeve!",
+        "ini": 66.6,
+        "fin": 67.18
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Is there life on other planets? Is there someone far away?",
+      "ini": 67.92,
+      "fin": 72.12,
+      "palabras": [
+       {
+        "t": "Is",
+        "ini": 67.92,
+        "fin": 68.08
+       },
+       {
+        "t": "there",
+        "ini": 68.14,
+        "fin": 68.36
+       },
+       {
+        "t": "life",
+        "ini": 68.44,
+        "fin": 68.72
+       },
+       {
+        "t": "on",
+        "ini": 68.84,
+        "fin": 69.04
+       },
+       {
+        "t": "other",
+        "ini": 69.14,
+        "fin": 69.38
+       },
+       {
+        "t": "planets?",
+        "ini": 69.46,
+        "fin": 70.18
+       },
+       {
+        "t": "Is",
+        "ini": 70.32,
+        "fin": 70.44
+       },
+       {
+        "t": "there",
+        "ini": 70.52,
+        "fin": 70.72
+       },
+       {
+        "t": "someone",
+        "ini": 70.8,
+        "fin": 71.3
+       },
+       {
+        "t": "far",
+        "ini": 71.44,
+        "fin": 71.7
+       },
+       {
+        "t": "away?",
+        "ini": 71.78,
+        "fin": 72.12
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "There are questions in the sky, and I'm flying there today!",
+      "ini": 72.62,
+      "fin": 77.04,
+      "palabras": [
+       {
+        "t": "There",
+        "ini": 72.62,
+        "fin": 72.92
+       },
+       {
+        "t": "are",
+        "ini": 72.96,
+        "fin": 73.12
+       },
+       {
+        "t": "questions",
+        "ini": 73.18,
+        "fin": 73.82
+       },
+       {
+        "t": "in",
+        "ini": 73.92,
+        "fin": 74.06
+       },
+       {
+        "t": "the",
+        "ini": 74.1,
+        "fin": 74.16
+       },
+       {
+        "t": "sky,",
+        "ini": 74.24,
+        "fin": 74.66
+       },
+       {
+        "t": "and",
+        "ini": 75.06,
+        "fin": 75.3
+       },
+       {
+        "t": "I'm",
+        "ini": 75.38,
+        "fin": 75.54
+       },
+       {
+        "t": "flying",
+        "ini": 75.6,
+        "fin": 76.14
+       },
+       {
+        "t": "there",
+        "ini": 76.22,
+        "fin": 76.46
+       },
+       {
+        "t": "today!",
+        "ini": 76.5,
+        "fin": 77.04
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "There is a mystery, there is a dream —",
+      "ini": 77.16,
+      "fin": 81.0,
+      "palabras": [
+       {
+        "t": "There",
+        "ini": 77.16,
+        "fin": 77.44
+       },
+       {
+        "t": "is",
+        "ini": 77.54,
+        "fin": 77.7
+       },
+       {
+        "t": "a",
+        "ini": 77.76,
+        "fin": 77.82
+       },
+       {
+        "t": "mystery,",
+        "ini": 77.9,
+        "fin": 78.74
+       },
+       {
+        "t": "there",
+        "ini": 79.54,
+        "fin": 79.84
+       },
+       {
+        "t": "is",
+        "ini": 79.92,
+        "fin": 80.1
+       },
+       {
+        "t": "a",
+        "ini": 80.16,
+        "fin": 80.22
+       },
+       {
+        "t": "dream",
+        "ini": 80.3,
+        "fin": 81.0
+       },
+       {
+        "t": "—",
+        "ini": 81.0,
+        "fin": 81.0
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "and in this giant universe, nobody's small, it seems!",
+      "ini": 81.96,
+      "fin": 86.38,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 81.96,
+        "fin": 82.22
+       },
+       {
+        "t": "in",
+        "ini": 82.32,
+        "fin": 82.46
+       },
+       {
+        "t": "this",
+        "ini": 82.52,
+        "fin": 82.7
+       },
+       {
+        "t": "giant",
+        "ini": 82.8,
+        "fin": 83.36
+       },
+       {
+        "t": "universe,",
+        "ini": 83.52,
+        "fin": 84.24
+       },
+       {
+        "t": "nobody's",
+        "ini": 84.34,
+        "fin": 85.1
+       },
+       {
+        "t": "small,",
+        "ini": 85.18,
+        "fin": 85.5
+       },
+       {
+        "t": "it",
+        "ini": 85.56,
+        "fin": 85.66
+       },
+       {
+        "t": "seems!",
+        "ini": 85.84,
+        "fin": 86.38
+       }
+      ]
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "There is one, there are many… is there someone there?",
+      "ini": 87.04,
+      "fin": 92.4,
+      "palabras": [
+       {
+        "t": "There",
+        "ini": 87.04,
+        "fin": 87.34
+       },
+       {
+        "t": "is",
+        "ini": 87.4,
+        "fin": 87.54
+       },
+       {
+        "t": "one,",
+        "ini": 87.66,
+        "fin": 88.14
+       },
+       {
+        "t": "there",
+        "ini": 88.24,
+        "fin": 88.5
+       },
+       {
+        "t": "are",
+        "ini": 88.54,
+        "fin": 88.74
+       },
+       {
+        "t": "many…",
+        "ini": 88.84,
+        "fin": 89.7
+       },
+       {
+        "t": "is",
+        "ini": 90.6,
+        "fin": 90.84
+       },
+       {
+        "t": "there",
+        "ini": 90.92,
+        "fin": 91.1
+       },
+       {
+        "t": "someone",
+        "ini": 91.2,
+        "fin": 92.08
+       },
+       {
+        "t": "there?",
+        "ini": 92.16,
+        "fin": 92.4
+       }
+      ]
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "There isn't anybody… yet! Let's go and look out there!",
+      "ini": 96.44,
+      "fin": 101.1,
+      "palabras": [
+       {
+        "t": "There",
+        "ini": 96.44,
+        "fin": 96.58
+       },
+       {
+        "t": "isn't",
+        "ini": 96.72,
+        "fin": 97.14
+       },
+       {
+        "t": "anybody…",
+        "ini": 97.34,
+        "fin": 98.34
+       },
+       {
+        "t": "yet!",
+        "ini": 98.4,
+        "fin": 98.64
+       },
+       {
+        "t": "Let's",
+        "ini": 99.3,
+        "fin": 99.58
+       },
+       {
+        "t": "go",
+        "ini": 99.66,
+        "fin": 99.88
+       },
+       {
+        "t": "and",
+        "ini": 99.96,
+        "fin": 100.14
+       },
+       {
+        "t": "look",
+        "ini": 100.2,
+        "fin": 100.38
+       },
+       {
+        "t": "out",
+        "ini": 100.46,
+        "fin": 100.64
+       },
+       {
+        "t": "there!",
+        "ini": 100.72,
+        "fin": 101.1
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "And when I come back home, I'll tell you what I found:",
+      "ini": 110.72,
+      "fin": 115.24,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 110.72,
+        "fin": 110.92
+       },
+       {
+        "t": "when",
+        "ini": 111.06,
+        "fin": 111.32
+       },
+       {
+        "t": "I",
+        "ini": 111.42,
+        "fin": 111.44
+       },
+       {
+        "t": "come",
+        "ini": 111.6,
+        "fin": 111.86
+       },
+       {
+        "t": "back",
+        "ini": 111.92,
+        "fin": 112.16
+       },
+       {
+        "t": "home,",
+        "ini": 112.2,
+        "fin": 112.64
+       },
+       {
+        "t": "I'll",
+        "ini": 113.14,
+        "fin": 113.32
+       },
+       {
+        "t": "tell",
+        "ini": 113.4,
+        "fin": 113.7
+       },
+       {
+        "t": "you",
+        "ini": 113.8,
+        "fin": 113.96
+       },
+       {
+        "t": "what",
+        "ini": 114.04,
+        "fin": 114.32
+       },
+       {
+        "t": "I",
+        "ini": 114.4,
+        "fin": 114.54
+       },
+       {
+        "t": "found:",
+        "ini": 114.64,
+        "fin": 115.24
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "the greatest mystery is a question… so ask it, loud and proud!",
+      "ini": 115.54,
+      "fin": 124.8,
+      "palabras": [
+       {
+        "t": "the",
+        "ini": 115.54,
+        "fin": 115.62
+       },
+       {
+        "t": "greatest",
+        "ini": 115.78,
+        "fin": 116.3
+       },
+       {
+        "t": "mystery",
+        "ini": 116.4,
+        "fin": 117.14
+       },
+       {
+        "t": "is",
+        "ini": 118.02,
+        "fin": 118.48
+       },
+       {
+        "t": "a",
+        "ini": 118.52,
+        "fin": 118.58
+       },
+       {
+        "t": "question…",
+        "ini": 118.66,
+        "fin": 119.68
+       },
+       {
+        "t": "so",
+        "ini": 122.72,
+        "fin": 122.86
+       },
+       {
+        "t": "ask",
+        "ini": 123.08,
+        "fin": 123.32
+       },
+       {
+        "t": "it,",
+        "ini": 123.36,
+        "fin": 123.46
+       },
+       {
+        "t": "loud",
+        "ini": 123.6,
+        "fin": 123.94
+       },
+       {
+        "t": "and",
+        "ini": 123.96,
+        "fin": 124.06
+       },
+       {
+        "t": "proud!",
+        "ini": 124.18,
+        "fin": 124.8
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Is there life on other planets? Is there someone far away?",
+      "ini": 125.5,
+      "fin": 129.72,
+      "palabras": [
+       {
+        "t": "Is",
+        "ini": 125.5,
+        "fin": 125.66
+       },
+       {
+        "t": "there",
+        "ini": 125.74,
+        "fin": 125.96
+       },
+       {
+        "t": "life",
+        "ini": 126.04,
+        "fin": 126.32
+       },
+       {
+        "t": "on",
+        "ini": 126.42,
+        "fin": 126.64
+       },
+       {
+        "t": "other",
+        "ini": 126.74,
+        "fin": 127.02
+       },
+       {
+        "t": "planets?",
+        "ini": 127.08,
+        "fin": 127.78
+       },
+       {
+        "t": "Is",
+        "ini": 127.9,
+        "fin": 128.06
+       },
+       {
+        "t": "there",
+        "ini": 128.12,
+        "fin": 128.32
+       },
+       {
+        "t": "someone",
+        "ini": 128.4,
+        "fin": 128.86
+       },
+       {
+        "t": "far",
+        "ini": 129.02,
+        "fin": 129.28
+       },
+       {
+        "t": "away?",
+        "ini": 129.36,
+        "fin": 129.72
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "There are questions in the sky, and I'm flying there today!",
+      "ini": 130.24,
+      "fin": 134.64,
+      "palabras": [
+       {
+        "t": "There",
+        "ini": 130.24,
+        "fin": 130.5
+       },
+       {
+        "t": "are",
+        "ini": 130.56,
+        "fin": 130.7
+       },
+       {
+        "t": "questions",
+        "ini": 130.78,
+        "fin": 131.4
+       },
+       {
+        "t": "in",
+        "ini": 131.5,
+        "fin": 131.66
+       },
+       {
+        "t": "the",
+        "ini": 131.7,
+        "fin": 131.76
+       },
+       {
+        "t": "sky,",
+        "ini": 131.84,
+        "fin": 132.28
+       },
+       {
+        "t": "and",
+        "ini": 132.68,
+        "fin": 132.9
+       },
+       {
+        "t": "I'm",
+        "ini": 132.98,
+        "fin": 133.12
+       },
+       {
+        "t": "flying",
+        "ini": 133.18,
+        "fin": 133.76
+       },
+       {
+        "t": "there",
+        "ini": 133.82,
+        "fin": 134.04
+       },
+       {
+        "t": "today!",
+        "ini": 134.1,
+        "fin": 134.64
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "There is a mystery, there is a dream —",
+      "ini": 134.74,
+      "fin": 138.6,
+      "palabras": [
+       {
+        "t": "There",
+        "ini": 134.74,
+        "fin": 135.04
+       },
+       {
+        "t": "is",
+        "ini": 135.14,
+        "fin": 135.3
+       },
+       {
+        "t": "a",
+        "ini": 135.38,
+        "fin": 135.4
+       },
+       {
+        "t": "mystery,",
+        "ini": 135.5,
+        "fin": 136.44
+       },
+       {
+        "t": "there",
+        "ini": 137.14,
+        "fin": 137.4
+       },
+       {
+        "t": "is",
+        "ini": 137.56,
+        "fin": 137.7
+       },
+       {
+        "t": "a",
+        "ini": 137.76,
+        "fin": 137.82
+       },
+       {
+        "t": "dream",
+        "ini": 137.9,
+        "fin": 138.6
+       },
+       {
+        "t": "—",
+        "ini": 138.6,
+        "fin": 138.6
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "and in this giant universe, nobody's small, it seems!",
+      "ini": 139.56,
+      "fin": 144.0,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 139.56,
+        "fin": 139.84
+       },
+       {
+        "t": "in",
+        "ini": 139.92,
+        "fin": 140.06
+       },
+       {
+        "t": "this",
+        "ini": 140.12,
+        "fin": 140.34
+       },
+       {
+        "t": "giant",
+        "ini": 140.42,
+        "fin": 140.98
+       },
+       {
+        "t": "universe,",
+        "ini": 141.16,
+        "fin": 141.84
+       },
+       {
+        "t": "nobody's",
+        "ini": 141.94,
+        "fin": 142.7
+       },
+       {
+        "t": "small,",
+        "ini": 142.78,
+        "fin": 143.1
+       },
+       {
+        "t": "it",
+        "ini": 143.18,
+        "fin": 143.3
+       },
+       {
+        "t": "seems!",
+        "ini": 143.44,
+        "fin": 144.0
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Is there life on other planets? Is there someone far away?",
+      "ini": 144.7,
+      "fin": 148.9,
+      "palabras": [
+       {
+        "t": "Is",
+        "ini": 144.7,
+        "fin": 144.88
+       },
+       {
+        "t": "there",
+        "ini": 144.94,
+        "fin": 145.16
+       },
+       {
+        "t": "life",
+        "ini": 145.24,
+        "fin": 145.52
+       },
+       {
+        "t": "on",
+        "ini": 145.64,
+        "fin": 145.84
+       },
+       {
+        "t": "other",
+        "ini": 146.0,
+        "fin": 146.22
+       },
+       {
+        "t": "planets?",
+        "ini": 146.26,
+        "fin": 147.0
+       },
+       {
+        "t": "Is",
+        "ini": 147.12,
+        "fin": 147.28
+       },
+       {
+        "t": "there",
+        "ini": 147.32,
+        "fin": 147.52
+       },
+       {
+        "t": "someone",
+        "ini": 147.6,
+        "fin": 148.12
+       },
+       {
+        "t": "far",
+        "ini": 148.24,
+        "fin": 148.48
+       },
+       {
+        "t": "away?",
+        "ini": 148.6,
+        "fin": 148.9
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "There are questions in the sky, and I'm flying there today!",
+      "ini": 149.44,
+      "fin": 153.84,
+      "palabras": [
+       {
+        "t": "There",
+        "ini": 149.44,
+        "fin": 149.72
+       },
+       {
+        "t": "are",
+        "ini": 149.76,
+        "fin": 149.92
+       },
+       {
+        "t": "questions",
+        "ini": 149.98,
+        "fin": 150.64
+       },
+       {
+        "t": "in",
+        "ini": 150.72,
+        "fin": 150.88
+       },
+       {
+        "t": "the",
+        "ini": 150.9,
+        "fin": 150.96
+       },
+       {
+        "t": "sky,",
+        "ini": 151.06,
+        "fin": 151.48
+       },
+       {
+        "t": "and",
+        "ini": 151.88,
+        "fin": 152.1
+       },
+       {
+        "t": "I'm",
+        "ini": 152.2,
+        "fin": 152.32
+       },
+       {
+        "t": "flying",
+        "ini": 152.38,
+        "fin": 152.94
+       },
+       {
+        "t": "there",
+        "ini": 153.0,
+        "fin": 153.24
+       },
+       {
+        "t": "today!",
+        "ini": 153.32,
+        "fin": 153.84
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "There is a mystery, there is a dream —",
+      "ini": 153.94,
+      "fin": 158.7,
+      "palabras": [
+       {
+        "t": "There",
+        "ini": 153.94,
+        "fin": 154.24
+       },
+       {
+        "t": "is",
+        "ini": 154.34,
+        "fin": 154.5
+       },
+       {
+        "t": "a",
+        "ini": 154.58,
+        "fin": 154.62
+       },
+       {
+        "t": "mystery,",
+        "ini": 154.7,
+        "fin": 155.64
+       },
+       {
+        "t": "there",
+        "ini": 156.34,
+        "fin": 156.58
+       },
+       {
+        "t": "is",
+        "ini": 156.72,
+        "fin": 156.9
+       },
+       {
+        "t": "a",
+        "ini": 156.96,
+        "fin": 157.02
+       },
+       {
+        "t": "dream",
+        "ini": 157.1,
+        "fin": 157.62
+       },
+       {
+        "t": "—",
+        "ini": 158.7,
+        "fin": 158.7
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "and in this giant universe, nobody's small, it seems!",
+      "ini": 158.78,
+      "fin": 163.2,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 158.78,
+        "fin": 159.02
+       },
+       {
+        "t": "in",
+        "ini": 159.12,
+        "fin": 159.28
+       },
+       {
+        "t": "this",
+        "ini": 159.34,
+        "fin": 159.56
+       },
+       {
+        "t": "giant",
+        "ini": 159.64,
+        "fin": 160.18
+       },
+       {
+        "t": "universe,",
+        "ini": 160.34,
+        "fin": 161.06
+       },
+       {
+        "t": "nobody's",
+        "ini": 161.14,
+        "fin": 161.9
+       },
+       {
+        "t": "small,",
+        "ini": 161.98,
+        "fin": 162.3
+       },
+       {
+        "t": "it",
+        "ini": 162.38,
+        "fin": 162.46
+       },
+       {
+        "t": "seems!",
+        "ini": 162.6,
+        "fin": 163.2
+       }
+      ]
+     }
+    ],
+    "duracion": 172.82
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Verse 1",
+      "texto": "Viajo en mi cohete, paso la Luna y Marte,",
+      "ini": 0.0,
+      "fin": 13.8,
+      "palabras": [
+       {
+        "t": "Viajo",
+        "ini": 0.0,
+        "fin": 10.44
+       },
+       {
+        "t": "en",
+        "ini": 10.48,
+        "fin": 10.62
+       },
+       {
+        "t": "mi",
+        "ini": 10.68,
+        "fin": 10.8
+       },
+       {
+        "t": "cohete,",
+        "ini": 10.98,
+        "fin": 11.68
+       },
+       {
+        "t": "paso",
+        "ini": 11.88,
+        "fin": 12.38
+       },
+       {
+        "t": "la",
+        "ini": 12.44,
+        "fin": 12.66
+       },
+       {
+        "t": "Luna",
+        "ini": 12.74,
+        "fin": 13.16
+       },
+       {
+        "t": "y",
+        "ini": 13.2,
+        "fin": 13.26
+       },
+       {
+        "t": "Marte,",
+        "ini": 13.36,
+        "fin": 13.8
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "hay un planeta gigante, hay estrellas por todas partes,",
+      "ini": 14.9,
+      "fin": 19.38,
+      "palabras": [
+       {
+        "t": "hay",
+        "ini": 14.9,
+        "fin": 15.0
+       },
+       {
+        "t": "un",
+        "ini": 15.04,
+        "fin": 15.12
+       },
+       {
+        "t": "planeta",
+        "ini": 15.16,
+        "fin": 15.84
+       },
+       {
+        "t": "gigante,",
+        "ini": 15.9,
+        "fin": 16.42
+       },
+       {
+        "t": "hay",
+        "ini": 16.48,
+        "fin": 16.7
+       },
+       {
+        "t": "estrellas",
+        "ini": 16.76,
+        "fin": 17.46
+       },
+       {
+        "t": "por",
+        "ini": 17.56,
+        "fin": 17.74
+       },
+       {
+        "t": "todas",
+        "ini": 17.86,
+        "fin": 18.36
+       },
+       {
+        "t": "partes,",
+        "ini": 18.46,
+        "fin": 19.38
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "hay un cometa con una cola que brilla al amanecer,",
+      "ini": 19.7,
+      "fin": 23.7,
+      "palabras": [
+       {
+        "t": "hay",
+        "ini": 19.7,
+        "fin": 19.8
+       },
+       {
+        "t": "un",
+        "ini": 19.84,
+        "fin": 19.94
+       },
+       {
+        "t": "cometa",
+        "ini": 19.98,
+        "fin": 20.64
+       },
+       {
+        "t": "con",
+        "ini": 20.7,
+        "fin": 20.88
+       },
+       {
+        "t": "una",
+        "ini": 21.08,
+        "fin": 21.3
+       },
+       {
+        "t": "cola",
+        "ini": 21.46,
+        "fin": 21.98
+       },
+       {
+        "t": "que",
+        "ini": 22.06,
+        "fin": 22.14
+       },
+       {
+        "t": "brilla",
+        "ini": 22.18,
+        "fin": 22.42
+       },
+       {
+        "t": "al",
+        "ini": 22.48,
+        "fin": 22.52
+       },
+       {
+        "t": "amanecer,",
+        "ini": 22.56,
+        "fin": 23.7
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "y hay siete lunas que bailan… ¡no se dejan de mover!",
+      "ini": 24.48,
+      "fin": 28.62,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 24.48,
+        "fin": 24.48
+       },
+       {
+        "t": "hay",
+        "ini": 24.48,
+        "fin": 24.54
+       },
+       {
+        "t": "siete",
+        "ini": 24.58,
+        "fin": 24.9
+       },
+       {
+        "t": "lunas",
+        "ini": 25.06,
+        "fin": 25.46
+       },
+       {
+        "t": "que",
+        "ini": 25.52,
+        "fin": 25.64
+       },
+       {
+        "t": "bailan…",
+        "ini": 25.68,
+        "fin": 26.2
+       },
+       {
+        "t": "¡no",
+        "ini": 26.24,
+        "fin": 26.38
+       },
+       {
+        "t": "se",
+        "ini": 26.54,
+        "fin": 26.8
+       },
+       {
+        "t": "dejan",
+        "ini": 26.86,
+        "fin": 27.4
+       },
+       {
+        "t": "de",
+        "ini": 27.48,
+        "fin": 27.6
+       },
+       {
+        "t": "mover!",
+        "ini": 27.78,
+        "fin": 28.62
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Hay vida en otros planetas? ¿Hay alguien más allá?",
+      "ini": 28.62,
+      "fin": 33.14,
+      "palabras": [
+       {
+        "t": "¿Hay",
+        "ini": 28.62,
+        "fin": 29.38
+       },
+       {
+        "t": "vida",
+        "ini": 29.42,
+        "fin": 29.7
+       },
+       {
+        "t": "en",
+        "ini": 29.76,
+        "fin": 29.88
+       },
+       {
+        "t": "otros",
+        "ini": 29.94,
+        "fin": 30.24
+       },
+       {
+        "t": "planetas?",
+        "ini": 30.3,
+        "fin": 31.5
+       },
+       {
+        "t": "¿Hay",
+        "ini": 31.58,
+        "fin": 31.8
+       },
+       {
+        "t": "alguien",
+        "ini": 31.86,
+        "fin": 32.2
+       },
+       {
+        "t": "más",
+        "ini": 32.26,
+        "fin": 32.56
+       },
+       {
+        "t": "allá?",
+        "ini": 32.64,
+        "fin": 33.14
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Hay preguntas en el cielo… ¡y yo vuelo hasta allá!",
+      "ini": 33.9,
+      "fin": 37.96,
+      "palabras": [
+       {
+        "t": "Hay",
+        "ini": 33.9,
+        "fin": 34.0
+       },
+       {
+        "t": "preguntas",
+        "ini": 34.06,
+        "fin": 34.64
+       },
+       {
+        "t": "en",
+        "ini": 34.74,
+        "fin": 34.98
+       },
+       {
+        "t": "el",
+        "ini": 35.02,
+        "fin": 35.12
+       },
+       {
+        "t": "cielo…",
+        "ini": 35.24,
+        "fin": 35.82
+       },
+       {
+        "t": "¡y",
+        "ini": 35.82,
+        "fin": 36.42
+       },
+       {
+        "t": "yo",
+        "ini": 36.46,
+        "fin": 36.58
+       },
+       {
+        "t": "vuelo",
+        "ini": 36.6,
+        "fin": 37.02
+       },
+       {
+        "t": "hasta",
+        "ini": 37.08,
+        "fin": 37.46
+       },
+       {
+        "t": "allá!",
+        "ini": 37.6,
+        "fin": 37.96
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Hay un misterio, hay un sueño:",
+      "ini": 38.86,
+      "fin": 41.84,
+      "palabras": [
+       {
+        "t": "Hay",
+        "ini": 38.86,
+        "fin": 39.0
+       },
+       {
+        "t": "un",
+        "ini": 39.06,
+        "fin": 39.12
+       },
+       {
+        "t": "misterio,",
+        "ini": 39.16,
+        "fin": 40.02
+       },
+       {
+        "t": "hay",
+        "ini": 40.8,
+        "fin": 41.0
+       },
+       {
+        "t": "un",
+        "ini": 41.08,
+        "fin": 41.18
+       },
+       {
+        "t": "sueño:",
+        "ini": 41.24,
+        "fin": 41.84
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡en el universo tan grande, nadie es pequeño!",
+      "ini": 42.0,
+      "fin": 47.54,
+      "palabras": [
+       {
+        "t": "¡en",
+        "ini": 42.0,
+        "fin": 43.8
+       },
+       {
+        "t": "el",
+        "ini": 43.86,
+        "fin": 43.98
+       },
+       {
+        "t": "universo",
+        "ini": 44.06,
+        "fin": 45.0
+       },
+       {
+        "t": "tan",
+        "ini": 45.14,
+        "fin": 45.38
+       },
+       {
+        "t": "grande,",
+        "ini": 45.44,
+        "fin": 45.88
+       },
+       {
+        "t": "nadie",
+        "ini": 46.06,
+        "fin": 46.44
+       },
+       {
+        "t": "es",
+        "ini": 46.46,
+        "fin": 46.56
+       },
+       {
+        "t": "pequeño!",
+        "ini": 46.66,
+        "fin": 47.54
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Hay un agujero negro girando, y no hay ningún sonido,",
+      "ini": 48.32,
+      "fin": 52.5,
+      "palabras": [
+       {
+        "t": "Hay",
+        "ini": 48.32,
+        "fin": 48.48
+       },
+       {
+        "t": "un",
+        "ini": 48.54,
+        "fin": 48.62
+       },
+       {
+        "t": "agujero",
+        "ini": 48.68,
+        "fin": 49.5
+       },
+       {
+        "t": "negro",
+        "ini": 49.64,
+        "fin": 50.04
+       },
+       {
+        "t": "girando,",
+        "ini": 50.1,
+        "fin": 50.66
+       },
+       {
+        "t": "y",
+        "ini": 50.76,
+        "fin": 50.8
+       },
+       {
+        "t": "no",
+        "ini": 50.86,
+        "fin": 50.94
+       },
+       {
+        "t": "hay",
+        "ini": 50.98,
+        "fin": 51.12
+       },
+       {
+        "t": "ningún",
+        "ini": 51.18,
+        "fin": 51.64
+       },
+       {
+        "t": "sonido,",
+        "ini": 51.78,
+        "fin": 52.5
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "hay nubes rosas y moradas donde nacen estrellas, ¡qué bonito!",
+      "ini": 53.28,
+      "fin": 57.3,
+      "palabras": [
+       {
+        "t": "hay",
+        "ini": 53.28,
+        "fin": 53.38
+       },
+       {
+        "t": "nubes",
+        "ini": 53.42,
+        "fin": 53.82
+       },
+       {
+        "t": "rosas",
+        "ini": 53.86,
+        "fin": 54.3
+       },
+       {
+        "t": "y",
+        "ini": 54.34,
+        "fin": 54.4
+       },
+       {
+        "t": "moradas",
+        "ini": 54.46,
+        "fin": 54.86
+       },
+       {
+        "t": "donde",
+        "ini": 54.9,
+        "fin": 55.28
+       },
+       {
+        "t": "nacen",
+        "ini": 55.34,
+        "fin": 55.64
+       },
+       {
+        "t": "estrellas,",
+        "ini": 55.66,
+        "fin": 56.18
+       },
+       {
+        "t": "¡qué",
+        "ini": 56.24,
+        "fin": 56.5
+       },
+       {
+        "t": "bonito!",
+        "ini": 56.58,
+        "fin": 57.3
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¿Hay agua en ese planeta? ¿Hay aire para respirar?",
+      "ini": 57.42,
+      "fin": 62.06,
+      "palabras": [
+       {
+        "t": "¿Hay",
+        "ini": 57.42,
+        "fin": 58.22
+       },
+       {
+        "t": "agua",
+        "ini": 58.28,
+        "fin": 58.5
+       },
+       {
+        "t": "en",
+        "ini": 58.58,
+        "fin": 58.68
+       },
+       {
+        "t": "ese",
+        "ini": 58.74,
+        "fin": 59.02
+       },
+       {
+        "t": "planeta?",
+        "ini": 59.08,
+        "fin": 59.7
+       },
+       {
+        "t": "¿Hay",
+        "ini": 59.82,
+        "fin": 59.88
+       },
+       {
+        "t": "aire",
+        "ini": 59.94,
+        "fin": 60.3
+       },
+       {
+        "t": "para",
+        "ini": 60.46,
+        "fin": 61.0
+       },
+       {
+        "t": "respirar?",
+        "ini": 61.06,
+        "fin": 62.06
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¡Me llevo una muestra en el bolsillo para investigar!",
+      "ini": 62.08,
+      "fin": 67.1,
+      "palabras": [
+       {
+        "t": "¡Me",
+        "ini": 62.08,
+        "fin": 62.94
+       },
+       {
+        "t": "llevo",
+        "ini": 62.98,
+        "fin": 63.28
+       },
+       {
+        "t": "una",
+        "ini": 63.36,
+        "fin": 63.52
+       },
+       {
+        "t": "muestra",
+        "ini": 63.6,
+        "fin": 64.0
+       },
+       {
+        "t": "en",
+        "ini": 64.02,
+        "fin": 64.1
+       },
+       {
+        "t": "el",
+        "ini": 64.16,
+        "fin": 64.28
+       },
+       {
+        "t": "bolsillo",
+        "ini": 64.36,
+        "fin": 65.1
+       },
+       {
+        "t": "para",
+        "ini": 65.28,
+        "fin": 65.68
+       },
+       {
+        "t": "investigar!",
+        "ini": 65.72,
+        "fin": 67.1
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Hay vida en otros planetas? ¿Hay alguien más allá?",
+      "ini": 67.2,
+      "fin": 71.54,
+      "palabras": [
+       {
+        "t": "¿Hay",
+        "ini": 67.2,
+        "fin": 67.78
+       },
+       {
+        "t": "vida",
+        "ini": 67.82,
+        "fin": 68.08
+       },
+       {
+        "t": "en",
+        "ini": 68.16,
+        "fin": 68.28
+       },
+       {
+        "t": "otros",
+        "ini": 68.34,
+        "fin": 68.64
+       },
+       {
+        "t": "planetas?",
+        "ini": 68.7,
+        "fin": 69.58
+       },
+       {
+        "t": "¿Hay",
+        "ini": 70.0,
+        "fin": 70.2
+       },
+       {
+        "t": "alguien",
+        "ini": 70.26,
+        "fin": 70.58
+       },
+       {
+        "t": "más",
+        "ini": 70.66,
+        "fin": 70.94
+       },
+       {
+        "t": "allá?",
+        "ini": 71.04,
+        "fin": 71.54
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Hay preguntas en el cielo… ¡y yo vuelo hasta allá!",
+      "ini": 72.3,
+      "fin": 76.34,
+      "palabras": [
+       {
+        "t": "Hay",
+        "ini": 72.3,
+        "fin": 72.4
+       },
+       {
+        "t": "preguntas",
+        "ini": 72.44,
+        "fin": 73.04
+       },
+       {
+        "t": "en",
+        "ini": 73.14,
+        "fin": 73.38
+       },
+       {
+        "t": "el",
+        "ini": 73.42,
+        "fin": 73.56
+       },
+       {
+        "t": "cielo…",
+        "ini": 73.64,
+        "fin": 74.22
+       },
+       {
+        "t": "¡y",
+        "ini": 74.32,
+        "fin": 74.82
+       },
+       {
+        "t": "yo",
+        "ini": 74.86,
+        "fin": 74.98
+       },
+       {
+        "t": "vuelo",
+        "ini": 75.0,
+        "fin": 75.42
+       },
+       {
+        "t": "hasta",
+        "ini": 75.48,
+        "fin": 75.86
+       },
+       {
+        "t": "allá!",
+        "ini": 75.94,
+        "fin": 76.34
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Hay un misterio, hay un sueño:",
+      "ini": 77.26,
+      "fin": 80.22,
+      "palabras": [
+       {
+        "t": "Hay",
+        "ini": 77.26,
+        "fin": 77.4
+       },
+       {
+        "t": "un",
+        "ini": 77.46,
+        "fin": 77.52
+       },
+       {
+        "t": "misterio,",
+        "ini": 77.56,
+        "fin": 78.42
+       },
+       {
+        "t": "hay",
+        "ini": 79.2,
+        "fin": 79.4
+       },
+       {
+        "t": "un",
+        "ini": 79.46,
+        "fin": 79.58
+       },
+       {
+        "t": "sueño:",
+        "ini": 79.64,
+        "fin": 80.22
+       }
+      ]
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡en el universo tan grande, nadie es pequeño!",
+      "ini": 80.24,
+      "fin": 85.94,
+      "palabras": [
+       {
+        "t": "¡en",
+        "ini": 80.24,
+        "fin": 82.2
+       },
+       {
+        "t": "el",
+        "ini": 82.26,
+        "fin": 82.38
+       },
+       {
+        "t": "universo",
+        "ini": 82.5,
+        "fin": 83.4
+       },
+       {
+        "t": "tan",
+        "ini": 83.54,
+        "fin": 83.78
+       },
+       {
+        "t": "grande,",
+        "ini": 83.82,
+        "fin": 84.28
+       },
+       {
+        "t": "nadie",
+        "ini": 84.48,
+        "fin": 84.82
+       },
+       {
+        "t": "es",
+        "ini": 84.9,
+        "fin": 84.98
+       },
+       {
+        "t": "pequeño!",
+        "ini": 85.06,
+        "fin": 85.94
+       }
+      ]
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Hay uno, hay muchos… ¿hay alguien por ahí?",
+      "ini": 86.72,
+      "fin": 90.76,
+      "palabras": [
+       {
+        "t": "Hay",
+        "ini": 86.72,
+        "fin": 87.02
+       },
+       {
+        "t": "uno,",
+        "ini": 87.08,
+        "fin": 87.28
+       },
+       {
+        "t": "hay",
+        "ini": 87.92,
+        "fin": 88.12
+       },
+       {
+        "t": "muchos…",
+        "ini": 88.18,
+        "fin": 88.72
+       },
+       {
+        "t": "¿hay",
+        "ini": 88.72,
+        "fin": 89.32
+       },
+       {
+        "t": "alguien",
+        "ini": 89.46,
+        "fin": 89.86
+       },
+       {
+        "t": "por",
+        "ini": 90.32,
+        "fin": 90.48
+       },
+       {
+        "t": "ahí?",
+        "ini": 90.54,
+        "fin": 90.76
+       }
+      ]
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "No hay nadie… ¡todavía! ¡Vamos a descubrir!",
+      "ini": 91.5,
+      "fin": 95.62,
+      "palabras": [
+       {
+        "t": "No",
+        "ini": 91.5,
+        "fin": 91.56
+       },
+       {
+        "t": "hay",
+        "ini": 91.6,
+        "fin": 91.72
+       },
+       {
+        "t": "nadie…",
+        "ini": 91.8,
+        "fin": 92.24
+       },
+       {
+        "t": "¡todavía!",
+        "ini": 92.68,
+        "fin": 93.3
+       },
+       {
+        "t": "¡Vamos",
+        "ini": 93.3,
+        "fin": 94.66
+       },
+       {
+        "t": "a",
+        "ini": 94.7,
+        "fin": 94.78
+       },
+       {
+        "t": "descubrir!",
+        "ini": 94.82,
+        "fin": 95.62
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Y cuando vuelva a casa, te contaré lo que encontré:",
+      "ini": 106.08,
+      "fin": 112.92,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 106.08,
+        "fin": 106.16
+       },
+       {
+        "t": "cuando",
+        "ini": 106.18,
+        "fin": 106.5
+       },
+       {
+        "t": "vuelva",
+        "ini": 106.64,
+        "fin": 107.04
+       },
+       {
+        "t": "a",
+        "ini": 107.06,
+        "fin": 107.1
+       },
+       {
+        "t": "casa,",
+        "ini": 107.24,
+        "fin": 107.7
+       },
+       {
+        "t": "te",
+        "ini": 110.86,
+        "fin": 110.96
+       },
+       {
+        "t": "contaré",
+        "ini": 111.0,
+        "fin": 111.7
+       },
+       {
+        "t": "lo",
+        "ini": 111.76,
+        "fin": 111.88
+       },
+       {
+        "t": "que",
+        "ini": 112.04,
+        "fin": 112.12
+       },
+       {
+        "t": "encontré:",
+        "ini": 112.16,
+        "fin": 112.92
+       }
+      ]
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "el misterio más grande es una pregunta… ¡hazla, y la buscaré!",
+      "ini": 115.7,
+      "fin": 121.94,
+      "palabras": [
+       {
+        "t": "el",
+        "ini": 115.7,
+        "fin": 115.76
+       },
+       {
+        "t": "misterio",
+        "ini": 115.82,
+        "fin": 116.52
+       },
+       {
+        "t": "más",
+        "ini": 117.2,
+        "fin": 117.38
+       },
+       {
+        "t": "grande",
+        "ini": 117.44,
+        "fin": 117.86
+       },
+       {
+        "t": "es",
+        "ini": 117.86,
+        "fin": 118.04
+       },
+       {
+        "t": "una",
+        "ini": 118.14,
+        "fin": 118.28
+       },
+       {
+        "t": "pregunta…",
+        "ini": 118.36,
+        "fin": 119.24
+       },
+       {
+        "t": "¡hazla,",
+        "ini": 119.4,
+        "fin": 120.88
+       },
+       {
+        "t": "y",
+        "ini": 120.94,
+        "fin": 121.02
+       },
+       {
+        "t": "la",
+        "ini": 121.08,
+        "fin": 121.18
+       },
+       {
+        "t": "buscaré!",
+        "ini": 121.24,
+        "fin": 121.94
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Hay vida en otros planetas? ¿Hay alguien más allá?",
+      "ini": 122.22,
+      "fin": 129.0,
+      "palabras": [
+       {
+        "t": "¿Hay",
+        "ini": 122.22,
+        "fin": 125.38
+       },
+       {
+        "t": "vida",
+        "ini": 125.44,
+        "fin": 125.68
+       },
+       {
+        "t": "en",
+        "ini": 125.78,
+        "fin": 125.88
+       },
+       {
+        "t": "otros",
+        "ini": 126.04,
+        "fin": 126.24
+       },
+       {
+        "t": "planetas?",
+        "ini": 126.3,
+        "fin": 127.48
+       },
+       {
+        "t": "¿Hay",
+        "ini": 127.6,
+        "fin": 127.82
+       },
+       {
+        "t": "alguien",
+        "ini": 127.88,
+        "fin": 128.18
+       },
+       {
+        "t": "más",
+        "ini": 128.26,
+        "fin": 128.54
+       },
+       {
+        "t": "allá?",
+        "ini": 128.64,
+        "fin": 129.0
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Hay preguntas en el cielo… ¡y yo vuelo hasta allá!",
+      "ini": 129.92,
+      "fin": 133.94,
+      "palabras": [
+       {
+        "t": "Hay",
+        "ini": 129.92,
+        "fin": 130.02
+       },
+       {
+        "t": "preguntas",
+        "ini": 130.04,
+        "fin": 130.58
+       },
+       {
+        "t": "en",
+        "ini": 130.78,
+        "fin": 130.98
+       },
+       {
+        "t": "el",
+        "ini": 131.04,
+        "fin": 131.18
+       },
+       {
+        "t": "cielo…",
+        "ini": 131.28,
+        "fin": 131.82
+       },
+       {
+        "t": "¡y",
+        "ini": 131.92,
+        "fin": 132.42
+       },
+       {
+        "t": "yo",
+        "ini": 132.48,
+        "fin": 132.58
+       },
+       {
+        "t": "vuelo",
+        "ini": 132.64,
+        "fin": 133.04
+       },
+       {
+        "t": "hasta",
+        "ini": 133.08,
+        "fin": 133.48
+       },
+       {
+        "t": "allá!",
+        "ini": 133.56,
+        "fin": 133.94
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Hay un misterio, hay un sueño:",
+      "ini": 134.88,
+      "fin": 137.7,
+      "palabras": [
+       {
+        "t": "Hay",
+        "ini": 134.88,
+        "fin": 135.02
+       },
+       {
+        "t": "un",
+        "ini": 135.06,
+        "fin": 135.12
+       },
+       {
+        "t": "misterio,",
+        "ini": 135.2,
+        "fin": 136.16
+       },
+       {
+        "t": "hay",
+        "ini": 136.84,
+        "fin": 137.02
+       },
+       {
+        "t": "un",
+        "ini": 137.08,
+        "fin": 137.18
+       },
+       {
+        "t": "sueño:",
+        "ini": 137.28,
+        "fin": 137.7
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡en el universo tan grande, nadie es pequeño!",
+      "ini": 138.0,
+      "fin": 143.56,
+      "palabras": [
+       {
+        "t": "¡en",
+        "ini": 138.0,
+        "fin": 139.84
+       },
+       {
+        "t": "el",
+        "ini": 139.9,
+        "fin": 140.02
+       },
+       {
+        "t": "universo",
+        "ini": 140.18,
+        "fin": 141.0
+       },
+       {
+        "t": "tan",
+        "ini": 141.18,
+        "fin": 141.38
+       },
+       {
+        "t": "grande,",
+        "ini": 141.44,
+        "fin": 141.88
+       },
+       {
+        "t": "nadie",
+        "ini": 142.08,
+        "fin": 142.5
+       },
+       {
+        "t": "es",
+        "ini": 142.5,
+        "fin": 142.58
+       },
+       {
+        "t": "pequeño!",
+        "ini": 142.7,
+        "fin": 143.56
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Hay vida en otros planetas? ¿Hay alguien más allá?",
+      "ini": 143.7,
+      "fin": 148.34,
+      "palabras": [
+       {
+        "t": "¿Hay",
+        "ini": 143.7,
+        "fin": 144.58
+       },
+       {
+        "t": "vida",
+        "ini": 144.64,
+        "fin": 144.9
+       },
+       {
+        "t": "en",
+        "ini": 145.0,
+        "fin": 145.08
+       },
+       {
+        "t": "otros",
+        "ini": 145.24,
+        "fin": 145.48
+       },
+       {
+        "t": "planetas?",
+        "ini": 145.52,
+        "fin": 146.7
+       },
+       {
+        "t": "¿Hay",
+        "ini": 146.8,
+        "fin": 147.02
+       },
+       {
+        "t": "alguien",
+        "ini": 147.1,
+        "fin": 147.4
+       },
+       {
+        "t": "más",
+        "ini": 147.46,
+        "fin": 147.74
+       },
+       {
+        "t": "allá?",
+        "ini": 147.9,
+        "fin": 148.34
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Hay preguntas en el cielo… ¡y yo vuelo hasta allá!",
+      "ini": 149.1,
+      "fin": 153.0,
+      "palabras": [
+       {
+        "t": "Hay",
+        "ini": 149.1,
+        "fin": 149.2
+       },
+       {
+        "t": "preguntas",
+        "ini": 149.26,
+        "fin": 149.84
+       },
+       {
+        "t": "en",
+        "ini": 150.0,
+        "fin": 150.18
+       },
+       {
+        "t": "el",
+        "ini": 150.24,
+        "fin": 150.38
+       },
+       {
+        "t": "cielo…",
+        "ini": 150.46,
+        "fin": 151.02
+       },
+       {
+        "t": "¡y",
+        "ini": 151.18,
+        "fin": 151.62
+       },
+       {
+        "t": "yo",
+        "ini": 151.68,
+        "fin": 151.78
+       },
+       {
+        "t": "vuelo",
+        "ini": 151.82,
+        "fin": 152.22
+       },
+       {
+        "t": "hasta",
+        "ini": 152.32,
+        "fin": 152.68
+       },
+       {
+        "t": "allá!",
+        "ini": 152.7,
+        "fin": 153.0
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Hay un misterio, hay un sueño:",
+      "ini": 154.08,
+      "fin": 157.04,
+      "palabras": [
+       {
+        "t": "Hay",
+        "ini": 154.08,
+        "fin": 154.24
+       },
+       {
+        "t": "un",
+        "ini": 154.28,
+        "fin": 154.32
+       },
+       {
+        "t": "misterio,",
+        "ini": 154.38,
+        "fin": 155.22
+       },
+       {
+        "t": "hay",
+        "ini": 156.0,
+        "fin": 156.24
+       },
+       {
+        "t": "un",
+        "ini": 156.28,
+        "fin": 156.4
+       },
+       {
+        "t": "sueño:",
+        "ini": 156.48,
+        "fin": 157.04
+       }
+      ]
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡en el universo tan grande, nadie es pequeño!",
+      "ini": 157.06,
+      "fin": 162.74,
+      "palabras": [
+       {
+        "t": "¡en",
+        "ini": 157.06,
+        "fin": 159.0
+       },
+       {
+        "t": "el",
+        "ini": 159.08,
+        "fin": 159.2
+       },
+       {
+        "t": "universo",
+        "ini": 159.3,
+        "fin": 160.2
+       },
+       {
+        "t": "tan",
+        "ini": 160.36,
+        "fin": 160.58
+       },
+       {
+        "t": "grande,",
+        "ini": 160.64,
+        "fin": 161.1
+       },
+       {
+        "t": "nadie",
+        "ini": 161.28,
+        "fin": 161.66
+       },
+       {
+        "t": "es",
+        "ini": 161.68,
+        "fin": 161.78
+       },
+       {
+        "t": "pequeño!",
+        "ini": 161.88,
+        "fin": 162.74
+       }
+      ]
+     }
+    ],
+    "duracion": 172.82
+   },
+   "preguntas": [
+    {
+     "en": "How many moons dance around at night?",
+     "en_op": [
+      "Seven",
+      "Three",
+      "Ten"
+     ],
+     "es": "¿Cuántas lunas bailan por la noche?",
+     "es_op": [
+      "Siete",
+      "Tres",
+      "Diez"
+     ]
+    },
+    {
+     "en": "___ a giant planet.",
+     "en_op": [
+      "There is",
+      "There are",
+      "Is there"
+     ],
+     "es": "___ un planeta gigante.",
+     "es_op": [
+      "Hay",
+      "Está",
+      "Es"
+     ]
+    },
+    {
+     "en": "Where does the astronaut keep the sample?",
+     "en_op": [
+      "In the pocket of the sleeve",
+      "In the rocket's engine",
+      "In a shoe"
+     ],
+     "es": "¿Dónde guarda la muestra?",
+     "es_op": [
+      "En el bolsillo",
+      "En el motor del cohete",
+      "En un zapato"
+     ]
+    }
+   ]
   }
  ]
 }
