@@ -65,7 +65,8 @@
         "ini": 11.54,
         "fin": 12.04
        }
-      ]
+      ],
+      "trad": "Me desperté tarde y salté de la cama,"
      },
      {
       "seccion": "Verse 1",
@@ -118,7 +119,8 @@
         "ini": 15.82,
         "fin": 16.22
        }
-      ]
+      ],
+      "trad": "Me puse el calcetín encima de la cabeza,"
      },
      {
       "seccion": "Verse 1",
@@ -166,7 +168,8 @@
         "ini": 20.12,
         "fin": 20.7
        }
-      ]
+      ],
+      "trad": "Comí mis cereales, bebí mi zumo,"
      },
      {
       "seccion": "Verse 1",
@@ -214,7 +217,8 @@
         "ini": 24.4,
         "fin": 24.9
        }
-      ]
+      ],
+      "trad": "¡Corrí afuera y me encontré con un ganso!"
      },
      {
       "seccion": "Chorus",
@@ -257,7 +261,8 @@
         "ini": 29.76,
         "fin": 30.08
        }
-      ]
+      ],
+      "trad": "Ayer, ayer —¿qué hiciste?"
      },
      {
       "seccion": "Chorus",
@@ -305,7 +310,8 @@
         "ini": 33.74,
         "fin": 34.14
        }
-      ]
+      ],
+      "trad": "¡Fui, vi, corrí, volé!"
      },
      {
       "seccion": "Chorus",
@@ -343,7 +349,8 @@
         "ini": 38.24,
         "fin": 38.66
        }
-      ]
+      ],
+      "trad": "Ayer, ayer —¿es verdad?"
      },
      {
       "seccion": "Chorus",
@@ -391,7 +398,8 @@
         "ini": 41.58,
         "fin": 41.86
        }
-      ]
+      ],
+      "trad": "¡Sí, fue una locura y te lo contaré!"
      },
      {
       "seccion": "Verse 2",
@@ -444,7 +452,8 @@
         "ini": 46.46,
         "fin": 47.0
        }
-      ]
+      ],
+      "trad": "El ganso cogió mi sombrero y se fue nadando,"
      },
      {
       "seccion": "Verse 2",
@@ -497,7 +506,8 @@
         "ini": 50.12,
         "fin": 50.46
        }
-      ]
+      ],
+      "trad": "Encontré un barco y navegué todo el día,"
      },
      {
       "seccion": "Verse 2",
@@ -545,7 +555,8 @@
         "ini": 54.4,
         "fin": 55.32
        }
-      ]
+      ],
+      "trad": "Construí una torre, subí más alto,"
      },
      {
       "seccion": "Verse 2",
@@ -593,7 +604,8 @@
         "ini": 58.68,
         "fin": 59.2
        }
-      ]
+      ],
+      "trad": "¡Volé una cometa roja como el fuego!"
      },
      {
       "seccion": "Chorus",
@@ -636,7 +648,8 @@
         "ini": 64.06,
         "fin": 64.38
        }
-      ]
+      ],
+      "trad": "Ayer, ayer —¿qué hiciste?"
      },
      {
       "seccion": "Chorus",
@@ -684,7 +697,8 @@
         "ini": 68.04,
         "fin": 68.42
        }
-      ]
+      ],
+      "trad": "¡Fui, vi, corrí, volé!"
      },
      {
       "seccion": "Chorus",
@@ -722,7 +736,8 @@
         "ini": 72.52,
         "fin": 72.96
        }
-      ]
+      ],
+      "trad": "Ayer, ayer —¿es verdad?"
      },
      {
       "seccion": "Chorus",
@@ -770,7 +785,8 @@
         "ini": 75.88,
         "fin": 76.16
        }
-      ]
+      ],
+      "trad": "¡Sí, fue una locura y te lo contaré!"
      },
      {
       "seccion": "Bridge",
@@ -838,7 +854,8 @@
         "ini": 85.16,
         "fin": 85.46
        }
-      ]
+      ],
+      "trad": "¡Ir — fui! Ver — vi! Comer — comí! Volar — volé!"
      },
      {
       "seccion": "Bridge",
@@ -906,7 +923,8 @@
         "ini": 93.76,
         "fin": 94.12
        }
-      ]
+      ],
+      "trad": "¡Venir — vine! Coger — cogí! Hacer — hice! Hacer — hice!"
      },
      {
       "seccion": "Verse 3",
@@ -959,7 +977,8 @@
         "ini": 97.28,
         "fin": 97.76
        }
-      ]
+      ],
+      "trad": "Volví a casa cuando el sol se puso,"
      },
      {
       "seccion": "Verse 3",
@@ -1012,7 +1031,8 @@
         "ini": 101.54,
         "fin": 102.02
        }
-      ]
+      ],
+      "trad": "Le conté a mi mamá sobre el ganso en el pueblo,"
      },
      {
       "seccion": "Verse 3",
@@ -1065,7 +1085,8 @@
         "ini": 105.82,
         "fin": 106.16
        }
-      ]
+      ],
+      "trad": "Ella se rió y se rió, y me dijo:"
      },
      {
       "seccion": "Verse 3",
@@ -1118,7 +1139,8 @@
         "ini": 110.1,
         "fin": 110.48
        }
-      ]
+      ],
+      "trad": "\"¡Tu calcetín sigue en tu cabeza, ya veo!\""
      },
      {
       "seccion": "Final Chorus",
@@ -1161,7 +1183,8 @@
         "ini": 115.48,
         "fin": 115.8
        }
-      ]
+      ],
+      "trad": "Ayer, ayer —¿qué hiciste?"
      },
      {
       "seccion": "Final Chorus",
@@ -1209,7 +1232,8 @@
         "ini": 119.46,
         "fin": 119.84
        }
-      ]
+      ],
+      "trad": "¡Fui, vi, corrí, volé!"
      },
      {
       "seccion": "Final Chorus",
@@ -1247,7 +1271,8 @@
         "ini": 124.0,
         "fin": 124.44
        }
-      ]
+      ],
+      "trad": "Ayer, ayer —¿es verdad?"
      },
      {
       "seccion": "Final Chorus",
@@ -1295,7 +1320,8 @@
         "ini": 127.32,
         "fin": 127.58
        }
-      ]
+      ],
+      "trad": "¡Sí, fue una locura y te lo contaré!"
      },
      {
       "seccion": "Final Chorus",
@@ -1338,7 +1364,8 @@
         "ini": 132.64,
         "fin": 132.96
        }
-      ]
+      ],
+      "trad": "Ayer, ayer —¿qué hiciste?"
      },
      {
       "seccion": "Final Chorus",
@@ -1386,7 +1413,8 @@
         "ini": 136.6,
         "fin": 137.0
        }
-      ]
+      ],
+      "trad": "¡Fui, vi, corrí, volé!"
      },
      {
       "seccion": "Final Chorus",
@@ -1424,7 +1452,8 @@
         "ini": 141.16,
         "fin": 141.54
        }
-      ]
+      ],
+      "trad": "Ayer, ayer —¿es verdad?"
      },
      {
       "seccion": "Final Chorus",
@@ -1472,7 +1501,8 @@
         "ini": 144.46,
         "fin": 144.72
        }
-      ]
+      ],
+      "trad": "¡Sí, fue una locura y te lo contaré!"
      }
     ],
     "duracion": 154.39
@@ -1525,7 +1555,8 @@
         "ini": 12.3,
         "fin": 12.74
        }
-      ]
+      ],
+      "trad": "I woke up late and jumped out of bed,"
      },
      {
       "seccion": "Verse 1",
@@ -1578,7 +1609,8 @@
         "ini": 16.58,
         "fin": 17.08
        }
-      ]
+      ],
+      "trad": "I put the sock on my head, what a drama!"
      },
      {
       "seccion": "Verse 1",
@@ -1616,7 +1648,8 @@
         "ini": 20.64,
         "fin": 21.34
        }
-      ]
+      ],
+      "trad": "I had breakfast quickly, I drank the milkshake,"
      },
      {
       "seccion": "Verse 1",
@@ -1679,7 +1712,8 @@
         "ini": 25.18,
         "fin": 25.68
        }
-      ]
+      ],
+      "trad": "I went out to the street... and a goose winked at me!"
      },
      {
       "seccion": "Chorus",
@@ -1712,7 +1746,8 @@
         "ini": 28.82,
         "fin": 29.06
        }
-      ]
+      ],
+      "trad": "Yesterday, yesterday, what did you do?"
      },
      {
       "seccion": "Chorus",
@@ -1760,7 +1795,8 @@
         "ini": 33.0,
         "fin": 33.44
        }
-      ]
+      ],
+      "trad": "I went, I saw, I ran and I flew to the blue!"
      },
      {
       "seccion": "Chorus",
@@ -1798,7 +1834,8 @@
         "ini": 37.38,
         "fin": 37.62
        }
-      ]
+      ],
+      "trad": "Yesterday, yesterday, is it true or not?"
      },
      {
       "seccion": "Chorus",
@@ -1846,7 +1883,8 @@
         "ini": 41.66,
         "fin": 41.88
        }
-      ]
+      ],
+      "trad": "It was crazy, and I'm telling you!"
      },
      {
       "seccion": "Verse 2",
@@ -1904,7 +1942,8 @@
         "ini": 46.88,
         "fin": 47.56
        }
-      ]
+      ],
+      "trad": "The goose took my hat and swam away,"
      },
      {
       "seccion": "Verse 2",
@@ -1942,7 +1981,8 @@
         "ini": 50.64,
         "fin": 51.34
        }
-      ]
+      ],
+      "trad": "I found a boat and sailed while singing,"
      },
      {
       "seccion": "Verse 2",
@@ -1980,7 +2020,8 @@
         "ini": 55.02,
         "fin": 55.6
        }
-      ]
+      ],
+      "trad": "I built a tower, I climbed very high,"
      },
      {
       "seccion": "Verse 2",
@@ -2018,7 +2059,8 @@
         "ini": 59.22,
         "fin": 60.0
        }
-      ]
+      ],
+      "trad": "I flew a red kite... how pretty!"
      },
      {
       "seccion": "Chorus",
@@ -2051,7 +2093,8 @@
         "ini": 63.1,
         "fin": 63.34
        }
-      ]
+      ],
+      "trad": "Yesterday, yesterday, what did you do?"
      },
      {
       "seccion": "Chorus",
@@ -2099,7 +2142,8 @@
         "ini": 67.28,
         "fin": 67.74
        }
-      ]
+      ],
+      "trad": "I went, I saw, I ran and I flew to the blue!"
      },
      {
       "seccion": "Chorus",
@@ -2137,7 +2181,8 @@
         "ini": 71.66,
         "fin": 71.94
        }
-      ]
+      ],
+      "trad": "Yesterday, yesterday, is it true or not?"
      },
      {
       "seccion": "Chorus",
@@ -2185,7 +2230,8 @@
         "ini": 75.94,
         "fin": 76.16
        }
-      ]
+      ],
+      "trad": "It was crazy, and I'm telling you!"
      },
      {
       "seccion": "Bridge",
@@ -2233,7 +2279,8 @@
         "ini": 84.92,
         "fin": 85.44
        }
-      ]
+      ],
+      "trad": "Go: I went. See: I saw. Eat: I ate. Fly: I flew."
      },
      {
       "seccion": "Bridge",
@@ -2281,7 +2328,8 @@
         "ini": 93.5,
         "fin": 93.98
        }
-      ]
+      ],
+      "trad": "Come: I came. Do: I did. Say: I said. Have: I had."
      },
      {
       "seccion": "Verse 3",
@@ -2329,7 +2377,8 @@
         "ini": 97.5,
         "fin": 97.86
        }
-      ]
+      ],
+      "trad": "I went back home when the sun set,"
      },
      {
       "seccion": "Verse 3",
@@ -2387,7 +2436,8 @@
         "ini": 102.06,
         "fin": 102.68
        }
-      ]
+      ],
+      "trad": "I told mom about the goose, what a mess!"
      },
      {
       "seccion": "Verse 3",
@@ -2440,7 +2490,8 @@
         "ini": 106.36,
         "fin": 107.1
        }
-      ]
+      ],
+      "trad": "She laughed and laughed, and then she said to me:"
      },
      {
       "seccion": "Verse 3",
@@ -2498,7 +2549,8 @@
         "ini": 110.92,
         "fin": 111.3
        }
-      ]
+      ],
+      "trad": "\"You're still wearing the sock on your head! Don't you see?\""
      },
      {
       "seccion": "Final Chorus",
@@ -2531,7 +2583,8 @@
         "ini": 114.56,
         "fin": 114.78
        }
-      ]
+      ],
+      "trad": "Yesterday, yesterday, what did you do?"
      },
      {
       "seccion": "Final Chorus",
@@ -2579,7 +2632,8 @@
         "ini": 118.72,
         "fin": 119.2
        }
-      ]
+      ],
+      "trad": "I went, I saw, I ran and I flew to the blue!"
      },
      {
       "seccion": "Final Chorus",
@@ -2617,7 +2671,8 @@
         "ini": 123.12,
         "fin": 123.36
        }
-      ]
+      ],
+      "trad": "Yesterday, yesterday, is it true or not?"
      },
      {
       "seccion": "Final Chorus",
@@ -2665,7 +2720,8 @@
         "ini": 127.4,
         "fin": 127.58
        }
-      ]
+      ],
+      "trad": "It was crazy, and I'm telling you!"
      },
      {
       "seccion": "Final Chorus",
@@ -2698,7 +2754,8 @@
         "ini": 131.68,
         "fin": 131.9
        }
-      ]
+      ],
+      "trad": "Yesterday, yesterday, what did you do?"
      },
      {
       "seccion": "Final Chorus",
@@ -2746,7 +2803,8 @@
         "ini": 135.86,
         "fin": 136.28
        }
-      ]
+      ],
+      "trad": "I went, I saw, I ran and I flew to the blue!"
      },
      {
       "seccion": "Final Chorus",
@@ -2784,7 +2842,8 @@
         "ini": 140.24,
         "fin": 140.48
        }
-      ]
+      ],
+      "trad": "Yesterday, yesterday, is it true or not?"
      },
      {
       "seccion": "Final Chorus",
@@ -2832,7 +2891,8 @@
         "ini": 144.54,
         "fin": 144.78
        }
-      ]
+      ],
+      "trad": "It was crazy, and I'm telling you!"
      }
     ],
     "duracion": 154.39
@@ -2936,7 +2996,8 @@
         "ini": 10.84,
         "fin": 11.08
        }
-      ]
+      ],
+      "trad": "El cangrejo dijo: «¡Soy más rápido que tú!»"
      },
      {
       "seccion": "Verse 1",
@@ -2989,7 +3050,8 @@
         "ini": 14.74,
         "fin": 15.08
        }
-      ]
+      ],
+      "trad": "La ballena dijo: «¡Soy más grande — es verdad!»"
      },
      {
       "seccion": "Verse 1",
@@ -3037,7 +3099,8 @@
         "ini": 18.52,
         "fin": 19.14
        }
-      ]
+      ],
+      "trad": "El loro gritó: «¡Soy el más ruidoso — hurra!»"
      },
      {
       "seccion": "Verse 1",
@@ -3085,7 +3148,8 @@
         "ini": 22.86,
         "fin": 23.34
        }
-      ]
+      ],
+      "trad": "El mono se rió: «¡Soy el más gracioso — ¿vale?»"
      },
      {
       "seccion": "Chorus",
@@ -3118,7 +3182,8 @@
         "ini": 26.86,
         "fin": 27.2
        }
-      ]
+      ],
+      "trad": "¡Grande, más grande, el más grande!"
      },
      {
       "seccion": "Chorus",
@@ -3151,7 +3216,8 @@
         "ini": 30.8,
         "fin": 31.22
        }
-      ]
+      ],
+      "trad": "¡Rápido, más rápido, el más rápido!"
      },
      {
       "seccion": "Chorus",
@@ -3189,7 +3255,8 @@
         "ini": 34.78,
         "fin": 35.32
        }
-      ]
+      ],
+      "trad": "¿Quién es el más fuerte? ¿Quién es el mejor?"
      },
      {
       "seccion": "Chorus",
@@ -3237,7 +3304,8 @@
         "ini": 38.68,
         "fin": 39.18
        }
-      ]
+      ],
+      "trad": "¡Vamos a averiguarlo — hagamos la prueba!"
      },
      {
       "seccion": "Verse 2",
@@ -3285,7 +3353,8 @@
         "ini": 42.72,
         "fin": 43.16
        }
-      ]
+      ],
+      "trad": "Entonces llegó una tortuga, tan pequeña y lenta:"
      },
      {
       "seccion": "Verse 2",
@@ -3338,7 +3407,8 @@
         "ini": 46.78,
         "fin": 47.08
        }
-      ]
+      ],
+      "trad": "«Soy más lenta que tú, pero esto es lo que sé:"
      },
      {
       "seccion": "Verse 2",
@@ -3386,7 +3456,8 @@
         "ini": 51.24,
         "fin": 51.24
        }
-      ]
+      ],
+      "trad": "El mejor no es el más grande —"
      },
      {
       "seccion": "Verse 2",
@@ -3434,7 +3505,8 @@
         "ini": 54.4,
         "fin": 55.18
        }
-      ]
+      ],
+      "trad": "El mejor es el que ayuda a alguien.»"
      },
      {
       "seccion": "Chorus",
@@ -3467,7 +3539,8 @@
         "ini": 58.82,
         "fin": 59.22
        }
-      ]
+      ],
+      "trad": "¡Grande, más grande, el más grande!"
      },
      {
       "seccion": "Chorus",
@@ -3500,7 +3573,8 @@
         "ini": 62.8,
         "fin": 63.2
        }
-      ]
+      ],
+      "trad": "¡Rápido, más rápido, el más rápido!"
      },
      {
       "seccion": "Chorus",
@@ -3538,7 +3612,8 @@
         "ini": 66.78,
         "fin": 67.32
        }
-      ]
+      ],
+      "trad": "¿Quién es el más fuerte? ¿Quién es el mejor?"
      },
      {
       "seccion": "Chorus",
@@ -3586,7 +3661,8 @@
         "ini": 70.74,
         "fin": 71.3
        }
-      ]
+      ],
+      "trad": "¡Vamos a averiguarlo — hagamos la prueba!"
      },
      {
       "seccion": "Bridge",
@@ -3624,7 +3700,8 @@
         "ini": 75.04,
         "fin": 75.5
        }
-      ]
+      ],
+      "trad": "¡Bueno, mejor, el mejor!"
      },
      {
       "seccion": "Bridge",
@@ -3662,7 +3739,8 @@
         "ini": 79.02,
         "fin": 79.46
        }
-      ]
+      ],
+      "trad": "¡Malo, peor, el peor!"
      },
      {
       "seccion": "Bridge",
@@ -3700,7 +3778,8 @@
         "ini": 83.02,
         "fin": 83.86
        }
-      ]
+      ],
+      "trad": "¡Gracioso, más gracioso, el más gracioso!"
      },
      {
       "seccion": "Bridge",
@@ -3748,7 +3827,8 @@
         "ini": 87.02,
         "fin": 87.92
        }
-      ]
+      ],
+      "trad": "¡Bonito, más bonito, el más bonito!"
      },
      {
       "seccion": "Verse 3",
@@ -3821,7 +3901,8 @@
         "ini": 94.6,
         "fin": 94.6
        }
-      ]
+      ],
+      "trad": "Ahora el cangrejo ayuda a la ballena, y la ballena ayuda al pájaro —"
      },
      {
       "seccion": "Verse 3",
@@ -3874,7 +3955,8 @@
         "ini": 102.8,
         "fin": 103.22
        }
-      ]
+      ],
+      "trad": "¡Es la isla más amistosa del mundo entero!"
      },
      {
       "seccion": "Final Chorus",
@@ -3907,7 +3989,8 @@
         "ini": 106.86,
         "fin": 107.2
        }
-      ]
+      ],
+      "trad": "¡Grande, más grande, el más grande!"
      },
      {
       "seccion": "Final Chorus",
@@ -3940,7 +4023,8 @@
         "ini": 110.88,
         "fin": 111.2
        }
-      ]
+      ],
+      "trad": "¡Rápido, más rápido, el más rápido!"
      },
      {
       "seccion": "Final Chorus",
@@ -3978,7 +4062,8 @@
         "ini": 114.8,
         "fin": 115.32
        }
-      ]
+      ],
+      "trad": "¿Quién es el más fuerte? ¿Quién es el mejor?"
      },
      {
       "seccion": "Final Chorus",
@@ -4026,7 +4111,8 @@
         "ini": 118.78,
         "fin": 119.3
        }
-      ]
+      ],
+      "trad": "¡Vamos a averiguarlo — hagamos la prueba!"
      },
      {
       "seccion": "Final Chorus",
@@ -4059,7 +4145,8 @@
         "ini": 122.88,
         "fin": 123.2
        }
-      ]
+      ],
+      "trad": "¡Grande, más grande, el más grande!"
      },
      {
       "seccion": "Final Chorus",
@@ -4092,7 +4179,8 @@
         "ini": 126.84,
         "fin": 127.2
        }
-      ]
+      ],
+      "trad": "¡Rápido, más rápido, el más rápido!"
      },
      {
       "seccion": "Final Chorus",
@@ -4130,7 +4218,8 @@
         "ini": 130.8,
         "fin": 131.32
        }
-      ]
+      ],
+      "trad": "¿Quién es el más fuerte? ¿Quién es el mejor?"
      },
      {
       "seccion": "Final Chorus",
@@ -4178,7 +4267,8 @@
         "ini": 134.78,
         "fin": 135.26
        }
-      ]
+      ],
+      "trad": "¡Vamos a averiguarlo — hagamos la prueba!"
      }
     ],
     "duracion": 144.02
@@ -4231,7 +4321,8 @@
         "ini": 11.0,
         "fin": 11.5
        }
-      ]
+      ],
+      "trad": "The crab said: \"I'm faster than anyone!\""
      },
      {
       "seccion": "Verse 1",
@@ -4284,7 +4375,8 @@
         "ini": 14.98,
         "fin": 15.48
        }
-      ]
+      ],
+      "trad": "The whale said: \"And I'm the biggest!\""
      },
      {
       "seccion": "Verse 1",
@@ -4337,7 +4429,8 @@
         "ini": 19.6,
         "fin": 19.76
        }
-      ]
+      ],
+      "trad": "The parrot shouted: \"I'm the loudest, eh!\""
      },
      {
       "seccion": "Verse 1",
@@ -4395,7 +4488,8 @@
         "ini": 23.48,
         "fin": 23.92
        }
-      ]
+      ],
+      "trad": "The monkey laughed: \"And I'm the funniest! See?\""
      },
      {
       "seccion": "Chorus",
@@ -4433,7 +4527,8 @@
         "ini": 26.98,
         "fin": 27.5
        }
-      ]
+      ],
+      "trad": "Big, bigger, the biggest!"
      },
      {
       "seccion": "Chorus",
@@ -4471,7 +4566,8 @@
         "ini": 31.02,
         "fin": 31.72
        }
-      ]
+      ],
+      "trad": "Fast, faster, the fastest!"
      },
      {
       "seccion": "Chorus",
@@ -4524,7 +4620,8 @@
         "ini": 35.26,
         "fin": 35.94
        }
-      ]
+      ],
+      "trad": "Who is the strongest? Who is the best?"
      },
      {
       "seccion": "Chorus",
@@ -4572,7 +4669,8 @@
         "ini": 39.02,
         "fin": 39.62
        }
-      ]
+      ],
+      "trad": "Let's try it, to see who wins today!"
      },
      {
       "seccion": "Verse 2",
@@ -4615,7 +4713,8 @@
         "ini": 43.5,
         "fin": 43.98
        }
-      ]
+      ],
+      "trad": "Then a turtle arrived, small and slow:"
      },
      {
       "seccion": "Verse 2",
@@ -4668,7 +4767,8 @@
         "ini": 47.5,
         "fin": 48.0
        }
-      ]
+      ],
+      "trad": "\"I'm slower than all of you, but keep in mind:"
      },
      {
       "seccion": "Verse 2",
@@ -4731,7 +4831,8 @@
         "ini": 51.28,
         "fin": 51.96
        }
-      ]
+      ],
+      "trad": "the best is not the biggest or the fastest,"
      },
      {
       "seccion": "Verse 2",
@@ -4784,7 +4885,8 @@
         "ini": 55.52,
         "fin": 55.88
        }
-      ]
+      ],
+      "trad": "the best is the one who helps... listen to my voice!\""
      },
      {
       "seccion": "Chorus",
@@ -4822,7 +4924,8 @@
         "ini": 58.98,
         "fin": 59.48
        }
-      ]
+      ],
+      "trad": "Big, bigger, the biggest!"
      },
      {
       "seccion": "Chorus",
@@ -4860,7 +4963,8 @@
         "ini": 63.02,
         "fin": 63.72
        }
-      ]
+      ],
+      "trad": "Fast, faster, the fastest!"
      },
      {
       "seccion": "Chorus",
@@ -4913,7 +5017,8 @@
         "ini": 67.26,
         "fin": 67.94
        }
-      ]
+      ],
+      "trad": "Who is the strongest? Who is the best?"
      },
      {
       "seccion": "Chorus",
@@ -4961,7 +5066,8 @@
         "ini": 71.02,
         "fin": 71.62
        }
-      ]
+      ],
+      "trad": "Let's try it, to see who wins today!"
      },
      {
       "seccion": "Bridge",
@@ -4989,7 +5095,8 @@
         "ini": 74.76,
         "fin": 75.46
        }
-      ]
+      ],
+      "trad": "Good, better... the best!"
      },
      {
       "seccion": "Bridge",
@@ -5017,7 +5124,8 @@
         "ini": 78.76,
         "fin": 79.44
        }
-      ]
+      ],
+      "trad": "Bad, worse... the worst!"
      },
      {
       "seccion": "Bridge",
@@ -5045,7 +5153,8 @@
         "ini": 82.76,
         "fin": 83.42
        }
-      ]
+      ],
+      "trad": "Big, bigger... the biggest!"
      },
      {
       "seccion": "Bridge",
@@ -5073,7 +5182,8 @@
         "ini": 86.76,
         "fin": 87.68
        }
-      ]
+      ],
+      "trad": "Small, smaller... the smallest!"
      },
      {
       "seccion": "Verse 3",
@@ -5141,7 +5251,8 @@
         "ini": 93.52,
         "fin": 94.16
        }
-      ]
+      ],
+      "trad": "Now the crab helps the whale, and the whale helps the parrot:"
      },
      {
       "seccion": "Verse 3",
@@ -5199,7 +5310,8 @@
         "ini": 101.26,
         "fin": 102.24
        }
-      ]
+      ],
+      "trad": "It's the kindest island in the world... a real treasure!"
      },
      {
       "seccion": "Final Chorus",
@@ -5237,7 +5349,8 @@
         "ini": 107.0,
         "fin": 107.6
        }
-      ]
+      ],
+      "trad": "Big, bigger, the biggest!"
      },
      {
       "seccion": "Final Chorus",
@@ -5275,7 +5388,8 @@
         "ini": 111.04,
         "fin": 111.74
        }
-      ]
+      ],
+      "trad": "Fast, faster, the fastest!"
      },
      {
       "seccion": "Final Chorus",
@@ -5328,7 +5442,8 @@
         "ini": 115.28,
         "fin": 115.96
        }
-      ]
+      ],
+      "trad": "Who is the strongest? Who is the best?"
      },
      {
       "seccion": "Final Chorus",
@@ -5376,7 +5491,8 @@
         "ini": 119.02,
         "fin": 119.62
        }
-      ]
+      ],
+      "trad": "Let's try it, to see who wins today!"
      },
      {
       "seccion": "Final Chorus",
@@ -5414,7 +5530,8 @@
         "ini": 123.0,
         "fin": 123.5
        }
-      ]
+      ],
+      "trad": "Big, bigger, the biggest!"
      },
      {
       "seccion": "Final Chorus",
@@ -5452,7 +5569,8 @@
         "ini": 127.04,
         "fin": 127.74
        }
-      ]
+      ],
+      "trad": "Fast, faster, the fastest!"
      },
      {
       "seccion": "Final Chorus",
@@ -5505,7 +5623,8 @@
         "ini": 131.28,
         "fin": 131.96
        }
-      ]
+      ],
+      "trad": "Who is the strongest? Who is the best?"
      },
      {
       "seccion": "Final Chorus",
@@ -5553,7 +5672,8 @@
         "ini": 135.02,
         "fin": 135.58
        }
-      ]
+      ],
+      "trad": "Let's try it, to see who wins today!"
      }
     ],
     "duracion": 144.02
@@ -5657,7 +5777,8 @@
         "ini": 12.88,
         "fin": 13.78
        }
-      ]
+      ],
+      "trad": "Disculpe, señora, ¿puede ayudarme, por favor?"
      },
      {
       "seccion": "Verse 1 (boy asks)",
@@ -5715,7 +5836,8 @@
         "ini": 17.74,
         "fin": 18.0
        }
-      ]
+      ],
+      "trad": "Estoy buscando la biblioteca —¿dónde podría estar?"
      },
      {
       "seccion": "Verse 1 (woman answers)",
@@ -5768,7 +5890,8 @@
         "ini": 22.52,
         "fin": 23.1
        }
-      ]
+      ],
+      "trad": "Sigue recto y gira a la izquierda en el banco,"
      },
      {
       "seccion": "Verse 1 (woman answers)",
@@ -5821,7 +5944,8 @@
         "ini": 27.34,
         "fin": 28.2
        }
-      ]
+      ],
+      "trad": "Pasa por el parque y la pecera grande,"
      },
      {
       "seccion": "Verse 1 (woman answers)",
@@ -5879,7 +6003,8 @@
         "ini": 32.68,
         "fin": 32.68
        }
-      ]
+      ],
+      "trad": "Está al lado de la panadería, enfrente de la piscina —"
      },
      {
       "seccion": "Verse 1 (woman answers)",
@@ -5927,7 +6052,8 @@
         "ini": 36.9,
         "fin": 37.5
        }
-      ]
+      ],
+      "trad": "¡No puedes perdértelo — es muy guay!"
      },
      {
       "seccion": "Chorus",
@@ -5970,7 +6096,8 @@
         "ini": 41.38,
         "fin": 42.28
        }
-      ]
+      ],
+      "trad": "Gira a la izquierda, gira a la derecha, sigue recto,"
      },
      {
       "seccion": "Chorus",
@@ -6018,7 +6145,8 @@
         "ini": 47.68,
         "fin": 48.0
        }
-      ]
+      ],
+      "trad": "Al lado, entre, detrás — ¡como dije!"
      },
      {
       "seccion": "Chorus",
@@ -6066,7 +6194,8 @@
         "ini": 51.9,
         "fin": 51.9
        }
-      ]
+      ],
+      "trad": "Disculpe, por favor, y gracias también —"
      },
      {
       "seccion": "Chorus",
@@ -6104,7 +6233,8 @@
         "ini": 56.22,
         "fin": 56.4
        }
-      ]
+      ],
+      "trad": "¡Los buenos modales te abren las puertas!"
      },
      {
       "seccion": "Verse 2 (boy asks)",
@@ -6157,7 +6287,8 @@
         "ini": 60.9,
         "fin": 61.2
        }
-      ]
+      ],
+      "trad": "Disculpe, señor, ¿podría indicarme el camino"
      },
      {
       "seccion": "Verse 2 (boy asks)",
@@ -6200,7 +6331,8 @@
         "ini": 65.74,
         "fin": 66.58
        }
-      ]
+      ],
+      "trad": "a la estación? ¡Mi tren sale hoy!"
      },
      {
       "seccion": "Verse 2 (man answers)",
@@ -6243,7 +6375,8 @@
         "ini": 70.54,
         "fin": 71.08
        }
-      ]
+      ],
+      "trad": "Coge la segunda calle a la derecha,"
      },
      {
       "seccion": "Verse 2 (man answers)",
@@ -6286,7 +6419,8 @@
         "ini": 75.3,
         "fin": 75.9
        }
-      ]
+      ],
+      "trad": "Cruza el puente en el semáforo,"
      },
      {
       "seccion": "Verse 2 (man answers)",
@@ -6334,7 +6468,8 @@
         "ini": 80.7,
         "fin": 80.7
        }
-      ]
+      ],
+      "trad": "Está entre el museo y el hotel —"
      },
      {
       "seccion": "Verse 2 (man answers)",
@@ -6397,7 +6532,8 @@
         "ini": 85.24,
         "fin": 86.1
        }
-      ]
+      ],
+      "trad": "Si te pierdes, pregunta otra vez — ¡está bien también!"
      },
      {
       "seccion": "Chorus",
@@ -6440,7 +6576,8 @@
         "ini": 89.38,
         "fin": 90.3
        }
-      ]
+      ],
+      "trad": "Gira a la izquierda, gira a la derecha, sigue recto,"
      },
      {
       "seccion": "Chorus",
@@ -6488,7 +6625,8 @@
         "ini": 95.68,
         "fin": 96.0
        }
-      ]
+      ],
+      "trad": "Al lado, entre, detrás — ¡como dije!"
      },
      {
       "seccion": "Chorus",
@@ -6536,7 +6674,8 @@
         "ini": 99.88,
         "fin": 99.88
        }
-      ]
+      ],
+      "trad": "Disculpe, por favor, y gracias también —"
      },
      {
       "seccion": "Chorus",
@@ -6574,7 +6713,8 @@
         "ini": 104.2,
         "fin": 104.7
        }
-      ]
+      ],
+      "trad": "¡Los buenos modales te abren las puertas!"
      },
      {
       "seccion": "Bridge (call and response)",
@@ -6622,7 +6762,8 @@
         "ini": 108.94,
         "fin": 109.64
        }
-      ]
+      ],
+      "trad": "¿Podrías ayudarme? — ¡Claro que puedo!"
      },
      {
       "seccion": "Bridge (call and response)",
@@ -6670,7 +6811,8 @@
         "ini": 113.66,
         "fin": 114.3
        }
-      ]
+      ],
+      "trad": "¿Podrías enseñármelo? — ¡Aquí está el plan!"
      },
      {
       "seccion": "Bridge (call and response)",
@@ -6718,7 +6860,8 @@
         "ini": 118.5,
         "fin": 119.1
        }
-      ]
+      ],
+      "trad": "¡Muchas gracias! — ¡De nada, amigo!"
      },
      {
       "seccion": "Bridge (call and response)",
@@ -6771,7 +6914,8 @@
         "ini": 123.36,
         "fin": 123.9
        }
-      ]
+      ],
+      "trad": "¡Que tengas un buen día! — ¡Y ese es el final!"
      },
      {
       "seccion": "Final Chorus",
@@ -6814,7 +6958,8 @@
         "ini": 127.8,
         "fin": 128.66
        }
-      ]
+      ],
+      "trad": "Gira a la izquierda, gira a la derecha, sigue recto,"
      },
      {
       "seccion": "Final Chorus",
@@ -6862,7 +7007,8 @@
         "ini": 134.1,
         "fin": 134.4
        }
-      ]
+      ],
+      "trad": "Al lado, entre, detrás — ¡como dije!"
      },
      {
       "seccion": "Final Chorus",
@@ -6910,7 +7056,8 @@
         "ini": 138.3,
         "fin": 138.3
        }
-      ]
+      ],
+      "trad": "Disculpe, por favor, y gracias también —"
      },
      {
       "seccion": "Final Chorus",
@@ -6948,7 +7095,8 @@
         "ini": 142.62,
         "fin": 142.8
        }
-      ]
+      ],
+      "trad": "¡Los buenos modales te abren las puertas!"
      },
      {
       "seccion": "Final Chorus",
@@ -6991,7 +7139,8 @@
         "ini": 147.0,
         "fin": 147.88
        }
-      ]
+      ],
+      "trad": "Gira a la izquierda, gira a la derecha, sigue recto,"
      },
      {
       "seccion": "Final Chorus",
@@ -7039,7 +7188,8 @@
         "ini": 153.3,
         "fin": 153.6
        }
-      ]
+      ],
+      "trad": "Al lado, entre, detrás — ¡como dije!"
      },
      {
       "seccion": "Final Chorus",
@@ -7087,7 +7237,8 @@
         "ini": 157.5,
         "fin": 157.5
        }
-      ]
+      ],
+      "trad": "Disculpe, por favor, y gracias también —"
      },
      {
       "seccion": "Final Chorus",
@@ -7125,7 +7276,8 @@
         "ini": 161.82,
         "fin": 162.3
        }
-      ]
+      ],
+      "trad": "¡Los buenos modales te abren las puertas!"
      }
     ],
     "duracion": 172.82
@@ -7163,7 +7315,8 @@
         "ini": 12.16,
         "fin": 13.54
        }
-      ]
+      ],
+      "trad": "Excuse me, ma'am, can you help me?"
      },
      {
       "seccion": "Verse 1 (boy asks)",
@@ -7201,7 +7354,8 @@
         "ini": 17.68,
         "fin": 18.42
        }
-      ]
+      ],
+      "trad": "I'm looking for the library, where can it be?"
      },
      {
       "seccion": "Verse 1 (woman answers)",
@@ -7264,7 +7418,8 @@
         "ini": 22.64,
         "fin": 23.4
        }
-      ]
+      ],
+      "trad": "Go straight ahead and at the bank turn left,"
      },
      {
       "seccion": "Verse 1 (woman answers)",
@@ -7327,7 +7482,8 @@
         "ini": 27.48,
         "fin": 28.04
        }
-      ]
+      ],
+      "trad": "pass the park and the aquarium, don't get lost!"
      },
      {
       "seccion": "Verse 1 (woman answers)",
@@ -7385,7 +7541,8 @@
         "ini": 32.1,
         "fin": 33.0
        }
-      ]
+      ],
+      "trad": "It's next to the bakery, in front of the pool:"
      },
      {
       "seccion": "Verse 1 (woman answers)",
@@ -7443,7 +7600,8 @@
         "ini": 37.02,
         "fin": 38.1
        }
-      ]
+      ],
+      "trad": "you can't miss it, it's the blue door on the corner!"
      },
      {
       "seccion": "Chorus",
@@ -7491,7 +7649,8 @@
         "ini": 42.04,
         "fin": 42.82
        }
-      ]
+      ],
+      "trad": "To the left, to the right, straight ahead,"
      },
      {
       "seccion": "Chorus",
@@ -7524,7 +7683,8 @@
         "ini": 46.14,
         "fin": 47.7
        }
-      ]
+      ],
+      "trad": "next to, between, behind… perfect!"
      },
      {
       "seccion": "Chorus",
@@ -7562,7 +7722,8 @@
         "ini": 51.04,
         "fin": 51.9
        }
-      ]
+      ],
+      "trad": "\"Excuse me\", \"please\" and \"thank you\" too:"
      },
      {
       "seccion": "Chorus",
@@ -7600,7 +7761,8 @@
         "ini": 56.42,
         "fin": 57.46
        }
-      ]
+      ],
+      "trad": "with good manners everything goes well!"
      },
      {
       "seccion": "Verse 2 (boy asks)",
@@ -7633,7 +7795,8 @@
         "ini": 60.64,
         "fin": 61.68
        }
-      ]
+      ],
+      "trad": "Excuse me, sir, could you tell me"
      },
      {
       "seccion": "Verse 2 (boy asks)",
@@ -7691,7 +7854,8 @@
         "ini": 65.4,
         "fin": 66.12
        }
-      ]
+      ],
+      "trad": "how to get to the station? My train is leaving!"
      },
      {
       "seccion": "Verse 2 (man answers)",
@@ -7734,7 +7898,8 @@
         "ini": 70.5,
         "fin": 71.66
        }
-      ]
+      ],
+      "trad": "Take the second street on the right,"
      },
      {
       "seccion": "Verse 2 (man answers)",
@@ -7782,7 +7947,8 @@
         "ini": 75.64,
         "fin": 76.46
        }
-      ]
+      ],
+      "trad": "cross the bridge when the traffic light lets you,"
      },
      {
       "seccion": "Verse 2 (man answers)",
@@ -7825,7 +7991,8 @@
         "ini": 80.16,
         "fin": 81.5
        }
-      ]
+      ],
+      "trad": "it's between the museum and the hotel,"
      },
      {
       "seccion": "Verse 2 (man answers)",
@@ -7878,7 +8045,8 @@
         "ini": 85.22,
         "fin": 85.5
        }
-      ]
+      ],
+      "trad": "and if you get lost, ask again."
      },
      {
       "seccion": "Chorus",
@@ -7926,7 +8094,8 @@
         "ini": 90.04,
         "fin": 90.86
        }
-      ]
+      ],
+      "trad": "To the left, to the right, straight ahead,"
      },
      {
       "seccion": "Chorus",
@@ -7959,7 +8128,8 @@
         "ini": 94.14,
         "fin": 95.66
        }
-      ]
+      ],
+      "trad": "next to, between, behind… perfect!"
      },
      {
       "seccion": "Chorus",
@@ -7997,7 +8167,8 @@
         "ini": 99.04,
         "fin": 99.88
        }
-      ]
+      ],
+      "trad": "\"Excuse me\", \"please\" and \"thank you\" too:"
      },
      {
       "seccion": "Chorus",
@@ -8035,7 +8206,8 @@
         "ini": 104.42,
         "fin": 104.86
        }
-      ]
+      ],
+      "trad": "with good manners everything goes well!"
      },
      {
       "seccion": "Bridge (call and response)",
@@ -8073,7 +8245,8 @@
         "ini": 109.06,
         "fin": 109.2
        }
-      ]
+      ],
+      "trad": "Could you help me? —Of course!"
      },
      {
       "seccion": "Bridge (call and response)",
@@ -8111,7 +8284,8 @@
         "ini": 113.76,
         "fin": 114.1
        }
-      ]
+      ],
+      "trad": "Could you show me? —Come on, this way!"
      },
      {
       "seccion": "Bridge (call and response)",
@@ -8144,7 +8318,8 @@
         "ini": 118.68,
         "fin": 119.1
        }
-      ]
+      ],
+      "trad": "Thank you so much! —You're welcome, friend."
      },
      {
       "seccion": "Bridge (call and response)",
@@ -8192,7 +8367,8 @@
         "ini": 123.5,
         "fin": 124.04
        }
-      ]
+      ],
+      "trad": "Have a nice day! —Same to you!"
      },
      {
       "seccion": "Final Chorus",
@@ -8240,7 +8416,8 @@
         "ini": 128.46,
         "fin": 129.28
        }
-      ]
+      ],
+      "trad": "To the left, to the right, straight ahead,"
      },
      {
       "seccion": "Final Chorus",
@@ -8273,7 +8450,8 @@
         "ini": 132.54,
         "fin": 134.1
        }
-      ]
+      ],
+      "trad": "next to, between, behind… perfect!"
      },
      {
       "seccion": "Final Chorus",
@@ -8311,7 +8489,8 @@
         "ini": 137.46,
         "fin": 138.3
        }
-      ]
+      ],
+      "trad": "\"Excuse me\", \"please\" and \"thank you\" too:"
      },
      {
       "seccion": "Final Chorus",
@@ -8349,7 +8528,8 @@
         "ini": 142.84,
         "fin": 143.82
        }
-      ]
+      ],
+      "trad": "with good manners everything goes well!"
      },
      {
       "seccion": "Final Chorus",
@@ -8397,7 +8577,8 @@
         "ini": 147.66,
         "fin": 148.48
        }
-      ]
+      ],
+      "trad": "To the left, to the right, straight ahead,"
      },
      {
       "seccion": "Final Chorus",
@@ -8430,7 +8611,8 @@
         "ini": 151.76,
         "fin": 153.28
        }
-      ]
+      ],
+      "trad": "next to, between, behind… perfect!"
      },
      {
       "seccion": "Final Chorus",
@@ -8468,7 +8650,8 @@
         "ini": 156.66,
         "fin": 157.5
        }
-      ]
+      ],
+      "trad": "\"Excuse me\", \"please\" and \"thank you\" too:"
      },
      {
       "seccion": "Final Chorus",
@@ -8506,7 +8689,8 @@
         "ini": 162.02,
         "fin": 162.9
        }
-      ]
+      ],
+      "trad": "with good manners everything goes well!"
      }
     ],
     "duracion": 172.82
@@ -8615,7 +8799,8 @@
         "ini": 14.62,
         "fin": 15.26
        }
-      ]
+      ],
+      "trad": "Si pudiera volar, visitaría la luna,"
      },
      {
       "seccion": "Verse 1",
@@ -8663,7 +8848,8 @@
         "ini": 19.88,
         "fin": 20.2
        }
-      ]
+      ],
+      "trad": "Diría hola, y volvería pronto,"
      },
      {
       "seccion": "Verse 1",
@@ -8711,7 +8897,8 @@
         "ini": 25.1,
         "fin": 25.74
        }
-      ]
+      ],
+      "trad": "Si pudiera nadar como puede un delfín,"
      },
      {
       "seccion": "Verse 1",
@@ -8764,7 +8951,8 @@
         "ini": 30.02,
         "fin": 30.94
        }
-      ]
+      ],
+      "trad": "Competiría con las olas todo el camino hasta Japón."
      },
      {
       "seccion": "Chorus",
@@ -8812,7 +9000,8 @@
         "ini": 36.16,
         "fin": 36.16
        }
-      ]
+      ],
+      "trad": "Si pudiera, lo haría, lo haría —"
      },
      {
       "seccion": "Chorus",
@@ -8855,7 +9044,8 @@
         "ini": 40.82,
         "fin": 41.38
        }
-      ]
+      ],
+      "trad": "Soñar a lo grande y hacerlo bien."
      },
      {
       "seccion": "Chorus",
@@ -8898,7 +9088,8 @@
         "ini": 46.04,
         "fin": 46.3
        }
-      ]
+      ],
+      "trad": "Cierra los ojos y canta conmigo:"
      },
      {
       "seccion": "Chorus",
@@ -8941,7 +9132,8 @@
         "ini": 51.26,
         "fin": 51.5
        }
-      ]
+      ],
+      "trad": "Si pudieras… ¿qué serías?"
      },
      {
       "seccion": "Verse 2",
@@ -8999,7 +9191,8 @@
         "ini": 56.42,
         "fin": 56.94
        }
-      ]
+      ],
+      "trad": "Si fuera un gigante, iría despacio y con cuidado,"
      },
      {
       "seccion": "Verse 2",
@@ -9047,7 +9240,8 @@
         "ini": 61.36,
         "fin": 61.96
        }
-      ]
+      ],
+      "trad": "Para no pisar las flores de abajo,"
      },
      {
       "seccion": "Verse 2",
@@ -9095,7 +9289,8 @@
         "ini": 66.9,
         "fin": 67.48
        }
-      ]
+      ],
+      "trad": "Si fuera invisible solo por un día,"
      },
      {
       "seccion": "Verse 2",
@@ -9138,7 +9333,8 @@
         "ini": 71.88,
         "fin": 72.52
        }
-      ]
+      ],
+      "trad": "Dejaría regalitos y me iría de puntillas."
      },
      {
       "seccion": "Chorus",
@@ -9186,7 +9382,8 @@
         "ini": 77.78,
         "fin": 77.78
        }
-      ]
+      ],
+      "trad": "Si pudiera, lo haría, lo haría —"
      },
      {
       "seccion": "Chorus",
@@ -9229,7 +9426,8 @@
         "ini": 82.58,
         "fin": 83.12
        }
-      ]
+      ],
+      "trad": "Soñar a lo grande y hacerlo bien."
      },
      {
       "seccion": "Chorus",
@@ -9272,7 +9470,8 @@
         "ini": 87.78,
         "fin": 88.16
        }
-      ]
+      ],
+      "trad": "Cierra los ojos y canta conmigo:"
      },
      {
       "seccion": "Chorus",
@@ -9315,7 +9514,8 @@
         "ini": 93.0,
         "fin": 93.48
        }
-      ]
+      ],
+      "trad": "Si pudieras… ¿qué serías?"
      },
      {
       "seccion": "Bridge",
@@ -9373,7 +9573,8 @@
         "ini": 98.22,
         "fin": 98.66
        }
-      ]
+      ],
+      "trad": "¿Si pudieras cambiar una cosa, qué harías?"
      },
      {
       "seccion": "Bridge",
@@ -9426,7 +9627,8 @@
         "ini": 103.44,
         "fin": 103.86
        }
-      ]
+      ],
+      "trad": "¡Plantaría un bosque — y tú también podrías!"
      },
      {
       "seccion": "Bridge",
@@ -9484,7 +9686,8 @@
         "ini": 108.74,
         "fin": 109.06
        }
-      ]
+      ],
+      "trad": "Si tuviera un deseo, lo compartiría contigo,"
      },
      {
       "seccion": "Bridge",
@@ -9532,7 +9735,8 @@
         "ini": 113.86,
         "fin": 114.22
        }
-      ]
+      ],
+      "trad": "Porque los sueños son más grandes cuando hay dos."
      },
      {
       "seccion": "Final Chorus",
@@ -9580,7 +9784,8 @@
         "ini": 119.66,
         "fin": 119.66
        }
-      ]
+      ],
+      "trad": "Si pudiera, lo haría, lo haría —"
      },
      {
       "seccion": "Final Chorus",
@@ -9623,7 +9828,8 @@
         "ini": 124.32,
         "fin": 124.84
        }
-      ]
+      ],
+      "trad": "Soñar a lo grande y hacerlo bien."
      },
      {
       "seccion": "Final Chorus",
@@ -9666,7 +9872,8 @@
         "ini": 129.54,
         "fin": 129.96
        }
-      ]
+      ],
+      "trad": "Cierra los ojos y canta conmigo:"
      },
      {
       "seccion": "Final Chorus",
@@ -9709,7 +9916,8 @@
         "ini": 134.74,
         "fin": 135.18
        }
-      ]
+      ],
+      "trad": "Si pudieras… ¿qué serías?"
      },
      {
       "seccion": "Final Chorus",
@@ -9757,7 +9965,8 @@
         "ini": 140.38,
         "fin": 140.38
        }
-      ]
+      ],
+      "trad": "Si pudiera, lo haría, lo haría —"
      },
      {
       "seccion": "Final Chorus",
@@ -9800,7 +10009,8 @@
         "ini": 145.2,
         "fin": 145.74
        }
-      ]
+      ],
+      "trad": "Soñar a lo grande y hacerlo bien."
      },
      {
       "seccion": "Final Chorus",
@@ -9843,7 +10053,8 @@
         "ini": 150.4,
         "fin": 150.64
        }
-      ]
+      ],
+      "trad": "Cierra los ojos y canta conmigo:"
      },
      {
       "seccion": "Final Chorus",
@@ -9886,7 +10097,8 @@
         "ini": 155.6,
         "fin": 155.88
        }
-      ]
+      ],
+      "trad": "Si pudieras… ¿qué serías?"
      }
     ],
     "duracion": 167.04
@@ -9934,7 +10146,8 @@
         "ini": 13.56,
         "fin": 14.3
        }
-      ]
+      ],
+      "trad": "If I could fly, I'd go to the Moon,"
      },
      {
       "seccion": "Verse 1",
@@ -9982,7 +10195,8 @@
         "ini": 19.66,
         "fin": 20.52
        }
-      ]
+      ],
+      "trad": "I'd say \"hi!\" to it… and I'd give it an olive!"
      },
      {
       "seccion": "Verse 1",
@@ -10025,7 +10239,8 @@
         "ini": 24.32,
         "fin": 24.94
        }
-      ]
+      ],
+      "trad": "If I swam as fast as a dolphin,"
      },
      {
       "seccion": "Verse 1",
@@ -10073,7 +10288,8 @@
         "ini": 30.52,
         "fin": 30.94
        }
-      ]
+      ],
+      "trad": "I'd race the waves to the end."
      },
      {
       "seccion": "Chorus",
@@ -10111,7 +10327,8 @@
         "ini": 34.38,
         "fin": 35.18
        }
-      ]
+      ],
+      "trad": "If I could, I'd do it, I'd do it,"
      },
      {
       "seccion": "Chorus",
@@ -10149,7 +10366,8 @@
         "ini": 39.64,
         "fin": 40.28
        }
-      ]
+      ],
+      "trad": "I'd dream big every day."
      },
      {
       "seccion": "Chorus",
@@ -10187,7 +10405,8 @@
         "ini": 45.82,
         "fin": 46.88
        }
-      ]
+      ],
+      "trad": "Close your eyes and sing with me:"
      },
      {
       "seccion": "Chorus",
@@ -10220,7 +10439,8 @@
         "ini": 49.94,
         "fin": 50.68
        }
-      ]
+      ],
+      "trad": "If you could… what would you be, friend?"
      },
      {
       "seccion": "Verse 2",
@@ -10258,7 +10478,8 @@
         "ini": 55.28,
         "fin": 56.4
        }
-      ]
+      ],
+      "trad": "If I were a giant, I'd walk slowly,"
      },
      {
       "seccion": "Verse 2",
@@ -10311,7 +10532,8 @@
         "ini": 61.5,
         "fin": 62.26
        }
-      ]
+      ],
+      "trad": "So I wouldn't step on a flower or a little bug,"
      },
      {
       "seccion": "Verse 2",
@@ -10349,7 +10571,8 @@
         "ini": 65.74,
         "fin": 66.46
        }
-      ]
+      ],
+      "trad": "If I were invisible just one day,"
      },
      {
       "seccion": "Verse 2",
@@ -10382,7 +10605,8 @@
         "ini": 71.38,
         "fin": 72.82
        }
-      ]
+      ],
+      "trad": "I'd leave little gifts… and I'd escape!"
      },
      {
       "seccion": "Chorus",
@@ -10420,7 +10644,8 @@
         "ini": 76.12,
         "fin": 76.94
        }
-      ]
+      ],
+      "trad": "If I could, I'd do it, I'd do it,"
      },
      {
       "seccion": "Chorus",
@@ -10458,7 +10683,8 @@
         "ini": 81.4,
         "fin": 81.96
        }
-      ]
+      ],
+      "trad": "I'd dream big every day."
      },
      {
       "seccion": "Chorus",
@@ -10496,7 +10722,8 @@
         "ini": 87.56,
         "fin": 88.64
        }
-      ]
+      ],
+      "trad": "Close your eyes and sing with me:"
      },
      {
       "seccion": "Chorus",
@@ -10529,7 +10756,8 @@
         "ini": 91.68,
         "fin": 92.38
        }
-      ]
+      ],
+      "trad": "If you could… what would you be, friend?"
      },
      {
       "seccion": "Bridge",
@@ -10572,7 +10800,8 @@
         "ini": 98.14,
         "fin": 99.3
        }
-      ]
+      ],
+      "trad": "If you could change one thing, what would you do?"
      },
      {
       "seccion": "Bridge",
@@ -10615,7 +10844,8 @@
         "ini": 103.24,
         "fin": 104.82
        }
-      ]
+      ],
+      "trad": "I'd plant a forest… and you could too!"
      },
      {
       "seccion": "Bridge",
@@ -10658,7 +10888,8 @@
         "ini": 108.46,
         "fin": 109.22
        }
-      ]
+      ],
+      "trad": "If I had a wish, I'd share it with you,"
      },
      {
       "seccion": "Bridge",
@@ -10711,7 +10942,8 @@
         "ini": 112.6,
         "fin": 113.34
        }
-      ]
+      ],
+      "trad": "Because a dream is bigger with a friend."
      },
      {
       "seccion": "Final Chorus",
@@ -10749,7 +10981,8 @@
         "ini": 117.88,
         "fin": 118.64
        }
-      ]
+      ],
+      "trad": "If I could, I'd do it, I'd do it,"
      },
      {
       "seccion": "Final Chorus",
@@ -10787,7 +11020,8 @@
         "ini": 123.16,
         "fin": 123.72
        }
-      ]
+      ],
+      "trad": "I'd dream big every day."
      },
      {
       "seccion": "Final Chorus",
@@ -10825,7 +11059,8 @@
         "ini": 129.32,
         "fin": 130.36
        }
-      ]
+      ],
+      "trad": "Close your eyes and sing with me:"
      },
      {
       "seccion": "Final Chorus",
@@ -10858,7 +11093,8 @@
         "ini": 133.48,
         "fin": 134.2
        }
-      ]
+      ],
+      "trad": "If you could… what would you be, friend?"
      },
      {
       "seccion": "Final Chorus",
@@ -10896,7 +11132,8 @@
         "ini": 138.74,
         "fin": 139.54
        }
-      ]
+      ],
+      "trad": "If I could, I'd do it, I'd do it,"
      },
      {
       "seccion": "Final Chorus",
@@ -10934,7 +11171,8 @@
         "ini": 144.04,
         "fin": 144.58
        }
-      ]
+      ],
+      "trad": "I'd dream big every day."
      },
      {
       "seccion": "Final Chorus",
@@ -10972,7 +11210,8 @@
         "ini": 150.18,
         "fin": 151.24
        }
-      ]
+      ],
+      "trad": "Close your eyes and sing with me:"
      },
      {
       "seccion": "Final Chorus",
@@ -11005,7 +11244,8 @@
         "ini": 154.34,
         "fin": 155.02
        }
-      ]
+      ],
+      "trad": "If you could… what would you be, friend?"
      }
     ],
     "duracion": 167.04
@@ -11109,7 +11349,8 @@
         "ini": 10.98,
         "fin": 11.66
        }
-      ]
+      ],
+      "trad": "La semana que viene voy a hacer la maleta,"
      },
      {
       "seccion": "Verse 1",
@@ -11152,7 +11393,8 @@
         "ini": 14.98,
         "fin": 15.98
        }
-      ]
+      ],
+      "trad": "Voy a llevar mi bandera favorita,"
      },
      {
       "seccion": "Verse 1",
@@ -11205,7 +11447,8 @@
         "ini": 19.58,
         "fin": 19.58
        }
-      ]
+      ],
+      "trad": "Voy a volar a Marte contigo —"
      },
      {
       "seccion": "Verse 1",
@@ -11258,7 +11501,8 @@
         "ini": 23.22,
         "fin": 23.64
        }
-      ]
+      ],
+      "trad": "Entonces dime, ¿qué vas a hacer?"
      },
      {
       "seccion": "Chorus",
@@ -11306,7 +11550,8 @@
         "ini": 28.0,
         "fin": 28.34
        }
-      ]
+      ],
+      "trad": "¡Cinco, cuatro, tres, dos, uno — volaremos!"
      },
      {
       "seccion": "Chorus",
@@ -11359,7 +11604,8 @@
         "ini": 31.98,
         "fin": 32.4
        }
-      ]
+      ],
+      "trad": "Veremos las estrellas en el cielo,"
      },
      {
       "seccion": "Chorus",
@@ -11397,7 +11643,8 @@
         "ini": 36.08,
         "fin": 36.08
        }
-      ]
+      ],
+      "trad": "Mañana estaremos lejos —"
      },
      {
       "seccion": "Chorus",
@@ -11450,7 +11697,8 @@
         "ini": 40.0,
         "fin": 40.54
        }
-      ]
+      ],
+      "trad": "¿Vendrás conmigo? — ¡Lo haré! ¡Vale!"
      },
      {
       "seccion": "Verse 2",
@@ -11503,7 +11751,8 @@
         "ini": 43.48,
         "fin": 43.98
        }
-      ]
+      ],
+      "trad": "Cuando aterricemos, creo que hará frío,"
      },
      {
       "seccion": "Verse 2",
@@ -11551,7 +11800,8 @@
         "ini": 47.66,
         "fin": 48.6
        }
-      ]
+      ],
+      "trad": "Encontraremos rocas rojas de mil millones de años,"
      },
      {
       "seccion": "Verse 2",
@@ -11594,7 +11844,8 @@
         "ini": 51.66,
         "fin": 52.1
        }
-      ]
+      ],
+      "trad": "Vamos a hacer un jardín allí"
      },
      {
       "seccion": "Verse 2",
@@ -11637,7 +11888,8 @@
         "ini": 55.78,
         "fin": 56.94
        }
-      ]
+      ],
+      "trad": "Con agua, patatas y aire fresco y limpio."
      },
      {
       "seccion": "Chorus",
@@ -11685,7 +11937,8 @@
         "ini": 60.5,
         "fin": 60.96
        }
-      ]
+      ],
+      "trad": "¡Cinco, cuatro, tres, dos, uno — volaremos!"
      },
      {
       "seccion": "Chorus",
@@ -11738,7 +11991,8 @@
         "ini": 64.52,
         "fin": 64.96
        }
-      ]
+      ],
+      "trad": "Veremos las estrellas en el cielo,"
      },
      {
       "seccion": "Chorus",
@@ -11776,7 +12030,8 @@
         "ini": 68.62,
         "fin": 68.62
        }
-      ]
+      ],
+      "trad": "Mañana estaremos lejos —"
      },
      {
       "seccion": "Chorus",
@@ -11829,7 +12084,8 @@
         "ini": 72.52,
         "fin": 73.06
        }
-      ]
+      ],
+      "trad": "¿Vendrás conmigo? — ¡Lo haré! ¡Vale!"
      },
      {
       "seccion": "Bridge",
@@ -11907,7 +12163,8 @@
         "ini": 76.82,
         "fin": 77.16
        }
-      ]
+      ],
+      "trad": "¿Va a llover en Marte? — No, no creo que llueva."
      },
      {
       "seccion": "Bridge",
@@ -11980,7 +12237,8 @@
         "ini": 80.84,
         "fin": 81.28
        }
-      ]
+      ],
+      "trad": "¿Vamos a echar de menos nuestra casa? — Sí, lo haremos… pero aun así:"
      },
      {
       "seccion": "Bridge",
@@ -12038,7 +12296,8 @@
         "ini": 84.96,
         "fin": 85.3
        }
-      ]
+      ],
+      "trad": "Te llamaré todas las noches — lo prometo, lo haré,"
      },
      {
       "seccion": "Bridge",
@@ -12101,7 +12360,8 @@
         "ini": 89.04,
         "fin": 89.48
        }
-      ]
+      ],
+      "trad": "Y cuando vea la Tierra, sonreiré — ¡lo haré!"
      },
      {
       "seccion": "Final Chorus",
@@ -12149,7 +12409,8 @@
         "ini": 93.06,
         "fin": 93.42
        }
-      ]
+      ],
+      "trad": "¡Cinco, cuatro, tres, dos, uno — volaremos!"
      },
      {
       "seccion": "Final Chorus",
@@ -12202,7 +12463,8 @@
         "ini": 97.08,
         "fin": 97.5
        }
-      ]
+      ],
+      "trad": "Veremos las estrellas en el cielo,"
      },
      {
       "seccion": "Final Chorus",
@@ -12240,7 +12502,8 @@
         "ini": 101.18,
         "fin": 101.18
        }
-      ]
+      ],
+      "trad": "Mañana estaremos lejos —"
      },
      {
       "seccion": "Final Chorus",
@@ -12293,7 +12556,8 @@
         "ini": 105.12,
         "fin": 105.62
        }
-      ]
+      ],
+      "trad": "¿Vendrás conmigo? — ¡Lo haré! ¡Vale!"
      },
      {
       "seccion": "Final Chorus",
@@ -12341,7 +12605,8 @@
         "ini": 109.32,
         "fin": 109.76
        }
-      ]
+      ],
+      "trad": "¡Cinco, cuatro, tres, dos, uno — volaremos!"
      },
      {
       "seccion": "Final Chorus",
@@ -12394,7 +12659,8 @@
         "ini": 113.38,
         "fin": 113.78
        }
-      ]
+      ],
+      "trad": "Veremos las estrellas en el cielo,"
      },
      {
       "seccion": "Final Chorus",
@@ -12432,7 +12698,8 @@
         "ini": 117.44,
         "fin": 117.44
        }
-      ]
+      ],
+      "trad": "Mañana estaremos lejos —"
      },
      {
       "seccion": "Final Chorus",
@@ -12485,7 +12752,8 @@
         "ini": 121.36,
         "fin": 121.9
        }
-      ]
+      ],
+      "trad": "¿Vendrás conmigo? — ¡Lo haré! ¡Vale!"
      }
     ],
     "duracion": 130.22
@@ -12543,7 +12811,8 @@
         "ini": 10.94,
         "fin": 11.66
        }
-      ]
+      ],
+      "trad": "Next week I'm going to pack my suitcase,"
      },
      {
       "seccion": "Verse 1",
@@ -12591,7 +12860,8 @@
         "ini": 15.02,
         "fin": 15.72
        }
-      ]
+      ],
+      "trad": "I'm going to take my flag and my notebook,"
      },
      {
       "seccion": "Verse 1",
@@ -12629,7 +12899,8 @@
         "ini": 19.04,
         "fin": 19.82
        }
-      ]
+      ],
+      "trad": "I'm going to fly to Mars with you,"
      },
      {
       "seccion": "Verse 1",
@@ -12682,7 +12953,8 @@
         "ini": 23.16,
         "fin": 23.9
        }
-      ]
+      ],
+      "trad": "so tell me: what are you going to do, friend?"
      },
      {
       "seccion": "Chorus",
@@ -12720,7 +12992,8 @@
         "ini": 26.94,
         "fin": 28.18
        }
-      ]
+      ],
+      "trad": "Five, four, three, two, one: We'll fly!"
      },
      {
       "seccion": "Chorus",
@@ -12753,7 +13026,8 @@
         "ini": 31.28,
         "fin": 32.26
        }
-      ]
+      ],
+      "trad": "We'll see the stars in the sky,"
      },
      {
       "seccion": "Chorus",
@@ -12791,7 +13065,8 @@
         "ini": 36.22,
         "fin": 36.58
        }
-      ]
+      ],
+      "trad": "Tomorrow we'll be very far from here…"
      },
      {
       "seccion": "Chorus",
@@ -12824,7 +13099,8 @@
         "ini": 39.14,
         "fin": 39.14
        }
-      ]
+      ],
+      "trad": "Will you come with me? —Yes, yes, yes!"
      },
      {
       "seccion": "Verse 2",
@@ -12862,7 +13138,8 @@
         "ini": 43.74,
         "fin": 44.18
        }
-      ]
+      ],
+      "trad": "When we land, I think it'll be cold,"
      },
      {
       "seccion": "Verse 2",
@@ -12905,7 +13182,8 @@
         "ini": 47.8,
         "fin": 48.28
        }
-      ]
+      ],
+      "trad": "We'll find red rocks from an ancient river,"
      },
      {
       "seccion": "Verse 2",
@@ -12943,7 +13221,8 @@
         "ini": 51.36,
         "fin": 51.84
        }
-      ]
+      ],
+      "trad": "We're going to make a garden there,"
      },
      {
       "seccion": "Verse 2",
@@ -12986,7 +13265,8 @@
         "ini": 56.38,
         "fin": 56.68
        }
-      ]
+      ],
+      "trad": "with water, potatoes and clean air, yes!"
      },
      {
       "seccion": "Chorus",
@@ -13024,7 +13304,8 @@
         "ini": 59.48,
         "fin": 60.7
        }
-      ]
+      ],
+      "trad": "Five, four, three, two, one: We'll fly!"
      },
      {
       "seccion": "Chorus",
@@ -13057,7 +13338,8 @@
         "ini": 63.82,
         "fin": 64.84
        }
-      ]
+      ],
+      "trad": "We'll see the stars in the sky,"
      },
      {
       "seccion": "Chorus",
@@ -13095,7 +13377,8 @@
         "ini": 68.76,
         "fin": 69.1
        }
-      ]
+      ],
+      "trad": "Tomorrow we'll be very far from here…"
      },
      {
       "seccion": "Chorus",
@@ -13128,7 +13411,8 @@
         "ini": 71.7,
         "fin": 71.7
        }
-      ]
+      ],
+      "trad": "Will you come with me? —Yes, yes, yes!"
      },
      {
       "seccion": "Bridge",
@@ -13181,7 +13465,8 @@
         "ini": 76.26,
         "fin": 76.52
        }
-      ]
+      ],
+      "trad": "Is it going to rain on Mars? —No, I don't think so."
      },
      {
       "seccion": "Bridge",
@@ -13229,7 +13514,8 @@
         "ini": 80.34,
         "fin": 80.56
        }
-      ]
+      ],
+      "trad": "Will we miss the house? —Yes… but I"
      },
      {
       "seccion": "Bridge",
@@ -13272,7 +13558,8 @@
         "ini": 83.78,
         "fin": 84.86
        }
-      ]
+      ],
+      "trad": "I'll call you every night, I promise,"
      },
      {
       "seccion": "Bridge",
@@ -13325,7 +13612,8 @@
         "ini": 88.76,
         "fin": 89.42
        }
-      ]
+      ],
+      "trad": "and when I see the Earth, I'll send you a kiss."
      },
      {
       "seccion": "Final Chorus",
@@ -13363,7 +13651,8 @@
         "ini": 92.02,
         "fin": 93.28
        }
-      ]
+      ],
+      "trad": "Five, four, three, two, one: We'll fly!"
      },
      {
       "seccion": "Final Chorus",
@@ -13396,7 +13685,8 @@
         "ini": 96.38,
         "fin": 97.38
        }
-      ]
+      ],
+      "trad": "We'll see the stars in the sky,"
      },
      {
       "seccion": "Final Chorus",
@@ -13434,7 +13724,8 @@
         "ini": 101.34,
         "fin": 101.66
        }
-      ]
+      ],
+      "trad": "Tomorrow we'll be very far from here…"
      },
      {
       "seccion": "Final Chorus",
@@ -13467,7 +13758,8 @@
         "ini": 105.24,
         "fin": 105.46
        }
-      ]
+      ],
+      "trad": "Will you come with me? —Yes, yes, yes!"
      },
      {
       "seccion": "Final Chorus",
@@ -13505,7 +13797,8 @@
         "ini": 108.28,
         "fin": 109.52
        }
-      ]
+      ],
+      "trad": "Five, four, three, two, one: We'll fly!"
      },
      {
       "seccion": "Final Chorus",
@@ -13538,7 +13831,8 @@
         "ini": 112.64,
         "fin": 113.62
        }
-      ]
+      ],
+      "trad": "We'll see the stars in the sky,"
      },
      {
       "seccion": "Final Chorus",
@@ -13576,7 +13870,8 @@
         "ini": 117.6,
         "fin": 117.92
        }
-      ]
+      ],
+      "trad": "Tomorrow we'll be very far from here…"
      },
      {
       "seccion": "Final Chorus",
@@ -13609,7 +13904,8 @@
         "ini": 121.5,
         "fin": 121.74
        }
-      ]
+      ],
+      "trad": "Will you come with me? —Yes, yes, yes!"
      }
     ],
     "duracion": 130.22
@@ -13713,7 +14009,8 @@
         "ini": 11.7,
         "fin": 12.28
        }
-      ]
+      ],
+      "trad": "¿Has visto alguna vez a una ballena saltar alto?"
      },
      {
       "seccion": "Verse 1",
@@ -13771,7 +14068,8 @@
         "ini": 15.72,
         "fin": 16.3
        }
-      ]
+      ],
+      "trad": "¿Has tocado alguna vez una nube en lo alto del cielo?"
      },
      {
       "seccion": "Verse 1",
@@ -13829,7 +14127,8 @@
         "ini": 20.7,
         "fin": 21.02
        }
-      ]
+      ],
+      "trad": "He escalado una montaña, he cruzado el mar,"
      },
      {
       "seccion": "Verse 1",
@@ -13877,7 +14176,8 @@
         "ini": 24.1,
         "fin": 24.46
        }
-      ]
+      ],
+      "trad": "¡Pero nunca he comido pizza con una abeja!"
      },
      {
       "seccion": "Chorus",
@@ -13915,7 +14215,8 @@
         "ini": 28.3,
         "fin": 28.94
        }
-      ]
+      ],
+      "trad": "¿Has alguna vez, has alguna vez…?"
      },
      {
       "seccion": "Chorus",
@@ -13968,7 +14269,8 @@
         "ini": 32.38,
         "fin": 32.66
        }
-      ]
+      ],
+      "trad": "¡Sí, lo he hecho! — ¡No, no lo he hecho, todavía no!"
      },
      {
       "seccion": "Chorus",
@@ -14016,7 +14318,8 @@
         "ini": 36.98,
         "fin": 36.98
        }
-      ]
+      ],
+      "trad": "Cuéntame todas las cosas que has hecho —"
      },
      {
       "seccion": "Chorus",
@@ -14059,7 +14362,8 @@
         "ini": 39.84,
         "fin": 40.6
        }
-      ]
+      ],
+      "trad": "¡La vida es una aventura, divirtámonos!"
      },
      {
       "seccion": "Verse 2",
@@ -14107,7 +14411,8 @@
         "ini": 44.82,
         "fin": 45.38
        }
-      ]
+      ],
+      "trad": "¿Has volado alguna vez a Marte y de vuelta?"
      },
      {
       "seccion": "Verse 2",
@@ -14165,7 +14470,8 @@
         "ini": 48.88,
         "fin": 49.46
        }
-      ]
+      ],
+      "trad": "¡Sí, lo he hecho — en un cohete con una merienda!"
      },
      {
       "seccion": "Verse 2",
@@ -14213,7 +14519,8 @@
         "ini": 53.08,
         "fin": 53.7
        }
-      ]
+      ],
+      "trad": "¿Has bailado alguna vez con un pingüino? ¡Sí!"
      },
      {
       "seccion": "Verse 2",
@@ -14266,7 +14573,8 @@
         "ini": 57.18,
         "fin": 57.78
        }
-      ]
+      ],
+      "trad": "¡Hemos bailado toda la noche y hemos hecho un desastre!"
      },
      {
       "seccion": "Chorus",
@@ -14304,7 +14612,8 @@
         "ini": 61.44,
         "fin": 62.04
        }
-      ]
+      ],
+      "trad": "¿Has alguna vez, has alguna vez…?"
      },
      {
       "seccion": "Chorus",
@@ -14357,7 +14666,8 @@
         "ini": 65.48,
         "fin": 65.78
        }
-      ]
+      ],
+      "trad": "¡Sí, lo he hecho! — ¡No, no lo he hecho, todavía no!"
      },
      {
       "seccion": "Chorus",
@@ -14405,7 +14715,8 @@
         "ini": 70.1,
         "fin": 70.1
        }
-      ]
+      ],
+      "trad": "Cuéntame todas las cosas que has hecho —"
      },
      {
       "seccion": "Chorus",
@@ -14448,7 +14759,8 @@
         "ini": 72.96,
         "fin": 73.7
        }
-      ]
+      ],
+      "trad": "¡La vida es una aventura, divirtámonos!"
      },
      {
       "seccion": "Bridge",
@@ -14516,7 +14828,8 @@
         "ini": 81.06,
         "fin": 81.48
        }
-      ]
+      ],
+      "trad": "¡He visto, he estado, he hecho, he ganado!"
      },
      {
       "seccion": "Bridge",
@@ -14589,7 +14902,8 @@
         "ini": 89.26,
         "fin": 90.26
        }
-      ]
+      ],
+      "trad": "¡Has probado, has volado, has crecido — sí, has crecido!"
      },
      {
       "seccion": "Verse 3",
@@ -14637,7 +14951,8 @@
         "ini": 97.52,
         "fin": 98.34
        }
-      ]
+      ],
+      "trad": "¿Has ayudado alguna vez a un amigo que está triste?"
      },
      {
       "seccion": "Verse 3",
@@ -14700,7 +15015,8 @@
         "ini": 105.84,
         "fin": 106.64
        }
-      ]
+      ],
+      "trad": "¡Sí, lo he hecho — es la mejor sensación que he tenido!"
      },
      {
       "seccion": "Final Chorus",
@@ -14738,7 +15054,8 @@
         "ini": 111.06,
         "fin": 111.7
        }
-      ]
+      ],
+      "trad": "¿Has alguna vez, has alguna vez…?"
      },
      {
       "seccion": "Final Chorus",
@@ -14791,7 +15108,8 @@
         "ini": 115.14,
         "fin": 115.44
        }
-      ]
+      ],
+      "trad": "¡Sí, lo he hecho! — ¡No, no lo he hecho, todavía no!"
      },
      {
       "seccion": "Final Chorus",
@@ -14839,7 +15157,8 @@
         "ini": 119.74,
         "fin": 119.74
        }
-      ]
+      ],
+      "trad": "Cuéntame todas las cosas que has hecho —"
      },
      {
       "seccion": "Final Chorus",
@@ -14882,7 +15201,8 @@
         "ini": 122.62,
         "fin": 123.1
        }
-      ]
+      ],
+      "trad": "¡La vida es una aventura, divirtámonos!"
      },
      {
       "seccion": "Final Chorus",
@@ -14920,7 +15240,8 @@
         "ini": 127.66,
         "fin": 128.24
        }
-      ]
+      ],
+      "trad": "¿Has alguna vez, has alguna vez…?"
      },
      {
       "seccion": "Final Chorus",
@@ -14973,7 +15294,8 @@
         "ini": 131.7,
         "fin": 132.0
        }
-      ]
+      ],
+      "trad": "¡Sí, lo he hecho! — ¡No, no lo he hecho, todavía no!"
      },
      {
       "seccion": "Final Chorus",
@@ -15021,7 +15343,8 @@
         "ini": 136.3,
         "fin": 136.3
        }
-      ]
+      ],
+      "trad": "Cuéntame todas las cosas que has hecho —"
      },
      {
       "seccion": "Final Chorus",
@@ -15064,7 +15387,8 @@
         "ini": 139.18,
         "fin": 139.92
        }
-      ]
+      ],
+      "trad": "¡La vida es una aventura, divirtámonos!"
      }
     ],
     "duracion": 149.06
@@ -15112,7 +15436,8 @@
         "ini": 11.36,
         "fin": 12.06
        }
-      ]
+      ],
+      "trad": "Have you ever seen a whale jump?"
      },
      {
       "seccion": "Verse 1",
@@ -15160,7 +15485,8 @@
         "ini": 15.42,
         "fin": 16.38
        }
-      ]
+      ],
+      "trad": "Have you ever touched a cloud as it passed by?"
      },
      {
       "seccion": "Verse 1",
@@ -15218,7 +15544,8 @@
         "ini": 19.82,
         "fin": 20.18
        }
-      ]
+      ],
+      "trad": "I've climbed a mountain, I've crossed the sea,"
      },
      {
       "seccion": "Verse 1",
@@ -15266,7 +15593,8 @@
         "ini": 23.46,
         "fin": 24.68
        }
-      ]
+      ],
+      "trad": "But I've never eaten pizza with a squid!"
      },
      {
       "seccion": "Chorus",
@@ -15294,7 +15622,8 @@
         "ini": 28.1,
         "fin": 28.7
        }
-      ]
+      ],
+      "trad": "Have you ever, have you ever…?"
      },
      {
       "seccion": "Chorus",
@@ -15337,7 +15666,8 @@
         "ini": 32.22,
         "fin": 32.58
        }
-      ]
+      ],
+      "trad": "Yes, I've done it! —No, not yet!"
      },
      {
       "seccion": "Chorus",
@@ -15375,7 +15705,8 @@
         "ini": 36.36,
         "fin": 36.84
        }
-      ]
+      ],
+      "trad": "Tell me what you've done:"
      },
      {
       "seccion": "Chorus",
@@ -15428,7 +15759,8 @@
         "ini": 40.36,
         "fin": 41.0
        }
-      ]
+      ],
+      "trad": "Life is an adventure under the blue sky!"
      },
      {
       "seccion": "Verse 2",
@@ -15481,7 +15813,8 @@
         "ini": 44.52,
         "fin": 45.0
        }
-      ]
+      ],
+      "trad": "Have you ever flown to Mars and come back?"
      },
      {
       "seccion": "Verse 2",
@@ -15544,7 +15877,8 @@
         "ini": 48.52,
         "fin": 49.36
        }
-      ]
+      ],
+      "trad": "Yes, I've done it, in a rocket, and I've come back happy!"
      },
      {
       "seccion": "Verse 2",
@@ -15592,7 +15926,8 @@
         "ini": 53.48,
         "fin": 53.76
        }
-      ]
+      ],
+      "trad": "Have you ever danced with a penguin? Yes!"
      },
      {
       "seccion": "Verse 2",
@@ -15645,7 +15980,8 @@
         "ini": 57.16,
         "fin": 57.42
        }
-      ]
+      ],
+      "trad": "We've danced all night, from here to there!"
      },
      {
       "seccion": "Chorus",
@@ -15673,7 +16009,8 @@
         "ini": 61.2,
         "fin": 61.8
        }
-      ]
+      ],
+      "trad": "Have you ever, have you ever…?"
      },
      {
       "seccion": "Chorus",
@@ -15716,7 +16053,8 @@
         "ini": 65.32,
         "fin": 65.68
        }
-      ]
+      ],
+      "trad": "Yes, I've done it! —No, not yet!"
      },
      {
       "seccion": "Chorus",
@@ -15754,7 +16092,8 @@
         "ini": 69.46,
         "fin": 69.92
        }
-      ]
+      ],
+      "trad": "Tell me what you've done:"
      },
      {
       "seccion": "Chorus",
@@ -15807,7 +16146,8 @@
         "ini": 73.46,
         "fin": 74.1
        }
-      ]
+      ],
+      "trad": "Life is an adventure under the blue sky!"
      },
      {
       "seccion": "Bridge",
@@ -15855,7 +16195,8 @@
         "ini": 81.34,
         "fin": 81.98
        }
-      ]
+      ],
+      "trad": "I've seen, I've gone, I've done, I've won…"
      },
      {
       "seccion": "Bridge",
@@ -15908,7 +16249,8 @@
         "ini": 88.96,
         "fin": 89.74
        }
-      ]
+      ],
+      "trad": "You've tried, you've flown, you've grown… yes, you've grown!"
      },
      {
       "seccion": "Verse 3",
@@ -15966,7 +16308,8 @@
         "ini": 97.5,
         "fin": 98.14
        }
-      ]
+      ],
+      "trad": "Have you ever helped a friend who's sad?"
      },
      {
       "seccion": "Verse 3",
@@ -16034,7 +16377,8 @@
         "ini": 105.62,
         "fin": 106.56
        }
-      ]
+      ],
+      "trad": "Yes, I've done it, and their smile… it's the best thing that exists!"
      },
      {
       "seccion": "Final Chorus",
@@ -16062,7 +16406,8 @@
         "ini": 110.88,
         "fin": 111.46
        }
-      ]
+      ],
+      "trad": "Have you ever, have you ever…?"
      },
      {
       "seccion": "Final Chorus",
@@ -16105,7 +16450,8 @@
         "ini": 115.02,
         "fin": 115.34
        }
-      ]
+      ],
+      "trad": "Yes, I've done it! —No, not yet!"
      },
      {
       "seccion": "Final Chorus",
@@ -16143,7 +16489,8 @@
         "ini": 119.14,
         "fin": 119.46
        }
-      ]
+      ],
+      "trad": "Tell me what you've done:"
      },
      {
       "seccion": "Final Chorus",
@@ -16196,7 +16543,8 @@
         "ini": 123.24,
         "fin": 123.82
        }
-      ]
+      ],
+      "trad": "Life is an adventure under the blue sky!"
      },
      {
       "seccion": "Final Chorus",
@@ -16224,7 +16572,8 @@
         "ini": 127.42,
         "fin": 127.96
        }
-      ]
+      ],
+      "trad": "Have you ever, have you ever…?"
      },
      {
       "seccion": "Final Chorus",
@@ -16267,7 +16616,8 @@
         "ini": 131.56,
         "fin": 131.9
        }
-      ]
+      ],
+      "trad": "Yes, I've done it! —No, not yet!"
      },
      {
       "seccion": "Final Chorus",
@@ -16305,7 +16655,8 @@
         "ini": 135.7,
         "fin": 136.16
        }
-      ]
+      ],
+      "trad": "Tell me what you've done:"
      },
      {
       "seccion": "Final Chorus",
@@ -16358,7 +16709,8 @@
         "ini": 139.7,
         "fin": 140.36
        }
-      ]
+      ],
+      "trad": "Life is an adventure under the blue sky!"
      }
     ],
     "duracion": 149.06
@@ -16462,7 +16814,8 @@
         "ini": 10.94,
         "fin": 11.7
        }
-      ]
+      ],
+      "trad": "¡Ring, ring! ¡Hola! — ¿Qué estás haciendo?"
      },
      {
       "seccion": "Verse 1",
@@ -16510,7 +16863,8 @@
         "ini": 15.04,
         "fin": 15.84
        }
-      ]
+      ],
+      "trad": "¡Estoy comiendo espaguetis, y el perro está masticando!"
      },
      {
       "seccion": "Verse 1",
@@ -16553,7 +16907,8 @@
         "ini": 19.1,
         "fin": 19.46
        }
-      ]
+      ],
+      "trad": "El abuelo está cantando, y la abuela también,"
      },
      {
       "seccion": "Verse 1",
@@ -16601,7 +16956,8 @@
         "ini": 23.14,
         "fin": 23.54
        }
-      ]
+      ],
+      "trad": "y el gato está bailando con un zapato!"
      },
      {
       "seccion": "Chorus",
@@ -16649,7 +17005,8 @@
         "ini": 27.36,
         "fin": 27.96
        }
-      ]
+      ],
+      "trad": "¿Qué estás haciendo? ¿Qué estás haciendo?"
      },
      {
       "seccion": "Chorus",
@@ -16697,7 +17054,8 @@
         "ini": 31.54,
         "fin": 32.08
        }
-      ]
+      ],
+      "trad": "¡Estoy cantando, estoy saltando, estoy riendo, estoy moviéndome!"
      },
      {
       "seccion": "Chorus",
@@ -16760,7 +17118,8 @@
         "ini": 35.98,
         "fin": 35.98
        }
-      ]
+      ],
+      "trad": "Ahora mismo, ahora mismo, dime qué está pasando —"
      },
      {
       "seccion": "Chorus",
@@ -16798,7 +17157,8 @@
         "ini": 39.66,
         "fin": 40.16
        }
-      ]
+      ],
+      "trad": "¡Todo el mundo está haciendo algo todo el día!"
      },
      {
       "seccion": "Verse 2",
@@ -16846,7 +17206,8 @@
         "ini": 43.52,
         "fin": 44.24
        }
-      ]
+      ],
+      "trad": "¡Ring, ring! ¡Hola! — ¿Qué estás haciendo?"
      },
      {
       "seccion": "Verse 2",
@@ -16899,7 +17260,8 @@
         "ini": 47.54,
         "fin": 48.4
        }
-      ]
+      ],
+      "trad": "Estamos haciendo un pastel… y el horno está humeando!"
      },
      {
       "seccion": "Verse 2",
@@ -16937,7 +17299,8 @@
         "ini": 51.66,
         "fin": 52.38
        }
-      ]
+      ],
+      "trad": "Papá está corriendo, mamá está riendo,"
      },
      {
       "seccion": "Verse 2",
@@ -16990,7 +17353,8 @@
         "ini": 55.98,
         "fin": 56.84
        }
-      ]
+      ],
+      "trad": "y el pastel está volando — ¿qué está pasando?!"
      },
      {
       "seccion": "Chorus",
@@ -17038,7 +17402,8 @@
         "ini": 59.92,
         "fin": 60.5
        }
-      ]
+      ],
+      "trad": "¿Qué estás haciendo? ¿Qué estás haciendo?"
      },
      {
       "seccion": "Chorus",
@@ -17086,7 +17451,8 @@
         "ini": 64.1,
         "fin": 64.58
        }
-      ]
+      ],
+      "trad": "¡Estoy cantando, estoy saltando, estoy riendo, estoy moviéndome!"
      },
      {
       "seccion": "Chorus",
@@ -17149,7 +17515,8 @@
         "ini": 68.62,
         "fin": 68.62
        }
-      ]
+      ],
+      "trad": "Ahora mismo, ahora mismo, dime qué está pasando —"
      },
      {
       "seccion": "Chorus",
@@ -17187,7 +17554,8 @@
         "ini": 72.2,
         "fin": 72.7
        }
-      ]
+      ],
+      "trad": "¡Todo el mundo está haciendo algo todo el día!"
      },
      {
       "seccion": "Bridge",
@@ -17235,7 +17603,8 @@
         "ini": 80.5,
         "fin": 80.92
        }
-      ]
+      ],
+      "trad": "Yo estoy, tú estás, él está, ella está…"
      },
      {
       "seccion": "Bridge",
@@ -17273,7 +17642,8 @@
         "ini": 88.0,
         "fin": 88.86
        }
-      ]
+      ],
+      "trad": "nosotros estamos, ellos están… ¡haciendo, haciendo!"
      },
      {
       "seccion": "Verse 3",
@@ -17326,7 +17696,8 @@
         "ini": 93.06,
         "fin": 93.3
        }
-      ]
+      ],
+      "trad": "¡Ring, ring! ¡Hola! — ¿Qué estás haciendo ahora?"
      },
      {
       "seccion": "Verse 3",
@@ -17384,7 +17755,8 @@
         "ini": 96.62,
         "fin": 96.86
        }
-      ]
+      ],
+      "trad": "¡Te estoy llamando para decir: ¡Te quiero! — ¡Guau!"
      },
      {
       "seccion": "Final Chorus",
@@ -17432,7 +17804,8 @@
         "ini": 108.74,
         "fin": 109.32
        }
-      ]
+      ],
+      "trad": "¿Qué estás haciendo? ¿Qué estás haciendo?"
      },
      {
       "seccion": "Final Chorus",
@@ -17480,7 +17853,8 @@
         "ini": 112.92,
         "fin": 113.46
        }
-      ]
+      ],
+      "trad": "¡Estoy cantando, estoy saltando, estoy riendo, estoy moviéndome!"
      },
      {
       "seccion": "Final Chorus",
@@ -17543,7 +17917,8 @@
         "ini": 117.44,
         "fin": 117.44
        }
-      ]
+      ],
+      "trad": "Ahora mismo, ahora mismo, dime qué está pasando —"
      },
      {
       "seccion": "Final Chorus",
@@ -17581,7 +17956,8 @@
         "ini": 121.02,
         "fin": 121.52
        }
-      ]
+      ],
+      "trad": "¡Todo el mundo está haciendo algo todo el día!"
      },
      {
       "seccion": "Final Chorus",
@@ -17629,7 +18005,8 @@
         "ini": 125.02,
         "fin": 125.66
        }
-      ]
+      ],
+      "trad": "¿Qué estás haciendo? ¿Qué estás haciendo?"
      },
      {
       "seccion": "Final Chorus",
@@ -17677,7 +18054,8 @@
         "ini": 129.2,
         "fin": 129.72
        }
-      ]
+      ],
+      "trad": "¡Estoy cantando, estoy saltando, estoy riendo, estoy moviéndome!"
      },
      {
       "seccion": "Final Chorus",
@@ -17740,7 +18118,8 @@
         "ini": 133.72,
         "fin": 133.72
        }
-      ]
+      ],
+      "trad": "Ahora mismo, ahora mismo, dime qué está pasando —"
      },
      {
       "seccion": "Final Chorus",
@@ -17778,7 +18157,8 @@
         "ini": 137.3,
         "fin": 137.88
        }
-      ]
+      ],
+      "trad": "¡Todo el mundo está haciendo algo todo el día!"
      }
     ],
     "duracion": 146.52
@@ -17821,7 +18201,8 @@
         "ini": 10.96,
         "fin": 11.48
        }
-      ]
+      ],
+      "trad": "Ring, ring! Hello! —What are you doing?"
      },
      {
       "seccion": "Verse 1",
@@ -17869,7 +18250,8 @@
         "ini": 15.0,
         "fin": 15.56
        }
-      ]
+      ],
+      "trad": "I'm eating spaghetti and the dog is biting!"
      },
      {
       "seccion": "Verse 1",
@@ -17917,7 +18299,8 @@
         "ini": 19.0,
         "fin": 19.5
        }
-      ]
+      ],
+      "trad": "Grandpa is singing and Grandma too,"
      },
      {
       "seccion": "Verse 1",
@@ -17975,7 +18358,8 @@
         "ini": 23.76,
         "fin": 24.14
        }
-      ]
+      ],
+      "trad": "and the cat is dancing with a shoe… how great!"
      },
      {
       "seccion": "Chorus",
@@ -18013,7 +18397,8 @@
         "ini": 27.22,
         "fin": 27.76
        }
-      ]
+      ],
+      "trad": "What are you doing? What are you doing?"
      },
      {
       "seccion": "Chorus",
@@ -18046,7 +18431,8 @@
         "ini": 31.28,
         "fin": 31.84
        }
-      ]
+      ],
+      "trad": "I'm singing, jumping, laughing, running!"
      },
      {
       "seccion": "Chorus",
@@ -18094,7 +18480,8 @@
         "ini": 35.34,
         "fin": 35.92
        }
-      ]
+      ],
+      "trad": "Right now, right now, tell me what's happening:"
      },
      {
       "seccion": "Chorus",
@@ -18152,7 +18539,8 @@
         "ini": 39.56,
         "fin": 40.26
        }
-      ]
+      ],
+      "trad": "everybody is doing something, all day, singing!"
      },
      {
       "seccion": "Verse 2",
@@ -18190,7 +18578,8 @@
         "ini": 43.5,
         "fin": 43.98
        }
-      ]
+      ],
+      "trad": "Ring, ring! Hello! —What are you all doing?"
      },
      {
       "seccion": "Verse 2",
@@ -18243,7 +18632,8 @@
         "ini": 47.62,
         "fin": 48.12
        }
-      ]
+      ],
+      "trad": "We're making a cake… and the oven is burning!"
      },
      {
       "seccion": "Verse 2",
@@ -18286,7 +18676,8 @@
         "ini": 51.64,
         "fin": 52.2
        }
-      ]
+      ],
+      "trad": "Dad is running, Mom is laughing,"
      },
      {
       "seccion": "Verse 2",
@@ -18334,7 +18725,8 @@
         "ini": 55.42,
         "fin": 56.28
        }
-      ]
+      ],
+      "trad": "and the cake is flying! What is happening?"
      },
      {
       "seccion": "Chorus",
@@ -18372,7 +18764,8 @@
         "ini": 59.78,
         "fin": 60.3
        }
-      ]
+      ],
+      "trad": "What are you doing? What are you doing?"
      },
      {
       "seccion": "Chorus",
@@ -18405,7 +18798,8 @@
         "ini": 63.82,
         "fin": 64.4
        }
-      ]
+      ],
+      "trad": "I'm singing, jumping, laughing, running!"
      },
      {
       "seccion": "Chorus",
@@ -18453,7 +18847,8 @@
         "ini": 67.88,
         "fin": 68.46
        }
-      ]
+      ],
+      "trad": "Right now, right now, tell me what's happening:"
      },
      {
       "seccion": "Chorus",
@@ -18511,7 +18906,8 @@
         "ini": 72.1,
         "fin": 72.82
        }
-      ]
+      ],
+      "trad": "everybody is doing something, all day, singing!"
      },
      {
       "seccion": "Bridge",
@@ -18559,7 +18955,8 @@
         "ini": 76.64,
         "fin": 77.02
        }
-      ]
+      ],
+      "trad": "I am, you are, he is, she is…"
      },
      {
       "seccion": "Bridge",
@@ -18587,7 +18984,8 @@
         "ini": 80.24,
         "fin": 80.94
        }
-      ]
+      ],
+      "trad": "we are… doing, doing!"
      },
      {
       "seccion": "Verse 3",
@@ -18635,7 +19033,8 @@
         "ini": 100.44,
         "fin": 101.0
        }
-      ]
+      ],
+      "trad": "Ring, ring! Hello! —And now what are you doing?"
      },
      {
       "seccion": "Verse 3",
@@ -18688,7 +19087,8 @@
         "ini": 104.34,
         "fin": 105.1
        }
-      ]
+      ],
+      "trad": "I'm calling you to tell you: I love you! —How wonderful!"
      },
      {
       "seccion": "Final Chorus",
@@ -18726,7 +19126,8 @@
         "ini": 108.6,
         "fin": 109.12
        }
-      ]
+      ],
+      "trad": "What are you doing? What are you doing?"
      },
      {
       "seccion": "Final Chorus",
@@ -18759,7 +19160,8 @@
         "ini": 112.64,
         "fin": 113.2
        }
-      ]
+      ],
+      "trad": "I'm singing, jumping, laughing, running!"
      },
      {
       "seccion": "Final Chorus",
@@ -18807,7 +19209,8 @@
         "ini": 116.72,
         "fin": 117.3
        }
-      ]
+      ],
+      "trad": "Right now, right now, tell me what's happening:"
      },
      {
       "seccion": "Final Chorus",
@@ -18865,7 +19268,8 @@
         "ini": 120.94,
         "fin": 121.64
        }
-      ]
+      ],
+      "trad": "everybody is doing something, all day, singing!"
      },
      {
       "seccion": "Final Chorus",
@@ -18903,7 +19307,8 @@
         "ini": 124.86,
         "fin": 125.4
        }
-      ]
+      ],
+      "trad": "What are you doing? What are you doing?"
      },
      {
       "seccion": "Final Chorus",
@@ -18936,7 +19341,8 @@
         "ini": 128.92,
         "fin": 129.5
        }
-      ]
+      ],
+      "trad": "I'm singing, jumping, laughing, running!"
      },
      {
       "seccion": "Final Chorus",
@@ -18984,7 +19390,8 @@
         "ini": 132.98,
         "fin": 133.54
        }
-      ]
+      ],
+      "trad": "Right now, right now, tell me what's happening:"
      },
      {
       "seccion": "Final Chorus",
@@ -19042,7 +19449,8 @@
         "ini": 137.2,
         "fin": 137.88
        }
-      ]
+      ],
+      "trad": "everybody is doing something, all day, singing!"
      }
     ],
     "duracion": 146.52
@@ -19146,7 +19554,8 @@
         "ini": 13.3,
         "fin": 13.66
        }
-      ]
+      ],
+      "trad": "Abre el mapa y míralo bien,"
      },
      {
       "seccion": "Verse 1",
@@ -19199,7 +19608,8 @@
         "ini": 17.84,
         "fin": 18.36
        }
-      ]
+      ],
+      "trad": "Salta al barco y rema con el oleaje,"
      },
      {
       "seccion": "Verse 1",
@@ -19247,7 +19657,8 @@
         "ini": 22.46,
         "fin": 23.16
        }
-      ]
+      ],
+      "trad": "Pisa la arena, quítate los zapatos,"
      },
      {
       "seccion": "Verse 1",
@@ -19295,7 +19706,8 @@
         "ini": 27.12,
         "fin": 27.68
        }
-      ]
+      ],
+      "trad": "¡Cuidado con los cangrejos — son malas noticias!"
      },
      {
       "seccion": "Chorus",
@@ -19338,7 +19750,8 @@
         "ini": 31.28,
         "fin": 32.18
        }
-      ]
+      ],
+      "trad": "Gira a la derecha, ve todo recto,"
      },
      {
       "seccion": "Chorus",
@@ -19381,7 +19794,8 @@
         "ini": 36.34,
         "fin": 36.92
        }
-      ]
+      ],
+      "trad": "Cruza el puente despacio, ¡como te dije!"
      },
      {
       "seccion": "Chorus",
@@ -19429,7 +19843,8 @@
         "ini": 40.96,
         "fin": 41.38
        }
-      ]
+      ],
+      "trad": "Cuenta diez pasos junto a la palmera…"
      },
      {
       "seccion": "Chorus",
@@ -19482,7 +19897,8 @@
         "ini": 45.62,
         "fin": 46.1
        }
-      ]
+      ],
+      "trad": "Y cava, cava, cava — ¡el tesoro es para mí!"
      },
      {
       "seccion": "Verse 2",
@@ -19530,7 +19946,8 @@
         "ini": 50.18,
         "fin": 50.72
        }
-      ]
+      ],
+      "trad": "Cruza el río por la gran piedra gris,"
      },
      {
       "seccion": "Verse 2",
@@ -19578,7 +19995,8 @@
         "ini": 54.62,
         "fin": 55.34
        }
-      ]
+      ],
+      "trad": "¡No despiertes al loro — déjalo en paz!"
      },
      {
       "seccion": "Verse 2",
@@ -19626,7 +20044,8 @@
         "ini": 59.42,
         "fin": 59.86
        }
-      ]
+      ],
+      "trad": "Entra en la cueva, enciende la luz,"
      },
      {
       "seccion": "Verse 2",
@@ -19689,7 +20108,8 @@
         "ini": 64.04,
         "fin": 64.56
        }
-      ]
+      ],
+      "trad": "Y busca una caja con una cruz a la derecha."
      },
      {
       "seccion": "Chorus",
@@ -19732,7 +20152,8 @@
         "ini": 68.22,
         "fin": 69.1
        }
-      ]
+      ],
+      "trad": "Gira a la derecha, ve todo recto,"
      },
      {
       "seccion": "Chorus",
@@ -19775,7 +20196,8 @@
         "ini": 73.26,
         "fin": 73.82
        }
-      ]
+      ],
+      "trad": "Cruza el puente despacio, ¡como te dije!"
      },
      {
       "seccion": "Chorus",
@@ -19823,7 +20245,8 @@
         "ini": 77.88,
         "fin": 78.38
        }
-      ]
+      ],
+      "trad": "Cuenta diez pasos junto a la palmera…"
      },
      {
       "seccion": "Chorus",
@@ -19876,7 +20299,8 @@
         "ini": 82.5,
         "fin": 82.78
        }
-      ]
+      ],
+      "trad": "Y cava, cava, cava — ¡el tesoro es para mí!"
      },
      {
       "seccion": "Bridge",
@@ -19929,7 +20353,8 @@
         "ini": 90.58,
         "fin": 92.02
        }
-      ]
+      ],
+      "trad": "¡Abre! ¡Mira! ¡Trepa! ¡Salta! — ¡Vamos, todos, saltad!"
      },
      {
       "seccion": "Bridge",
@@ -19992,7 +20417,8 @@
         "ini": 99.82,
         "fin": 101.34
        }
-      ]
+      ],
+      "trad": "¡Debajo, encima, detrás, entre — el mejor tesoro que has visto!"
      },
      {
       "seccion": "Verse 3",
@@ -20035,7 +20461,8 @@
         "ini": 105.34,
         "fin": 106.0
        }
-      ]
+      ],
+      "trad": "Abrimos la caja… ¿qué hay dentro? ¡Hurra!"
      },
      {
       "seccion": "Verse 3",
@@ -20078,7 +20505,8 @@
         "ini": 110.14,
         "fin": 110.54
        }
-      ]
+      ],
+      "trad": "¡Otro mapa… y otra canción para jugar!"
      },
      {
       "seccion": "Final Chorus",
@@ -20121,7 +20549,8 @@
         "ini": 123.58,
         "fin": 124.52
        }
-      ]
+      ],
+      "trad": "Gira a la derecha, ve todo recto,"
      },
      {
       "seccion": "Final Chorus",
@@ -20164,7 +20593,8 @@
         "ini": 128.64,
         "fin": 129.22
        }
-      ]
+      ],
+      "trad": "Cruza el puente despacio, ¡como te dije!"
      },
      {
       "seccion": "Final Chorus",
@@ -20212,7 +20642,8 @@
         "ini": 133.28,
         "fin": 133.7
        }
-      ]
+      ],
+      "trad": "Cuenta diez pasos junto a la palmera…"
      },
      {
       "seccion": "Final Chorus",
@@ -20265,7 +20696,8 @@
         "ini": 137.94,
         "fin": 138.18
        }
-      ]
+      ],
+      "trad": "Y cava, cava, cava — ¡el tesoro es para mí!"
      },
      {
       "seccion": "Final Chorus",
@@ -20308,7 +20740,8 @@
         "ini": 142.06,
         "fin": 142.94
        }
-      ]
+      ],
+      "trad": "Gira a la derecha, ve todo recto,"
      },
      {
       "seccion": "Final Chorus",
@@ -20351,7 +20784,8 @@
         "ini": 147.1,
         "fin": 147.66
        }
-      ]
+      ],
+      "trad": "Cruza el puente despacio, ¡como te dije!"
      },
      {
       "seccion": "Final Chorus",
@@ -20399,7 +20833,8 @@
         "ini": 151.72,
         "fin": 152.18
        }
-      ]
+      ],
+      "trad": "Cuenta diez pasos junto a la palmera…"
      },
      {
       "seccion": "Final Chorus",
@@ -20452,7 +20887,8 @@
         "ini": 156.36,
         "fin": 156.64
        }
-      ]
+      ],
+      "trad": "Y cava, cava, cava — ¡el tesoro es para mí!"
      }
     ],
     "duracion": 166.32
@@ -20495,7 +20931,8 @@
         "ini": 13.26,
         "fin": 13.78
        }
-      ]
+      ],
+      "trad": "Open the map and look at it well,"
      },
      {
       "seccion": "Verse 1",
@@ -20538,7 +20975,8 @@
         "ini": 17.6,
         "fin": 18.4
        }
-      ]
+      ],
+      "trad": "Get on the boat and row too,"
      },
      {
       "seccion": "Verse 1",
@@ -20581,7 +21019,8 @@
         "ini": 22.2,
         "fin": 23.3
        }
-      ]
+      ],
+      "trad": "Jump onto the sand, take off your shoes,"
      },
      {
       "seccion": "Verse 1",
@@ -20629,7 +21068,8 @@
         "ini": 26.84,
         "fin": 27.68
        }
-      ]
+      ],
+      "trad": "Watch out for the crabs, they bite sometimes!"
      },
      {
       "seccion": "Chorus",
@@ -20672,7 +21112,8 @@
         "ini": 31.74,
         "fin": 32.54
        }
-      ]
+      ],
+      "trad": "Turn to the right, go straight ahead,"
      },
      {
       "seccion": "Chorus",
@@ -20705,7 +21146,8 @@
         "ini": 35.14,
         "fin": 36.5
        }
-      ]
+      ],
+      "trad": "Cross the bridge slowly… perfect!"
      },
      {
       "seccion": "Chorus",
@@ -20748,7 +21190,8 @@
         "ini": 40.68,
         "fin": 41.82
        }
-      ]
+      ],
+      "trad": "Count ten steps next to the palm tree…"
      },
      {
       "seccion": "Chorus",
@@ -20801,7 +21244,8 @@
         "ini": 45.1,
         "fin": 45.86
        }
-      ]
+      ],
+      "trad": "And dig, dig, dig, the treasure is waiting for you!"
      },
      {
       "seccion": "Verse 2",
@@ -20844,7 +21288,8 @@
         "ini": 50.18,
         "fin": 50.74
        }
-      ]
+      ],
+      "trad": "Cross the river on the gray stone,"
      },
      {
       "seccion": "Verse 2",
@@ -20892,7 +21337,8 @@
         "ini": 54.76,
         "fin": 55.2
        }
-      ]
+      ],
+      "trad": "Don't wake the parrot: not a sound, shh!"
      },
      {
       "seccion": "Verse 2",
@@ -20935,7 +21381,8 @@
         "ini": 59.42,
         "fin": 60.0
        }
-      ]
+      ],
+      "trad": "Enter the cave, turn on the light,"
      },
      {
       "seccion": "Verse 2",
@@ -20978,7 +21425,8 @@
         "ini": 64.0,
         "fin": 64.48
        }
-      ]
+      ],
+      "trad": "And look for a box with a cross."
      },
      {
       "seccion": "Chorus",
@@ -21021,7 +21469,8 @@
         "ini": 68.66,
         "fin": 69.44
        }
-      ]
+      ],
+      "trad": "Turn to the right, go straight ahead,"
      },
      {
       "seccion": "Chorus",
@@ -21054,7 +21503,8 @@
         "ini": 72.06,
         "fin": 73.52
        }
-      ]
+      ],
+      "trad": "Cross the bridge slowly… perfect!"
      },
      {
       "seccion": "Chorus",
@@ -21097,7 +21547,8 @@
         "ini": 77.58,
         "fin": 78.74
        }
-      ]
+      ],
+      "trad": "Count ten steps next to the palm tree…"
      },
      {
       "seccion": "Chorus",
@@ -21150,7 +21601,8 @@
         "ini": 82.02,
         "fin": 82.78
        }
-      ]
+      ],
+      "trad": "And dig, dig, dig, the treasure is waiting for you!"
      },
      {
       "seccion": "Bridge",
@@ -21183,7 +21635,8 @@
         "ini": 86.48,
         "fin": 87.6
        }
-      ]
+      ],
+      "trad": "You: Open! Look! Climb! Jump!"
      },
      {
       "seccion": "Bridge",
@@ -21216,7 +21669,8 @@
         "ini": 91.96,
         "fin": 92.68
        }
-      ]
+      ],
+      "trad": "Y'all: Open! Look! Climb! Jump!"
      },
      {
       "seccion": "Verse 3",
@@ -21264,7 +21718,8 @@
         "ini": 114.44,
         "fin": 115.28
        }
-      ]
+      ],
+      "trad": "We open the box… what's there? How exciting!"
      },
      {
       "seccion": "Verse 3",
@@ -21302,7 +21757,8 @@
         "ini": 119.12,
         "fin": 119.92
        }
-      ]
+      ],
+      "trad": "There's another map… and another song!"
      },
      {
       "seccion": "Final Chorus",
@@ -21345,7 +21801,8 @@
         "ini": 124.08,
         "fin": 124.84
        }
-      ]
+      ],
+      "trad": "Turn to the right, go straight ahead,"
      },
      {
       "seccion": "Final Chorus",
@@ -21378,7 +21835,8 @@
         "ini": 127.46,
         "fin": 128.9
        }
-      ]
+      ],
+      "trad": "Cross the bridge slowly… perfect!"
      },
      {
       "seccion": "Final Chorus",
@@ -21421,7 +21879,8 @@
         "ini": 133.0,
         "fin": 134.12
        }
-      ]
+      ],
+      "trad": "Count ten steps next to the palm tree…"
      },
      {
       "seccion": "Final Chorus",
@@ -21474,7 +21933,8 @@
         "ini": 137.42,
         "fin": 138.18
        }
-      ]
+      ],
+      "trad": "And dig, dig, dig, the treasure is waiting for you!"
      },
      {
       "seccion": "Final Chorus",
@@ -21517,7 +21977,8 @@
         "ini": 142.56,
         "fin": 143.3
        }
-      ]
+      ],
+      "trad": "Turn to the right, go straight ahead,"
      },
      {
       "seccion": "Final Chorus",
@@ -21550,7 +22011,8 @@
         "ini": 145.92,
         "fin": 147.4
        }
-      ]
+      ],
+      "trad": "Cross the bridge slowly… perfect!"
      },
      {
       "seccion": "Final Chorus",
@@ -21593,7 +22055,8 @@
         "ini": 151.46,
         "fin": 152.58
        }
-      ]
+      ],
+      "trad": "Count ten steps next to the palm tree…"
      },
      {
       "seccion": "Final Chorus",
@@ -21646,7 +22109,8 @@
         "ini": 155.88,
         "fin": 156.62
        }
-      ]
+      ],
+      "trad": "And dig, dig, dig, the treasure is waiting for you!"
      }
     ],
     "duracion": 166.32
@@ -21780,7 +22244,8 @@
         "ini": 11.52,
         "fin": 11.94
        }
-      ]
+      ],
+      "trad": "Por la mañana tengo mucho sueño, no quiero levantarme de la cama,"
      },
      {
       "seccion": "Verse 1",
@@ -21843,7 +22308,8 @@
         "ini": 15.66,
         "fin": 16.14
        }
-      ]
+      ],
+      "trad": "a las once tengo hambre — ¿puedo comer un poco de pan?"
      },
      {
       "seccion": "Verse 1",
@@ -21901,7 +22367,8 @@
         "ini": 19.88,
         "fin": 20.26
        }
-      ]
+      ],
+      "trad": "En el recreo tengo calor, estoy corriendo al sol,"
      },
      {
       "seccion": "Verse 1",
@@ -21979,7 +22446,8 @@
         "ini": 24.06,
         "fin": 24.52
        }
-      ]
+      ],
+      "trad": "en el examen tengo un poco de miedo… ¡pero sé que lo haré!"
      },
      {
       "seccion": "Chorus",
@@ -22032,7 +22500,8 @@
         "ini": 28.22,
         "fin": 28.54
        }
-      ]
+      ],
+      "trad": "Tengo hambre, tengo sed, tengo frío y tengo calor,"
      },
      {
       "seccion": "Chorus",
@@ -22110,7 +22579,8 @@
         "ini": 32.4,
         "fin": 32.74
        }
-      ]
+      ],
+      "trad": "Tengo sueño, tengo prisa, tengo miedo del dragón — ¡o no!"
      },
      {
       "seccion": "Chorus",
@@ -22163,7 +22633,8 @@
         "ini": 36.62,
         "fin": 36.92
        }
-      ]
+      ],
+      "trad": "En español se dice «tengo», en inglés «I am»…"
      },
      {
       "seccion": "Chorus",
@@ -22216,7 +22687,8 @@
         "ini": 40.8,
         "fin": 41.3
        }
-      ]
+      ],
+      "trad": "¡Tengo muchas ganas de cantar, así que aquí estoy!"
      },
      {
       "seccion": "Verse 2",
@@ -22264,7 +22736,8 @@
         "ini": 44.9,
         "fin": 45.26
        }
-      ]
+      ],
+      "trad": "«¿Cuántos años tienes?» — Tengo nueve,"
      },
      {
       "seccion": "Verse 2",
@@ -22322,7 +22795,8 @@
         "ini": 49.08,
         "fin": 49.56
        }
-      ]
+      ],
+      "trad": "y mi abuela tiene ochenta — ¡y baila muy bien!"
      },
      {
       "seccion": "Verse 2",
@@ -22375,7 +22849,8 @@
         "ini": 53.26,
         "fin": 53.74
        }
-      ]
+      ],
+      "trad": "Tengo suerte, tengo un amigo genial,"
      },
      {
       "seccion": "Verse 2",
@@ -22438,7 +22913,8 @@
         "ini": 57.44,
         "fin": 57.76
        }
-      ]
+      ],
+      "trad": "y cuando tenemos frío, nos abrazamos — ¡nunca es demasiado tarde!"
      },
      {
       "seccion": "Chorus",
@@ -22491,7 +22967,8 @@
         "ini": 61.6,
         "fin": 61.92
        }
-      ]
+      ],
+      "trad": "Tengo hambre, tengo sed, tengo frío y tengo calor,"
      },
      {
       "seccion": "Chorus",
@@ -22569,7 +23046,8 @@
         "ini": 65.78,
         "fin": 66.1
        }
-      ]
+      ],
+      "trad": "Tengo sueño, tengo prisa, tengo miedo del dragón — ¡o no!"
      },
      {
       "seccion": "Chorus",
@@ -22622,7 +23100,8 @@
         "ini": 70.0,
         "fin": 70.3
        }
-      ]
+      ],
+      "trad": "En español se dice «tengo», en inglés «I am»…"
      },
      {
       "seccion": "Chorus",
@@ -22675,7 +23154,8 @@
         "ini": 74.18,
         "fin": 74.74
        }
-      ]
+      ],
+      "trad": "¡Tengo muchas ganas de cantar, así que aquí estoy!"
      },
      {
       "seccion": "Bridge",
@@ -22713,7 +23193,8 @@
         "ini": 78.32,
         "fin": 78.78
        }
-      ]
+      ],
+      "trad": "¡Tengo prisa! ¡Corre, corre!"
      },
      {
       "seccion": "Bridge",
@@ -22741,7 +23222,8 @@
         "ini": 81.4,
         "fin": 81.86
        }
-      ]
+      ],
+      "trad": "Estoy tranquilo… respira…"
      },
      {
       "seccion": "Bridge",
@@ -22799,7 +23281,8 @@
         "ini": 86.9,
         "fin": 87.6
        }
-      ]
+      ],
+      "trad": "¡Tengo razón! —¿Estás seguro? — Bueno… ¡a veces!"
      },
      {
       "seccion": "Final Chorus",
@@ -22852,7 +23335,8 @@
         "ini": 90.84,
         "fin": 91.14
        }
-      ]
+      ],
+      "trad": "Tengo hambre, tengo sed, tengo frío y tengo calor,"
      },
      {
       "seccion": "Final Chorus",
@@ -22930,7 +23414,8 @@
         "ini": 95.02,
         "fin": 95.34
        }
-      ]
+      ],
+      "trad": "Tengo sueño, tengo prisa, tengo miedo del dragón — ¡o no!"
      },
      {
       "seccion": "Final Chorus",
@@ -22983,7 +23468,8 @@
         "ini": 99.24,
         "fin": 99.56
        }
-      ]
+      ],
+      "trad": "En español se dice «tengo», en inglés «I am»…"
      },
      {
       "seccion": "Final Chorus",
@@ -23036,7 +23522,8 @@
         "ini": 103.4,
         "fin": 103.9
        }
-      ]
+      ],
+      "trad": "¡Tengo muchas ganas de cantar, así que aquí estoy!"
      },
      {
       "seccion": "Final Chorus",
@@ -23089,7 +23576,8 @@
         "ini": 107.52,
         "fin": 107.84
        }
-      ]
+      ],
+      "trad": "Tengo hambre, tengo sed, tengo frío y tengo calor,"
      },
      {
       "seccion": "Final Chorus",
@@ -23167,7 +23655,8 @@
         "ini": 111.7,
         "fin": 112.0
        }
-      ]
+      ],
+      "trad": "Tengo sueño, tengo prisa, tengo miedo del dragón — ¡o no!"
      },
      {
       "seccion": "Final Chorus",
@@ -23220,7 +23709,8 @@
         "ini": 115.94,
         "fin": 116.26
        }
-      ]
+      ],
+      "trad": "En español se dice «tengo», en inglés «I am»…"
      },
      {
       "seccion": "Final Chorus",
@@ -23273,7 +23763,8 @@
         "ini": 124.32,
         "fin": 124.8
        }
-      ]
+      ],
+      "trad": "¡Tengo muchas ganas de cantar, así que aquí estoy!"
      }
     ],
     "duracion": 129.38
@@ -23331,7 +23822,8 @@
         "ini": 10.96,
         "fin": 11.98
        }
-      ]
+      ],
+      "trad": "In the morning I'm sleepy, I don't want to get up,"
      },
      {
       "seccion": "Verse 1",
@@ -23374,7 +23866,8 @@
         "ini": 15.12,
         "fin": 16.04
        }
-      ]
+      ],
+      "trad": "at eleven I'm hungry, I want to have lunch!"
      },
      {
       "seccion": "Verse 1",
@@ -23422,7 +23915,8 @@
         "ini": 19.58,
         "fin": 20.2
        }
-      ]
+      ],
+      "trad": "At recess I'm hot, I run without stopping,"
      },
      {
       "seccion": "Verse 1",
@@ -23480,7 +23974,8 @@
         "ini": 23.62,
         "fin": 24.76
        }
-      ]
+      ],
+      "trad": "and on the test I'm scared… but I'm going to pass!"
      },
      {
       "seccion": "Chorus",
@@ -23528,7 +24023,8 @@
         "ini": 27.9,
         "fin": 28.8
        }
-      ]
+      ],
+      "trad": "I'm hungry, I'm thirsty, I'm cold, I'm hot,"
      },
      {
       "seccion": "Chorus",
@@ -23576,7 +24072,8 @@
         "ini": 32.04,
         "fin": 33.06
        }
-      ]
+      ],
+      "trad": "I'm sleepy, I'm in a hurry, I'm scared of the dragon!"
      },
      {
       "seccion": "Chorus",
@@ -23629,7 +24126,8 @@
         "ini": 36.42,
         "fin": 37.04
        }
-      ]
+      ],
+      "trad": "In English they say «I am», in Spanish «I have»…"
      },
      {
       "seccion": "Chorus",
@@ -23677,7 +24175,8 @@
         "ini": 40.6,
         "fin": 41.34
        }
-      ]
+      ],
+      "trad": "I feel like singing, and that's why I came!"
      },
      {
       "seccion": "Verse 2",
@@ -23715,7 +24214,8 @@
         "ini": 44.58,
         "fin": 44.96
        }
-      ]
+      ],
+      "trad": "«How old are you?» I'm nine,"
      },
      {
       "seccion": "Verse 2",
@@ -23768,7 +24268,8 @@
         "ini": 48.7,
         "fin": 49.04
        }
-      ]
+      ],
+      "trad": "and my grandma is eighty… and how she moves!"
      },
      {
       "seccion": "Verse 2",
@@ -23806,7 +24307,8 @@
         "ini": 52.92,
         "fin": 53.86
        }
-      ]
+      ],
+      "trad": "I'm lucky, I have an awesome friend,"
      },
      {
       "seccion": "Verse 2",
@@ -23859,7 +24361,8 @@
         "ini": 57.26,
         "fin": 57.64
        }
-      ]
+      ],
+      "trad": "and when we're cold, we hug and that's it!"
      },
      {
       "seccion": "Chorus",
@@ -23907,7 +24410,8 @@
         "ini": 61.3,
         "fin": 61.8
        }
-      ]
+      ],
+      "trad": "I'm hungry, I'm thirsty, I'm cold, I'm hot,"
      },
      {
       "seccion": "Chorus",
@@ -23955,7 +24459,8 @@
         "ini": 65.44,
         "fin": 66.26
        }
-      ]
+      ],
+      "trad": "I'm sleepy, I'm in a hurry, I'm scared of the dragon!"
      },
      {
       "seccion": "Chorus",
@@ -24008,7 +24513,8 @@
         "ini": 69.8,
         "fin": 70.44
        }
-      ]
+      ],
+      "trad": "In English they say «I am», in Spanish «I have»…"
      },
      {
       "seccion": "Chorus",
@@ -24056,7 +24562,8 @@
         "ini": 73.98,
         "fin": 74.6
        }
-      ]
+      ],
+      "trad": "I feel like singing, and that's why I came!"
      },
      {
       "seccion": "Bridge",
@@ -24084,7 +24591,8 @@
         "ini": 78.26,
         "fin": 79.0
        }
-      ]
+      ],
+      "trad": "I'm in a hurry! Run, run!"
      },
      {
       "seccion": "Bridge",
@@ -24107,7 +24615,8 @@
         "ini": 82.18,
         "fin": 82.96
        }
-      ]
+      ],
+      "trad": "I'm calm… breathe…"
      },
      {
       "seccion": "Bridge",
@@ -24150,7 +24659,8 @@
         "ini": 87.02,
         "fin": 87.34
        }
-      ]
+      ],
+      "trad": "I'm right! —Sure? —Well… sometimes yes!"
      },
      {
       "seccion": "Final Chorus",
@@ -24198,7 +24708,8 @@
         "ini": 90.52,
         "fin": 91.0
        }
-      ]
+      ],
+      "trad": "I'm hungry, I'm thirsty, I'm cold, I'm hot,"
      },
      {
       "seccion": "Final Chorus",
@@ -24246,7 +24757,8 @@
         "ini": 94.66,
         "fin": 95.74
        }
-      ]
+      ],
+      "trad": "I'm sleepy, I'm in a hurry, I'm scared of the dragon!"
      },
      {
       "seccion": "Final Chorus",
@@ -24299,7 +24811,8 @@
         "ini": 99.04,
         "fin": 99.66
        }
-      ]
+      ],
+      "trad": "In English they say «I am», in Spanish «I have»…"
      },
      {
       "seccion": "Final Chorus",
@@ -24347,7 +24860,8 @@
         "ini": 103.22,
         "fin": 103.84
        }
-      ]
+      ],
+      "trad": "I feel like singing, and that's why I came!"
      },
      {
       "seccion": "Final Chorus",
@@ -24395,7 +24909,8 @@
         "ini": 107.22,
         "fin": 108.14
        }
-      ]
+      ],
+      "trad": "I'm hungry, I'm thirsty, I'm cold, I'm hot,"
      },
      {
       "seccion": "Final Chorus",
@@ -24443,7 +24958,8 @@
         "ini": 111.36,
         "fin": 112.38
        }
-      ]
+      ],
+      "trad": "I'm sleepy, I'm in a hurry, I'm scared of the dragon!"
      },
      {
       "seccion": "Final Chorus",
@@ -24496,7 +25012,8 @@
         "ini": 115.72,
         "fin": 116.34
        }
-      ]
+      ],
+      "trad": "In English they say «I am», in Spanish «I have»…"
      },
      {
       "seccion": "Final Chorus",
@@ -24544,7 +25061,8 @@
         "ini": 119.92,
         "fin": 120.52
        }
-      ]
+      ],
+      "trad": "I feel like singing, and that's why I came!"
      }
     ],
     "duracion": 129.38
@@ -24638,7 +25156,8 @@
         "ini": 10.9,
         "fin": 11.62
        }
-      ]
+      ],
+      "trad": "¿Quién está tocando a la puerta?"
      },
      {
       "seccion": "Verse 1",
@@ -24681,7 +25200,8 @@
         "ini": 14.74,
         "fin": 15.44
        }
-      ]
+      ],
+      "trad": "¿Qué es ese ruido en el suelo?"
      },
      {
       "seccion": "Verse 1",
@@ -24729,7 +25249,8 @@
         "ini": 18.64,
         "fin": 19.12
        }
-      ]
+      ],
+      "trad": "¿Dónde está mi sombrero? ¿Cuándo es el espectáculo?"
      },
      {
       "seccion": "Verse 1",
@@ -24777,7 +25298,8 @@
         "ini": 22.54,
         "fin": 22.98
        }
-      ]
+      ],
+      "trad": "¿Por qué está el gato sentado en mi dedo del pie?"
      },
      {
       "seccion": "Chorus",
@@ -24810,7 +25332,8 @@
         "ini": 26.42,
         "fin": 27.08
        }
-      ]
+      ],
+      "trad": "¿Quién? ¿Qué? ¿Dónde? ¿Cuándo? ¿Por qué?"
      },
      {
       "seccion": "Chorus",
@@ -24848,7 +25371,8 @@
         "ini": 30.24,
         "fin": 30.72
        }
-      ]
+      ],
+      "trad": "¡Haz una pregunta, alcanza el cielo!"
      },
      {
       "seccion": "Chorus",
@@ -24891,7 +25415,8 @@
         "ini": 34.18,
         "fin": 34.86
        }
-      ]
+      ],
+      "trad": "¿Cómo? ¿Cuánto? ¿Cuántos? ¿Cuál?"
      },
      {
       "seccion": "Chorus",
@@ -24929,7 +25454,8 @@
         "ini": 38.24,
         "fin": 38.56
        }
-      ]
+      ],
+      "trad": "¡Hacer preguntas es muy divertido!"
      },
      {
       "seccion": "Verse 2",
@@ -24982,7 +25508,8 @@
         "ini": 42.2,
         "fin": 42.48
        }
-      ]
+      ],
+      "trad": "¿Quién se comió las galletas? — ¡Yo no, tú no!"
      },
      {
       "seccion": "Verse 2",
@@ -25025,7 +25552,8 @@
         "ini": 45.98,
         "fin": 46.34
        }
-      ]
+      ],
+      "trad": "¿Qué es esa migaja en el zapato del abuelo?"
      },
      {
       "seccion": "Verse 2",
@@ -25078,7 +25606,8 @@
         "ini": 49.66,
         "fin": 50.22
        }
-      ]
+      ],
+      "trad": "¿Dónde están las galletas? ¡Oh, mira — el perro!"
      },
      {
       "seccion": "Verse 2",
@@ -25126,7 +25655,8 @@
         "ini": 53.48,
         "fin": 53.92
        }
-      ]
+      ],
+      "trad": "¿Por qué sonríe como una rana feliz?"
      },
      {
       "seccion": "Chorus",
@@ -25159,7 +25689,8 @@
         "ini": 57.38,
         "fin": 58.08
        }
-      ]
+      ],
+      "trad": "¿Quién? ¿Qué? ¿Dónde? ¿Cuándo? ¿Por qué?"
      },
      {
       "seccion": "Chorus",
@@ -25197,7 +25728,8 @@
         "ini": 61.16,
         "fin": 61.68
        }
-      ]
+      ],
+      "trad": "¡Haz una pregunta, alcanza el cielo!"
      },
      {
       "seccion": "Chorus",
@@ -25240,7 +25772,8 @@
         "ini": 65.16,
         "fin": 65.82
        }
-      ]
+      ],
+      "trad": "¿Cómo? ¿Cuánto? ¿Cuántos? ¿Cuál?"
      },
      {
       "seccion": "Chorus",
@@ -25278,7 +25811,8 @@
         "ini": 69.18,
         "fin": 69.46
        }
-      ]
+      ],
+      "trad": "¡Hacer preguntas es muy divertido!"
      },
      {
       "seccion": "Bridge",
@@ -25341,7 +25875,8 @@
         "ini": 76.7,
         "fin": 77.52
        }
-      ]
+      ],
+      "trad": "¿Cuándo? ¡Mañana! ¿Dónde? ¡Aquí mismo! ¿Quién? ¡Tú y yo! ¿Por qué? ¡Porque!"
      },
      {
       "seccion": "Bridge",
@@ -25424,7 +25959,8 @@
         "ini": 84.7,
         "fin": 85.14
        }
-      ]
+      ],
+      "trad": "¿Cuántos? ¡Tres! ¿Cuánto? ¡Es gratis! ¿Cuál? ¡Este — ¿no lo ves?"
      },
      {
       "seccion": "Verse 3",
@@ -25477,7 +26013,8 @@
         "ini": 89.02,
         "fin": 89.02
        }
-      ]
+      ],
+      "trad": "Así que cuando no sepas, no seas tímido —"
      },
      {
       "seccion": "Verse 3",
@@ -25525,7 +26062,8 @@
         "ini": 92.46,
         "fin": 92.94
        }
-      ]
+      ],
+      "trad": "solo haz una pregunta, y aprenderás por qué!"
      },
      {
       "seccion": "Final Chorus",
@@ -25558,7 +26096,8 @@
         "ini": 103.84,
         "fin": 104.5
        }
-      ]
+      ],
+      "trad": "¿Quién? ¿Qué? ¿Dónde? ¿Cuándo? ¿Por qué?"
      },
      {
       "seccion": "Final Chorus",
@@ -25596,7 +26135,8 @@
         "ini": 107.66,
         "fin": 108.4
        }
-      ]
+      ],
+      "trad": "¡Haz una pregunta, alcanza el cielo!"
      },
      {
       "seccion": "Final Chorus",
@@ -25639,7 +26179,8 @@
         "ini": 111.6,
         "fin": 112.26
        }
-      ]
+      ],
+      "trad": "¿Cómo? ¿Cuánto? ¿Cuántos? ¿Cuál?"
      },
      {
       "seccion": "Final Chorus",
@@ -25677,7 +26218,8 @@
         "ini": 115.66,
         "fin": 116.06
        }
-      ]
+      ],
+      "trad": "¡Hacer preguntas es muy divertido!"
      },
      {
       "seccion": "Final Chorus",
@@ -25710,7 +26252,8 @@
         "ini": 119.32,
         "fin": 119.66
        }
-      ]
+      ],
+      "trad": "¿Quién? ¿Qué? ¿Dónde? ¿Cuándo? ¿Por qué?"
      },
      {
       "seccion": "Final Chorus",
@@ -25748,7 +26291,8 @@
         "ini": 123.14,
         "fin": 123.88
        }
-      ]
+      ],
+      "trad": "¡Haz una pregunta, alcanza el cielo!"
      },
      {
       "seccion": "Final Chorus",
@@ -25791,7 +26335,8 @@
         "ini": 127.14,
         "fin": 127.72
        }
-      ]
+      ],
+      "trad": "¿Cómo? ¿Cuánto? ¿Cuántos? ¿Cuál?"
      },
      {
       "seccion": "Final Chorus",
@@ -25829,7 +26374,8 @@
         "ini": 131.14,
         "fin": 131.38
        }
-      ]
+      ],
+      "trad": "¡Hacer preguntas es muy divertido!"
      }
     ],
     "duracion": 139.39
@@ -25872,7 +26418,8 @@
         "ini": 10.16,
         "fin": 10.76
        }
-      ]
+      ],
+      "trad": "Who's knocking on the door?"
      },
      {
       "seccion": "Verse 1",
@@ -25915,7 +26462,8 @@
         "ini": 14.02,
         "fin": 14.64
        }
-      ]
+      ],
+      "trad": "What's that noise in the garden?"
      },
      {
       "seccion": "Verse 1",
@@ -25963,7 +26511,8 @@
         "ini": 18.62,
         "fin": 19.22
        }
-      ]
+      ],
+      "trad": "Where is my hat? When does the show start?"
      },
      {
       "seccion": "Verse 1",
@@ -26011,7 +26560,8 @@
         "ini": 21.54,
         "fin": 22.16
        }
-      ]
+      ],
+      "trad": "Why is the cat sleeping in my chair?"
      },
      {
       "seccion": "Chorus",
@@ -26049,7 +26599,8 @@
         "ini": 26.62,
         "fin": 26.86
        }
-      ]
+      ],
+      "trad": "Who? What? Where? When? Why?"
      },
      {
       "seccion": "Chorus",
@@ -26082,7 +26633,8 @@
         "ini": 30.0,
         "fin": 30.72
        }
-      ]
+      ],
+      "trad": "Ask, ask, and I'll know!"
      },
      {
       "seccion": "Chorus",
@@ -26110,7 +26662,8 @@
         "ini": 34.1,
         "fin": 34.46
        }
-      ]
+      ],
+      "trad": "How? How much? How many? Which?"
      },
      {
       "seccion": "Chorus",
@@ -26143,7 +26696,8 @@
         "ini": 36.78,
         "fin": 37.98
        }
-      ]
+      ],
+      "trad": "Asking is the coolest!"
      },
      {
       "seccion": "Verse 2",
@@ -26201,7 +26755,8 @@
         "ini": 42.6,
         "fin": 42.82
        }
-      ]
+      ],
+      "trad": "Who ate the cookies? —Not me or you!"
      },
      {
       "seccion": "Verse 2",
@@ -26254,7 +26809,8 @@
         "ini": 45.74,
         "fin": 46.22
        }
-      ]
+      ],
+      "trad": "What are those crumbs in Lulú's shoe?"
      },
      {
       "seccion": "Verse 2",
@@ -26297,7 +26853,8 @@
         "ini": 49.86,
         "fin": 50.46
        }
-      ]
+      ],
+      "trad": "Where are the cookies? Look, the dog!"
      },
      {
       "seccion": "Verse 2",
@@ -26335,7 +26892,8 @@
         "ini": 52.52,
         "fin": 53.4
        }
-      ]
+      ],
+      "trad": "Why is he smiling like a… calf?"
      },
      {
       "seccion": "Chorus",
@@ -26373,7 +26931,8 @@
         "ini": 57.6,
         "fin": 57.8
        }
-      ]
+      ],
+      "trad": "Who? What? Where? When? Why?"
      },
      {
       "seccion": "Chorus",
@@ -26406,7 +26965,8 @@
         "ini": 60.96,
         "fin": 61.7
        }
-      ]
+      ],
+      "trad": "Ask, ask, and I'll know!"
      },
      {
       "seccion": "Chorus",
@@ -26434,7 +26994,8 @@
         "ini": 65.08,
         "fin": 65.44
        }
-      ]
+      ],
+      "trad": "How? How much? How many? Which?"
      },
      {
       "seccion": "Chorus",
@@ -26467,7 +27028,8 @@
         "ini": 67.76,
         "fin": 68.72
        }
-      ]
+      ],
+      "trad": "Asking is the coolest!"
      },
      {
       "seccion": "Bridge",
@@ -26535,7 +27097,8 @@
         "ini": 76.94,
         "fin": 77.14
        }
-      ]
+      ],
+      "trad": "When? Tomorrow! Where? Here! Who? You and me! Why? Just because!"
      },
      {
       "seccion": "Bridge",
@@ -26583,7 +27146,8 @@
         "ini": 83.6,
         "fin": 83.96
        }
-      ]
+      ],
+      "trad": "How many? Three! How much? Nothing! Which? This one here!"
      },
      {
       "seccion": "Verse 3",
@@ -26636,7 +27200,8 @@
         "ini": 91.48,
         "fin": 92.18
        }
-      ]
+      ],
+      "trad": "So if you don't know, don't be afraid:"
      },
      {
       "seccion": "Verse 3",
@@ -26679,7 +27244,8 @@
         "ini": 99.18,
         "fin": 99.92
        }
-      ]
+      ],
+      "trad": "Ask a question and learn the game!"
      },
      {
       "seccion": "Final Chorus",
@@ -26717,7 +27283,8 @@
         "ini": 104.06,
         "fin": 104.28
        }
-      ]
+      ],
+      "trad": "Who? What? Where? When? Why?"
      },
      {
       "seccion": "Final Chorus",
@@ -26750,7 +27317,8 @@
         "ini": 107.44,
         "fin": 108.26
        }
-      ]
+      ],
+      "trad": "Ask, ask, and I'll know!"
      },
      {
       "seccion": "Final Chorus",
@@ -26778,7 +27346,8 @@
         "ini": 111.52,
         "fin": 111.9
        }
-      ]
+      ],
+      "trad": "How? How much? How many? Which?"
      },
      {
       "seccion": "Final Chorus",
@@ -26811,7 +27380,8 @@
         "ini": 114.22,
         "fin": 115.3
        }
-      ]
+      ],
+      "trad": "Asking is the coolest!"
      },
      {
       "seccion": "Final Chorus",
@@ -26849,7 +27419,8 @@
         "ini": 119.52,
         "fin": 119.72
        }
-      ]
+      ],
+      "trad": "Who? What? Where? When? Why?"
      },
      {
       "seccion": "Final Chorus",
@@ -26882,7 +27453,8 @@
         "ini": 122.92,
         "fin": 123.64
        }
-      ]
+      ],
+      "trad": "Ask, ask, and I'll know!"
      },
      {
       "seccion": "Final Chorus",
@@ -26910,7 +27482,8 @@
         "ini": 127.0,
         "fin": 127.38
        }
-      ]
+      ],
+      "trad": "How? How much? How many? Which?"
      },
      {
       "seccion": "Final Chorus",
@@ -26943,7 +27516,8 @@
         "ini": 129.7,
         "fin": 130.54
        }
-      ]
+      ],
+      "trad": "Asking is the coolest!"
      }
     ],
     "duracion": 139.39
@@ -27052,7 +27626,8 @@
         "ini": 11.52,
         "fin": 11.86
        }
-      ]
+      ],
+      "trad": "Mi abuela baila flamenco en la cocina todos los días,"
      },
      {
       "seccion": "Verse 1",
@@ -27110,7 +27685,8 @@
         "ini": 15.42,
         "fin": 15.74
        }
-      ]
+      ],
+      "trad": "Sus zapatos van tac-tac-tac y sus pendientes brillan y se balancean,"
      },
      {
       "seccion": "Verse 1",
@@ -27178,7 +27754,8 @@
         "ini": 19.42,
         "fin": 19.68
        }
-      ]
+      ],
+      "trad": "Mi abuelo toca la guitarra — ¡su sombrero está en el gato!"
      },
      {
       "seccion": "Verse 1",
@@ -27246,7 +27823,8 @@
         "ini": 23.42,
         "fin": 23.72
        }
-      ]
+      ],
+      "trad": "y mi madre da palmas… ¿qué te parece eso?"
      },
      {
       "seccion": "Chorus",
@@ -27304,7 +27882,8 @@
         "ini": 27.52,
         "fin": 27.82
        }
-      ]
+      ],
+      "trad": "¡Mi familia, tu familia — vamos, baila conmigo!"
      },
      {
       "seccion": "Chorus",
@@ -27352,7 +27931,8 @@
         "ini": 31.32,
         "fin": 31.74
        }
-      ]
+      ],
+      "trad": "¡Mi hermano, tu hermana, su tío, su tía!"
      },
      {
       "seccion": "Chorus",
@@ -27425,7 +28005,8 @@
         "ini": 35.76,
         "fin": 35.76
        }
-      ]
+      ],
+      "trad": "Nuestra casa está llena de música, su casa está llena de diversión —"
      },
      {
       "seccion": "Chorus",
@@ -27478,7 +28059,8 @@
         "ini": 39.12,
         "fin": 39.92
        }
-      ]
+      ],
+      "trad": "¡Da palmas, pisa fuerte, baila con todos!"
      },
      {
       "seccion": "Verse 2",
@@ -27536,7 +28118,8 @@
         "ini": 43.42,
         "fin": 43.74
        }
-      ]
+      ],
+      "trad": "Mi hermanito canta, pero su voz es muy fuerte,"
      },
      {
       "seccion": "Verse 2",
@@ -27609,7 +28192,8 @@
         "ini": 47.4,
         "fin": 47.84
        }
-      ]
+      ],
+      "trad": "Mi hermana toca los tambores — ¡es la mejor y está orgullosa!"
      },
      {
       "seccion": "Verse 2",
@@ -27662,7 +28246,8 @@
         "ini": 51.32,
         "fin": 51.72
        }
-      ]
+      ],
+      "trad": "Nuestro perro ladra «¡olé!», nuestro loro canta con él,"
      },
      {
       "seccion": "Verse 2",
@@ -27720,7 +28305,8 @@
         "ini": 55.5,
         "fin": 55.94
        }
-      ]
+      ],
+      "trad": "¡Y todos los vecinos bailan nuestra loca canción familiar!"
      },
      {
       "seccion": "Chorus",
@@ -27778,7 +28364,8 @@
         "ini": 59.5,
         "fin": 59.8
        }
-      ]
+      ],
+      "trad": "¡Mi familia, tu familia — vamos, baila conmigo!"
      },
      {
       "seccion": "Chorus",
@@ -27826,7 +28413,8 @@
         "ini": 63.32,
         "fin": 63.84
        }
-      ]
+      ],
+      "trad": "¡Mi hermano, tu hermana, su tío, su tía!"
      },
      {
       "seccion": "Chorus",
@@ -27899,7 +28487,8 @@
         "ini": 67.76,
         "fin": 67.76
        }
-      ]
+      ],
+      "trad": "Nuestra casa está llena de música, su casa está llena de diversión —"
      },
      {
       "seccion": "Chorus",
@@ -27952,7 +28541,8 @@
         "ini": 71.12,
         "fin": 71.88
        }
-      ]
+      ],
+      "trad": "¡Da palmas, pisa fuerte, baila con todos!"
      },
      {
       "seccion": "Bridge",
@@ -28010,7 +28600,8 @@
         "ini": 79.28,
         "fin": 79.68
        }
-      ]
+      ],
+      "trad": "¡Mi, tu, su, su, nuestro, su — dilo, familia!"
      },
      {
       "seccion": "Bridge",
@@ -28078,7 +28669,8 @@
         "ini": 87.5,
         "fin": 87.74
        }
-      ]
+      ],
+      "trad": "¡Mío, tuyo, suyo, suyo, nuestro, suyo — aplaude, uno, dos, tres!"
      },
      {
       "seccion": "Verse 3",
@@ -28141,7 +28733,8 @@
         "ini": 99.36,
         "fin": 99.86
        }
-      ]
+      ],
+      "trad": "Y cuando la noche termina y la cocina está muy tranquila,"
      },
      {
       "seccion": "Verse 3",
@@ -28204,7 +28797,8 @@
         "ini": 103.8,
         "fin": 103.92
        }
-      ]
+      ],
+      "trad": "Mi abuela susurra: «La familia es lo mejor — ¡pruébalo!»"
      },
      {
       "seccion": "Final Chorus",
@@ -28262,7 +28856,8 @@
         "ini": 107.52,
         "fin": 107.84
        }
-      ]
+      ],
+      "trad": "¡Mi familia, tu familia — vamos, baila conmigo!"
      },
      {
       "seccion": "Final Chorus",
@@ -28310,7 +28905,8 @@
         "ini": 111.34,
         "fin": 111.84
        }
-      ]
+      ],
+      "trad": "¡Mi hermano, tu hermana, su tío, su tía!"
      },
      {
       "seccion": "Final Chorus",
@@ -28383,7 +28979,8 @@
         "ini": 115.98,
         "fin": 115.98
        }
-      ]
+      ],
+      "trad": "Nuestra casa está llena de música, su casa está llena de diversión —"
      },
      {
       "seccion": "Final Chorus",
@@ -28436,7 +29033,8 @@
         "ini": 119.14,
         "fin": 119.86
        }
-      ]
+      ],
+      "trad": "¡Da palmas, pisa fuerte, baila con todos!"
      },
      {
       "seccion": "Final Chorus",
@@ -28494,7 +29092,8 @@
         "ini": 123.52,
         "fin": 123.86
        }
-      ]
+      ],
+      "trad": "¡Mi familia, tu familia — vamos, baila conmigo!"
      },
      {
       "seccion": "Final Chorus",
@@ -28542,7 +29141,8 @@
         "ini": 127.32,
         "fin": 127.84
        }
-      ]
+      ],
+      "trad": "¡Mi hermano, tu hermana, su tío, su tía!"
      },
      {
       "seccion": "Final Chorus",
@@ -28615,7 +29215,8 @@
         "ini": 131.76,
         "fin": 131.76
        }
-      ]
+      ],
+      "trad": "Nuestra casa está llena de música, su casa está llena de diversión —"
      },
      {
       "seccion": "Final Chorus",
@@ -28668,7 +29269,8 @@
         "ini": 135.14,
         "fin": 135.92
        }
-      ]
+      ],
+      "trad": "¡Da palmas, pisa fuerte, baila con todos!"
      }
     ],
     "duracion": 144.02
@@ -28726,7 +29328,8 @@
         "ini": 11.56,
         "fin": 11.88
        }
-      ]
+      ],
+      "trad": "My grandma dances flamenco in the kitchen every day,"
      },
      {
       "seccion": "Verse 1",
@@ -28784,7 +29387,8 @@
         "ini": 15.26,
         "fin": 15.92
        }
-      ]
+      ],
+      "trad": "her shoes make tap, tap, and her earrings, what joy!"
      },
      {
       "seccion": "Verse 1",
@@ -28847,7 +29451,8 @@
         "ini": 19.56,
         "fin": 19.94
        }
-      ]
+      ],
+      "trad": "My grandpa plays the guitar… the cat is wearing his hat!"
      },
      {
       "seccion": "Verse 1",
@@ -28905,7 +29510,8 @@
         "ini": 23.56,
         "fin": 23.9
        }
-      ]
+      ],
+      "trad": "and my mom claps… and that's how we pass the time!"
      },
      {
       "seccion": "Chorus",
@@ -28953,7 +29559,8 @@
         "ini": 27.16,
         "fin": 27.88
        }
-      ]
+      ],
+      "trad": "My family, your family, come dance with me!"
      },
      {
       "seccion": "Chorus",
@@ -29006,7 +29613,8 @@
         "ini": 30.76,
         "fin": 31.36
        }
-      ]
+      ],
+      "trad": "My brother, your sister, his uncle and his friend!"
      },
      {
       "seccion": "Chorus",
@@ -29064,7 +29672,8 @@
         "ini": 35.06,
         "fin": 35.84
        }
-      ]
+      ],
+      "trad": "Our house is full of music, theirs is full of joy,"
      },
      {
       "seccion": "Chorus",
@@ -29107,7 +29716,8 @@
         "ini": 38.92,
         "fin": 39.38
        }
-      ]
+      ],
+      "trad": "clap your hands, stomp your feet, dance all day!"
      },
      {
       "seccion": "Verse 2",
@@ -29165,7 +29775,8 @@
         "ini": 43.54,
         "fin": 43.92
        }
-      ]
+      ],
+      "trad": "My little brother sings, but his voice is thunder,"
      },
      {
       "seccion": "Verse 2",
@@ -29223,7 +29834,8 @@
         "ini": 47.54,
         "fin": 47.88
        }
-      ]
+      ],
+      "trad": "my sister plays the drum and says: «This is good!»"
      },
      {
       "seccion": "Verse 2",
@@ -29271,7 +29883,8 @@
         "ini": 51.3,
         "fin": 51.7
        }
-      ]
+      ],
+      "trad": "Our dog barks «olé!», our parrot sings the same,"
      },
      {
       "seccion": "Verse 2",
@@ -29324,7 +29937,8 @@
         "ini": 55.36,
         "fin": 55.94
        }
-      ]
+      ],
+      "trad": "and all the neighbors dance with our great family!"
      },
      {
       "seccion": "Chorus",
@@ -29372,7 +29986,8 @@
         "ini": 59.16,
         "fin": 59.86
        }
-      ]
+      ],
+      "trad": "My family, your family, come dance with me!"
      },
      {
       "seccion": "Chorus",
@@ -29425,7 +30040,8 @@
         "ini": 62.76,
         "fin": 63.38
        }
-      ]
+      ],
+      "trad": "My brother, your sister, his uncle and his friend!"
      },
      {
       "seccion": "Chorus",
@@ -29483,7 +30099,8 @@
         "ini": 67.06,
         "fin": 67.74
        }
-      ]
+      ],
+      "trad": "Our house is full of music, theirs is full of joy,"
      },
      {
       "seccion": "Chorus",
@@ -29526,7 +30143,8 @@
         "ini": 70.9,
         "fin": 71.38
        }
-      ]
+      ],
+      "trad": "clap your hands, stomp your feet, dance all day!"
      },
      {
       "seccion": "Bridge",
@@ -29574,7 +30192,8 @@
         "ini": 77.76,
         "fin": 78.62
        }
-      ]
+      ],
+      "trad": "My, your, his, our, your, their… say it, family!"
      },
      {
       "seccion": "Bridge",
@@ -29617,7 +30236,8 @@
         "ini": 85.6,
         "fin": 86.5
        }
-      ]
+      ],
+      "trad": "Mine, yours, his, ours… claps and joy!"
      },
      {
       "seccion": "Verse 3",
@@ -29680,7 +30300,8 @@
         "ini": 99.54,
         "fin": 99.94
        }
-      ]
+      ],
+      "trad": "And when the night comes and the kitchen is calm,"
      },
      {
       "seccion": "Verse 3",
@@ -29733,7 +30354,8 @@
         "ini": 103.6,
         "fin": 103.98
        }
-      ]
+      ],
+      "trad": "my grandma says softly: «The family… is the soul!»"
      },
      {
       "seccion": "Final Chorus",
@@ -29781,7 +30403,8 @@
         "ini": 107.16,
         "fin": 107.84
        }
-      ]
+      ],
+      "trad": "My family, your family, come dance with me!"
      },
      {
       "seccion": "Final Chorus",
@@ -29834,7 +30457,8 @@
         "ini": 110.82,
         "fin": 111.38
        }
-      ]
+      ],
+      "trad": "My brother, your sister, his uncle and his friend!"
      },
      {
       "seccion": "Final Chorus",
@@ -29892,7 +30516,8 @@
         "ini": 115.1,
         "fin": 115.76
        }
-      ]
+      ],
+      "trad": "Our house is full of music, theirs is full of joy,"
      },
      {
       "seccion": "Final Chorus",
@@ -29935,7 +30560,8 @@
         "ini": 118.92,
         "fin": 119.38
        }
-      ]
+      ],
+      "trad": "clap your hands, stomp your feet, dance all day!"
      },
      {
       "seccion": "Final Chorus",
@@ -29983,7 +30609,8 @@
         "ini": 123.16,
         "fin": 123.92
        }
-      ]
+      ],
+      "trad": "My family, your family, come dance with me!"
      },
      {
       "seccion": "Final Chorus",
@@ -30036,7 +30663,8 @@
         "ini": 126.82,
         "fin": 127.38
        }
-      ]
+      ],
+      "trad": "My brother, your sister, his uncle and his friend!"
      },
      {
       "seccion": "Final Chorus",
@@ -30094,7 +30722,8 @@
         "ini": 131.06,
         "fin": 131.76
        }
-      ]
+      ],
+      "trad": "Our house is full of music, theirs is full of joy,"
      },
      {
       "seccion": "Final Chorus",
@@ -30137,7 +30766,8 @@
         "ini": 134.92,
         "fin": 135.38
        }
-      ]
+      ],
+      "trad": "clap your hands, stomp your feet, dance all day!"
      }
     ],
     "duracion": 144.02
@@ -30256,7 +30886,8 @@
         "ini": 12.32,
         "fin": 12.62
        }
-      ]
+      ],
+      "trad": "El Capitán Bones puede navegar un barco, puede leer un mapa,"
      },
      {
       "seccion": "Verse 1",
@@ -30324,7 +30955,8 @@
         "ini": 16.6,
         "fin": 16.9
        }
-      ]
+      ],
+      "trad": "puede luchar contra un calamar gigante y puede echarse una siesta,"
      },
      {
       "seccion": "Verse 1",
@@ -30397,7 +31029,8 @@
         "ini": 20.86,
         "fin": 21.36
        }
-      ]
+      ],
+      "trad": "puede cantar y puede bailar y puede cocinar un guiso,"
      },
      {
       "seccion": "Verse 1",
@@ -30450,7 +31083,8 @@
         "ini": 25.18,
         "fin": 25.44
        }
-      ]
+      ],
+      "trad": "pero hay una cosa que el Capitán Bones simplemente no puede hacer:"
      },
      {
       "seccion": "Chorus",
@@ -30493,7 +31127,8 @@
         "ini": 28.4,
         "fin": 29.46
        }
-      ]
+      ],
+      "trad": "¡No puede nadar! ¡No, no puede nadar!"
      },
      {
       "seccion": "Chorus",
@@ -30531,7 +31166,8 @@
         "ini": 33.7,
         "fin": 34.18
        }
-      ]
+      ],
+      "trad": "¡Eh, oh, eh, oh, el capitán no puede nadar!"
      },
      {
       "seccion": "Chorus",
@@ -30574,7 +31210,8 @@
         "ini": 36.98,
         "fin": 37.5
        }
-      ]
+      ],
+      "trad": "¿Puedes nadar? — ¡Sí, puedo!"
      },
      {
       "seccion": "Chorus",
@@ -30627,7 +31264,8 @@
         "ini": 42.32,
         "fin": 42.8
        }
-      ]
+      ],
+      "trad": "Y si no puedes… puedes aprender, ¡amigo mío!"
      },
      {
       "seccion": "Verse 2",
@@ -30690,7 +31328,8 @@
         "ini": 46.62,
         "fin": 46.96
        }
-      ]
+      ],
+      "trad": "Cuando era un niño pequeño, no podía montar en bici,"
      },
      {
       "seccion": "Verse 2",
@@ -30753,7 +31392,8 @@
         "ini": 50.88,
         "fin": 51.2
        }
-      ]
+      ],
+      "trad": "no podía atarse los zapatos y no podía volar una cometa,"
      },
      {
       "seccion": "Verse 2",
@@ -30821,7 +31461,8 @@
         "ini": 55.64,
         "fin": 55.64
        }
-      ]
+      ],
+      "trad": "pero practicaba todos los días, y ahora puede, es verdad —"
      },
      {
       "seccion": "Verse 2",
@@ -30879,7 +31520,8 @@
         "ini": 59.46,
         "fin": 59.74
        }
-      ]
+      ],
+      "trad": "así que la tripulación dijo: «¡Capitán, puedes aprender esto también!»"
      },
      {
       "seccion": "Chorus",
@@ -30922,7 +31564,8 @@
         "ini": 62.68,
         "fin": 63.22
        }
-      ]
+      ],
+      "trad": "¡No puede nadar! ¡No, no puede nadar!"
      },
      {
       "seccion": "Chorus",
@@ -30960,7 +31603,8 @@
         "ini": 68.0,
         "fin": 68.46
        }
-      ]
+      ],
+      "trad": "¡Eh, oh, eh, oh, el capitán no puede nadar!"
      },
      {
       "seccion": "Chorus",
@@ -31003,7 +31647,8 @@
         "ini": 71.26,
         "fin": 71.66
        }
-      ]
+      ],
+      "trad": "¿Puedes nadar? — ¡Sí, puedo!"
      },
      {
       "seccion": "Chorus",
@@ -31056,7 +31701,8 @@
         "ini": 76.58,
         "fin": 77.1
        }
-      ]
+      ],
+      "trad": "Y si no puedes… puedes aprender, ¡amigo mío!"
      },
      {
       "seccion": "Bridge",
@@ -31129,7 +31775,8 @@
         "ini": 84.12,
         "fin": 84.64
        }
-      ]
+      ],
+      "trad": "¡Yo puedo, tú puedes, él puede, ella puede — todos podemos aprender!"
      },
      {
       "seccion": "Bridge",
@@ -31202,7 +31849,8 @@
         "ini": 92.68,
         "fin": 93.22
        }
-      ]
+      ],
+      "trad": "Antes no podía, pero ahora puedo — ¡y ahora te toca a ti!"
      },
      {
       "seccion": "Verse 3",
@@ -31250,7 +31898,8 @@
         "ini": 102.46,
         "fin": 103.92
        }
-      ]
+      ],
+      "trad": "Ahora el capitán nada con delfines todas las tardes,"
      },
      {
       "seccion": "Verse 3",
@@ -31333,7 +31982,8 @@
         "ini": 111.0,
         "fin": 111.34
        }
-      ]
+      ],
+      "trad": "y canta: «Antes no podía, pero ahora sí puedo — ¡y tú también puedes!»"
      },
      {
       "seccion": "Final Chorus",
@@ -31376,7 +32026,8 @@
         "ini": 114.12,
         "fin": 114.64
        }
-      ]
+      ],
+      "trad": "¡No puede nadar! ¡No, no puede nadar!"
      },
      {
       "seccion": "Final Chorus",
@@ -31414,7 +32065,8 @@
         "ini": 119.44,
         "fin": 119.88
        }
-      ]
+      ],
+      "trad": "¡Eh, oh, eh, oh, el capitán no puede nadar!"
      },
      {
       "seccion": "Final Chorus",
@@ -31457,7 +32109,8 @@
         "ini": 122.7,
         "fin": 122.98
        }
-      ]
+      ],
+      "trad": "¿Puedes nadar? — ¡Sí, puedo!"
      },
      {
       "seccion": "Final Chorus",
@@ -31510,7 +32163,8 @@
         "ini": 128.04,
         "fin": 128.54
        }
-      ]
+      ],
+      "trad": "Y si no puedes… puedes aprender, ¡amigo mío!"
      },
      {
       "seccion": "Final Chorus",
@@ -31553,7 +32207,8 @@
         "ini": 131.24,
         "fin": 131.78
        }
-      ]
+      ],
+      "trad": "¡No puede nadar! ¡No, no puede nadar!"
      },
      {
       "seccion": "Final Chorus",
@@ -31591,7 +32246,8 @@
         "ini": 136.56,
         "fin": 137.04
        }
-      ]
+      ],
+      "trad": "¡Eh, oh, eh, oh, el capitán no puede nadar!"
      },
      {
       "seccion": "Final Chorus",
@@ -31634,7 +32290,8 @@
         "ini": 139.86,
         "fin": 140.1
        }
-      ]
+      ],
+      "trad": "¿Puedes nadar? — ¡Sí, puedo!"
      },
      {
       "seccion": "Final Chorus",
@@ -31687,7 +32344,8 @@
         "ini": 145.16,
         "fin": 145.7
        }
-      ]
+      ],
+      "trad": "Y si no puedes… puedes aprender, ¡amigo mío!"
      }
     ],
     "duracion": 154.39
@@ -31745,7 +32403,8 @@
         "ini": 12.34,
         "fin": 12.8
        }
-      ]
+      ],
+      "trad": "Captain Bones knows how to sail, knows how to read a map,"
      },
      {
       "seccion": "Verse 1",
@@ -31803,7 +32462,8 @@
         "ini": 16.62,
         "fin": 17.1
        }
-      ]
+      ],
+      "trad": "knows how to fight with a squid and sleep with his cape,"
      },
      {
       "seccion": "Verse 1",
@@ -31861,7 +32521,8 @@
         "ini": 20.76,
         "fin": 21.36
        }
-      ]
+      ],
+      "trad": "knows how to sing and knows how to dance, and cooks an awesome stew,"
      },
      {
       "seccion": "Verse 1",
@@ -31919,7 +32580,8 @@
         "ini": 24.9,
         "fin": 25.6
        }
-      ]
+      ],
+      "trad": "but there's one thing, just one, that he does terribly:"
      },
      {
       "seccion": "Chorus",
@@ -31957,7 +32619,8 @@
         "ini": 28.68,
         "fin": 29.34
        }
-      ]
+      ],
+      "trad": "He doesn't know how to swim! He doesn't know how to swim!"
      },
      {
       "seccion": "Chorus",
@@ -32000,7 +32663,8 @@
         "ini": 33.5,
         "fin": 34.1
        }
-      ]
+      ],
+      "trad": "Oh, sailors, the captain doesn't know how to swim!"
      },
      {
       "seccion": "Chorus",
@@ -32038,7 +32702,8 @@
         "ini": 37.24,
         "fin": 37.88
        }
-      ]
+      ],
+      "trad": "Do you know how to swim? —Yes, I know how to swim!"
      },
      {
       "seccion": "Chorus",
@@ -32086,7 +32751,8 @@
         "ini": 42.06,
         "fin": 42.72
        }
-      ]
+      ],
+      "trad": "And if you don't know… you can learn to swim!"
      },
      {
       "seccion": "Verse 2",
@@ -32134,7 +32800,8 @@
         "ini": 46.62,
         "fin": 47.08
        }
-      ]
+      ],
+      "trad": "When he was little, he couldn't ride a bike,"
      },
      {
       "seccion": "Verse 2",
@@ -32187,7 +32854,8 @@
         "ini": 50.72,
         "fin": 51.22
        }
-      ]
+      ],
+      "trad": "nor tie his shoelaces, nor fly a kite like that,"
      },
      {
       "seccion": "Verse 2",
@@ -32245,7 +32913,8 @@
         "ini": 54.92,
         "fin": 55.7
        }
-      ]
+      ],
+      "trad": "but he practiced every day, and now he can, really,"
      },
      {
       "seccion": "Verse 2",
@@ -32298,7 +32967,8 @@
         "ini": 59.22,
         "fin": 59.86
        }
-      ]
+      ],
+      "trad": "and the crew told him: «Captain, you'll be able to swim too!»"
      },
      {
       "seccion": "Chorus",
@@ -32336,7 +33006,8 @@
         "ini": 62.96,
         "fin": 63.58
        }
-      ]
+      ],
+      "trad": "He doesn't know how to swim! He doesn't know how to swim!"
      },
      {
       "seccion": "Chorus",
@@ -32379,7 +33050,8 @@
         "ini": 67.78,
         "fin": 68.38
        }
-      ]
+      ],
+      "trad": "Oh, sailors, the captain doesn't know how to swim!"
      },
      {
       "seccion": "Chorus",
@@ -32417,7 +33089,8 @@
         "ini": 71.52,
         "fin": 72.18
        }
-      ]
+      ],
+      "trad": "Do you know how to swim? —Yes, I know how to swim!"
      },
      {
       "seccion": "Chorus",
@@ -32465,7 +33138,8 @@
         "ini": 76.34,
         "fin": 77.0
        }
-      ]
+      ],
+      "trad": "And if you don't know… you can learn to swim!"
      },
      {
       "seccion": "Bridge",
@@ -32523,7 +33197,8 @@
         "ini": 83.64,
         "fin": 85.14
        }
-      ]
+      ],
+      "trad": "I can, you can, he can, she can… we all learn!"
      },
      {
       "seccion": "Bridge",
@@ -32586,7 +33261,8 @@
         "ini": 92.42,
         "fin": 94.26
        }
-      ]
+      ],
+      "trad": "Before I couldn't, now yes… and you too, we'll see!"
      },
      {
       "seccion": "Verse 3",
@@ -32634,7 +33310,8 @@
         "ini": 101.24,
         "fin": 102.04
        }
-      ]
+      ],
+      "trad": "Now the captain swims with dolphins every afternoon,"
      },
      {
       "seccion": "Verse 3",
@@ -32697,7 +33374,8 @@
         "ini": 109.42,
         "fin": 110.62
        }
-      ]
+      ],
+      "trad": "and sings: «It's never too late to learn, let no one get scared!»"
      },
      {
       "seccion": "Final Chorus",
@@ -32735,7 +33413,8 @@
         "ini": 114.42,
         "fin": 115.04
        }
-      ]
+      ],
+      "trad": "He doesn't know how to swim! He doesn't know how to swim!"
      },
      {
       "seccion": "Final Chorus",
@@ -32778,7 +33457,8 @@
         "ini": 119.24,
         "fin": 119.82
        }
-      ]
+      ],
+      "trad": "Oh, sailors, the captain doesn't know how to swim!"
      },
      {
       "seccion": "Final Chorus",
@@ -32816,7 +33496,8 @@
         "ini": 123.0,
         "fin": 123.66
        }
-      ]
+      ],
+      "trad": "Do you know how to swim? —Yes, I know how to swim!"
      },
      {
       "seccion": "Final Chorus",
@@ -32864,7 +33545,8 @@
         "ini": 127.8,
         "fin": 128.48
        }
-      ]
+      ],
+      "trad": "And if you don't know… you can learn to swim!"
      },
      {
       "seccion": "Final Chorus",
@@ -32902,7 +33584,8 @@
         "ini": 131.56,
         "fin": 132.12
        }
-      ]
+      ],
+      "trad": "He doesn't know how to swim! He doesn't know how to swim!"
      },
      {
       "seccion": "Final Chorus",
@@ -32945,7 +33628,8 @@
         "ini": 136.36,
         "fin": 136.88
        }
-      ]
+      ],
+      "trad": "Oh, sailors, the captain doesn't know how to swim!"
      },
      {
       "seccion": "Final Chorus",
@@ -32983,7 +33667,8 @@
         "ini": 140.14,
         "fin": 140.76
        }
-      ]
+      ],
+      "trad": "Do you know how to swim? —Yes, I know how to swim!"
      },
      {
       "seccion": "Final Chorus",
@@ -33031,7 +33716,8 @@
         "ini": 144.92,
         "fin": 145.7
        }
-      ]
+      ],
+      "trad": "And if you don't know… you can learn to swim!"
      }
     ],
     "duracion": 154.39
@@ -33145,7 +33831,8 @@
         "ini": 13.2,
         "fin": 13.78
        }
-      ]
+      ],
+      "trad": "Estoy volando en mi cohete más allá de la Luna y Marte,"
      },
      {
       "seccion": "Verse 1",
@@ -33203,7 +33890,8 @@
         "ini": 18.6,
         "fin": 19.32
        }
-      ]
+      ],
+      "trad": "hay un planeta gigante, hay un millón de estrellas,"
      },
      {
       "seccion": "Verse 1",
@@ -33266,7 +33954,8 @@
         "ini": 23.4,
         "fin": 23.84
        }
-      ]
+      ],
+      "trad": "hay un cometa con una cola tan brillante como la luz de la mañana,"
      },
      {
       "seccion": "Verse 1",
@@ -33324,7 +34013,8 @@
         "ini": 27.6,
         "fin": 28.14
        }
-      ]
+      ],
+      "trad": "y hay siete lunas que bailan alrededor por la noche."
      },
      {
       "seccion": "Chorus",
@@ -33387,7 +34077,8 @@
         "ini": 33.38,
         "fin": 33.8
        }
-      ]
+      ],
+      "trad": "¿Hay vida en otros planetas? ¿Hay alguien lejos?"
      },
      {
       "seccion": "Chorus",
@@ -33450,7 +34141,8 @@
         "ini": 38.12,
         "fin": 38.64
        }
-      ]
+      ],
+      "trad": "¡Hay preguntas en el cielo y estoy volando allí hoy!"
      },
      {
       "seccion": "Chorus",
@@ -33503,7 +34195,8 @@
         "ini": 42.3,
         "fin": 42.3
        }
-      ]
+      ],
+      "trad": "Hay un misterio, hay un sueño —"
      },
      {
       "seccion": "Chorus",
@@ -33556,7 +34249,8 @@
         "ini": 47.46,
         "fin": 47.96
        }
-      ]
+      ],
+      "trad": "y en este universo gigante, nadie es pequeño, ¡parece!"
      },
      {
       "seccion": "Verse 2",
@@ -33614,7 +34308,8 @@
         "ini": 52.24,
         "fin": 52.8
        }
-      ]
+      ],
+      "trad": "Hay un agujero negro girando, no hay ningún sonido,"
      },
      {
       "seccion": "Verse 2",
@@ -33682,7 +34377,8 @@
         "ini": 57.06,
         "fin": 57.54
        }
-      ]
+      ],
+      "trad": "hay nubes rosa y moradas donde se encuentran nuevas estrellas,"
      },
      {
       "seccion": "Verse 2",
@@ -33745,7 +34441,8 @@
         "ini": 61.1,
         "fin": 61.8
        }
-      ]
+      ],
+      "trad": "¿Hay agua en ese planeta? ¿Hay aire para respirar?"
      },
      {
       "seccion": "Verse 2",
@@ -33808,7 +34505,8 @@
         "ini": 66.6,
         "fin": 67.18
        }
-      ]
+      ],
+      "trad": "¡Tomaré una pequeña muestra en el bolsillo de mi manga!"
      },
      {
       "seccion": "Chorus",
@@ -33871,7 +34569,8 @@
         "ini": 71.78,
         "fin": 72.12
        }
-      ]
+      ],
+      "trad": "¿Hay vida en otros planetas? ¿Hay alguien lejos?"
      },
      {
       "seccion": "Chorus",
@@ -33934,7 +34633,8 @@
         "ini": 76.5,
         "fin": 77.04
        }
-      ]
+      ],
+      "trad": "¡Hay preguntas en el cielo y estoy volando allí hoy!"
      },
      {
       "seccion": "Chorus",
@@ -33987,7 +34687,8 @@
         "ini": 81.0,
         "fin": 81.0
        }
-      ]
+      ],
+      "trad": "Hay un misterio, hay un sueño —"
      },
      {
       "seccion": "Chorus",
@@ -34040,7 +34741,8 @@
         "ini": 85.84,
         "fin": 86.38
        }
-      ]
+      ],
+      "trad": "y en este universo gigante, nadie es pequeño, ¡parece!"
      },
      {
       "seccion": "Bridge",
@@ -34098,7 +34800,8 @@
         "ini": 92.16,
         "fin": 92.4
        }
-      ]
+      ],
+      "trad": "Hay uno, hay muchos… ¿hay alguien allí?"
      },
      {
       "seccion": "Bridge",
@@ -34156,7 +34859,8 @@
         "ini": 100.72,
         "fin": 101.1
        }
-      ]
+      ],
+      "trad": "¡No hay nadie… todavía! ¡Vamos a mirar allí fuera!"
      },
      {
       "seccion": "Verse 3",
@@ -34224,7 +34928,8 @@
         "ini": 114.64,
         "fin": 115.24
        }
-      ]
+      ],
+      "trad": "Y cuando vuelva a casa, te contaré lo que encontré:"
      },
      {
       "seccion": "Verse 3",
@@ -34292,7 +34997,8 @@
         "ini": 124.18,
         "fin": 124.8
        }
-      ]
+      ],
+      "trad": "¡el mayor misterio es una pregunta… así que pregúntala, alto y con orgullo!"
      },
      {
       "seccion": "Final Chorus",
@@ -34355,7 +35061,8 @@
         "ini": 129.36,
         "fin": 129.72
        }
-      ]
+      ],
+      "trad": "¿Hay vida en otros planetas? ¿Hay alguien lejos?"
      },
      {
       "seccion": "Final Chorus",
@@ -34418,7 +35125,8 @@
         "ini": 134.1,
         "fin": 134.64
        }
-      ]
+      ],
+      "trad": "¡Hay preguntas en el cielo y estoy volando allí hoy!"
      },
      {
       "seccion": "Final Chorus",
@@ -34471,7 +35179,8 @@
         "ini": 138.6,
         "fin": 138.6
        }
-      ]
+      ],
+      "trad": "Hay un misterio, hay un sueño —"
      },
      {
       "seccion": "Final Chorus",
@@ -34524,7 +35233,8 @@
         "ini": 143.44,
         "fin": 144.0
        }
-      ]
+      ],
+      "trad": "y en este universo gigante, nadie es pequeño, ¡parece!"
      },
      {
       "seccion": "Final Chorus",
@@ -34587,7 +35297,8 @@
         "ini": 148.6,
         "fin": 148.9
        }
-      ]
+      ],
+      "trad": "¿Hay vida en otros planetas? ¿Hay alguien lejos?"
      },
      {
       "seccion": "Final Chorus",
@@ -34650,7 +35361,8 @@
         "ini": 153.32,
         "fin": 153.84
        }
-      ]
+      ],
+      "trad": "¡Hay preguntas en el cielo y estoy volando allí hoy!"
      },
      {
       "seccion": "Final Chorus",
@@ -34703,7 +35415,8 @@
         "ini": 158.7,
         "fin": 158.7
        }
-      ]
+      ],
+      "trad": "Hay un misterio, hay un sueño —"
      },
      {
       "seccion": "Final Chorus",
@@ -34756,7 +35469,8 @@
         "ini": 162.6,
         "fin": 163.2
        }
-      ]
+      ],
+      "trad": "y en este universo gigante, nadie es pequeño, ¡parece!"
      }
     ],
     "duracion": 172.82
@@ -34814,7 +35528,8 @@
         "ini": 13.36,
         "fin": 13.8
        }
-      ]
+      ],
+      "trad": "I'm traveling in my rocket, I pass the Moon and Mars,"
      },
      {
       "seccion": "Verse 1",
@@ -34867,7 +35582,8 @@
         "ini": 18.46,
         "fin": 19.38
        }
-      ]
+      ],
+      "trad": "There's a giant planet, there are stars everywhere,"
      },
      {
       "seccion": "Verse 1",
@@ -34925,7 +35641,8 @@
         "ini": 22.56,
         "fin": 23.7
        }
-      ]
+      ],
+      "trad": "There's a comet with a tail that shines at dawn,"
      },
      {
       "seccion": "Verse 1",
@@ -34988,7 +35705,8 @@
         "ini": 27.78,
         "fin": 28.62
        }
-      ]
+      ],
+      "trad": "And there are seven moons that dance… they don't stop moving!"
      },
      {
       "seccion": "Chorus",
@@ -35041,7 +35759,8 @@
         "ini": 32.64,
         "fin": 33.14
        }
-      ]
+      ],
+      "trad": "Is there life on other planets? Is there anyone out there?"
      },
      {
       "seccion": "Chorus",
@@ -35099,7 +35818,8 @@
         "ini": 37.6,
         "fin": 37.96
        }
-      ]
+      ],
+      "trad": "There are questions in the sky… and I fly up there!"
      },
      {
       "seccion": "Chorus",
@@ -35137,7 +35857,8 @@
         "ini": 41.24,
         "fin": 41.84
        }
-      ]
+      ],
+      "trad": "There's a mystery, there's a dream:"
      },
      {
       "seccion": "Chorus",
@@ -35185,7 +35906,8 @@
         "ini": 46.66,
         "fin": 47.54
        }
-      ]
+      ],
+      "trad": "In the universe so big, no one is small!"
      },
      {
       "seccion": "Verse 2",
@@ -35243,7 +35965,8 @@
         "ini": 51.78,
         "fin": 52.5
        }
-      ]
+      ],
+      "trad": "There's a black hole spinning, and there's no sound,"
      },
      {
       "seccion": "Verse 2",
@@ -35301,7 +36024,8 @@
         "ini": 56.58,
         "fin": 57.3
        }
-      ]
+      ],
+      "trad": "There are pink and purple clouds where stars are born, how pretty!"
      },
      {
       "seccion": "Verse 2",
@@ -35354,7 +36078,8 @@
         "ini": 61.06,
         "fin": 62.06
        }
-      ]
+      ],
+      "trad": "Is there water on that planet? Is there air to breathe?"
      },
      {
       "seccion": "Verse 2",
@@ -35407,7 +36132,8 @@
         "ini": 65.72,
         "fin": 67.1
        }
-      ]
+      ],
+      "trad": "I'm taking a sample in my pocket to investigate!"
      },
      {
       "seccion": "Chorus",
@@ -35460,7 +36186,8 @@
         "ini": 71.04,
         "fin": 71.54
        }
-      ]
+      ],
+      "trad": "Is there life on other planets? Is there anyone out there?"
      },
      {
       "seccion": "Chorus",
@@ -35518,7 +36245,8 @@
         "ini": 75.94,
         "fin": 76.34
        }
-      ]
+      ],
+      "trad": "There are questions in the sky… and I fly up there!"
      },
      {
       "seccion": "Chorus",
@@ -35556,7 +36284,8 @@
         "ini": 79.64,
         "fin": 80.22
        }
-      ]
+      ],
+      "trad": "There's a mystery, there's a dream:"
      },
      {
       "seccion": "Chorus",
@@ -35604,7 +36333,8 @@
         "ini": 85.06,
         "fin": 85.94
        }
-      ]
+      ],
+      "trad": "In the universe so big, no one is small!"
      },
      {
       "seccion": "Bridge",
@@ -35652,7 +36382,8 @@
         "ini": 90.54,
         "fin": 90.76
        }
-      ]
+      ],
+      "trad": "There's one, there are many… is there anyone out there?"
      },
      {
       "seccion": "Bridge",
@@ -35695,7 +36426,8 @@
         "ini": 94.82,
         "fin": 95.62
        }
-      ]
+      ],
+      "trad": "There's no one… yet! Let's discover!"
      },
      {
       "seccion": "Verse 3",
@@ -35753,7 +36485,8 @@
         "ini": 112.16,
         "fin": 112.92
        }
-      ]
+      ],
+      "trad": "And when I get back home, I'll tell you what I found:"
      },
      {
       "seccion": "Verse 3",
@@ -35816,7 +36549,8 @@
         "ini": 121.24,
         "fin": 121.94
        }
-      ]
+      ],
+      "trad": "The biggest mystery is a question… ask it, and I'll search for it!"
      },
      {
       "seccion": "Final Chorus",
@@ -35869,7 +36603,8 @@
         "ini": 128.64,
         "fin": 129.0
        }
-      ]
+      ],
+      "trad": "Is there life on other planets? Is there anyone out there?"
      },
      {
       "seccion": "Final Chorus",
@@ -35927,7 +36662,8 @@
         "ini": 133.56,
         "fin": 133.94
        }
-      ]
+      ],
+      "trad": "There are questions in the sky… and I fly up there!"
      },
      {
       "seccion": "Final Chorus",
@@ -35965,7 +36701,8 @@
         "ini": 137.28,
         "fin": 137.7
        }
-      ]
+      ],
+      "trad": "There's a mystery, there's a dream:"
      },
      {
       "seccion": "Final Chorus",
@@ -36013,7 +36750,8 @@
         "ini": 142.7,
         "fin": 143.56
        }
-      ]
+      ],
+      "trad": "In the universe so big, no one is small!"
      },
      {
       "seccion": "Final Chorus",
@@ -36066,7 +36804,8 @@
         "ini": 147.9,
         "fin": 148.34
        }
-      ]
+      ],
+      "trad": "Is there life on other planets? Is there anyone out there?"
      },
      {
       "seccion": "Final Chorus",
@@ -36124,7 +36863,8 @@
         "ini": 152.7,
         "fin": 153.0
        }
-      ]
+      ],
+      "trad": "There are questions in the sky… and I fly up there!"
      },
      {
       "seccion": "Final Chorus",
@@ -36162,7 +36902,8 @@
         "ini": 156.48,
         "fin": 157.04
        }
-      ]
+      ],
+      "trad": "There's a mystery, there's a dream:"
      },
      {
       "seccion": "Final Chorus",
@@ -36210,7 +36951,8 @@
         "ini": 161.88,
         "fin": 162.74
        }
-      ]
+      ],
+      "trad": "In the universe so big, no one is small!"
      }
     ],
     "duracion": 172.82

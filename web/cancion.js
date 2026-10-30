@@ -116,10 +116,10 @@
         var li = lineas[k];
         li.innerHTML = "";
         li.className = k > 0 && ln[1] - letra[k - 1][1] > 6 ? "parte" : "";
-        if (traduce) { li.textContent = (otra[k] || ln)[0]; li.lang = idioma; }
+        if (traduce) { li.textContent = (ln[3] || (otra[k] || ln)[0]); li.lang = idioma; }
         else {
           li.lang = m; ln[0].split(" ").forEach(function (w, i) { if (i) li.appendChild(document.createTextNode(" ")); li.appendChild(el("span", "w", w)); });
-          if (simul) { var tr = el("span", "tr", (otra[k] || ln)[0]); tr.lang = idioma; li.appendChild(tr); }
+          if (simul) { var tr = el("span", "tr", (ln[3] || (otra[k] || ln)[0])); tr.lang = idioma; li.appendChild(tr); }
         }
       });
       actual = -1;

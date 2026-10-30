@@ -375,7 +375,7 @@ def canciones():
         x = {"id": c["id"], "t": [c["titulo_es"], c["titulo_en"]], "entera": entera}
         for idi in ("en", "es"):
             l = c[idi]; corte = l["duracion"] * (1 if entera else MUESTRA_CANCION)
-            x[idi] = {"d": round(corte, 2), "l": [[ln["texto"], ln["ini"], [w["ini"] for w in ln["palabras"]]] for ln in l["lineas"] if entera or ln["ini"] < corte - 1]}
+            x[idi] = {"d": round(corte, 2), "l": [[ln["texto"], ln["ini"], [w["ini"] for w in ln["palabras"]], ln.get("trad", "")] for ln in l["lineas"] if entera or ln["ini"] < corte - 1]}
         datos.append(x); lista.append(dict(c, _n=n, _entera=entera))
     escribe_si_cambia(os.path.join(WEB, "canciones.json"), json.dumps({"canciones": datos}, ensure_ascii=False, separators=(",", ":")) + "\n")
     return list(reversed(lista))
@@ -408,6 +408,16 @@ def seccion_canciones(lista):
   </ul>
 </section>
 """
+
+
+# [30-oct, él: «en esa web no puedo ver el tráfico… pon el que tú creas, sin cookies» → GoatCounter] El contador de visitas: invisible
+# (no se enseña ningún número: él, «eso puede espantar»), sin cookies ni datos personales. Su código, en web/goatcounter.txt (si no
+# está, no se pone nada). Las estadísticas las ve él en https://<código>.goatcounter.com.
+def contador():
+    try: codigo = open(os.path.join(WEB, "goatcounter.txt"), encoding="utf-8").read().strip()
+    except Exception: return ""
+    if not re.fullmatch(r"[a-z0-9-]{2,50}", codigo or ""): return ""
+    return f'<script data-goatcounter="https://{codigo}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>'
 
 
 def pagina(libros, actualizado, lista_canciones=()):
@@ -545,6 +555,7 @@ def pagina(libros, actualizado, lista_canciones=()):
 <script>
 {js}
 </script>
+{contador()}
 </body>
 </html>
 """, gratis
@@ -606,6 +617,7 @@ def lector_html():
 <script>
 {js}
 </script>
+{contador()}
 </body>
 </html>
 """
@@ -654,6 +666,7 @@ def cancion_html():
 <script>
 {js}
 </script>
+{contador()}
 </body>
 </html>
 """
