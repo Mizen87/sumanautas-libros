@@ -151,8 +151,7 @@
     // bloqueada y de los auriculares (Media Session): título y portada, ▶/❚❚, ⏭ la siguiente, ⏮ al principio o la anterior
     if ("mediaSession" in navigator) {
       try {
-        navigator.mediaSession.metadata = new MediaMetadata({ title: titulo, artist: "Sumanautas", album: idioma === "en" ? "Songs to learn Spanish" : "Canciones para aprender inglés",
-          artwork: [{ src: new URL("canciones/" + encodeURIComponent(c.id) + "/portada.jpg", location.href).href, sizes: "768x768", type: "image/jpeg" }] });
+        meta(-1);
         var ms = navigator.mediaSession, accion = function (a, f) { try { ms.setActionHandler(a, f); } catch (e) { /* ese botón no existe aquí */ } };
         accion("play", function () { audio.play(); });
         accion("pause", function () { audio.pause(); });
@@ -161,6 +160,19 @@
         accion("seekto", function (d) { if (d && d.seekTime != null) audio.currentTime = d.seekTime; });
       } catch (e) { /* navegador sin Media Session */ }
     }
+    // [30-oct, él: «que saliera en el CarPlay la frase que está cantando en inglés y debajo la traducción en español, así los niños
+    // podrían leerlo y aprender»] en CarPlay y en la pantalla bloqueada: arriba (título) la frase que suena, debajo (artista) su
+    // traducción; antes de la primera frase, el título de la canción y su traducción
+    function meta(k) {
+      if (!("mediaSession" in navigator) || typeof MediaMetadata === "undefined") return;
+      var ln = k >= 0 ? letra[k] : null;
+      try {
+        navigator.mediaSession.metadata = new MediaMetadata({ title: ln ? ln[0] : titulo, artist: ln ? (ln[3] || (otra[k] || ln)[0]) : trad,
+          album: "Sumanautas · " + (idioma === "en" ? "Songs to learn Spanish" : "Canciones para aprender inglés"),
+          artwork: [{ src: new URL("canciones/" + encodeURIComponent(c.id) + "/portada.jpg", location.href).href, sizes: "768x768", type: "image/jpeg" }] });
+      } catch (e) { /* navegador sin Media Session */ }
+    }
+    audio.ontimeupdate = function () { if (document.hidden) paso(); };     // (con la pantalla bloqueada no hay animación: así la frase de CarPlay sigue cambiando)
     audio.onpause = function () { bp.innerHTML = PLAY; bp.setAttribute("aria-label", T().play); };
     audio.onended = function () {
       fin.hidden = false; fin.scrollIntoView({ behavior: "smooth", block: "center" });
@@ -180,6 +192,7 @@
         if (actual >= 0 && lineas[actual]) lineas[actual].classList.remove("suena", "trad");
         if (k >= 0) { lineas[k].classList.add("suena"); if (traduce) lineas[k].classList.add("trad"); lineas[k].scrollIntoView({ behavior: "smooth", block: "center" }); }
         actual = k;
+        meta(k);
       }
       if (k >= 0 && !traduce) {
         var ws = lineas[k].querySelectorAll(".w"), ini = letra[k][2];
