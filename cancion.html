@@ -129,13 +129,45 @@ button { font: inherit; cursor: pointer; }
   var PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 4.5v15l12-7.5z"/></svg>';
   var PAUSA = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 4h4.5v16H6zM13.5 4H18v16h-4.5z"/></svg>';
   var main = document.getElementById("cmain"), tit = document.getElementById("ctitulo");
-  var datos = null, c = null, audio = null, lineas = [], actual = -1, traduce = false, raf = 0;
+  var datos = null, c = null, audio = null, lineas = [], actual = -1, dichas = -1, traduce = false, raf = 0;
   /* [30-oct, él] «Simultáneo»: debajo de cada línea, su traducción (se recuerda en este navegador) */
   var simul = lee("sumanautas-simultaneo") === "1";
   /* [30-oct, él: «un botón para continuar con la siguiente canción automáticamente al acabar»] «Seguidas» (se recuerda en este navegador) */
   var seguido = lee("sumanautas-seguido") === "1", tSig = 0;
 
   function T() { return TXT[idioma]; }
+  /* [30-oct, él: «se ve la letra; podría ser un pelín más grande la letra y la traducción, y que se remarcara en naranja conforme va
+     yéndose»] en CarPlay el tamaño y el color del título los pone Apple; lo grande va en la PORTADA, que la web sí dibuja: la frase
+     enorme con las palabras ya cantadas en naranja y debajo la traducción */
+  var lienzo = null;
+  function tarjeta(frase, tr, w) {
+    if (!lienzo) { lienzo = document.createElement("canvas"); lienzo.width = lienzo.height = 768; }
+    var g = lienzo.getContext("2d"), L = 768, M = 40, F = 'ui-rounded, "SF Pro Rounded", "Arial Rounded MT Bold", "Nunito", system-ui, sans-serif';
+    function filas(ps, px, peso) {
+      g.font = peso + " " + px + "px " + F;
+      var out = [], f = [];
+      ps.forEach(function (p) { if (f.length && g.measureText(f.concat(p).join(" ")).width > L - 2 * M) { out.push(f); f = [p]; } else f.push(p); });
+      if (f.length) out.push(f);
+      return out;
+    }
+    var ps = frase.split(" "), qs = tr.split(" "), px = 120, a, px2, b;
+    for (; px > 40; px -= 4) { a = filas(ps, px, "900"); if (a.length * px * 1.12 <= L * 0.56) break; }      // lo más grande que quepa
+    for (px2 = Math.round(px * 0.72); px2 > 30; px2 -= 3) { b = filas(qs, px2, "700"); if (b.length * px2 * 1.15 <= L * 0.30) break; }
+    var alto = a.length * px * 1.12 + 30 + b.length * px2 * 1.15, y = Math.max(M, (L - 34 - alto) / 2);
+    g.fillStyle = "#16224f"; g.fillRect(0, 0, L, L);
+    g.textBaseline = "top";
+    var n = 0;
+    g.font = "900 " + px + "px " + F;
+    a.forEach(function (f) {
+      var hueco = g.measureText(" ").width, x = (L - g.measureText(f.join(" ")).width) / 2;
+      f.forEach(function (p) { g.fillStyle = n < w ? "#ff9f1c" : "#ffffff"; g.fillText(p, x, y); x += g.measureText(p).width + hueco; n++; });
+      y += px * 1.12;
+    });
+    y += 30; g.font = "700 " + px2 + "px " + F; g.fillStyle = "#9ec9ff"; g.textAlign = "center";
+    b.forEach(function (f) { g.fillText(f.join(" "), L / 2, y); y += px2 * 1.15; });
+    g.font = "900 24px " + F; g.fillStyle = "rgba(255, 201, 60, .75)"; g.fillText("Sumanautas", L / 2, L - 34); g.textAlign = "left";
+    return lienzo.toDataURL("image/jpeg", 0.85);
+  }
   /* el tamaño de la letra (px): 16-56 ([30-oct, él] «que pueda aumentarla más»); sin guardar, el de la pantalla */
   function letraPx(v) {
     if (v === undefined) { var g = parseInt(lee("sumanautas-letra-cancion"), 10); return g >= 16 && g <= 56 ? g : (window.innerWidth < 760 ? 20 : 22); }
@@ -269,13 +301,14 @@ button { font: inherit; cursor: pointer; }
     // [30-oct, él: «que saliera en el CarPlay la frase que está cantando en inglés y debajo la traducción en español, así los niños
     // podrían leerlo y aprender»] en CarPlay y en la pantalla bloqueada: arriba (título) la frase que suena, debajo (artista) su
     // traducción; antes de la primera frase, el título de la canción y su traducción
-    function meta(k) {
+    function meta(k, w) {
       if (!("mediaSession" in navigator) || typeof MediaMetadata === "undefined") return;
-      var ln = k >= 0 ? letra[k] : null;
+      var ln = k >= 0 ? letra[k] : null, tr = ln ? (ln[3] || (otra[k] || ln)[0]) : trad;
       try {
-        navigator.mediaSession.metadata = new MediaMetadata({ title: ln ? ln[0] : titulo, artist: ln ? (ln[3] || (otra[k] || ln)[0]) : trad,
+        navigator.mediaSession.metadata = new MediaMetadata({ title: ln ? ln[0] : titulo, artist: tr,
           album: "Sumanautas · " + (idioma === "en" ? "Songs to learn Spanish" : "Canciones para aprender inglés"),
-          artwork: [{ src: new URL("canciones/" + encodeURIComponent(c.id) + "/portada.jpg", location.href).href, sizes: "768x768", type: "image/jpeg" }] });
+          artwork: [ln ? { src: tarjeta(ln[0], tr, w || 0), sizes: "768x768", type: "image/jpeg" }
+                       : { src: new URL("canciones/" + encodeURIComponent(c.id) + "/portada.jpg", location.href).href, sizes: "768x768", type: "image/jpeg" }] });
       } catch (e) { /* navegador sin Media Session */ }
     }
     audio.ontimeupdate = function () { if (document.hidden) paso(); };     // (con la pantalla bloqueada no hay animación: así la frase de CarPlay sigue cambiando)
@@ -297,13 +330,14 @@ button { font: inherit; cursor: pointer; }
       if (k !== actual) {
         if (actual >= 0 && lineas[actual]) lineas[actual].classList.remove("suena", "trad");
         if (k >= 0) { lineas[k].classList.add("suena"); if (traduce) lineas[k].classList.add("trad"); lineas[k].scrollIntoView({ behavior: "smooth", block: "center" }); }
-        actual = k;
-        meta(k);
+        actual = k; dichas = -1;
       }
-      if (k >= 0 && !traduce) {
-        var ws = lineas[k].querySelectorAll(".w"), ini = letra[k][2];
-        for (var j = 0; j < ws.length; j++) ws[j].classList.toggle("ya", t >= (ini[j] || 1e9));
-      }
+      if (k >= 0) {      // (las palabras ya cantadas: en la letra y en la tarjeta de CarPlay)
+        var ini = letra[k][2], w = 0;
+        while (w < ini.length && t >= ini[w]) w++;
+        if (w !== dichas) { dichas = w; meta(k, w); }
+        if (!traduce) { var ws = lineas[k].querySelectorAll(".w"); for (var j = 0; j < ws.length; j++) ws[j].classList.toggle("ya", j < w); }
+      } else if (dichas !== -2) { dichas = -2; meta(-1); }
     }
     function bucle() { paso(); if (!audio.paused) raf = requestAnimationFrame(bucle); }
   }
