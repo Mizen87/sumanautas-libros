@@ -283,12 +283,12 @@ button { font: inherit; cursor: pointer; }
     // podrían leerlo y aprender»] en CarPlay y en la pantalla bloqueada: arriba (título) la frase que suena, debajo (artista) su
     // traducción; antes de la primera frase, el título de la canción y su traducción
     // ([30-oct, él: «parpadea la imagen, quiero que se vea la imagen como antes»] la portada siempre; solo cambia el texto, frase a frase)
-    // ([30-oct, él: «que no parpadee»] la portada se manda UNA vez por canción; en cada frase solo se cambia el texto)
     function meta(k) {
       if (!("mediaSession" in navigator) || typeof MediaMetadata === "undefined") return;
       var ln = k >= 0 ? letra[k] : null, ti = negrita(ln ? ln[0] : titulo), ar = negrita(ln ? (ln[3] || (otra[k] || ln)[0]) : trad), md = navigator.mediaSession.metadata;
       try {
-        if (md && metaDe === c.id + idioma) { md.title = ti; md.artist = ar; if (md.title === ti) return; }
+        // ([30-oct] fuera el «cambiar solo el texto» del objeto: sin probar en el iPhone y, tras ponerlo, en CarPlay dejó de salir la
+        // letra y la portada; se vuelve a lo que se vio funcionar en su foto: uno nuevo por línea)
         navigator.mediaSession.metadata = new MediaMetadata({ title: ti, artist: ar,
           album: titulo + " · Sumanautas",      // ([30-oct, él] «la 2»: la línea gris, el nombre de la canción)
           artwork: [{ src: new URL("canciones/" + encodeURIComponent(c.id) + "/portada.jpg", location.href).href, sizes: "768x768", type: "image/jpeg" }] });
