@@ -11,11 +11,11 @@
   function guarda(k, v) { try { window.localStorage.setItem(k, v); } catch (e) { /* da igual */ } }
   var idioma = (q.match(/[?&]lang=(es|en)\b/) || [])[1] || lee("sumanautas-idioma") || "es";
   var TXT = {
-    es: { volver: "Canciones", atras: "Volver a las canciones", cargando: "Cargando la canción…", nohay: "No encontramos esta canción.", ver: "Ver en español", verMeta: "Ver en inglés",
+    es: { volver: "Canciones", atras: "Volver a las canciones", menos: "Letra más pequeña", mas: "Letra más grande", cargando: "Cargando la canción…", nohay: "No encontramos esta canción.", ver: "Ver en español", verMeta: "Ver en inglés",
           play: "Reproducir", pausa: "Pausa", reinicia: "Desde el principio", finT: "¡Muy bien!",
           fin: "En el juego Sumanautas, al acabar cada canción hay 3 preguntas para repasar lo aprendido, y cada semana llegan canciones nuevas.",
           muestraT: "¿Quieres oírla entera?", muestra: "Esta es solo una muestra. Escúchala entera, con su letra y sus preguntas, en Sumanautas." },
-    en: { volver: "Songs", atras: "Back to the songs", cargando: "Loading the song…", nohay: "We couldn't find this song.", ver: "See in English", verMeta: "See in Spanish",
+    en: { volver: "Songs", atras: "Back to the songs", menos: "Smaller text", mas: "Bigger text", cargando: "Loading the song…", nohay: "We couldn't find this song.", ver: "See in English", verMeta: "See in Spanish",
           play: "Play", pausa: "Pause", reinicia: "From the start", finT: "Well done!",
           fin: "In the Sumanautas game, every song ends with 3 questions to review what you learned, and new songs arrive every week.",
           muestraT: "Want to hear it all?", muestra: "This is just a preview. Listen to the whole song, with its lyrics and questions, in Sumanautas." }
@@ -26,6 +26,15 @@
   var datos = null, c = null, audio = null, lineas = [], actual = -1, traduce = false, raf = 0;
 
   function T() { return TXT[idioma]; }
+  /* el tamaño de la letra (px): 16-40; sin guardar, el de la pantalla */
+  function letraPx(v) {
+    if (v === undefined) { var g = parseInt(lee("sumanautas-letra-cancion"), 10); return g >= 16 && g <= 40 ? g : (window.innerWidth < 760 ? 20 : 22); }
+    v = Math.max(16, Math.min(40, v)); guarda("sumanautas-letra-cancion", String(v));
+    document.documentElement.style.setProperty("--letra", v + "px");
+    if (actual >= 0 && lineas[actual]) lineas[actual].scrollIntoView({ block: "center" });
+    return v;
+  }
+  document.documentElement.style.setProperty("--letra", letraPx() + "px");
   function canta() { return idioma === "en" ? "es" : "en"; }     // el idioma CONTRARIO al de la web
   function mm(s) { s = Math.max(0, Math.floor(s || 0)); return Math.floor(s / 60) + ":" + ("0" + (s % 60)).slice(-2); }
   function el(tag, cls, txt) { var x = document.createElement(tag); if (cls) x.className = cls; if (txt != null) x.textContent = txt; return x; }
@@ -59,6 +68,15 @@
     // [30-oct, él: «pon un botón para volver atrás, que hay mucho espacio para ponerlo»] grande, bajo los mandos
     var atras = el("a", "atras", "← " + T().atras); atras.href = "./" + (idioma === "en" ? "?lang=en" : "") + "#canciones";
     lado.appendChild(atras);
+    // [30-oct, él: «y que podamos ajustar el tamaño de la letra»] A− / A+ (se recuerda en este navegador)
+    var tam = el("div", "tamano");
+    [["−", -2, T().menos], ["+", 2, T().mas]].forEach(function (x) {
+      var b = el("button", null); b.type = "button"; b.setAttribute("aria-label", x[2]);
+      b.innerHTML = '<span class="a">A</span>' + x[0];
+      b.addEventListener("click", function () { letraPx(letraPx() + x[1]); });
+      tam.appendChild(b);
+    });
+    lado.appendChild(tam);
     main.appendChild(lado);
     var ul = el("ul", "letra"); ul.setAttribute("lang", m);
     var letra = c[m].l, otra = c[m === "en" ? "es" : "en"].l;
