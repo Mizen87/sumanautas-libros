@@ -21,6 +21,7 @@ ENTEROS O MUESTRA: [19-oct, él: «que se lean enteros en la web los que hay aho
 ahora, esos no»] web/enteros.json es una lista FIJA (los 40 del 19-oct-2026; este script NUNCA la amplía): los que están, enteros;
 los demás, las MUESTRA primeras páginas y después «¿Quieres saber cómo sigue? Léelo entero en Sumanautas» (App Store).
 «Incluido» = como el juego (TiendaCuentos.DePago): los de regalo y los de antes del 8-oct-2026. «¡Nuevo!» = la última tanda.
+[30-oct] CANCIONES: la sección «Canciones para aprender inglés/español» y cancion.html (ver canciones()).
 NUNCA nombra Android ni Google Play. No toca privacidad.html ni soporte.html (los enlaza el App Store), ni hace git.
 
 Uso:  python3 web/genera_web.py        (cada lunes, después de genera_libro.py: ver «publica» en genera_libro.py)"""
@@ -347,7 +348,69 @@ def tarjeta(b, n, ultima):
     </li>"""
 
 
-def pagina(libros, actualizado):
+# ═══════════════════ [30-oct, él] LAS CANCIONES ═══════════════════
+# «móntalo en la web también, el apartado de las canciones; según el idioma que tengamos establecido en la web saldrán en el
+# idioma contrario» (web en español → cantadas en inglés; web en inglés → en español) y «solo 20 de cada… luego bloquea al
+# cantar un 10 % o así de canción». Los mp3, portadas y el catálogo los pone herramientas/canciones/publica_web.py (repo del
+# juego) en canciones/; aquí: web/canciones/<id>.jpg (miniatura), web/canciones.json (lo que necesita cancion.html) y la sección.
+CANCIONES = os.path.join(BIB, "canciones")
+ENTERAS_CANCIONES = 20
+MUESTRA_CANCION = 0.10
+
+
+def canciones():
+    """Las canciones de la web (las más nuevas primero) y web/canciones.json; [] si aún no hay."""
+    try: cat = json.load(open(os.path.join(CANCIONES, "canciones.json"), encoding="utf-8"))
+    except Exception: return []
+    os.makedirs(os.path.join(WEB, "canciones"), exist_ok=True)
+    datos, lista = [], []
+    for n, c in enumerate(cat.get("canciones", [])):
+        d = os.path.join(CANCIONES, c["id"])
+        entera = n < ENTERAS_CANCIONES
+        if not all(os.path.exists(os.path.join(d, f)) for f in (["en.mp3", "es.mp3"] if entera else ["en_muestra.mp3", "es_muestra.mp3"]) + ["portada.jpg"]):
+            aviso("canción sin sus archivos, no sale:", c["id"]); continue
+        mini = os.path.join(WEB, "canciones", c["id"] + ".jpg")
+        if not os.path.exists(mini) or os.path.getmtime(mini) < os.path.getmtime(os.path.join(d, "portada.jpg")):
+            im = Image.open(os.path.join(d, "portada.jpg")).convert("RGB"); im.thumbnail((480, 480)); guarda_jpg(im, mini, 70)
+        x = {"id": c["id"], "t": [c["titulo_es"], c["titulo_en"]], "entera": entera}
+        for idi in ("en", "es"):
+            l = c[idi]; corte = l["duracion"] * (1 if entera else MUESTRA_CANCION)
+            x[idi] = {"d": round(corte, 2), "l": [[ln["texto"], ln["ini"], [w["ini"] for w in ln["palabras"]]] for ln in l["lineas"] if entera or ln["ini"] < corte - 1]}
+        datos.append(x); lista.append(dict(c, _n=n, _entera=entera))
+    escribe_si_cambia(os.path.join(WEB, "canciones.json"), json.dumps({"canciones": datos}, ensure_ascii=False, separators=(",", ":")) + "\n")
+    return list(reversed(lista))
+
+
+def tarjeta_cancion(c):
+    """Una canción: con la web en español, su título en INGLÉS (es la que se canta) y debajo en español; en inglés, al revés."""
+    idq = urllib.parse.quote(c["id"])
+    candado = "" if c["_entera"] else '<span class="sello muestra" data-en="Preview">Muestra</span>'
+    return f"""
+    <li class="cancion" id="c-{e(c['id'])}">
+      <a class="tapa-c" href="cancion.html?id={idq}" data-cancion="{e(c['id'])}">
+        <img src="web/canciones/{idq}.jpg" width="480" height="480" loading="lazy" decoding="async" alt="" >
+        <img class="bandera-c" src="web/bandera_gb.png" data-en-src="web/bandera_es.png" width="34" height="24" alt="Cantada en inglés" data-en-alt="Sung in Spanish">
+        {candado}
+      </a>
+      <h3><a href="cancion.html?id={idq}" data-cancion="{e(c['id'])}" data-en="{e(c['titulo_es'])}">{e(c['titulo_en'])}</a></h3>
+      <p class="sub" data-en="{e(c['titulo_en'])}">{e(c['titulo_es'])}</p>
+    </li>"""
+
+
+def seccion_canciones(lista):
+    if not lista: return ""
+    tarjetas = "".join(tarjeta_cancion(c) for c in lista)
+    return f"""
+<section id="canciones" class="canciones envoltorio" aria-labelledby="h-can">
+  <h2 class="titulo-seccion" id="h-can" data-en="Songs to learn Spanish">Canciones para aprender inglés</h2>
+  <p class="entradilla" data-en="Original songs sung in Spanish, with the lyrics lighting up word by word as they're sung and the translation at the touch of a button. Grammar for real (the past, comparing, the future…) with a catchy chorus for the little ones.">Canciones originales cantadas en inglés, con la letra iluminándose palabra a palabra al cantar y la traducción con un botón. Gramática de verdad (el pasado, comparar, el futuro…) con un estribillo pegadizo para los peques.</p>
+  <ul class="lista-canciones">{tarjetas}
+  </ul>
+</section>
+"""
+
+
+def pagina(libros, actualizado, lista_canciones=()):
     total = len(libros)
     ultima = max(orden(b) for b in libros)
     cuenta = {k: sum(1 for b in libros if b["tramo"] == k) for k in TRAMOS}
@@ -433,6 +496,7 @@ def pagina(libros, actualizado):
         <div class="acciones">
           {badge_app()}
           <a class="boton-claro" href="#biblioteca" data-en="See the {total} stories ↓">Ver los {total} cuentos ↓</a>
+          {'<a class="boton-claro" href="#canciones" data-en="Songs ↓">Canciones ↓</a>' if lista_canciones else ''}
         </div>
         <p class="autor"><span data-en="A game by">Un juego de</span> <a href="{JUCABIME}">jucabime.com</a></p>
       </div>
@@ -447,6 +511,7 @@ def pagina(libros, actualizado):
   <ul class="carrusel">{fotos}</ul>
 </section>
 
+{seccion_canciones(lista_canciones)}
 <main id="biblioteca" class="biblioteca envoltorio" aria-labelledby="h-bib">
   <h2 class="titulo-seccion" id="h-bib" data-en="The story library">La biblioteca de cuentos</h2>
   <p class="entradilla" data-en="{total} original stories full of values and humour, illustrated and read aloud in Spanish and English. Open one to read it with its pictures and listen to it, page by page.">{total} cuentos originales con valores y humor, ilustrados y narrados en voz alta en español y en inglés. Abre uno para leerlo con sus dibujos y escucharlo página a página.</p>
@@ -546,6 +611,54 @@ def lector_html():
 """
 
 
+def cancion_html():
+    """cancion.html?id=<id>[&lang=en]: estático; los datos, en web/canciones.json. Con la web en español suena en inglés y al revés."""
+    css = open(os.path.join(WEB, "cancion.css"), encoding="utf-8").read()
+    js = open(os.path.join(WEB, "cancion.js"), encoding="utf-8").read()
+    v_og = hashlib.md5(open(os.path.join(WEB, "og.jpg"), "rb").read()).hexdigest()[:8]
+    v_ic = version("icono.jpg"); v_180 = version("icono-180.png"); v_fav = version("favicon.png")
+    desc = "Canciones originales para aprender inglés y español cantando, con la letra iluminándose y su traducción."
+    return f"""<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Canciones de Sumanautas</title>
+<meta name="description" content="{e(desc)}">
+<meta name="theme-color" content="#3fa9f5">
+<meta name="apple-itunes-app" content="app-id={APP_ID}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Sumanautas">
+<meta property="og:title" content="Canciones de Sumanautas">
+<meta property="og:description" content="{e(desc)}">
+<meta property="og:image" content="{SITIO}web/og.jpg?v={v_og}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" sizes="64x64" href="web/favicon.png?v={v_fav}">
+<link rel="apple-touch-icon" href="web/icono-180.png?v={v_180}">
+<style>
+{css}
+</style>
+</head>
+<body>
+<header class="cbarra">
+  <a class="volver" href="./#canciones"><span aria-hidden="true">←</span><img src="web/icono.jpg?v={v_ic}" width="26" height="26" alt=""><span class="t">Canciones</span></a>
+  <p class="ctitulo" id="ctitulo">Sumanautas</p>
+  <div class="idioma" role="group" aria-label="Idioma">
+    <button type="button" data-idioma="es" aria-pressed="true" lang="es" title="Español"><img class="bandera" src="web/bandera_es.png" alt="" width="20" height="14">ES</button>
+    <button type="button" data-idioma="en" aria-pressed="false" lang="en" title="English"><img class="bandera" src="web/bandera_gb.png" alt="" width="20" height="14">EN</button>
+  </div>
+</header>
+<main class="cmain" id="cmain"><p class="aviso">Cargando la canción…</p></main>
+<template id="badge">{badge_app()}</template>
+<noscript><p class="aviso">Para escuchar las canciones hace falta JavaScript. <a href="./">Volver</a></p></noscript>
+<script>
+{js}
+</script>
+</body>
+</html>
+"""
+
+
 def main():
     cat = json.load(open(os.path.join(BIB, "catalogo.json"), encoding="utf-8"))
     os.makedirs(os.path.join(WEB, "portadas"), exist_ok=True)
@@ -584,11 +697,13 @@ def main():
     libros.sort(key=orden, reverse=True)
     hechos = iconos() + capturas()
     og(libros, len(libros))
-    texto, gratis = pagina(libros, cat.get("actualizado", ""))
+    lista_c = canciones()
+    texto, gratis = pagina(libros, cat.get("actualizado", ""), lista_c)
     tmp = os.path.join(BIB, "index.html.tmp")
     with open(tmp, "w", encoding="utf-8") as f: f.write(texto)
     os.replace(tmp, os.path.join(BIB, "index.html"))
     escribe_si_cambia(os.path.join(BIB, "lector.html"), lector_html())
+    if lista_c: escribe_si_cambia(os.path.join(BIB, "cancion.html"), cancion_html())
     kb = lambda ps: sum(os.path.getsize(p) for p in ps) / 1024
     port = glob.glob(os.path.join(WEB, "portadas", "*.jpg"))
     caps = glob.glob(os.path.join(WEB, "capturas", "*.jpg"))
@@ -597,6 +712,7 @@ def main():
     n_ent = sum(1 for b in libros if b["_entero"])
     print(f"web: {len(libros)} cuentos ({gratis} incluidos en el juego) · lector: {n_ent} enteros y {len(libros) - n_ent} con muestra de {MUESTRA} páginas"
           f" · miniaturas nuevas: {nuevas} · dibujos nuevos: {dibujos_nuevos}" + (f" · creados: {', '.join(hechos)}" if hechos else ""))
+    if lista_c: print(f"  canciones: {len(lista_c)} ({sum(1 for c in lista_c if c['_entera'])} enteras, {sum(1 for c in lista_c if not c['_entera'])} con muestra del 10 %)")
     print(f"  lector.html {kb([os.path.join(BIB, 'lector.html')]):.0f} KB · dibujos {kb(pags) / 1024:.1f} MB ({len(pags)}) · "
           f"datos {kb(jsons):.0f} KB ({len(jsons)})")
     print(f"  index.html {kb([os.path.join(BIB, 'index.html')]):.0f} KB · portadas {kb(port):.0f} KB ({len(port)}) · "

@@ -9,7 +9,7 @@
     en: { oir: "Listen", parar: "Stop", fallo: "Couldn't play it",
           cuentos: function (n) { return n === 1 ? "1 story" : n + " stories"; } }
   };
-  var ATRIBUTOS = [["alt", "enAlt", "esAlt"], ["aria-label", "enAria", "esAria"], ["title", "enTitle", "esTitle"], ["content", "enContent", "esContent"]];
+  var ATRIBUTOS = [["src", "enSrc", "esSrc"], ["alt", "enAlt", "esAlt"], ["aria-label", "enAria", "esAria"], ["title", "enTitle", "esTitle"], ["content", "enContent", "esContent"]];
   var TRAMOS = ["peques", "exploradores", "aventureros", "maestros"];
   var idioma = "es", tramo = "todos";
   var tarjetas = [].slice.call(document.querySelectorAll(".cuento"));
@@ -37,6 +37,9 @@
     [].forEach.call(document.querySelectorAll(".oir"), function (b) { etiqueta(b, "oir"); });
     [].forEach.call(document.querySelectorAll("[data-lector]"), function (a) {   // el lector se abre en el mismo idioma
       a.href = "lector.html?id=" + encodeURIComponent(a.dataset.lector) + (idioma === "en" ? "&lang=en" : "");
+    });
+    [].forEach.call(document.querySelectorAll("[data-cancion]"), function (a) {  // [30-oct] la canción, en el idioma CONTRARIO al de la web
+      a.href = "cancion.html?id=" + encodeURIComponent(a.dataset.cancion) + (idioma === "en" ? "&lang=en" : "");
     });
     [].forEach.call(document.querySelectorAll(".idioma button"), function (b) {
       b.setAttribute("aria-pressed", String(b.dataset.idioma === idioma));

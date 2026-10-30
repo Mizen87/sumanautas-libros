@@ -191,3 +191,16 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
   .filtros b { font-size: 14.5px; }
   .filtros button { padding: 8px 4px; }
 }
+
+/* ── [30-oct] las canciones: portada cuadrada, la bandera de lo que se canta y el título en ese idioma ── */
+.canciones { padding-top: 8px; }
+.lista-canciones { list-style: none; margin: 18px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 18px; }
+.cancion { background: #fff; border-radius: 18px; padding: 10px 10px 14px; box-shadow: 0 6px 18px rgba(15, 47, 107, .12); text-align: center; }
+.tapa-c { position: relative; display: block; border-radius: 14px; overflow: hidden; }
+.tapa-c img:first-child { width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; }
+.bandera-c { position: absolute; top: 8px; left: 8px; width: 34px; height: 24px; border-radius: 4px; box-shadow: 0 0 0 2px #fff; }
+.tapa-c .sello.muestra { position: absolute; top: 8px; right: 8px; }
+.cancion h3 { margin: 10px 4px 2px; font: 900 18px/1.2 var(--f-titulo); }
+.cancion h3 a { color: var(--tinta, #1f2a44); text-decoration: none; }
+.cancion .sub { margin: 0; color: var(--tinta-2, #4f5b76); font-size: 14px; }
+.sello.muestra { background: #1f2a44; color: #fff; }
