@@ -2953,12 +2953,12 @@
      {
       "seccion": "Verse 1",
       "texto": "The crab said, \"I am faster than you!\"",
-      "ini": 0.74,
+      "ini": 7.91,
       "fin": 11.08,
       "palabras": [
        {
         "t": "The",
-        "ini": 0.74,
+        "ini": 7.91,
         "fin": 8.36
        },
        {
@@ -5257,12 +5257,12 @@
      {
       "seccion": "Verse 3",
       "texto": "¡es la isla más amable del mundo… todo un tesoro!",
-      "ini": 94.18,
+      "ini": 96.25,
       "fin": 102.24,
       "palabras": [
        {
         "t": "¡es",
-        "ini": 94.18,
+        "ini": 96.25,
         "fin": 96.7
        },
        {
@@ -8251,12 +8251,12 @@
      {
       "seccion": "Bridge (call and response)",
       "texto": "¿Me lo enseña? —¡Venga, por aquí!",
-      "ini": 109.2,
+      "ini": 110.35,
       "fin": 114.1,
       "palabras": [
        {
         "t": "¿Me",
-        "ini": 109.2,
+        "ini": 110.35,
         "fin": 110.8
        },
        {
@@ -8290,12 +8290,12 @@
      {
       "seccion": "Bridge (call and response)",
       "texto": "¡Muchísimas gracias! —De nada, amigo.",
-      "ini": 114.1,
+      "ini": 115.77,
       "fin": 119.1,
       "palabras": [
        {
         "t": "¡Muchísimas",
-        "ini": 114.1,
+        "ini": 115.77,
         "fin": 116.22
        },
        {
@@ -8751,12 +8751,12 @@
      {
       "seccion": "Verse 1",
       "texto": "If I could fly, I would visit the moon,",
-      "ini": 0.68,
+      "ini": 11.29,
       "fin": 15.26,
       "palabras": [
        {
         "t": "If",
-        "ini": 0.68,
+        "ini": 11.29,
         "fin": 11.74
        },
        {
@@ -9692,12 +9692,12 @@
      {
       "seccion": "Bridge",
       "texto": "'Cause dreams are bigger when there are two.",
-      "ini": 109.06,
+      "ini": 110.37,
       "fin": 114.22,
       "palabras": [
        {
         "t": "'Cause",
-        "ini": 109.06,
+        "ini": 110.37,
         "fin": 110.82
        },
        {
@@ -10108,12 +10108,12 @@
      {
       "seccion": "Verse 1",
       "texto": "Si pudiera volar, iría a la Luna,",
-      "ini": 0.68,
+      "ini": 11.03,
       "fin": 14.3,
       "palabras": [
        {
         "t": "Si",
-        "ini": 0.68,
+        "ini": 11.03,
         "fin": 11.48
        },
        {
@@ -13966,12 +13966,12 @@
      {
       "seccion": "Verse 1",
       "texto": "Have you ever watched a whale jump high?",
-      "ini": 0.3,
+      "ini": 8.93,
       "fin": 12.28,
       "palabras": [
        {
         "t": "Have",
-        "ini": 0.3,
+        "ini": 8.93,
         "fin": 9.38
        },
        {
@@ -15398,12 +15398,12 @@
      {
       "seccion": "Verse 1",
       "texto": "¿Alguna vez has visto una ballena saltar?",
-      "ini": 0.28,
+      "ini": 8.87,
       "fin": 12.06,
       "palabras": [
        {
         "t": "¿Alguna",
-        "ini": 0.28,
+        "ini": 8.87,
         "fin": 9.32
        },
        {
@@ -16255,12 +16255,12 @@
      {
       "seccion": "Verse 3",
       "texto": "¿Alguna vez has ayudado a un amigo que está triste?",
-      "ini": 89.94,
+      "ini": 91.71,
       "fin": 98.14,
       "palabras": [
        {
         "t": "¿Alguna",
-        "ini": 89.94,
+        "ini": 91.71,
         "fin": 92.16
        },
        {
@@ -18990,12 +18990,12 @@
      {
       "seccion": "Verse 3",
       "texto": "¡Ring, ring! ¡Hola! —¿Y ahora qué estás haciendo?",
-      "ini": 80.94,
+      "ini": 97.43,
       "fin": 101.0,
       "palabras": [
        {
         "t": "¡Ring,",
-        "ini": 80.94,
+        "ini": 97.43,
         "fin": 97.88
        },
        {
@@ -19511,12 +19511,12 @@
      {
       "seccion": "Verse 1",
       "texto": "Open the map and look at it well,",
-      "ini": 0.32,
+      "ini": 10.17,
       "fin": 13.66,
       "palabras": [
        {
         "t": "Open",
-        "ini": 0.32,
+        "ini": 10.17,
         "fin": 10.62
        },
        {
@@ -20898,12 +20898,12 @@
      {
       "seccion": "Verse 1",
       "texto": "Abre el mapa y míralo bien,",
-      "ini": 0.32,
+      "ini": 10.17,
       "fin": 13.78,
       "palabras": [
        {
         "t": "Abre",
-        "ini": 0.32,
+        "ini": 10.17,
         "fin": 10.62
        },
        {
@@ -25123,12 +25123,12 @@
      {
       "seccion": "Verse 1",
       "texto": "Who is knocking at the door?",
-      "ini": 0.06,
+      "ini": 8.21,
       "fin": 11.62,
       "palabras": [
        {
         "t": "Who",
-        "ini": 0.06,
+        "ini": 8.21,
         "fin": 8.66
        },
        {
@@ -26385,12 +26385,12 @@
      {
       "seccion": "Verse 1",
       "texto": "¿Quién está llamando a la puerta?",
-      "ini": 0.04,
+      "ini": 8.03,
       "fin": 10.76,
       "palabras": [
        {
         "t": "¿Quién",
-        "ini": 0.04,
+        "ini": 8.03,
         "fin": 8.48
        },
        {
@@ -26424,12 +26424,12 @@
      {
       "seccion": "Verse 1",
       "texto": "¿Qué es ese ruido en la huerta?",
-      "ini": 10.88,
+      "ini": 11.95,
       "fin": 14.64,
       "palabras": [
        {
         "t": "¿Qué",
-        "ini": 10.88,
+        "ini": 11.95,
         "fin": 12.4
        },
        {
@@ -26468,12 +26468,12 @@
      {
       "seccion": "Verse 1",
       "texto": "¿Dónde está mi gorro? ¿Cuándo empieza la función?",
-      "ini": 14.76,
+      "ini": 15.83,
       "fin": 19.22,
       "palabras": [
        {
         "t": "¿Dónde",
-        "ini": 14.76,
+        "ini": 15.83,
         "fin": 16.28
        },
        {
@@ -26566,12 +26566,12 @@
      {
       "seccion": "Chorus",
       "texto": "¿Quién? ¿Qué? ¿Dónde? ¿Cuándo? ¿Por qué?",
-      "ini": 22.16,
+      "ini": 23.87,
       "fin": 26.86,
       "palabras": [
        {
         "t": "¿Quién?",
-        "ini": 22.16,
+        "ini": 23.87,
         "fin": 24.32
        },
        {
@@ -26605,12 +26605,12 @@
      {
       "seccion": "Chorus",
       "texto": "¡Pregunta, pregunta, y lo sabré!",
-      "ini": 26.86,
+      "ini": 28.03,
       "fin": 30.72,
       "palabras": [
        {
         "t": "¡Pregunta,",
-        "ini": 26.86,
+        "ini": 28.03,
         "fin": 28.48
        },
        {
@@ -26639,12 +26639,12 @@
      {
       "seccion": "Chorus",
       "texto": "¿Cómo? ¿Cuánto? ¿Cuántos? ¿Cuál?",
-      "ini": 30.84,
+      "ini": 31.95,
       "fin": 34.46,
       "palabras": [
        {
         "t": "¿Cómo?",
-        "ini": 30.84,
+        "ini": 31.95,
         "fin": 32.4
        },
        {
@@ -26702,12 +26702,12 @@
      {
       "seccion": "Verse 2",
       "texto": "¿Quién se ha comido las galletas? —¡Ni yo ni tú!",
-      "ini": 37.98,
+      "ini": 39.13,
       "fin": 42.82,
       "palabras": [
        {
         "t": "¿Quién",
-        "ini": 37.98,
+        "ini": 39.13,
         "fin": 39.58
        },
        {
@@ -26898,12 +26898,12 @@
      {
       "seccion": "Chorus",
       "texto": "¿Quién? ¿Qué? ¿Dónde? ¿Cuándo? ¿Por qué?",
-      "ini": 53.72,
+      "ini": 54.85,
       "fin": 57.8,
       "palabras": [
        {
         "t": "¿Quién?",
-        "ini": 53.72,
+        "ini": 54.85,
         "fin": 55.3
        },
        {
@@ -26971,12 +26971,12 @@
      {
       "seccion": "Chorus",
       "texto": "¿Cómo? ¿Cuánto? ¿Cuántos? ¿Cuál?",
-      "ini": 61.78,
+      "ini": 62.93,
       "fin": 65.44,
       "palabras": [
        {
         "t": "¿Cómo?",
-        "ini": 61.78,
+        "ini": 62.93,
         "fin": 63.38
        },
        {
@@ -27034,12 +27034,12 @@
      {
       "seccion": "Bridge",
       "texto": "¿Cuándo? ¡Mañana! ¿Dónde? ¡Aquí! ¿Quién? ¡Tú y yo! ¿Por qué? ¡Porque sí!",
-      "ini": 68.96,
+      "ini": 70.31,
       "fin": 77.14,
       "palabras": [
        {
         "t": "¿Cuándo?",
-        "ini": 68.96,
+        "ini": 70.31,
         "fin": 70.76
        },
        {
@@ -27103,12 +27103,12 @@
      {
       "seccion": "Bridge",
       "texto": "¿Cuántos? ¡Tres! ¿Cuánto? ¡Nada! ¿Cuál? ¡Este de aquí!",
-      "ini": 77.14,
+      "ini": 78.27,
       "fin": 83.96,
       "palabras": [
        {
         "t": "¿Cuántos?",
-        "ini": 77.14,
+        "ini": 78.27,
         "fin": 78.72
        },
        {
@@ -27386,12 +27386,12 @@
      {
       "seccion": "Final Chorus",
       "texto": "¿Quién? ¿Qué? ¿Dónde? ¿Cuándo? ¿Por qué?",
-      "ini": 115.4,
+      "ini": 116.77,
       "fin": 119.72,
       "palabras": [
        {
         "t": "¿Quién?",
-        "ini": 115.4,
+        "ini": 116.77,
         "fin": 117.22
        },
        {
@@ -27578,12 +27578,12 @@
      {
       "seccion": "Verse 1",
       "texto": "My grandma dances flamenco in the kitchen every day,",
-      "ini": 0.0,
+      "ini": 7.97,
       "fin": 11.86,
       "palabras": [
        {
         "t": "My",
-        "ini": 0.0,
+        "ini": 7.97,
         "fin": 8.42
        },
        {
@@ -32355,12 +32355,12 @@
      {
       "seccion": "Verse 1",
       "texto": "El capitán Huesos sabe navegar, sabe leer un mapa,",
-      "ini": 0.56,
+      "ini": 8.29,
       "fin": 12.8,
       "palabras": [
        {
         "t": "El",
-        "ini": 0.56,
+        "ini": 8.29,
         "fin": 8.74
        },
        {
@@ -35480,12 +35480,12 @@
      {
       "seccion": "Verse 1",
       "texto": "Viajo en mi cohete, paso la Luna y Marte,",
-      "ini": 0.0,
+      "ini": 9.99,
       "fin": 13.8,
       "palabras": [
        {
         "t": "Viajo",
-        "ini": 0.0,
+        "ini": 9.99,
         "fin": 10.44
        },
        {
@@ -35863,12 +35863,12 @@
      {
       "seccion": "Chorus",
       "texto": "¡en el universo tan grande, nadie es pequeño!",
-      "ini": 42.0,
+      "ini": 43.35,
       "fin": 47.54,
       "palabras": [
        {
         "t": "¡en",
-        "ini": 42.0,
+        "ini": 43.35,
         "fin": 43.8
        },
        {
@@ -36290,12 +36290,12 @@
      {
       "seccion": "Chorus",
       "texto": "¡en el universo tan grande, nadie es pequeño!",
-      "ini": 80.24,
+      "ini": 81.75,
       "fin": 85.94,
       "palabras": [
        {
         "t": "¡en",
-        "ini": 80.24,
+        "ini": 81.75,
         "fin": 82.2
        },
        {
@@ -36555,12 +36555,12 @@
      {
       "seccion": "Final Chorus",
       "texto": "¿Hay vida en otros planetas? ¿Hay alguien más allá?",
-      "ini": 122.22,
+      "ini": 124.93,
       "fin": 129.0,
       "palabras": [
        {
         "t": "¿Hay",
-        "ini": 122.22,
+        "ini": 124.93,
         "fin": 125.38
        },
        {
@@ -36707,12 +36707,12 @@
      {
       "seccion": "Final Chorus",
       "texto": "¡en el universo tan grande, nadie es pequeño!",
-      "ini": 138.0,
+      "ini": 139.39,
       "fin": 143.56,
       "palabras": [
        {
         "t": "¡en",
-        "ini": 138.0,
+        "ini": 139.39,
         "fin": 139.84
        },
        {
@@ -36908,12 +36908,12 @@
      {
       "seccion": "Final Chorus",
       "texto": "¡en el universo tan grande, nadie es pequeño!",
-      "ini": 157.06,
+      "ini": 158.55,
       "fin": 162.74,
       "palabras": [
        {
         "t": "¡en",
-        "ini": 157.06,
+        "ini": 158.55,
         "fin": 159.0
        },
        {
@@ -37013,12 +37013,12 @@
      {
       "seccion": "Verse 1",
       "texto": "My grandma used to sing while she was cooking rice,",
-      "ini": 0.16,
+      "ini": 9.47,
       "fin": 13.24,
       "palabras": [
        {
         "t": "My",
-        "ini": 0.16,
+        "ini": 9.47,
         "fin": 9.92
        },
        {
