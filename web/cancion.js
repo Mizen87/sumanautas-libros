@@ -30,6 +30,19 @@
   var seguido = lee("sumanautas-seguido") === "1", tSig = 0;
 
   function T() { return TXT[idioma]; }
+  /* [30-oct, él: «en el texto de CarPlay, ponerlo en negrita, más gordo»] CarPlay no deja elegir la letra, pero hay letras que YA son
+     negritas (las «sans-serif bold» de Unicode): se cambian a-z, A-Z y 0-9; las tildes y la ñ van como acento encima (á = a + ´) */
+  function negrita(t) {
+    var out = "";
+    String(t).normalize("NFD").split("").forEach(function (ch) {
+      var n = ch.charCodeAt(0);
+      if (n >= 65 && n <= 90) out += String.fromCodePoint(0x1D5D4 + n - 65);
+      else if (n >= 97 && n <= 122) out += String.fromCodePoint(0x1D5EE + n - 97);
+      else if (n >= 48 && n <= 57) out += String.fromCodePoint(0x1D7EC + n - 48);
+      else out += ch;
+    });
+    return out;
+  }
   /* el tamaño de la letra (px): 16-56 ([30-oct, él] «que pueda aumentarla más»); sin guardar, el de la pantalla */
   function letraPx(v) {
     if (v === undefined) { var g = parseInt(lee("sumanautas-letra-cancion"), 10); return g >= 16 && g <= 56 ? g : (window.innerWidth < 760 ? 20 : 22); }
@@ -167,7 +180,7 @@
     // ([30-oct, él: «que no parpadee»] la portada se manda UNA vez por canción; en cada frase solo se cambia el texto)
     function meta(k) {
       if (!("mediaSession" in navigator) || typeof MediaMetadata === "undefined") return;
-      var ln = k >= 0 ? letra[k] : null, ti = ln ? ln[0] : titulo, ar = ln ? (ln[3] || (otra[k] || ln)[0]) : trad, md = navigator.mediaSession.metadata;
+      var ln = k >= 0 ? letra[k] : null, ti = negrita(ln ? ln[0] : titulo), ar = negrita(ln ? (ln[3] || (otra[k] || ln)[0]) : trad), md = navigator.mediaSession.metadata;
       try {
         if (md && metaDe === c.id + idioma) { md.title = ti; md.artist = ar; if (md.title === ti) return; }
         navigator.mediaSession.metadata = new MediaMetadata({ title: ti, artist: ar,
