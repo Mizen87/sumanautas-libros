@@ -9045,7 +9045,7 @@
         "fin": 41.38
        }
       ],
-      "trad": "Soñar a lo grande y hacerlo bien."
+      "trad": "Sueña a lo grande y hazlo bien."
      },
      {
       "seccion": "Chorus",
@@ -9192,7 +9192,7 @@
         "fin": 56.94
        }
       ],
-      "trad": "Si fuera un gigante, iría despacio y con cuidado,"
+      "trad": "Si fuera un gigante, iría bien despacio,"
      },
      {
       "seccion": "Verse 2",
@@ -9427,7 +9427,7 @@
         "fin": 83.12
        }
       ],
-      "trad": "Soñar a lo grande y hacerlo bien."
+      "trad": "Sueña a lo grande y hazlo bien."
      },
      {
       "seccion": "Chorus",
@@ -9829,7 +9829,7 @@
         "fin": 124.84
        }
       ],
-      "trad": "Soñar a lo grande y hacerlo bien."
+      "trad": "Sueña a lo grande y hazlo bien."
      },
      {
       "seccion": "Final Chorus",
@@ -10010,7 +10010,7 @@
         "fin": 145.74
        }
       ],
-      "trad": "Soñar a lo grande y hacerlo bien."
+      "trad": "Sueña a lo grande y hazlo bien."
      },
      {
       "seccion": "Final Chorus",
@@ -11350,7 +11350,7 @@
         "fin": 11.66
        }
       ],
-      "trad": "La semana que viene voy a hacer la maleta,"
+      "trad": "La semana que viene voy a hacer mi maleta,"
      },
      {
       "seccion": "Verse 1",
@@ -14216,7 +14216,7 @@
         "fin": 28.94
        }
       ],
-      "trad": "¿Has alguna vez, has alguna vez…?"
+      "trad": "¿Has hecho alguna vez, has hecho alguna vez…?"
      },
      {
       "seccion": "Chorus",
@@ -14613,7 +14613,7 @@
         "fin": 62.04
        }
       ],
-      "trad": "¿Has alguna vez, has alguna vez…?"
+      "trad": "¿Has hecho alguna vez, has hecho alguna vez…?"
      },
      {
       "seccion": "Chorus",
@@ -15055,7 +15055,7 @@
         "fin": 111.7
        }
       ],
-      "trad": "¿Has alguna vez, has alguna vez…?"
+      "trad": "¿Has hecho alguna vez, has hecho alguna vez…?"
      },
      {
       "seccion": "Final Chorus",
@@ -15241,7 +15241,7 @@
         "fin": 128.24
        }
       ],
-      "trad": "¿Has alguna vez, has alguna vez…?"
+      "trad": "¿Has hecho alguna vez, has hecho alguna vez…?"
      },
      {
       "seccion": "Final Chorus",
@@ -24176,7 +24176,7 @@
         "fin": 41.34
        }
       ],
-      "trad": "I feel like singing, and that's why I came!"
+      "trad": "I feel like singing, and that's why I come!"
      },
      {
       "seccion": "Verse 2",
@@ -24563,7 +24563,7 @@
         "fin": 74.6
        }
       ],
-      "trad": "I feel like singing, and that's why I came!"
+      "trad": "I feel like singing, and that's why I come!"
      },
      {
       "seccion": "Bridge",
@@ -24861,7 +24861,7 @@
         "fin": 103.84
        }
       ],
-      "trad": "I feel like singing, and that's why I came!"
+      "trad": "I feel like singing, and that's why I come!"
      },
      {
       "seccion": "Final Chorus",
@@ -25062,7 +25062,7 @@
         "fin": 120.52
        }
       ],
-      "trad": "I feel like singing, and that's why I came!"
+      "trad": "I feel like singing, and that's why I come!"
      }
     ],
     "duracion": 129.38
@@ -26463,7 +26463,7 @@
         "fin": 14.64
        }
       ],
-      "trad": "What's that noise in the garden?"
+      "trad": "What's that noise in the vegetable garden?"
      },
      {
       "seccion": "Verse 1",
@@ -26561,7 +26561,7 @@
         "fin": 22.16
        }
       ],
-      "trad": "Why is the cat sleeping in my chair?"
+      "trad": "Why is the cat sleeping in my armchair?"
      },
      {
       "seccion": "Chorus",
@@ -27098,7 +27098,7 @@
         "fin": 77.14
        }
       ],
-      "trad": "When? Tomorrow! Where? Here! Who? You and me! Why? Just because!"
+      "trad": "When? Tomorrow! Where? Here! Who? You and I! Why? Just because!"
      },
      {
       "seccion": "Bridge",
@@ -33262,7 +33262,7 @@
         "fin": 94.26
        }
       ],
-      "trad": "Before I couldn't, now yes… and you too, we'll see!"
+      "trad": "Before I couldn't, now I can… and you too, we'll see!"
      },
      {
       "seccion": "Verse 3",
@@ -36998,6 +36998,3391 @@
       "En el bolsillo",
       "En el motor del cohete",
       "En un zapato"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "14-abuelos-corazon",
+   "titulo_en": "Grandma and Grandpa, in My Heart",
+   "titulo_es": "Abuelos de mi corazón",
+   "ensena_en": "talking about the past with «used to» (she used to sing, he used to read)",
+   "ensena_es": "el pretérito imperfecto (me cantaba, me contaba, cocinaba, leía)",
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Verse 1",
+      "texto": "My grandma used to sing while she was cooking rice,",
+      "ini": 0.16,
+      "fin": 13.24,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 0.16,
+        "fin": 9.92
+       },
+       {
+        "t": "grandma",
+        "ini": 9.96,
+        "fin": 10.34
+       },
+       {
+        "t": "used",
+        "ini": 10.46,
+        "fin": 10.68
+       },
+       {
+        "t": "to",
+        "ini": 10.72,
+        "fin": 10.82
+       },
+       {
+        "t": "sing",
+        "ini": 10.92,
+        "fin": 11.22
+       },
+       {
+        "t": "while",
+        "ini": 11.3,
+        "fin": 11.44
+       },
+       {
+        "t": "she",
+        "ini": 11.56,
+        "fin": 11.68
+       },
+       {
+        "t": "was",
+        "ini": 11.9,
+        "fin": 12.1
+       },
+       {
+        "t": "cooking",
+        "ini": 12.18,
+        "fin": 12.64
+       },
+       {
+        "t": "rice,",
+        "ini": 12.74,
+        "fin": 13.24
+       }
+      ],
+      "trad": "Mi abuela solía cantar mientras cocinaba arroz,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "she used to dance flamenco and she always said: «Be nice!»",
+      "ini": 13.86,
+      "fin": 17.88,
+      "palabras": [
+       {
+        "t": "she",
+        "ini": 13.86,
+        "fin": 13.98
+       },
+       {
+        "t": "used",
+        "ini": 14.06,
+        "fin": 14.24
+       },
+       {
+        "t": "to",
+        "ini": 14.28,
+        "fin": 14.4
+       },
+       {
+        "t": "dance",
+        "ini": 14.44,
+        "fin": 14.7
+       },
+       {
+        "t": "flamenco",
+        "ini": 14.76,
+        "fin": 15.56
+       },
+       {
+        "t": "and",
+        "ini": 15.64,
+        "fin": 15.78
+       },
+       {
+        "t": "she",
+        "ini": 15.88,
+        "fin": 16.18
+       },
+       {
+        "t": "always",
+        "ini": 16.28,
+        "fin": 16.68
+       },
+       {
+        "t": "said:",
+        "ini": 16.76,
+        "fin": 16.98
+       },
+       {
+        "t": "«Be",
+        "ini": 17.02,
+        "fin": 17.16
+       },
+       {
+        "t": "nice!»",
+        "ini": 17.3,
+        "fin": 17.88
+       }
+      ],
+      "trad": "Ella solía bailar flamenco y siempre decía: «¡Sé amable!»"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "My grandpa used to tell me stories by the fire,",
+      "ini": 19.06,
+      "fin": 22.34,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 19.06,
+        "fin": 19.14
+       },
+       {
+        "t": "grandpa",
+        "ini": 19.18,
+        "fin": 19.58
+       },
+       {
+        "t": "used",
+        "ini": 19.7,
+        "fin": 19.9
+       },
+       {
+        "t": "to",
+        "ini": 19.96,
+        "fin": 20.04
+       },
+       {
+        "t": "tell",
+        "ini": 20.24,
+        "fin": 20.46
+       },
+       {
+        "t": "me",
+        "ini": 20.52,
+        "fin": 20.62
+       },
+       {
+        "t": "stories",
+        "ini": 20.7,
+        "fin": 21.28
+       },
+       {
+        "t": "by",
+        "ini": 21.4,
+        "fin": 21.7
+       },
+       {
+        "t": "the",
+        "ini": 21.76,
+        "fin": 21.84
+       },
+       {
+        "t": "fire,",
+        "ini": 21.94,
+        "fin": 22.34
+       }
+      ],
+      "trad": "Mi abuelo solía contarme historias junto al fuego,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "and every story ended with a laugh that flew up higher!",
+      "ini": 23.12,
+      "fin": 27.52,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 23.12,
+        "fin": 23.24
+       },
+       {
+        "t": "every",
+        "ini": 23.3,
+        "fin": 23.5
+       },
+       {
+        "t": "story",
+        "ini": 23.66,
+        "fin": 24.24
+       },
+       {
+        "t": "ended",
+        "ini": 24.3,
+        "fin": 24.76
+       },
+       {
+        "t": "with",
+        "ini": 24.88,
+        "fin": 25.12
+       },
+       {
+        "t": "a",
+        "ini": 25.2,
+        "fin": 25.24
+       },
+       {
+        "t": "laugh",
+        "ini": 25.42,
+        "fin": 25.68
+       },
+       {
+        "t": "that",
+        "ini": 25.74,
+        "fin": 25.88
+       },
+       {
+        "t": "flew",
+        "ini": 25.96,
+        "fin": 26.26
+       },
+       {
+        "t": "up",
+        "ini": 26.36,
+        "fin": 26.5
+       },
+       {
+        "t": "higher!",
+        "ini": 26.56,
+        "fin": 27.52
+       }
+      ],
+      "trad": "Y cada historia terminaba con una risa que volaba más alto!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "I remember, I remember every song and every hug,",
+      "ini": 27.96,
+      "fin": 31.74,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 27.96,
+        "fin": 28.08
+       },
+       {
+        "t": "remember,",
+        "ini": 28.14,
+        "fin": 28.86
+       },
+       {
+        "t": "I",
+        "ini": 29.0,
+        "fin": 29.06
+       },
+       {
+        "t": "remember",
+        "ini": 29.2,
+        "fin": 29.84
+       },
+       {
+        "t": "every",
+        "ini": 29.92,
+        "fin": 30.1
+       },
+       {
+        "t": "song",
+        "ini": 30.16,
+        "fin": 30.46
+       },
+       {
+        "t": "and",
+        "ini": 30.48,
+        "fin": 30.62
+       },
+       {
+        "t": "every",
+        "ini": 30.7,
+        "fin": 31.08
+       },
+       {
+        "t": "hug,",
+        "ini": 31.2,
+        "fin": 31.74
+       }
+      ],
+      "trad": "Recuerdo, recuerdo cada canción y cada abrazo,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "you're not here anymore, but you're living in my heart,",
+      "ini": 32.32,
+      "fin": 36.34,
+      "palabras": [
+       {
+        "t": "you're",
+        "ini": 32.32,
+        "fin": 32.42
+       },
+       {
+        "t": "not",
+        "ini": 32.48,
+        "fin": 32.62
+       },
+       {
+        "t": "here",
+        "ini": 32.68,
+        "fin": 32.9
+       },
+       {
+        "t": "anymore,",
+        "ini": 33.0,
+        "fin": 33.88
+       },
+       {
+        "t": "but",
+        "ini": 34.34,
+        "fin": 34.44
+       },
+       {
+        "t": "you're",
+        "ini": 34.52,
+        "fin": 34.7
+       },
+       {
+        "t": "living",
+        "ini": 34.76,
+        "fin": 35.22
+       },
+       {
+        "t": "in",
+        "ini": 35.28,
+        "fin": 35.44
+       },
+       {
+        "t": "my",
+        "ini": 35.52,
+        "fin": 35.7
+       },
+       {
+        "t": "heart,",
+        "ini": 35.82,
+        "fin": 36.34
+       }
+      ],
+      "trad": "Ya no estás aquí, pero vives en mi corazón,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "so I sing and dance the way you taught me from the start,",
+      "ini": 37.08,
+      "fin": 40.88,
+      "palabras": [
+       {
+        "t": "so",
+        "ini": 37.08,
+        "fin": 37.24
+       },
+       {
+        "t": "I",
+        "ini": 37.34,
+        "fin": 37.44
+       },
+       {
+        "t": "sing",
+        "ini": 37.54,
+        "fin": 37.82
+       },
+       {
+        "t": "and",
+        "ini": 37.86,
+        "fin": 38.04
+       },
+       {
+        "t": "dance",
+        "ini": 38.1,
+        "fin": 38.38
+       },
+       {
+        "t": "the",
+        "ini": 38.46,
+        "fin": 38.62
+       },
+       {
+        "t": "way",
+        "ini": 38.68,
+        "fin": 38.92
+       },
+       {
+        "t": "you",
+        "ini": 39.0,
+        "fin": 39.1
+       },
+       {
+        "t": "taught",
+        "ini": 39.26,
+        "fin": 39.5
+       },
+       {
+        "t": "me",
+        "ini": 39.56,
+        "fin": 39.66
+       },
+       {
+        "t": "from",
+        "ini": 39.82,
+        "fin": 40.08
+       },
+       {
+        "t": "the",
+        "ini": 40.16,
+        "fin": 40.24
+       },
+       {
+        "t": "start,",
+        "ini": 40.38,
+        "fin": 40.88
+       }
+      ],
+      "trad": "Así que canto y bailo como me enseñaste desde el principio,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "clap your hands for Grandma and Grandpa — olé, olé!",
+      "ini": 41.56,
+      "fin": 45.42,
+      "palabras": [
+       {
+        "t": "clap",
+        "ini": 41.56,
+        "fin": 41.84
+       },
+       {
+        "t": "your",
+        "ini": 41.9,
+        "fin": 42.06
+       },
+       {
+        "t": "hands",
+        "ini": 42.12,
+        "fin": 42.4
+       },
+       {
+        "t": "for",
+        "ini": 42.44,
+        "fin": 42.62
+       },
+       {
+        "t": "Grandma",
+        "ini": 42.68,
+        "fin": 43.28
+       },
+       {
+        "t": "and",
+        "ini": 43.6,
+        "fin": 43.78
+       },
+       {
+        "t": "Grandpa",
+        "ini": 43.86,
+        "fin": 44.3
+       },
+       {
+        "t": "—",
+        "ini": 44.32,
+        "fin": 44.32
+       },
+       {
+        "t": "olé,",
+        "ini": 44.54,
+        "fin": 44.8
+       },
+       {
+        "t": "olé!",
+        "ini": 44.86,
+        "fin": 45.42
+       }
+      ],
+      "trad": "¡Da palmas por la abuela y el abuelo — olé, olé!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "I remember Grandma's garden, full of tomatoes and roses,",
+      "ini": 47.12,
+      "fin": 51.6,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 47.12,
+        "fin": 47.18
+       },
+       {
+        "t": "remember",
+        "ini": 47.22,
+        "fin": 47.78
+       },
+       {
+        "t": "Grandma's",
+        "ini": 47.88,
+        "fin": 48.42
+       },
+       {
+        "t": "garden,",
+        "ini": 48.52,
+        "fin": 49.04
+       },
+       {
+        "t": "full",
+        "ini": 49.36,
+        "fin": 49.48
+       },
+       {
+        "t": "of",
+        "ini": 49.52,
+        "fin": 49.6
+       },
+       {
+        "t": "tomatoes",
+        "ini": 49.64,
+        "fin": 50.52
+       },
+       {
+        "t": "and",
+        "ini": 50.56,
+        "fin": 50.68
+       },
+       {
+        "t": "roses,",
+        "ini": 50.82,
+        "fin": 51.6
+       }
+      ],
+      "trad": "Recuerdo el jardín de la abuela, lleno de tomates y rosas,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "and Grandpa whistling tunes to every butterfly that goes.",
+      "ini": 51.96,
+      "fin": 55.92,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 51.96,
+        "fin": 52.02
+       },
+       {
+        "t": "Grandpa",
+        "ini": 52.06,
+        "fin": 52.44
+       },
+       {
+        "t": "whistling",
+        "ini": 52.54,
+        "fin": 53.0
+       },
+       {
+        "t": "tunes",
+        "ini": 53.12,
+        "fin": 53.5
+       },
+       {
+        "t": "to",
+        "ini": 53.54,
+        "fin": 53.66
+       },
+       {
+        "t": "every",
+        "ini": 53.8,
+        "fin": 54.14
+       },
+       {
+        "t": "butterfly",
+        "ini": 54.28,
+        "fin": 55.1
+       },
+       {
+        "t": "that",
+        "ini": 55.16,
+        "fin": 55.36
+       },
+       {
+        "t": "goes.",
+        "ini": 55.42,
+        "fin": 55.92
+       }
+      ],
+      "trad": "Y el abuelo silbando melodías a cada mariposa que pasa."
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Now I water the garden and I whistle like him too,",
+      "ini": 56.4,
+      "fin": 60.28,
+      "palabras": [
+       {
+        "t": "Now",
+        "ini": 56.4,
+        "fin": 56.56
+       },
+       {
+        "t": "I",
+        "ini": 56.64,
+        "fin": 56.7
+       },
+       {
+        "t": "water",
+        "ini": 56.76,
+        "fin": 57.4
+       },
+       {
+        "t": "the",
+        "ini": 57.56,
+        "fin": 57.68
+       },
+       {
+        "t": "garden",
+        "ini": 57.72,
+        "fin": 58.28
+       },
+       {
+        "t": "and",
+        "ini": 58.62,
+        "fin": 58.72
+       },
+       {
+        "t": "I",
+        "ini": 58.86,
+        "fin": 58.94
+       },
+       {
+        "t": "whistle",
+        "ini": 58.98,
+        "fin": 59.38
+       },
+       {
+        "t": "like",
+        "ini": 59.44,
+        "fin": 59.7
+       },
+       {
+        "t": "him",
+        "ini": 59.74,
+        "fin": 59.94
+       },
+       {
+        "t": "too,",
+        "ini": 60.02,
+        "fin": 60.28
+       }
+      ],
+      "trad": "Ahora riego el jardín y silbo como él también,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "and when I laugh like Grandpa, Mom says: «He's right here with you!»",
+      "ini": 60.9,
+      "fin": 64.34,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 60.9,
+        "fin": 61.0
+       },
+       {
+        "t": "when",
+        "ini": 61.04,
+        "fin": 61.18
+       },
+       {
+        "t": "I",
+        "ini": 61.24,
+        "fin": 61.28
+       },
+       {
+        "t": "laugh",
+        "ini": 61.32,
+        "fin": 61.5
+       },
+       {
+        "t": "like",
+        "ini": 61.54,
+        "fin": 61.7
+       },
+       {
+        "t": "Grandpa,",
+        "ini": 61.74,
+        "fin": 62.16
+       },
+       {
+        "t": "Mom",
+        "ini": 62.32,
+        "fin": 62.5
+       },
+       {
+        "t": "says:",
+        "ini": 62.62,
+        "fin": 62.86
+       },
+       {
+        "t": "«He's",
+        "ini": 62.9,
+        "fin": 63.16
+       },
+       {
+        "t": "right",
+        "ini": 63.24,
+        "fin": 63.5
+       },
+       {
+        "t": "here",
+        "ini": 63.62,
+        "fin": 63.86
+       },
+       {
+        "t": "with",
+        "ini": 63.9,
+        "fin": 64.04
+       },
+       {
+        "t": "you!»",
+        "ini": 64.12,
+        "fin": 64.34
+       }
+      ],
+      "trad": "Y cuando río como el abuelo, mamá dice: «¡Está justo aquí contigo!»"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "I remember, I remember every song and every hug,",
+      "ini": 66.06,
+      "fin": 69.82,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 66.06,
+        "fin": 66.18
+       },
+       {
+        "t": "remember,",
+        "ini": 66.22,
+        "fin": 66.94
+       },
+       {
+        "t": "I",
+        "ini": 67.08,
+        "fin": 67.14
+       },
+       {
+        "t": "remember",
+        "ini": 67.28,
+        "fin": 67.94
+       },
+       {
+        "t": "every",
+        "ini": 68.0,
+        "fin": 68.14
+       },
+       {
+        "t": "song",
+        "ini": 68.24,
+        "fin": 68.54
+       },
+       {
+        "t": "and",
+        "ini": 68.56,
+        "fin": 68.7
+       },
+       {
+        "t": "every",
+        "ini": 68.8,
+        "fin": 69.16
+       },
+       {
+        "t": "hug,",
+        "ini": 69.28,
+        "fin": 69.82
+       }
+      ],
+      "trad": "Recuerdo, recuerdo cada canción y cada abrazo,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "you're not here anymore, but you're living in my heart,",
+      "ini": 70.42,
+      "fin": 74.5,
+      "palabras": [
+       {
+        "t": "you're",
+        "ini": 70.42,
+        "fin": 70.5
+       },
+       {
+        "t": "not",
+        "ini": 70.56,
+        "fin": 70.7
+       },
+       {
+        "t": "here",
+        "ini": 70.74,
+        "fin": 70.98
+       },
+       {
+        "t": "anymore,",
+        "ini": 71.08,
+        "fin": 71.96
+       },
+       {
+        "t": "but",
+        "ini": 72.42,
+        "fin": 72.52
+       },
+       {
+        "t": "you're",
+        "ini": 72.6,
+        "fin": 72.8
+       },
+       {
+        "t": "living",
+        "ini": 72.86,
+        "fin": 73.32
+       },
+       {
+        "t": "in",
+        "ini": 73.36,
+        "fin": 73.5
+       },
+       {
+        "t": "my",
+        "ini": 73.58,
+        "fin": 73.84
+       },
+       {
+        "t": "heart,",
+        "ini": 73.9,
+        "fin": 74.5
+       }
+      ],
+      "trad": "Ya no estás aquí, pero vives en mi corazón,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "so I sing and dance the way you taught me from the start,",
+      "ini": 75.16,
+      "fin": 78.98,
+      "palabras": [
+       {
+        "t": "so",
+        "ini": 75.16,
+        "fin": 75.32
+       },
+       {
+        "t": "I",
+        "ini": 75.42,
+        "fin": 75.5
+       },
+       {
+        "t": "sing",
+        "ini": 75.58,
+        "fin": 75.88
+       },
+       {
+        "t": "and",
+        "ini": 75.94,
+        "fin": 76.1
+       },
+       {
+        "t": "dance",
+        "ini": 76.18,
+        "fin": 76.46
+       },
+       {
+        "t": "the",
+        "ini": 76.54,
+        "fin": 76.68
+       },
+       {
+        "t": "way",
+        "ini": 76.74,
+        "fin": 77.0
+       },
+       {
+        "t": "you",
+        "ini": 77.1,
+        "fin": 77.26
+       },
+       {
+        "t": "taught",
+        "ini": 77.32,
+        "fin": 77.58
+       },
+       {
+        "t": "me",
+        "ini": 77.64,
+        "fin": 77.74
+       },
+       {
+        "t": "from",
+        "ini": 77.9,
+        "fin": 78.16
+       },
+       {
+        "t": "the",
+        "ini": 78.22,
+        "fin": 78.3
+       },
+       {
+        "t": "start,",
+        "ini": 78.44,
+        "fin": 78.98
+       }
+      ],
+      "trad": "Así que canto y bailo como me enseñaste desde el principio,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "clap your hands for Grandma and Grandpa — olé, olé!",
+      "ini": 79.66,
+      "fin": 83.38,
+      "palabras": [
+       {
+        "t": "clap",
+        "ini": 79.66,
+        "fin": 79.94
+       },
+       {
+        "t": "your",
+        "ini": 79.98,
+        "fin": 80.14
+       },
+       {
+        "t": "hands",
+        "ini": 80.2,
+        "fin": 80.48
+       },
+       {
+        "t": "for",
+        "ini": 80.52,
+        "fin": 80.68
+       },
+       {
+        "t": "Grandma",
+        "ini": 80.78,
+        "fin": 81.36
+       },
+       {
+        "t": "and",
+        "ini": 81.7,
+        "fin": 81.84
+       },
+       {
+        "t": "Grandpa",
+        "ini": 81.92,
+        "fin": 82.48
+       },
+       {
+        "t": "—",
+        "ini": 82.48,
+        "fin": 82.48
+       },
+       {
+        "t": "olé,",
+        "ini": 82.64,
+        "fin": 82.86
+       },
+       {
+        "t": "olé!",
+        "ini": 82.92,
+        "fin": 83.38
+       }
+      ],
+      "trad": "¡Da palmas por la abuela y el abuelo — olé, olé!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "She used to cook, he used to read, they used to sing with me…",
+      "ini": 83.64,
+      "fin": 91.58,
+      "palabras": [
+       {
+        "t": "She",
+        "ini": 83.64,
+        "fin": 83.8
+       },
+       {
+        "t": "used",
+        "ini": 83.88,
+        "fin": 84.08
+       },
+       {
+        "t": "to",
+        "ini": 84.12,
+        "fin": 84.22
+       },
+       {
+        "t": "cook,",
+        "ini": 84.28,
+        "fin": 84.64
+       },
+       {
+        "t": "he",
+        "ini": 85.96,
+        "fin": 86.08
+       },
+       {
+        "t": "used",
+        "ini": 86.16,
+        "fin": 86.36
+       },
+       {
+        "t": "to",
+        "ini": 86.44,
+        "fin": 86.56
+       },
+       {
+        "t": "read,",
+        "ini": 86.64,
+        "fin": 87.12
+       },
+       {
+        "t": "they",
+        "ini": 88.26,
+        "fin": 88.42
+       },
+       {
+        "t": "used",
+        "ini": 88.5,
+        "fin": 88.68
+       },
+       {
+        "t": "to",
+        "ini": 88.7,
+        "fin": 88.82
+       },
+       {
+        "t": "sing",
+        "ini": 88.92,
+        "fin": 89.72
+       },
+       {
+        "t": "with",
+        "ini": 90.88,
+        "fin": 91.14
+       },
+       {
+        "t": "me…",
+        "ini": 91.2,
+        "fin": 91.58
+       }
+      ],
+      "trad": "Ella solía cocinar, él solía leer, solían cantar conmigo…"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "and now I cook, and now I read, and now I sing — you see?",
+      "ini": 92.9,
+      "fin": 100.8,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 92.9,
+        "fin": 93.0
+       },
+       {
+        "t": "now",
+        "ini": 93.06,
+        "fin": 93.24
+       },
+       {
+        "t": "I",
+        "ini": 93.32,
+        "fin": 93.38
+       },
+       {
+        "t": "cook,",
+        "ini": 93.5,
+        "fin": 93.88
+       },
+       {
+        "t": "and",
+        "ini": 95.22,
+        "fin": 95.32
+       },
+       {
+        "t": "now",
+        "ini": 95.38,
+        "fin": 95.56
+       },
+       {
+        "t": "I",
+        "ini": 95.62,
+        "fin": 95.74
+       },
+       {
+        "t": "read,",
+        "ini": 95.82,
+        "fin": 96.3
+       },
+       {
+        "t": "and",
+        "ini": 97.5,
+        "fin": 97.62
+       },
+       {
+        "t": "now",
+        "ini": 97.66,
+        "fin": 97.84
+       },
+       {
+        "t": "I",
+        "ini": 98.02,
+        "fin": 98.06
+       },
+       {
+        "t": "sing",
+        "ini": 98.24,
+        "fin": 99.08
+       },
+       {
+        "t": "—",
+        "ini": 99.08,
+        "fin": 99.08
+       },
+       {
+        "t": "you",
+        "ini": 100.12,
+        "fin": 100.24
+       },
+       {
+        "t": "see?",
+        "ini": 100.42,
+        "fin": 100.8
+       }
+      ],
+      "trad": "Y ahora cocino, y ahora leo, y ahora canto — ¿ves?"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "When I see the stars at night, I say: «Goodnight, I love you!»",
+      "ini": 102.44,
+      "fin": 110.0,
+      "palabras": [
+       {
+        "t": "When",
+        "ini": 102.44,
+        "fin": 102.54
+       },
+       {
+        "t": "I",
+        "ini": 102.6,
+        "fin": 102.66
+       },
+       {
+        "t": "see",
+        "ini": 102.76,
+        "fin": 103.08
+       },
+       {
+        "t": "the",
+        "ini": 103.12,
+        "fin": 103.2
+       },
+       {
+        "t": "stars",
+        "ini": 103.28,
+        "fin": 103.62
+       },
+       {
+        "t": "at",
+        "ini": 103.66,
+        "fin": 103.82
+       },
+       {
+        "t": "night,",
+        "ini": 103.9,
+        "fin": 104.22
+       },
+       {
+        "t": "I",
+        "ini": 104.32,
+        "fin": 104.36
+       },
+       {
+        "t": "say:",
+        "ini": 104.58,
+        "fin": 105.0
+       },
+       {
+        "t": "«Goodnight,",
+        "ini": 105.0,
+        "fin": 107.8
+       },
+       {
+        "t": "I",
+        "ini": 109.18,
+        "fin": 109.26
+       },
+       {
+        "t": "love",
+        "ini": 109.36,
+        "fin": 109.66
+       },
+       {
+        "t": "you!»",
+        "ini": 109.76,
+        "fin": 110.0
+       }
+      ],
+      "trad": "Cuando veo las estrellas por la noche, digo: «¡Buenas noches, os quiero!»"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "and the brightest little star is winking back — it's true!",
+      "ini": 111.68,
+      "fin": 119.42,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 111.68,
+        "fin": 111.78
+       },
+       {
+        "t": "the",
+        "ini": 111.82,
+        "fin": 111.88
+       },
+       {
+        "t": "brightest",
+        "ini": 111.96,
+        "fin": 112.46
+       },
+       {
+        "t": "little",
+        "ini": 112.58,
+        "fin": 112.92
+       },
+       {
+        "t": "star",
+        "ini": 113.08,
+        "fin": 113.56
+       },
+       {
+        "t": "is",
+        "ini": 116.0,
+        "fin": 116.1
+       },
+       {
+        "t": "winking",
+        "ini": 116.14,
+        "fin": 116.52
+       },
+       {
+        "t": "back",
+        "ini": 116.6,
+        "fin": 117.04
+       },
+       {
+        "t": "—",
+        "ini": 117.06,
+        "fin": 117.06
+       },
+       {
+        "t": "it's",
+        "ini": 118.64,
+        "fin": 118.84
+       },
+       {
+        "t": "true!",
+        "ini": 118.9,
+        "fin": 119.42
+       }
+      ],
+      "trad": "Y la estrellita más brillante me guiña — ¡es verdad!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "I remember, I remember every song and every hug,",
+      "ini": 121.44,
+      "fin": 125.12,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 121.44,
+        "fin": 121.56
+       },
+       {
+        "t": "remember,",
+        "ini": 121.62,
+        "fin": 122.32
+       },
+       {
+        "t": "I",
+        "ini": 122.44,
+        "fin": 122.54
+       },
+       {
+        "t": "remember",
+        "ini": 122.66,
+        "fin": 123.32
+       },
+       {
+        "t": "every",
+        "ini": 123.4,
+        "fin": 123.56
+       },
+       {
+        "t": "song",
+        "ini": 123.66,
+        "fin": 123.92
+       },
+       {
+        "t": "and",
+        "ini": 123.96,
+        "fin": 124.08
+       },
+       {
+        "t": "every",
+        "ini": 124.2,
+        "fin": 124.56
+       },
+       {
+        "t": "hug,",
+        "ini": 124.68,
+        "fin": 125.12
+       }
+      ],
+      "trad": "Recuerdo, recuerdo cada canción y cada abrazo,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "you're not here anymore, but you're living in my heart,",
+      "ini": 125.8,
+      "fin": 129.8,
+      "palabras": [
+       {
+        "t": "you're",
+        "ini": 125.8,
+        "fin": 125.9
+       },
+       {
+        "t": "not",
+        "ini": 125.94,
+        "fin": 126.1
+       },
+       {
+        "t": "here",
+        "ini": 126.16,
+        "fin": 126.38
+       },
+       {
+        "t": "anymore,",
+        "ini": 126.58,
+        "fin": 127.36
+       },
+       {
+        "t": "but",
+        "ini": 127.8,
+        "fin": 127.9
+       },
+       {
+        "t": "you're",
+        "ini": 127.98,
+        "fin": 128.18
+       },
+       {
+        "t": "living",
+        "ini": 128.24,
+        "fin": 128.68
+       },
+       {
+        "t": "in",
+        "ini": 128.74,
+        "fin": 128.9
+       },
+       {
+        "t": "my",
+        "ini": 129.0,
+        "fin": 129.22
+       },
+       {
+        "t": "heart,",
+        "ini": 129.3,
+        "fin": 129.8
+       }
+      ],
+      "trad": "Ya no estás aquí, pero vives en mi corazón,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "so I sing and dance the way you taught me from the start,",
+      "ini": 130.54,
+      "fin": 134.4,
+      "palabras": [
+       {
+        "t": "so",
+        "ini": 130.54,
+        "fin": 130.7
+       },
+       {
+        "t": "I",
+        "ini": 130.82,
+        "fin": 130.9
+       },
+       {
+        "t": "sing",
+        "ini": 131.02,
+        "fin": 131.28
+       },
+       {
+        "t": "and",
+        "ini": 131.34,
+        "fin": 131.5
+       },
+       {
+        "t": "dance",
+        "ini": 131.58,
+        "fin": 131.86
+       },
+       {
+        "t": "the",
+        "ini": 131.92,
+        "fin": 132.08
+       },
+       {
+        "t": "way",
+        "ini": 132.14,
+        "fin": 132.38
+       },
+       {
+        "t": "you",
+        "ini": 132.48,
+        "fin": 132.64
+       },
+       {
+        "t": "taught",
+        "ini": 132.72,
+        "fin": 132.96
+       },
+       {
+        "t": "me",
+        "ini": 133.04,
+        "fin": 133.12
+       },
+       {
+        "t": "from",
+        "ini": 133.3,
+        "fin": 133.56
+       },
+       {
+        "t": "the",
+        "ini": 133.6,
+        "fin": 133.7
+       },
+       {
+        "t": "start,",
+        "ini": 133.84,
+        "fin": 134.4
+       }
+      ],
+      "trad": "Así que canto y bailo como me enseñaste desde el principio,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "clap your hands for Grandma and Grandpa — olé, olé!",
+      "ini": 135.06,
+      "fin": 138.88,
+      "palabras": [
+       {
+        "t": "clap",
+        "ini": 135.06,
+        "fin": 135.32
+       },
+       {
+        "t": "your",
+        "ini": 135.38,
+        "fin": 135.54
+       },
+       {
+        "t": "hands",
+        "ini": 135.6,
+        "fin": 135.88
+       },
+       {
+        "t": "for",
+        "ini": 135.92,
+        "fin": 136.08
+       },
+       {
+        "t": "Grandma",
+        "ini": 136.18,
+        "fin": 136.8
+       },
+       {
+        "t": "and",
+        "ini": 137.1,
+        "fin": 137.24
+       },
+       {
+        "t": "Grandpa",
+        "ini": 137.34,
+        "fin": 137.76
+       },
+       {
+        "t": "—",
+        "ini": 137.76,
+        "fin": 137.76
+       },
+       {
+        "t": "olé,",
+        "ini": 138.0,
+        "fin": 138.18
+       },
+       {
+        "t": "olé!",
+        "ini": 138.32,
+        "fin": 138.88
+       }
+      ],
+      "trad": "¡Da palmas por la abuela y el abuelo — olé, olé!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "I remember, I remember every song and every hug,",
+      "ini": 139.98,
+      "fin": 143.68,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 139.98,
+        "fin": 140.04
+       },
+       {
+        "t": "remember,",
+        "ini": 140.08,
+        "fin": 140.78
+       },
+       {
+        "t": "I",
+        "ini": 140.92,
+        "fin": 140.98
+       },
+       {
+        "t": "remember",
+        "ini": 141.12,
+        "fin": 141.78
+       },
+       {
+        "t": "every",
+        "ini": 141.86,
+        "fin": 142.02
+       },
+       {
+        "t": "song",
+        "ini": 142.12,
+        "fin": 142.38
+       },
+       {
+        "t": "and",
+        "ini": 142.44,
+        "fin": 142.56
+       },
+       {
+        "t": "every",
+        "ini": 142.66,
+        "fin": 143.02
+       },
+       {
+        "t": "hug,",
+        "ini": 143.14,
+        "fin": 143.68
+       }
+      ],
+      "trad": "Recuerdo, recuerdo cada canción y cada abrazo,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "you're not here anymore, but you're living in my heart,",
+      "ini": 144.26,
+      "fin": 148.28,
+      "palabras": [
+       {
+        "t": "you're",
+        "ini": 144.26,
+        "fin": 144.36
+       },
+       {
+        "t": "not",
+        "ini": 144.42,
+        "fin": 144.58
+       },
+       {
+        "t": "here",
+        "ini": 144.62,
+        "fin": 144.84
+       },
+       {
+        "t": "anymore,",
+        "ini": 145.04,
+        "fin": 145.82
+       },
+       {
+        "t": "but",
+        "ini": 146.26,
+        "fin": 146.36
+       },
+       {
+        "t": "you're",
+        "ini": 146.44,
+        "fin": 146.64
+       },
+       {
+        "t": "living",
+        "ini": 146.72,
+        "fin": 147.16
+       },
+       {
+        "t": "in",
+        "ini": 147.22,
+        "fin": 147.38
+       },
+       {
+        "t": "my",
+        "ini": 147.46,
+        "fin": 147.68
+       },
+       {
+        "t": "heart,",
+        "ini": 147.76,
+        "fin": 148.28
+       }
+      ],
+      "trad": "Ya no estás aquí, pero vives en mi corazón,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "so I sing and dance the way you taught me from the start,",
+      "ini": 149.0,
+      "fin": 152.84,
+      "palabras": [
+       {
+        "t": "so",
+        "ini": 149.0,
+        "fin": 149.16
+       },
+       {
+        "t": "I",
+        "ini": 149.28,
+        "fin": 149.36
+       },
+       {
+        "t": "sing",
+        "ini": 149.48,
+        "fin": 149.74
+       },
+       {
+        "t": "and",
+        "ini": 149.8,
+        "fin": 149.96
+       },
+       {
+        "t": "dance",
+        "ini": 150.04,
+        "fin": 150.32
+       },
+       {
+        "t": "the",
+        "ini": 150.38,
+        "fin": 150.54
+       },
+       {
+        "t": "way",
+        "ini": 150.6,
+        "fin": 150.86
+       },
+       {
+        "t": "you",
+        "ini": 150.94,
+        "fin": 151.08
+       },
+       {
+        "t": "taught",
+        "ini": 151.18,
+        "fin": 151.44
+       },
+       {
+        "t": "me",
+        "ini": 151.5,
+        "fin": 151.66
+       },
+       {
+        "t": "from",
+        "ini": 151.76,
+        "fin": 152.0
+       },
+       {
+        "t": "the",
+        "ini": 152.06,
+        "fin": 152.14
+       },
+       {
+        "t": "start,",
+        "ini": 152.3,
+        "fin": 152.84
+       }
+      ],
+      "trad": "Así que canto y bailo como me enseñaste desde el principio,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "clap your hands for Grandma and Grandpa — olé, olé!",
+      "ini": 153.5,
+      "fin": 166.16,
+      "palabras": [
+       {
+        "t": "clap",
+        "ini": 153.5,
+        "fin": 153.78
+       },
+       {
+        "t": "your",
+        "ini": 153.84,
+        "fin": 153.98
+       },
+       {
+        "t": "hands",
+        "ini": 154.06,
+        "fin": 154.34
+       },
+       {
+        "t": "for",
+        "ini": 154.38,
+        "fin": 154.52
+       },
+       {
+        "t": "Grandma",
+        "ini": 154.64,
+        "fin": 155.26
+       },
+       {
+        "t": "and",
+        "ini": 155.54,
+        "fin": 155.72
+       },
+       {
+        "t": "Grandpa",
+        "ini": 155.78,
+        "fin": 156.32
+       },
+       {
+        "t": "—",
+        "ini": 156.32,
+        "fin": 156.32
+       },
+       {
+        "t": "olé,",
+        "ini": 156.48,
+        "fin": 156.7
+       },
+       {
+        "t": "olé!",
+        "ini": 158.48,
+        "fin": 166.16
+       }
+      ],
+      "trad": "¡Da palmas por la abuela y el abuelo — olé, olé!"
+     }
+    ],
+    "duracion": 166.32
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Verse 1",
+      "texto": "Mi abuela me cantaba mientras hacía el arroz,",
+      "ini": 9.82,
+      "fin": 13.2,
+      "palabras": [
+       {
+        "t": "Mi",
+        "ini": 9.82,
+        "fin": 9.9
+       },
+       {
+        "t": "abuela",
+        "ini": 9.94,
+        "fin": 10.16
+       },
+       {
+        "t": "me",
+        "ini": 10.22,
+        "fin": 10.34
+       },
+       {
+        "t": "cantaba",
+        "ini": 10.36,
+        "fin": 10.92
+       },
+       {
+        "t": "mientras",
+        "ini": 10.98,
+        "fin": 11.56
+       },
+       {
+        "t": "hacía",
+        "ini": 11.58,
+        "fin": 12.26
+       },
+       {
+        "t": "el",
+        "ini": 12.34,
+        "fin": 12.44
+       },
+       {
+        "t": "arroz,",
+        "ini": 12.52,
+        "fin": 13.2
+       }
+      ],
+      "trad": "My grandma sang to me while she made the rice,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "bailaba flamenco y siempre decía: «¡Sé bueno, por favor!»",
+      "ini": 13.84,
+      "fin": 17.6,
+      "palabras": [
+       {
+        "t": "bailaba",
+        "ini": 13.84,
+        "fin": 14.34
+       },
+       {
+        "t": "flamenco",
+        "ini": 14.4,
+        "fin": 14.82
+       },
+       {
+        "t": "y",
+        "ini": 14.84,
+        "fin": 14.88
+       },
+       {
+        "t": "siempre",
+        "ini": 15.0,
+        "fin": 15.54
+       },
+       {
+        "t": "decía:",
+        "ini": 15.58,
+        "fin": 16.06
+       },
+       {
+        "t": "«¡Sé",
+        "ini": 16.12,
+        "fin": 16.26
+       },
+       {
+        "t": "bueno,",
+        "ini": 16.32,
+        "fin": 16.62
+       },
+       {
+        "t": "por",
+        "ini": 16.76,
+        "fin": 16.94
+       },
+       {
+        "t": "favor!»",
+        "ini": 17.06,
+        "fin": 17.6
+       }
+      ],
+      "trad": "danced flamenco and always said: \"Be good, please!\""
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Mi abuelo me contaba cuentos junto al fuego,",
+      "ini": 19.04,
+      "fin": 22.04,
+      "palabras": [
+       {
+        "t": "Mi",
+        "ini": 19.04,
+        "fin": 19.1
+       },
+       {
+        "t": "abuelo",
+        "ini": 19.14,
+        "fin": 19.4
+       },
+       {
+        "t": "me",
+        "ini": 19.46,
+        "fin": 19.56
+       },
+       {
+        "t": "contaba",
+        "ini": 19.6,
+        "fin": 20.08
+       },
+       {
+        "t": "cuentos",
+        "ini": 20.24,
+        "fin": 20.72
+       },
+       {
+        "t": "junto",
+        "ini": 20.8,
+        "fin": 21.12
+       },
+       {
+        "t": "al",
+        "ini": 21.16,
+        "fin": 21.24
+       },
+       {
+        "t": "fuego,",
+        "ini": 21.4,
+        "fin": 22.04
+       }
+      ],
+      "trad": "My grandpa told me stories by the fire,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "y cada cuento acababa con una risa que volaba hasta el cielo.",
+      "ini": 22.56,
+      "fin": 27.4,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 22.56,
+        "fin": 22.62
+       },
+       {
+        "t": "cada",
+        "ini": 22.66,
+        "fin": 22.92
+       },
+       {
+        "t": "cuento",
+        "ini": 23.1,
+        "fin": 23.48
+       },
+       {
+        "t": "acababa",
+        "ini": 23.52,
+        "fin": 24.18
+       },
+       {
+        "t": "con",
+        "ini": 24.26,
+        "fin": 24.44
+       },
+       {
+        "t": "una",
+        "ini": 24.5,
+        "fin": 24.66
+       },
+       {
+        "t": "risa",
+        "ini": 24.88,
+        "fin": 25.18
+       },
+       {
+        "t": "que",
+        "ini": 25.26,
+        "fin": 25.38
+       },
+       {
+        "t": "volaba",
+        "ini": 25.42,
+        "fin": 26.08
+       },
+       {
+        "t": "hasta",
+        "ini": 26.1,
+        "fin": 26.34
+       },
+       {
+        "t": "el",
+        "ini": 26.38,
+        "fin": 26.44
+       },
+       {
+        "t": "cielo.",
+        "ini": 26.58,
+        "fin": 27.4
+       }
+      ],
+      "trad": "and every story ended with a laugh that flew up to the sky."
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Me acuerdo, me acuerdo de cada canción y cada abrazo,",
+      "ini": 28.28,
+      "fin": 31.7,
+      "palabras": [
+       {
+        "t": "Me",
+        "ini": 28.28,
+        "fin": 28.32
+       },
+       {
+        "t": "acuerdo,",
+        "ini": 28.36,
+        "fin": 28.76
+       },
+       {
+        "t": "me",
+        "ini": 28.86,
+        "fin": 28.92
+       },
+       {
+        "t": "acuerdo",
+        "ini": 29.0,
+        "fin": 29.54
+       },
+       {
+        "t": "de",
+        "ini": 29.58,
+        "fin": 29.66
+       },
+       {
+        "t": "cada",
+        "ini": 29.74,
+        "fin": 29.94
+       },
+       {
+        "t": "canción",
+        "ini": 30.02,
+        "fin": 30.6
+       },
+       {
+        "t": "y",
+        "ini": 30.64,
+        "fin": 30.68
+       },
+       {
+        "t": "cada",
+        "ini": 30.76,
+        "fin": 31.0
+       },
+       {
+        "t": "abrazo,",
+        "ini": 31.06,
+        "fin": 31.7
+       }
+      ],
+      "trad": "I remember, I remember every song and every hug,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "ya no estáis aquí, pero vivís en mi corazón,",
+      "ini": 32.64,
+      "fin": 36.06,
+      "palabras": [
+       {
+        "t": "ya",
+        "ini": 32.64,
+        "fin": 32.82
+       },
+       {
+        "t": "no",
+        "ini": 32.86,
+        "fin": 32.92
+       },
+       {
+        "t": "estáis",
+        "ini": 32.94,
+        "fin": 33.22
+       },
+       {
+        "t": "aquí,",
+        "ini": 33.3,
+        "fin": 33.72
+       },
+       {
+        "t": "pero",
+        "ini": 34.08,
+        "fin": 34.34
+       },
+       {
+        "t": "vivís",
+        "ini": 34.38,
+        "fin": 34.94
+       },
+       {
+        "t": "en",
+        "ini": 35.0,
+        "fin": 35.16
+       },
+       {
+        "t": "mi",
+        "ini": 35.2,
+        "fin": 35.32
+       },
+       {
+        "t": "corazón,",
+        "ini": 35.36,
+        "fin": 36.06
+       }
+      ],
+      "trad": "you're not here anymore, but you live in my heart,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "así que canto y bailo como me enseñasteis desde siempre,",
+      "ini": 36.68,
+      "fin": 40.94,
+      "palabras": [
+       {
+        "t": "así",
+        "ini": 36.68,
+        "fin": 36.86
+       },
+       {
+        "t": "que",
+        "ini": 36.92,
+        "fin": 37.06
+       },
+       {
+        "t": "canto",
+        "ini": 37.12,
+        "fin": 37.64
+       },
+       {
+        "t": "y",
+        "ini": 37.9,
+        "fin": 38.02
+       },
+       {
+        "t": "bailo",
+        "ini": 38.08,
+        "fin": 38.46
+       },
+       {
+        "t": "como",
+        "ini": 38.54,
+        "fin": 38.76
+       },
+       {
+        "t": "me",
+        "ini": 38.8,
+        "fin": 38.84
+       },
+       {
+        "t": "enseñasteis",
+        "ini": 38.86,
+        "fin": 39.8
+       },
+       {
+        "t": "desde",
+        "ini": 39.86,
+        "fin": 40.24
+       },
+       {
+        "t": "siempre,",
+        "ini": 40.38,
+        "fin": 40.94
+       }
+      ],
+      "trad": "so I sing and dance like you taught me from the beginning,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡palmas para los abuelos… olé, olé!",
+      "ini": 41.82,
+      "fin": 44.84,
+      "palabras": [
+       {
+        "t": "¡palmas",
+        "ini": 41.82,
+        "fin": 42.22
+       },
+       {
+        "t": "para",
+        "ini": 42.3,
+        "fin": 42.52
+       },
+       {
+        "t": "los",
+        "ini": 42.56,
+        "fin": 42.7
+       },
+       {
+        "t": "abuelos…",
+        "ini": 42.76,
+        "fin": 43.56
+       },
+       {
+        "t": "olé,",
+        "ini": 43.66,
+        "fin": 44.2
+       },
+       {
+        "t": "olé!",
+        "ini": 44.28,
+        "fin": 44.84
+       }
+      ],
+      "trad": "Claps for the grandparents... olé, olé!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Me acuerdo del huerto de la abuela, lleno de tomates y rosas,",
+      "ini": 46.74,
+      "fin": 51.62,
+      "palabras": [
+       {
+        "t": "Me",
+        "ini": 46.74,
+        "fin": 46.8
+       },
+       {
+        "t": "acuerdo",
+        "ini": 46.86,
+        "fin": 47.14
+       },
+       {
+        "t": "del",
+        "ini": 47.18,
+        "fin": 47.3
+       },
+       {
+        "t": "huerto",
+        "ini": 47.36,
+        "fin": 47.86
+       },
+       {
+        "t": "de",
+        "ini": 47.96,
+        "fin": 48.14
+       },
+       {
+        "t": "la",
+        "ini": 48.22,
+        "fin": 48.3
+       },
+       {
+        "t": "abuela,",
+        "ini": 48.38,
+        "fin": 48.86
+       },
+       {
+        "t": "lleno",
+        "ini": 49.2,
+        "fin": 49.44
+       },
+       {
+        "t": "de",
+        "ini": 49.48,
+        "fin": 49.56
+       },
+       {
+        "t": "tomates",
+        "ini": 49.66,
+        "fin": 50.48
+       },
+       {
+        "t": "y",
+        "ini": 50.56,
+        "fin": 50.72
+       },
+       {
+        "t": "rosas,",
+        "ini": 50.82,
+        "fin": 51.62
+       }
+      ],
+      "trad": "I remember grandma's garden, full of tomatoes and roses,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "y del abuelo silbando canciones a las mariposas.",
+      "ini": 52.0,
+      "fin": 56.12,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 52.0,
+        "fin": 52.06
+       },
+       {
+        "t": "del",
+        "ini": 52.1,
+        "fin": 52.24
+       },
+       {
+        "t": "abuelo",
+        "ini": 52.3,
+        "fin": 52.74
+       },
+       {
+        "t": "silbando",
+        "ini": 52.84,
+        "fin": 53.56
+       },
+       {
+        "t": "canciones",
+        "ini": 53.66,
+        "fin": 54.28
+       },
+       {
+        "t": "a",
+        "ini": 54.38,
+        "fin": 54.5
+       },
+       {
+        "t": "las",
+        "ini": 54.56,
+        "fin": 54.74
+       },
+       {
+        "t": "mariposas.",
+        "ini": 54.84,
+        "fin": 56.12
+       }
+      ],
+      "trad": "and grandpa whistling songs to the butterflies."
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Ahora riego el huerto y silbo como él también,",
+      "ini": 56.32,
+      "fin": 59.14,
+      "palabras": [
+       {
+        "t": "Ahora",
+        "ini": 56.32,
+        "fin": 56.5
+       },
+       {
+        "t": "riego",
+        "ini": 56.58,
+        "fin": 56.94
+       },
+       {
+        "t": "el",
+        "ini": 57.0,
+        "fin": 57.08
+       },
+       {
+        "t": "huerto",
+        "ini": 57.12,
+        "fin": 57.48
+       },
+       {
+        "t": "y",
+        "ini": 57.54,
+        "fin": 57.56
+       },
+       {
+        "t": "silbo",
+        "ini": 57.7,
+        "fin": 58.14
+       },
+       {
+        "t": "como",
+        "ini": 58.3,
+        "fin": 58.48
+       },
+       {
+        "t": "él",
+        "ini": 58.52,
+        "fin": 58.58
+       },
+       {
+        "t": "también,",
+        "ini": 58.68,
+        "fin": 59.14
+       }
+      ],
+      "trad": "Now I water the garden and whistle like him too,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "y cuando me río como el abuelo, mamá dice: «¡Está aquí, ¿lo ves?!»",
+      "ini": 59.5,
+      "fin": 64.04,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 59.5,
+        "fin": 59.54
+       },
+       {
+        "t": "cuando",
+        "ini": 59.58,
+        "fin": 59.82
+       },
+       {
+        "t": "me",
+        "ini": 59.86,
+        "fin": 60.0
+       },
+       {
+        "t": "río",
+        "ini": 60.06,
+        "fin": 60.48
+       },
+       {
+        "t": "como",
+        "ini": 60.6,
+        "fin": 60.82
+       },
+       {
+        "t": "el",
+        "ini": 60.86,
+        "fin": 60.92
+       },
+       {
+        "t": "abuelo,",
+        "ini": 60.98,
+        "fin": 61.58
+       },
+       {
+        "t": "mamá",
+        "ini": 61.74,
+        "fin": 62.0
+       },
+       {
+        "t": "dice:",
+        "ini": 62.04,
+        "fin": 62.34
+       },
+       {
+        "t": "«¡Está",
+        "ini": 62.62,
+        "fin": 62.98
+       },
+       {
+        "t": "aquí,",
+        "ini": 63.0,
+        "fin": 63.3
+       },
+       {
+        "t": "¿lo",
+        "ini": 63.46,
+        "fin": 63.6
+       },
+       {
+        "t": "ves?!»",
+        "ini": 63.66,
+        "fin": 64.04
+       }
+      ],
+      "trad": "and when I laugh like grandpa, mom says: \"He's here, do you see?!\""
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Me acuerdo, me acuerdo de cada canción y cada abrazo,",
+      "ini": 65.18,
+      "fin": 68.66,
+      "palabras": [
+       {
+        "t": "Me",
+        "ini": 65.18,
+        "fin": 65.24
+       },
+       {
+        "t": "acuerdo,",
+        "ini": 65.28,
+        "fin": 65.7
+       },
+       {
+        "t": "me",
+        "ini": 65.78,
+        "fin": 65.88
+       },
+       {
+        "t": "acuerdo",
+        "ini": 65.9,
+        "fin": 66.48
+       },
+       {
+        "t": "de",
+        "ini": 66.52,
+        "fin": 66.6
+       },
+       {
+        "t": "cada",
+        "ini": 66.66,
+        "fin": 66.86
+       },
+       {
+        "t": "canción",
+        "ini": 66.94,
+        "fin": 67.5
+       },
+       {
+        "t": "y",
+        "ini": 67.56,
+        "fin": 67.6
+       },
+       {
+        "t": "cada",
+        "ini": 67.66,
+        "fin": 67.92
+       },
+       {
+        "t": "abrazo,",
+        "ini": 68.0,
+        "fin": 68.66
+       }
+      ],
+      "trad": "I remember, I remember every song and every hug,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "ya no estáis aquí, pero vivís en mi corazón,",
+      "ini": 69.56,
+      "fin": 73.08,
+      "palabras": [
+       {
+        "t": "ya",
+        "ini": 69.56,
+        "fin": 69.74
+       },
+       {
+        "t": "no",
+        "ini": 69.78,
+        "fin": 69.84
+       },
+       {
+        "t": "estáis",
+        "ini": 69.86,
+        "fin": 70.14
+       },
+       {
+        "t": "aquí,",
+        "ini": 70.24,
+        "fin": 70.62
+       },
+       {
+        "t": "pero",
+        "ini": 71.0,
+        "fin": 71.26
+       },
+       {
+        "t": "vivís",
+        "ini": 71.28,
+        "fin": 71.86
+       },
+       {
+        "t": "en",
+        "ini": 71.92,
+        "fin": 72.08
+       },
+       {
+        "t": "mi",
+        "ini": 72.12,
+        "fin": 72.2
+       },
+       {
+        "t": "corazón,",
+        "ini": 72.3,
+        "fin": 73.08
+       }
+      ],
+      "trad": "you're not here anymore, but you live in my heart,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "así que canto y bailo como me enseñasteis desde siempre,",
+      "ini": 73.62,
+      "fin": 77.88,
+      "palabras": [
+       {
+        "t": "así",
+        "ini": 73.62,
+        "fin": 73.8
+       },
+       {
+        "t": "que",
+        "ini": 73.84,
+        "fin": 73.98
+       },
+       {
+        "t": "canto",
+        "ini": 74.02,
+        "fin": 74.56
+       },
+       {
+        "t": "y",
+        "ini": 74.86,
+        "fin": 74.98
+       },
+       {
+        "t": "bailo",
+        "ini": 75.04,
+        "fin": 75.42
+       },
+       {
+        "t": "como",
+        "ini": 75.46,
+        "fin": 75.7
+       },
+       {
+        "t": "me",
+        "ini": 75.74,
+        "fin": 75.78
+       },
+       {
+        "t": "enseñasteis",
+        "ini": 75.8,
+        "fin": 76.72
+       },
+       {
+        "t": "desde",
+        "ini": 76.78,
+        "fin": 77.16
+       },
+       {
+        "t": "siempre,",
+        "ini": 77.3,
+        "fin": 77.88
+       }
+      ],
+      "trad": "so I sing and dance like you taught me from the beginning,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡palmas para los abuelos… olé, olé!",
+      "ini": 78.76,
+      "fin": 81.64,
+      "palabras": [
+       {
+        "t": "¡palmas",
+        "ini": 78.76,
+        "fin": 79.14
+       },
+       {
+        "t": "para",
+        "ini": 79.2,
+        "fin": 79.44
+       },
+       {
+        "t": "los",
+        "ini": 79.46,
+        "fin": 79.62
+       },
+       {
+        "t": "abuelos…",
+        "ini": 79.68,
+        "fin": 80.48
+       },
+       {
+        "t": "olé,",
+        "ini": 80.7,
+        "fin": 80.9
+       },
+       {
+        "t": "olé!",
+        "ini": 81.18,
+        "fin": 81.64
+       }
+      ],
+      "trad": "Claps for the grandparents... olé, olé!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Ella cocinaba, él leía, cantaban conmigo…",
+      "ini": 84.4,
+      "fin": 88.56,
+      "palabras": [
+       {
+        "t": "Ella",
+        "ini": 84.4,
+        "fin": 84.7
+       },
+       {
+        "t": "cocinaba,",
+        "ini": 84.82,
+        "fin": 85.82
+       },
+       {
+        "t": "él",
+        "ini": 86.04,
+        "fin": 86.2
+       },
+       {
+        "t": "leía,",
+        "ini": 86.28,
+        "fin": 86.96
+       },
+       {
+        "t": "cantaban",
+        "ini": 87.12,
+        "fin": 87.76
+       },
+       {
+        "t": "conmigo…",
+        "ini": 87.86,
+        "fin": 88.56
+       }
+      ],
+      "trad": "She cooked, he read, they sang with me…"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "y ahora yo cocino, leo y canto… ¡como hacían conmigo!",
+      "ini": 93.6,
+      "fin": 99.08,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 93.6,
+        "fin": 93.64
+       },
+       {
+        "t": "ahora",
+        "ini": 93.68,
+        "fin": 94.0
+       },
+       {
+        "t": "yo",
+        "ini": 94.06,
+        "fin": 94.2
+       },
+       {
+        "t": "cocino,",
+        "ini": 94.34,
+        "fin": 95.04
+       },
+       {
+        "t": "leo",
+        "ini": 95.2,
+        "fin": 95.58
+       },
+       {
+        "t": "y",
+        "ini": 95.62,
+        "fin": 95.66
+       },
+       {
+        "t": "canto…",
+        "ini": 95.78,
+        "fin": 96.34
+       },
+       {
+        "t": "¡como",
+        "ini": 96.34,
+        "fin": 97.52
+       },
+       {
+        "t": "hacían",
+        "ini": 97.56,
+        "fin": 98.04
+       },
+       {
+        "t": "conmigo!",
+        "ini": 98.14,
+        "fin": 99.08
+       }
+      ],
+      "trad": "and now I cook, read and sing… like they did with me!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Cuando veo las estrellas, digo: «¡Buenas noches, os quiero!»",
+      "ini": 103.42,
+      "fin": 108.12,
+      "palabras": [
+       {
+        "t": "Cuando",
+        "ini": 103.42,
+        "fin": 103.8
+       },
+       {
+        "t": "veo",
+        "ini": 103.88,
+        "fin": 104.34
+       },
+       {
+        "t": "las",
+        "ini": 104.42,
+        "fin": 104.7
+       },
+       {
+        "t": "estrellas,",
+        "ini": 104.78,
+        "fin": 105.44
+       },
+       {
+        "t": "digo:",
+        "ini": 105.74,
+        "fin": 105.96
+       },
+       {
+        "t": "«¡Buenas",
+        "ini": 106.0,
+        "fin": 106.42
+       },
+       {
+        "t": "noches,",
+        "ini": 106.48,
+        "fin": 107.0
+       },
+       {
+        "t": "os",
+        "ini": 107.08,
+        "fin": 107.22
+       },
+       {
+        "t": "quiero!»",
+        "ini": 107.34,
+        "fin": 108.12
+       }
+      ],
+      "trad": "When I see the stars, I say: \"Good night, I love you!\""
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "y la estrella que más brilla me guiña un ojo… ¡es verdad, te lo prometo!",
+      "ini": 108.88,
+      "fin": 117.04,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 108.88,
+        "fin": 108.98
+       },
+       {
+        "t": "la",
+        "ini": 109.02,
+        "fin": 109.08
+       },
+       {
+        "t": "estrella",
+        "ini": 109.18,
+        "fin": 109.48
+       },
+       {
+        "t": "que",
+        "ini": 109.66,
+        "fin": 109.78
+       },
+       {
+        "t": "más",
+        "ini": 110.2,
+        "fin": 110.44
+       },
+       {
+        "t": "brilla",
+        "ini": 110.48,
+        "fin": 111.02
+       },
+       {
+        "t": "me",
+        "ini": 111.1,
+        "fin": 111.32
+       },
+       {
+        "t": "guiña",
+        "ini": 111.38,
+        "fin": 111.84
+       },
+       {
+        "t": "un",
+        "ini": 111.88,
+        "fin": 112.0
+       },
+       {
+        "t": "ojo…",
+        "ini": 112.08,
+        "fin": 112.92
+       },
+       {
+        "t": "¡es",
+        "ini": 113.06,
+        "fin": 115.24
+       },
+       {
+        "t": "verdad,",
+        "ini": 115.28,
+        "fin": 115.6
+       },
+       {
+        "t": "te",
+        "ini": 115.98,
+        "fin": 116.08
+       },
+       {
+        "t": "lo",
+        "ini": 116.14,
+        "fin": 116.24
+       },
+       {
+        "t": "prometo!",
+        "ini": 116.34,
+        "fin": 117.04
+       }
+      ],
+      "trad": "and the star that shines the most winks at me… it's true, I promise!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Me acuerdo, me acuerdo de cada canción y cada abrazo,",
+      "ini": 121.7,
+      "fin": 125.28,
+      "palabras": [
+       {
+        "t": "Me",
+        "ini": 121.7,
+        "fin": 121.76
+       },
+       {
+        "t": "acuerdo,",
+        "ini": 121.8,
+        "fin": 122.18
+       },
+       {
+        "t": "me",
+        "ini": 122.32,
+        "fin": 122.4
+       },
+       {
+        "t": "acuerdo",
+        "ini": 122.46,
+        "fin": 122.98
+       },
+       {
+        "t": "de",
+        "ini": 123.04,
+        "fin": 123.12
+       },
+       {
+        "t": "cada",
+        "ini": 123.18,
+        "fin": 123.4
+       },
+       {
+        "t": "canción",
+        "ini": 123.48,
+        "fin": 124.06
+       },
+       {
+        "t": "y",
+        "ini": 124.1,
+        "fin": 124.16
+       },
+       {
+        "t": "cada",
+        "ini": 124.22,
+        "fin": 124.46
+       },
+       {
+        "t": "abrazo,",
+        "ini": 124.54,
+        "fin": 125.28
+       }
+      ],
+      "trad": "I remember, I remember every song and every hug,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "ya no estáis aquí, pero vivís en mi corazón,",
+      "ini": 126.1,
+      "fin": 129.64,
+      "palabras": [
+       {
+        "t": "ya",
+        "ini": 126.1,
+        "fin": 126.3
+       },
+       {
+        "t": "no",
+        "ini": 126.36,
+        "fin": 126.4
+       },
+       {
+        "t": "estáis",
+        "ini": 126.42,
+        "fin": 126.7
+       },
+       {
+        "t": "aquí,",
+        "ini": 126.82,
+        "fin": 127.18
+       },
+       {
+        "t": "pero",
+        "ini": 127.54,
+        "fin": 127.8
+       },
+       {
+        "t": "vivís",
+        "ini": 127.86,
+        "fin": 128.38
+       },
+       {
+        "t": "en",
+        "ini": 128.46,
+        "fin": 128.62
+       },
+       {
+        "t": "mi",
+        "ini": 128.66,
+        "fin": 128.78
+       },
+       {
+        "t": "corazón,",
+        "ini": 128.82,
+        "fin": 129.64
+       }
+      ],
+      "trad": "you're not here anymore, but you live in my heart,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "así que canto y bailo como me enseñasteis desde siempre,",
+      "ini": 130.16,
+      "fin": 134.42,
+      "palabras": [
+       {
+        "t": "así",
+        "ini": 130.16,
+        "fin": 130.32
+       },
+       {
+        "t": "que",
+        "ini": 130.38,
+        "fin": 130.5
+       },
+       {
+        "t": "canto",
+        "ini": 130.58,
+        "fin": 131.12
+       },
+       {
+        "t": "y",
+        "ini": 131.44,
+        "fin": 131.52
+       },
+       {
+        "t": "bailo",
+        "ini": 131.58,
+        "fin": 131.94
+       },
+       {
+        "t": "como",
+        "ini": 132.02,
+        "fin": 132.24
+       },
+       {
+        "t": "me",
+        "ini": 132.28,
+        "fin": 132.32
+       },
+       {
+        "t": "enseñasteis",
+        "ini": 132.34,
+        "fin": 133.26
+       },
+       {
+        "t": "desde",
+        "ini": 133.32,
+        "fin": 133.7
+       },
+       {
+        "t": "siempre,",
+        "ini": 133.86,
+        "fin": 134.42
+       }
+      ],
+      "trad": "so I sing and dance like you taught me from the beginning,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡palmas para los abuelos… olé, olé!",
+      "ini": 135.3,
+      "fin": 138.18,
+      "palabras": [
+       {
+        "t": "¡palmas",
+        "ini": 135.3,
+        "fin": 135.72
+       },
+       {
+        "t": "para",
+        "ini": 135.78,
+        "fin": 135.98
+       },
+       {
+        "t": "los",
+        "ini": 136.04,
+        "fin": 136.16
+       },
+       {
+        "t": "abuelos…",
+        "ini": 136.26,
+        "fin": 137.02
+       },
+       {
+        "t": "olé,",
+        "ini": 137.3,
+        "fin": 137.6
+       },
+       {
+        "t": "olé!",
+        "ini": 137.7,
+        "fin": 138.18
+       }
+      ],
+      "trad": "Claps for the grandparents... olé, olé!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Me acuerdo, me acuerdo de cada canción y cada abrazo,",
+      "ini": 140.16,
+      "fin": 143.62,
+      "palabras": [
+       {
+        "t": "Me",
+        "ini": 140.16,
+        "fin": 140.22
+       },
+       {
+        "t": "acuerdo,",
+        "ini": 140.26,
+        "fin": 140.7
+       },
+       {
+        "t": "me",
+        "ini": 140.8,
+        "fin": 140.88
+       },
+       {
+        "t": "acuerdo",
+        "ini": 140.94,
+        "fin": 141.46
+       },
+       {
+        "t": "de",
+        "ini": 141.52,
+        "fin": 141.58
+       },
+       {
+        "t": "cada",
+        "ini": 141.66,
+        "fin": 141.86
+       },
+       {
+        "t": "canción",
+        "ini": 141.96,
+        "fin": 142.52
+       },
+       {
+        "t": "y",
+        "ini": 142.54,
+        "fin": 142.62
+       },
+       {
+        "t": "cada",
+        "ini": 142.66,
+        "fin": 142.94
+       },
+       {
+        "t": "abrazo,",
+        "ini": 143.0,
+        "fin": 143.62
+       }
+      ],
+      "trad": "I remember, I remember every song and every hug,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "ya no estáis aquí, pero vivís en mi corazón,",
+      "ini": 144.56,
+      "fin": 148.1,
+      "palabras": [
+       {
+        "t": "ya",
+        "ini": 144.56,
+        "fin": 144.76
+       },
+       {
+        "t": "no",
+        "ini": 144.8,
+        "fin": 144.84
+       },
+       {
+        "t": "estáis",
+        "ini": 144.88,
+        "fin": 145.14
+       },
+       {
+        "t": "aquí,",
+        "ini": 145.24,
+        "fin": 145.64
+       },
+       {
+        "t": "pero",
+        "ini": 146.0,
+        "fin": 146.26
+       },
+       {
+        "t": "vivís",
+        "ini": 146.32,
+        "fin": 146.84
+       },
+       {
+        "t": "en",
+        "ini": 146.92,
+        "fin": 147.08
+       },
+       {
+        "t": "mi",
+        "ini": 147.12,
+        "fin": 147.26
+       },
+       {
+        "t": "corazón,",
+        "ini": 147.3,
+        "fin": 148.1
+       }
+      ],
+      "trad": "you're not here anymore, but you live in my heart,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "así que canto y bailo como me enseñasteis desde siempre,",
+      "ini": 148.62,
+      "fin": 152.88,
+      "palabras": [
+       {
+        "t": "así",
+        "ini": 148.62,
+        "fin": 148.8
+       },
+       {
+        "t": "que",
+        "ini": 148.84,
+        "fin": 148.98
+       },
+       {
+        "t": "canto",
+        "ini": 149.04,
+        "fin": 149.58
+       },
+       {
+        "t": "y",
+        "ini": 149.86,
+        "fin": 149.96
+       },
+       {
+        "t": "bailo",
+        "ini": 150.02,
+        "fin": 150.38
+       },
+       {
+        "t": "como",
+        "ini": 150.46,
+        "fin": 150.7
+       },
+       {
+        "t": "me",
+        "ini": 150.72,
+        "fin": 150.78
+       },
+       {
+        "t": "enseñasteis",
+        "ini": 150.8,
+        "fin": 151.72
+       },
+       {
+        "t": "desde",
+        "ini": 151.78,
+        "fin": 152.16
+       },
+       {
+        "t": "siempre,",
+        "ini": 152.32,
+        "fin": 152.88
+       }
+      ],
+      "trad": "so I sing and dance like you taught me from the beginning,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡palmas para los abuelos… olé, olé!",
+      "ini": 153.76,
+      "fin": 158.48,
+      "palabras": [
+       {
+        "t": "¡palmas",
+        "ini": 153.76,
+        "fin": 154.16
+       },
+       {
+        "t": "para",
+        "ini": 154.2,
+        "fin": 154.34
+       },
+       {
+        "t": "los",
+        "ini": 154.48,
+        "fin": 154.62
+       },
+       {
+        "t": "abuelos…",
+        "ini": 154.7,
+        "fin": 155.5
+       },
+       {
+        "t": "olé,",
+        "ini": 155.74,
+        "fin": 156.06
+       },
+       {
+        "t": "olé!",
+        "ini": 156.2,
+        "fin": 158.48
+       }
+      ],
+      "trad": "Claps for the grandparents... olé, olé!"
+     }
+    ],
+    "duracion": 166.32
+   },
+   "preguntas": [
+    {
+     "en": "What did Grandma use to do while she was cooking?",
+     "en_op": [
+      "Sing",
+      "Read",
+      "Sleep"
+     ],
+     "es": "¿Qué hacía la abuela mientras cocinaba?",
+     "es_op": [
+      "Cantar",
+      "Leer",
+      "Dormir"
+     ]
+    },
+    {
+     "en": "My grandpa ___ tell me stories.",
+     "en_op": [
+      "used to",
+      "use to",
+      "is used"
+     ],
+     "es": "Mi abuelo me ___ cuentos.",
+     "es_op": [
+      "contaba",
+      "contará",
+      "cuenta mañana"
+     ]
+    },
+    {
+     "en": "Where do Grandma and Grandpa live now, says the song?",
+     "en_op": [
+      "In my heart",
+      "In the garden",
+      "In the kitchen"
+     ],
+     "es": "Según la canción, ¿dónde viven ahora los abuelos?",
+     "es_op": [
+      "En mi corazón",
+      "En el huerto",
+      "En la cocina"
      ]
     }
    ]

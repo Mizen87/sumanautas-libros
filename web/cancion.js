@@ -11,11 +11,11 @@
   function guarda(k, v) { try { window.localStorage.setItem(k, v); } catch (e) { /* da igual */ } }
   var idioma = (q.match(/[?&]lang=(es|en)\b/) || [])[1] || lee("sumanautas-idioma") || "es";
   var TXT = {
-    es: { volver: "Canciones", sig: "Siguiente canción ▶", simul: "Simultáneo: las dos letras a la vez", atras: "Volver a las canciones", menos: "Letra más pequeña", mas: "Letra más grande", cargando: "Cargando la canción…", nohay: "No encontramos esta canción.", ver: "Ver en español", verMeta: "Ver en inglés",
+    es: { volver: "Canciones", sig: "Siguiente canción ▶", simul: "Simultáneo: las dos letras a la vez", seguido: "▶▶ Seguidas: al acabar, pasa a la siguiente", cuenta: "La siguiente empieza en {n}…", atras: "Volver a las canciones", menos: "Letra más pequeña", mas: "Letra más grande", cargando: "Cargando la canción…", nohay: "No encontramos esta canción.", ver: "Ver en español", verMeta: "Ver en inglés",
           play: "Reproducir", pausa: "Pausa", reinicia: "Desde el principio", finT: "¡Muy bien!",
           fin: "En el juego Sumanautas, al acabar cada canción hay 3 preguntas para repasar lo aprendido, y cada semana llegan canciones nuevas.",
           muestraT: "¿Quieres oírla entera?", muestra: "Esta es solo una muestra. Escúchala entera, con su letra y sus preguntas, en Sumanautas." },
-    en: { volver: "Songs", sig: "Next song ▶", simul: "Both at once: the two lyrics together", atras: "Back to the songs", menos: "Smaller text", mas: "Bigger text", cargando: "Loading the song…", nohay: "We couldn't find this song.", ver: "See in English", verMeta: "See in Spanish",
+    en: { volver: "Songs", sig: "Next song ▶", simul: "Both at once: the two lyrics together", seguido: "▶▶ Autoplay: next song when it ends", cuenta: "Next song in {n}…", atras: "Back to the songs", menos: "Smaller text", mas: "Bigger text", cargando: "Loading the song…", nohay: "We couldn't find this song.", ver: "See in English", verMeta: "See in Spanish",
           play: "Play", pausa: "Pause", reinicia: "From the start", finT: "Well done!",
           fin: "In the Sumanautas game, every song ends with 3 questions to review what you learned, and new songs arrive every week.",
           muestraT: "Want to hear it all?", muestra: "This is just a preview. Listen to the whole song, with its lyrics and questions, in Sumanautas." }
@@ -26,12 +26,14 @@
   var datos = null, c = null, audio = null, lineas = [], actual = -1, traduce = false, raf = 0;
   /* [30-oct, él] «Simultáneo»: debajo de cada línea, su traducción (se recuerda en este navegador) */
   var simul = lee("sumanautas-simultaneo") === "1";
+  /* [30-oct, él: «un botón para continuar con la siguiente canción automáticamente al acabar»] «Seguidas» (se recuerda en este navegador) */
+  var seguido = lee("sumanautas-seguido") === "1", tSig = 0;
 
   function T() { return TXT[idioma]; }
-  /* el tamaño de la letra (px): 16-40; sin guardar, el de la pantalla */
+  /* el tamaño de la letra (px): 16-56 ([30-oct, él] «que pueda aumentarla más»); sin guardar, el de la pantalla */
   function letraPx(v) {
-    if (v === undefined) { var g = parseInt(lee("sumanautas-letra-cancion"), 10); return g >= 16 && g <= 40 ? g : (window.innerWidth < 760 ? 20 : 22); }
-    v = Math.max(16, Math.min(40, v)); guarda("sumanautas-letra-cancion", String(v));
+    if (v === undefined) { var g = parseInt(lee("sumanautas-letra-cancion"), 10); return g >= 16 && g <= 56 ? g : (window.innerWidth < 760 ? 20 : 22); }
+    v = Math.max(16, Math.min(56, v)); guarda("sumanautas-letra-cancion", String(v));
     document.documentElement.style.setProperty("--letra", v + "px");
     if (actual >= 0 && lineas[actual]) lineas[actual].scrollIntoView({ block: "center" });
     return v;
@@ -46,6 +48,7 @@
     [].forEach.call(document.querySelectorAll(".idioma button"), function (b) { b.setAttribute("aria-pressed", String(b.dataset.idioma === idioma)); });
     document.querySelector(".volver .t").textContent = T().volver;
     if (audio) { audio.pause(); cancelAnimationFrame(raf); }
+    clearInterval(tSig);
     main.innerHTML = "";
     if (!datos) { main.appendChild(el("p", "aviso", T().cargando)); return; }
     c = null;
@@ -68,11 +71,20 @@
     var bs = el("button", "simul"); bs.type = "button"; bs.textContent = T().simul;
     lado.appendChild(bs);
     // [30-oct, él: «otro botón que ponga siguiente y pase a la siguiente canción; así no tenemos que salir atrás para poner otra»]
-    var i = datos.canciones.indexOf(c), sig = datos.canciones[(i + 1) % datos.canciones.length];
+    var i = datos.canciones.indexOf(c), n = datos.canciones.length, sig = datos.canciones[(i + 1) % n], ant = datos.canciones[(i - 1 + n) % n];
+    function enlace(x) { return "?id=" + encodeURIComponent(x.id) + (idioma === "en" ? "&lang=en" : ""); }
+    function salta(x) {
+      id = x.id; traduce = false; if (history.replaceState) history.replaceState(null, "", enlace(x)); pinta();
+      if (!document.hidden) window.scrollTo(0, 0);
+      if (audio) { var p = audio.play(); if (p && p.catch) p.catch(function () { /* sin permiso para sonar solo: queda en ▶ */ }); }
+    }
     var bn = el("a", "siguiente", T().sig);
-    bn.href = "?id=" + encodeURIComponent(sig.id) + (idioma === "en" ? "&lang=en" : "");
-    bn.addEventListener("click", function (ev) { ev.preventDefault(); id = sig.id; traduce = false; if (history.replaceState) history.replaceState(null, "", bn.getAttribute("href")); pinta(); window.scrollTo(0, 0); if (audio) audio.play(); });
+    bn.href = enlace(sig);
+    bn.addEventListener("click", function (ev) { ev.preventDefault(); salta(sig); });
     lado.appendChild(bn);
+    var bq = el("button", "simul seguido", T().seguido); bq.type = "button"; bq.setAttribute("aria-pressed", String(seguido));
+    bq.addEventListener("click", function () { seguido = !seguido; guarda("sumanautas-seguido", seguido ? "1" : "0"); bq.setAttribute("aria-pressed", String(seguido)); if (!seguido) { clearInterval(tSig); cuenta.hidden = true; } });
+    lado.appendChild(bq);
     var barra = el("div", "barra"), relleno = el("i"); barra.appendChild(relleno); lado.appendChild(barra);
     var tiempo = el("p", "tiempo", "0:00 / " + mm(c[m].d)); lado.appendChild(tiempo);
     // [30-oct, él: «pon un botón para volver atrás, que hay mucho espacio para ponerlo»] grande, bajo los mandos
@@ -83,7 +95,7 @@
     [["−", -2, T().menos], ["+", 2, T().mas]].forEach(function (x) {
       var b = el("button", null); b.type = "button"; b.setAttribute("aria-label", x[2]);
       b.innerHTML = '<span class="a">A</span>' + x[0];
-      b.addEventListener("click", function () { letraPx(letraPx() + x[1]); });
+      b.addEventListener("click", function () { letraPx(letraPx() + x[1] * 2); });
       tam.appendChild(b);
     });
     lado.appendChild(tam);
@@ -101,6 +113,7 @@
     var fin = el("div", "fin"); fin.hidden = true;
     fin.appendChild(el("h3", null, c.entera ? T().finT : T().muestraT));
     fin.appendChild(el("p", null, c.entera ? T().fin : T().muestra));
+    var cuenta = el("p", "cuenta"); cuenta.hidden = true; fin.appendChild(cuenta);
     var bn2 = el("a", "siguiente", T().sig); bn2.href = bn.href;
     bn2.addEventListener("click", function (ev) { ev.preventDefault(); bn.click(); });
     fin.appendChild(bn2);
@@ -127,14 +140,36 @@
     bt.addEventListener("click", function () { if (simul) { simul = false; guarda("sumanautas-simultaneo", "0"); traduce = true; } else traduce = !traduce; textos(); paso(); });
     bs.addEventListener("click", function () { simul = !simul; guarda("sumanautas-simultaneo", simul ? "1" : "0"); if (simul) traduce = false; textos(); paso(); });
     textos();
-    audio = new Audio("canciones/" + encodeURIComponent(c.id) + "/" + m + (c.entera ? "" : "_muestra") + ".mp3");
+    if (!audio) audio = new Audio();      // (uno solo para todas: en el iPhone, el que ya sonó con un toque puede pasar a la siguiente solo)
+    audio.src = "canciones/" + encodeURIComponent(c.id) + "/" + m + (c.entera ? "" : "_muestra") + ".mp3";
     audio.preload = "auto";
     bp.addEventListener("click", function () { if (audio.paused) audio.play(); else audio.pause(); });
     br.addEventListener("click", function () { audio.currentTime = 0; audio.play(); });
     barra.addEventListener("click", function (ev) { var r = barra.getBoundingClientRect(); audio.currentTime = Math.max(0, Math.min(1, (ev.clientX - r.left) / r.width)) * (audio.duration || c[m].d); });
-    audio.addEventListener("play", function () { bp.innerHTML = PAUSA; bp.setAttribute("aria-label", T().pausa); fin.hidden = true; raf = requestAnimationFrame(bucle); });
-    audio.addEventListener("pause", function () { bp.innerHTML = PLAY; bp.setAttribute("aria-label", T().play); });
-    audio.addEventListener("ended", function () { fin.hidden = false; fin.scrollIntoView({ behavior: "smooth", block: "center" }); });
+    audio.onplay = function () { clearInterval(tSig); cuenta.hidden = true; bp.innerHTML = PAUSA; bp.setAttribute("aria-label", T().pausa); fin.hidden = true; raf = requestAnimationFrame(bucle); };
+    // [30-oct, él: «cuando me sale CarPlay, poder darle a siguiente canción y que pasara»] los botones de CarPlay, de la pantalla
+    // bloqueada y de los auriculares (Media Session): título y portada, ▶/❚❚, ⏭ la siguiente, ⏮ al principio o la anterior
+    if ("mediaSession" in navigator) {
+      try {
+        navigator.mediaSession.metadata = new MediaMetadata({ title: titulo, artist: "Sumanautas", album: idioma === "en" ? "Songs to learn Spanish" : "Canciones para aprender inglés",
+          artwork: [{ src: new URL("canciones/" + encodeURIComponent(c.id) + "/portada.jpg", location.href).href, sizes: "768x768", type: "image/jpeg" }] });
+        var ms = navigator.mediaSession, accion = function (a, f) { try { ms.setActionHandler(a, f); } catch (e) { /* ese botón no existe aquí */ } };
+        accion("play", function () { audio.play(); });
+        accion("pause", function () { audio.pause(); });
+        accion("nexttrack", function () { salta(sig); });
+        accion("previoustrack", function () { if (audio.currentTime > 3) audio.currentTime = 0; else salta(ant); });
+        accion("seekto", function (d) { if (d && d.seekTime != null) audio.currentTime = d.seekTime; });
+      } catch (e) { /* navegador sin Media Session */ }
+    }
+    audio.onpause = function () { bp.innerHTML = PLAY; bp.setAttribute("aria-label", T().play); };
+    audio.onended = function () {
+      fin.hidden = false; fin.scrollIntoView({ behavior: "smooth", block: "center" });
+      if (!seguido) return;
+      if (document.hidden) { salta(sig); return; }      // (con la pantalla bloqueada o en el coche, sin cuenta atrás)
+      var quedan = 4;
+      function cuentaAtras() { quedan--; if (quedan <= 0) { clearInterval(tSig); salta(sig); } else { cuenta.hidden = false; cuenta.textContent = T().cuenta.replace("{n}", quedan); } }
+      cuentaAtras(); tSig = setInterval(cuentaAtras, 1000);
+    };
     function paso() {
       var t = audio.currentTime, d = audio.duration || c[m].d;
       relleno.style.width = (100 * Math.min(1, t / d)) + "%";

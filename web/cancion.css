@@ -53,6 +53,8 @@ button { font: inherit; cursor: pointer; }
 .letra li.suena .tr { color: #9ec9ff; }
 .simul { min-height: 54px; border: 0; border-radius: 16px; background: #8e44ad; color: #fff; font: 900 17px/1.15 var(--f-titulo); padding: 6px 12px; box-shadow: 0 4px 0 #66307d; }
 .simul[aria-pressed="true"] { background: #27ae60; box-shadow: 0 4px 0 #1c7d45; }
+.seguido { background: #2c6fb7; box-shadow: 0 4px 0 #1d4f86; }
+.fin .cuenta { margin: 10px 0 0; font: 900 20px/1.2 var(--f-titulo); color: var(--sol); }
 .letra li.suena.trad { color: var(--sol); }
 .fin { margin: 20px 0 40vh; padding: 20px; border-radius: 18px; background: rgba(255, 255, 255, .1); text-align: center; }
 .fin h3 { margin: 0 0 8px; font: 900 24px/1.2 var(--f-titulo); color: var(--sol); }
