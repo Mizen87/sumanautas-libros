@@ -11,19 +11,20 @@
   function guarda(k, v) { try { window.localStorage.setItem(k, v); } catch (e) { /* da igual */ } }
   var idioma = (q.match(/[?&]lang=(es|en)\b/) || [])[1] || lee("sumanautas-idioma") || "es";
   var TXT = {
-    es: { volver: "Canciones", sig: "Siguiente canción ▶", simul: "Simultáneo: las dos letras a la vez", seguido: "▶▶ Seguidas: al acabar, pasa a la siguiente", cuenta: "La siguiente empieza en {n}…", atras: "Volver a las canciones", menos: "Letra más pequeña", mas: "Letra más grande", cargando: "Cargando la canción…", nohay: "No encontramos esta canción.", ver: "Ver en español", verMeta: "Ver en inglés",
+    es: { volver: "Canciones", sig: "Siguiente canción ▶", sigCorto: "Siguiente canción", simul: "Simultáneo: las dos letras a la vez", seguido: "▶▶ Seguidas: al acabar, pasa a la siguiente", cuenta: "La siguiente empieza en {n}…", atras: "Volver a las canciones", menos: "Letra más pequeña", mas: "Letra más grande", cargando: "Cargando la canción…", nohay: "No encontramos esta canción.", ver: "Ver en español", verMeta: "Ver en inglés",
           play: "Reproducir", pausa: "Pausa", reinicia: "Desde el principio", finT: "¡Muy bien!",
           fin: "En el juego Sumanautas, al acabar cada canción hay 3 preguntas para repasar lo aprendido, y cada semana llegan canciones nuevas.",
           muestraT: "¿Quieres oírla entera?", muestra: "Esta es solo una muestra. Escúchala entera, con su letra y sus preguntas, en Sumanautas." },
-    en: { volver: "Songs", sig: "Next song ▶", simul: "Both at once: the two lyrics together", seguido: "▶▶ Autoplay: next song when it ends", cuenta: "Next song in {n}…", atras: "Back to the songs", menos: "Smaller text", mas: "Bigger text", cargando: "Loading the song…", nohay: "We couldn't find this song.", ver: "See in English", verMeta: "See in Spanish",
+    en: { volver: "Songs", sig: "Next song ▶", sigCorto: "Next song", simul: "Both at once: the two lyrics together", seguido: "▶▶ Autoplay: next song when it ends", cuenta: "Next song in {n}…", atras: "Back to the songs", menos: "Smaller text", mas: "Bigger text", cargando: "Loading the song…", nohay: "We couldn't find this song.", ver: "See in English", verMeta: "See in Spanish",
           play: "Play", pausa: "Pause", reinicia: "From the start", finT: "Well done!",
           fin: "In the Sumanautas game, every song ends with 3 questions to review what you learned, and new songs arrive every week.",
           muestraT: "Want to hear it all?", muestra: "This is just a preview. Listen to the whole song, with its lyrics and questions, in Sumanautas." }
   };
   var PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 4.5v15l12-7.5z"/></svg>';
   var PAUSA = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 4h4.5v16H6zM13.5 4H18v16h-4.5z"/></svg>';
+  var SIG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M5 5v14l10-7zM16 5h3v14h-3z"/></svg>';
   var main = document.getElementById("cmain"), tit = document.getElementById("ctitulo");
-  var datos = null, c = null, audio = null, lineas = [], actual = -1, traduce = false, raf = 0, metaDe = "";
+  var datos = null, c = null, audio = null, lineas = [], actual = -1, traduce = false, raf = 0, metaDe = "", vigia = null;
   /* [30-oct, él] «Simultáneo»: debajo de cada línea, su traducción (se recuerda en este navegador) */
   var simul = lee("sumanautas-simultaneo") === "1";
   /* [30-oct, él: «un botón para continuar con la siguiente canción automáticamente al acabar»] «Seguidas» (se recuerda en este navegador) */
@@ -62,6 +63,7 @@
     document.querySelector(".volver .t").textContent = T().volver;
     if (audio) { audio.pause(); cancelAnimationFrame(raf); }
     clearInterval(tSig);
+    if (vigia) { vigia.disconnect(); vigia = null; }
     main.innerHTML = "";
     if (!datos) { main.appendChild(el("p", "aviso", T().cargando)); return; }
     c = null;
@@ -133,6 +135,18 @@
     fin.insertAdjacentHTML("beforeend", document.getElementById("badge").innerHTML);
     columna.appendChild(fin);
     main.appendChild(columna);
+    // [31-oct, él: «al bajar para seguir la letra, unos botones más pequeñitos abajo a la derecha para siguiente canción y pausa/play»]
+    // salen solos cuando los mandos de arriba ya no se ven (en el móvil, al bajar por la letra; en el ordenador los mandos no se van)
+    var flota = el("div", "flota"), fp = el("button", "fplay"), fs = el("button", "fsig");
+    fp.type = "button"; fp.innerHTML = PLAY; fp.setAttribute("aria-label", T().play);
+    fs.type = "button"; fs.innerHTML = SIG; fs.setAttribute("aria-label", T().sigCorto);
+    fp.addEventListener("click", function () { bp.click(); });
+    fs.addEventListener("click", function () { salta(sig); });
+    flota.appendChild(fp); flota.appendChild(fs); main.appendChild(flota);
+    if ("IntersectionObserver" in window) {
+      vigia = new IntersectionObserver(function (es) { flota.classList.toggle("ver", !es[0].isIntersecting); }, { rootMargin: "-64px 0px 0px 0px" });   // (lo que tapa la barra de arriba no cuenta)
+      vigia.observe(mandos);
+    }
     function textos() {
       bt.innerHTML = "";
       var f = el("img"); f.src = "web/bandera_" + ((traduce ? m : idioma) === "en" ? "gb" : "es") + ".png"; f.alt = "";
@@ -159,7 +173,7 @@
     bp.addEventListener("click", function () { if (audio.paused) audio.play(); else audio.pause(); });
     br.addEventListener("click", function () { audio.currentTime = 0; audio.play(); });
     barra.addEventListener("click", function (ev) { var r = barra.getBoundingClientRect(); audio.currentTime = Math.max(0, Math.min(1, (ev.clientX - r.left) / r.width)) * (audio.duration || c[m].d); });
-    audio.onplay = function () { clearInterval(tSig); cuenta.hidden = true; bp.innerHTML = PAUSA; bp.setAttribute("aria-label", T().pausa); fin.hidden = true; raf = requestAnimationFrame(bucle); };
+    audio.onplay = function () { clearInterval(tSig); cuenta.hidden = true; bp.innerHTML = fp.innerHTML = PAUSA; bp.setAttribute("aria-label", T().pausa); fp.setAttribute("aria-label", T().pausa); fin.hidden = true; raf = requestAnimationFrame(bucle); };
     // [30-oct, él: «cuando me sale CarPlay, poder darle a siguiente canción y que pasara»] los botones de CarPlay, de la pantalla
     // bloqueada y de los auriculares (Media Session): título y portada, ▶/❚❚, ⏭ la siguiente, ⏮ al principio o la anterior
     if ("mediaSession" in navigator) {
@@ -190,7 +204,7 @@
       } catch (e) { /* navegador sin Media Session */ }
     }
     audio.ontimeupdate = function () { if (document.hidden) paso(); };     // (con la pantalla bloqueada no hay animación: así la frase de CarPlay sigue cambiando)
-    audio.onpause = function () { bp.innerHTML = PLAY; bp.setAttribute("aria-label", T().play); };
+    audio.onpause = function () { bp.innerHTML = fp.innerHTML = PLAY; bp.setAttribute("aria-label", T().play); fp.setAttribute("aria-label", T().play); };
     audio.onended = function () {
       fin.hidden = false; fin.scrollIntoView({ behavior: "smooth", block: "center" });
       if (!seguido) return;
