@@ -22,7 +22,9 @@
   };
   var PLAY = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M7 4.5v15l12-7.5z"/></svg>';
   var PAUSA = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6 4h4.5v16H6zM13.5 4H18v16h-4.5z"/></svg>';
-  var SIG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M5 5v14l10-7zM16 5h3v14h-3z"/></svg>';
+  /* [31-oct, él: «¿podrían ser más bonitos? ¿tenemos más bonitos hechos con Ludo?»] los botones redondos del juego (Ludo) */
+  function boton(n) { return "web/botones/" + n + ".png"; }
+  new Image().src = boton("pausa");     // (que al darle a ▶ no tarde en salir el de pausa)
   var main = document.getElementById("cmain"), tit = document.getElementById("ctitulo");
   var datos = null, c = null, audio = null, lineas = [], actual = -1, traduce = false, raf = 0, metaDe = "", vigia = null;
   /* [30-oct, él] «Simultáneo»: debajo de cada línea, su traducción (se recuerda en este navegador) */
@@ -138,8 +140,9 @@
     // [31-oct, él: «al bajar para seguir la letra, unos botones más pequeñitos abajo a la derecha para siguiente canción y pausa/play»]
     // salen solos cuando los mandos de arriba ya no se ven (en el móvil, al bajar por la letra; en el ordenador los mandos no se van)
     var flota = el("div", "flota"), fp = el("button", "fplay"), fs = el("button", "fsig");
-    fp.type = "button"; fp.innerHTML = PLAY; fp.setAttribute("aria-label", T().play);
-    fs.type = "button"; fs.innerHTML = SIG; fs.setAttribute("aria-label", T().sigCorto);
+    var fi = el("img"), fsi = el("img"); fi.src = boton("play"); fsi.src = boton("siguiente"); fi.alt = fsi.alt = "";
+    fp.type = "button"; fp.appendChild(fi); fp.setAttribute("aria-label", T().play);
+    fs.type = "button"; fs.appendChild(fsi); fs.setAttribute("aria-label", T().sigCorto);
     fp.addEventListener("click", function () { bp.click(); });
     fs.addEventListener("click", function () { salta(sig); });
     flota.appendChild(fp); flota.appendChild(fs); main.appendChild(flota);
@@ -173,7 +176,7 @@
     bp.addEventListener("click", function () { if (audio.paused) audio.play(); else audio.pause(); });
     br.addEventListener("click", function () { audio.currentTime = 0; audio.play(); });
     barra.addEventListener("click", function (ev) { var r = barra.getBoundingClientRect(); audio.currentTime = Math.max(0, Math.min(1, (ev.clientX - r.left) / r.width)) * (audio.duration || c[m].d); });
-    audio.onplay = function () { clearInterval(tSig); cuenta.hidden = true; bp.innerHTML = fp.innerHTML = PAUSA; bp.setAttribute("aria-label", T().pausa); fp.setAttribute("aria-label", T().pausa); fin.hidden = true; raf = requestAnimationFrame(bucle); };
+    audio.onplay = function () { clearInterval(tSig); cuenta.hidden = true; bp.innerHTML = PAUSA; fi.src = boton("pausa"); bp.setAttribute("aria-label", T().pausa); fp.setAttribute("aria-label", T().pausa); fin.hidden = true; raf = requestAnimationFrame(bucle); };
     // [30-oct, él: «cuando me sale CarPlay, poder darle a siguiente canción y que pasara»] los botones de CarPlay, de la pantalla
     // bloqueada y de los auriculares (Media Session): título y portada, ▶/❚❚, ⏭ la siguiente, ⏮ al principio o la anterior
     if ("mediaSession" in navigator) {
@@ -204,7 +207,7 @@
       } catch (e) { /* navegador sin Media Session */ }
     }
     audio.ontimeupdate = function () { if (document.hidden) paso(); };     // (con la pantalla bloqueada no hay animación: así la frase de CarPlay sigue cambiando)
-    audio.onpause = function () { bp.innerHTML = fp.innerHTML = PLAY; bp.setAttribute("aria-label", T().play); fp.setAttribute("aria-label", T().play); };
+    audio.onpause = function () { bp.innerHTML = PLAY; fi.src = boton("play"); bp.setAttribute("aria-label", T().play); fp.setAttribute("aria-label", T().play); };
     audio.onended = function () {
       fin.hidden = false; fin.scrollIntoView({ behavior: "smooth", block: "center" });
       if (!seguido) return;
