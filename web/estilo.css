@@ -74,6 +74,8 @@ button { font: inherit; }
 /* ── CAPTURAS ── */
 .juego { padding-top: 8px; }
 .titulo-seccion { font: 900 clamp(28px, 5vw, 42px)/1.1 var(--f-titulo); margin: 0 0 10px; text-align: center; }
+/* [2-nov] las secciones dentro de las canciones: «Infantil · de 1 a 3 años» y «Para todas las edades» */
+.titulo-sub { font: 800 clamp(22px, 3.6vw, 30px)/1.15 var(--f-titulo); margin: 28px 0 8px; text-align: center; }
 .carrusel { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(250px, 78%); gap: 14px; overflow-x: auto; scroll-snap-type: x mandatory; padding: 6px 16px 16px; margin: 0 -16px; list-style: none; }
 .carrusel li { scroll-snap-align: center; background: #fff; border-radius: 18px; padding: 8px; box-shadow: var(--sombra); }
 .carrusel img { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 12px; background: #dfe8f6; }

@@ -2,6 +2,5113 @@
  "version": 1,
  "canciones": [
   {
+   "id": "i01-toc-toc",
+   "titulo_en": "Knock, Knock! I'm Here!",
+   "titulo_es": "¡Toc, toc! ¡Ya llegué!",
+   "ensena_en": "saying hello and good morning, and answering «Me!» (ages 1-3)",
+   "ensena_es": "saludar (hola, buenos días) y contestar «¡yo!» (1-3 años)",
+   "infantil": true,
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "Knock, knock! Who's there?",
+      "ini": 8.58,
+      "fin": 11.12,
+      "palabras": [
+       {
+        "t": "Knock,",
+        "ini": 8.58,
+        "fin": 8.98
+       },
+       {
+        "t": "knock!",
+        "ini": 9.62,
+        "fin": 10.04
+       },
+       {
+        "t": "Who's",
+        "ini": 10.42,
+        "fin": 10.68
+       },
+       {
+        "t": "there?",
+        "ini": 10.76,
+        "fin": 11.12
+       }
+      ],
+      "trad": "¡Toc, toc! ¿Quién es?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "It's me, it's me!",
+      "ini": 12.64,
+      "fin": 15.26,
+      "palabras": [
+       {
+        "t": "It's",
+        "ini": 12.64,
+        "fin": 12.84
+       },
+       {
+        "t": "me,",
+        "ini": 12.9,
+        "fin": 13.12
+       },
+       {
+        "t": "it's",
+        "ini": 14.78,
+        "fin": 14.98
+       },
+       {
+        "t": "me!",
+        "ini": 15.04,
+        "fin": 15.26
+       }
+      ],
+      "trad": "¡Soy yo, soy yo!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Hello, hello, good morning,",
+      "ini": 16.9,
+      "fin": 20.06,
+      "palabras": [
+       {
+        "t": "Hello,",
+        "ini": 16.9,
+        "fin": 17.52
+       },
+       {
+        "t": "hello,",
+        "ini": 17.96,
+        "fin": 18.6
+       },
+       {
+        "t": "good",
+        "ini": 19.04,
+        "fin": 19.2
+       },
+       {
+        "t": "morning,",
+        "ini": 19.32,
+        "fin": 20.06
+       }
+      ],
+      "trad": "¡Hola, hola, buenos días!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "I'm at school, yippee!",
+      "ini": 20.98,
+      "fin": 23.96,
+      "palabras": [
+       {
+        "t": "I'm",
+        "ini": 20.98,
+        "fin": 21.16
+       },
+       {
+        "t": "at",
+        "ini": 21.2,
+        "fin": 21.3
+       },
+       {
+        "t": "school,",
+        "ini": 21.38,
+        "fin": 21.82
+       },
+       {
+        "t": "yippee!",
+        "ini": 23.08,
+        "fin": 23.96
+       }
+      ],
+      "trad": "¡Ya estoy en el cole, yupi!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "I wave hello with my hand: hello, hello!",
+      "ini": 27.16,
+      "fin": 30.72,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 27.16,
+        "fin": 27.28
+       },
+       {
+        "t": "wave",
+        "ini": 27.34,
+        "fin": 27.58
+       },
+       {
+        "t": "hello",
+        "ini": 27.62,
+        "fin": 28.22
+       },
+       {
+        "t": "with",
+        "ini": 28.38,
+        "fin": 28.54
+       },
+       {
+        "t": "my",
+        "ini": 28.58,
+        "fin": 28.76
+       },
+       {
+        "t": "hand:",
+        "ini": 28.82,
+        "fin": 29.26
+       },
+       {
+        "t": "hello,",
+        "ini": 29.74,
+        "fin": 30.16
+       },
+       {
+        "t": "hello!",
+        "ini": 30.26,
+        "fin": 30.72
+       }
+      ],
+      "trad": "Saludo con la mano: ¡hola, hola!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "I wave hello to my friends: hello, hello!",
+      "ini": 31.44,
+      "fin": 34.96,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 31.44,
+        "fin": 31.56
+       },
+       {
+        "t": "wave",
+        "ini": 31.64,
+        "fin": 31.86
+       },
+       {
+        "t": "hello",
+        "ini": 31.92,
+        "fin": 32.4
+       },
+       {
+        "t": "to",
+        "ini": 32.68,
+        "fin": 32.78
+       },
+       {
+        "t": "my",
+        "ini": 32.84,
+        "fin": 32.96
+       },
+       {
+        "t": "friends:",
+        "ini": 33.1,
+        "fin": 33.56
+       },
+       {
+        "t": "hello,",
+        "ini": 34.02,
+        "fin": 34.46
+       },
+       {
+        "t": "hello!",
+        "ini": 34.54,
+        "fin": 34.96
+       }
+      ],
+      "trad": "Saludo a mis amigos: ¡hola, hola!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "I wave hello to my teacher: hello, hello!",
+      "ini": 35.72,
+      "fin": 39.24,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 35.72,
+        "fin": 35.86
+       },
+       {
+        "t": "wave",
+        "ini": 35.9,
+        "fin": 36.14
+       },
+       {
+        "t": "hello",
+        "ini": 36.2,
+        "fin": 36.78
+       },
+       {
+        "t": "to",
+        "ini": 36.96,
+        "fin": 37.08
+       },
+       {
+        "t": "my",
+        "ini": 37.12,
+        "fin": 37.32
+       },
+       {
+        "t": "teacher:",
+        "ini": 37.38,
+        "fin": 37.88
+       },
+       {
+        "t": "hello,",
+        "ini": 38.32,
+        "fin": 38.74
+       },
+       {
+        "t": "hello!",
+        "ini": 38.82,
+        "fin": 39.24
+       }
+      ],
+      "trad": "Saludo a mi profe: ¡hola, hola!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "And I blow a little kiss… mwah!",
+      "ini": 39.42,
+      "fin": 42.58,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 39.42,
+        "fin": 39.5
+       },
+       {
+        "t": "I",
+        "ini": 39.56,
+        "fin": 39.64
+       },
+       {
+        "t": "blow",
+        "ini": 39.68,
+        "fin": 39.9
+       },
+       {
+        "t": "a",
+        "ini": 40.04,
+        "fin": 40.14
+       },
+       {
+        "t": "little",
+        "ini": 40.22,
+        "fin": 40.46
+       },
+       {
+        "t": "kiss…",
+        "ini": 40.58,
+        "fin": 41.04
+       },
+       {
+        "t": "mwah!",
+        "ini": 42.06,
+        "fin": 42.58
+       }
+      ],
+      "trad": "Y lanzo un besito… ¡muac!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Knock, knock! Who's there?",
+      "ini": 43.36,
+      "fin": 45.5,
+      "palabras": [
+       {
+        "t": "Knock,",
+        "ini": 43.36,
+        "fin": 43.58
+       },
+       {
+        "t": "knock!",
+        "ini": 43.92,
+        "fin": 44.26
+       },
+       {
+        "t": "Who's",
+        "ini": 44.72,
+        "fin": 44.98
+       },
+       {
+        "t": "there?",
+        "ini": 45.06,
+        "fin": 45.5
+       }
+      ],
+      "trad": "¡Toc, toc! ¿Quién es?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "It's me, it's me!",
+      "ini": 46.92,
+      "fin": 49.68,
+      "palabras": [
+       {
+        "t": "It's",
+        "ini": 46.92,
+        "fin": 47.12
+       },
+       {
+        "t": "me,",
+        "ini": 47.18,
+        "fin": 47.4
+       },
+       {
+        "t": "it's",
+        "ini": 49.06,
+        "fin": 49.26
+       },
+       {
+        "t": "me!",
+        "ini": 49.34,
+        "fin": 49.68
+       }
+      ],
+      "trad": "¡Soy yo, soy yo!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Hello, hello, good morning,",
+      "ini": 51.18,
+      "fin": 54.34,
+      "palabras": [
+       {
+        "t": "Hello,",
+        "ini": 51.18,
+        "fin": 51.8
+       },
+       {
+        "t": "hello,",
+        "ini": 52.24,
+        "fin": 52.76
+       },
+       {
+        "t": "good",
+        "ini": 53.3,
+        "fin": 53.46
+       },
+       {
+        "t": "morning,",
+        "ini": 53.62,
+        "fin": 54.34
+       }
+      ],
+      "trad": "¡Hola, hola, buenos días!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "I'm at school, yippee!",
+      "ini": 55.28,
+      "fin": 58.38,
+      "palabras": [
+       {
+        "t": "I'm",
+        "ini": 55.28,
+        "fin": 55.46
+       },
+       {
+        "t": "at",
+        "ini": 55.5,
+        "fin": 55.62
+       },
+       {
+        "t": "school,",
+        "ini": 55.68,
+        "fin": 56.24
+       },
+       {
+        "t": "yippee!",
+        "ini": 57.32,
+        "fin": 58.38
+       }
+      ],
+      "trad": "¡Ya estoy en el cole, yupi!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Who came to school today? Me, me, me!",
+      "ini": 61.34,
+      "fin": 64.54,
+      "palabras": [
+       {
+        "t": "Who",
+        "ini": 61.34,
+        "fin": 61.46
+       },
+       {
+        "t": "came",
+        "ini": 61.62,
+        "fin": 61.86
+       },
+       {
+        "t": "to",
+        "ini": 61.9,
+        "fin": 62.02
+       },
+       {
+        "t": "school",
+        "ini": 62.1,
+        "fin": 62.42
+       },
+       {
+        "t": "today?",
+        "ini": 62.6,
+        "fin": 63.34
+       },
+       {
+        "t": "Me,",
+        "ini": 63.76,
+        "fin": 63.9
+       },
+       {
+        "t": "me,",
+        "ini": 64.04,
+        "fin": 64.14
+       },
+       {
+        "t": "me!",
+        "ini": 64.3,
+        "fin": 64.54
+       }
+      ],
+      "trad": "¿Quién ha venido al cole hoy? ¡Yo, yo, yo!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Who brought a great big smile? Me, me, me!",
+      "ini": 65.64,
+      "fin": 68.94,
+      "palabras": [
+       {
+        "t": "Who",
+        "ini": 65.64,
+        "fin": 65.76
+       },
+       {
+        "t": "brought",
+        "ini": 65.9,
+        "fin": 66.2
+       },
+       {
+        "t": "a",
+        "ini": 66.26,
+        "fin": 66.3
+       },
+       {
+        "t": "great",
+        "ini": 66.42,
+        "fin": 66.76
+       },
+       {
+        "t": "big",
+        "ini": 66.88,
+        "fin": 67.08
+       },
+       {
+        "t": "smile?",
+        "ini": 67.2,
+        "fin": 67.76
+       },
+       {
+        "t": "Me,",
+        "ini": 68.08,
+        "fin": 68.22
+       },
+       {
+        "t": "me,",
+        "ini": 68.34,
+        "fin": 68.48
+       },
+       {
+        "t": "me!",
+        "ini": 68.62,
+        "fin": 68.94
+       }
+      ],
+      "trad": "¿Quién ha traído una sonrisa enorme? ¡Yo, yo, yo!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Who wants to play today? Me, me, me!",
+      "ini": 69.94,
+      "fin": 73.12,
+      "palabras": [
+       {
+        "t": "Who",
+        "ini": 69.94,
+        "fin": 70.12
+       },
+       {
+        "t": "wants",
+        "ini": 70.2,
+        "fin": 70.44
+       },
+       {
+        "t": "to",
+        "ini": 70.5,
+        "fin": 70.58
+       },
+       {
+        "t": "play",
+        "ini": 70.68,
+        "fin": 70.98
+       },
+       {
+        "t": "today?",
+        "ini": 71.16,
+        "fin": 71.98
+       },
+       {
+        "t": "Me,",
+        "ini": 72.36,
+        "fin": 72.46
+       },
+       {
+        "t": "me,",
+        "ini": 72.62,
+        "fin": 72.72
+       },
+       {
+        "t": "me!",
+        "ini": 72.92,
+        "fin": 73.12
+       }
+      ],
+      "trad": "¿Quién quiere jugar hoy? ¡Yo, yo, yo!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "So all together now: hellooo!",
+      "ini": 73.68,
+      "fin": 76.7,
+      "palabras": [
+       {
+        "t": "So",
+        "ini": 73.68,
+        "fin": 73.84
+       },
+       {
+        "t": "all",
+        "ini": 74.06,
+        "fin": 74.28
+       },
+       {
+        "t": "together",
+        "ini": 74.34,
+        "fin": 74.78
+       },
+       {
+        "t": "now:",
+        "ini": 74.92,
+        "fin": 75.32
+       },
+       {
+        "t": "hellooo!",
+        "ini": 75.82,
+        "fin": 76.7
+       }
+      ],
+      "trad": "Pues ahora todos juntos: ¡holaaa!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Knock, knock! Who's there?",
+      "ini": 77.66,
+      "fin": 79.8,
+      "palabras": [
+       {
+        "t": "Knock,",
+        "ini": 77.66,
+        "fin": 78.0
+       },
+       {
+        "t": "knock!",
+        "ini": 78.22,
+        "fin": 78.6
+       },
+       {
+        "t": "Who's",
+        "ini": 79.02,
+        "fin": 79.28
+       },
+       {
+        "t": "there?",
+        "ini": 79.36,
+        "fin": 79.8
+       }
+      ],
+      "trad": "¡Toc, toc! ¿Quién es?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "It's me, it's me!",
+      "ini": 81.22,
+      "fin": 83.98,
+      "palabras": [
+       {
+        "t": "It's",
+        "ini": 81.22,
+        "fin": 81.42
+       },
+       {
+        "t": "me,",
+        "ini": 81.5,
+        "fin": 81.8
+       },
+       {
+        "t": "it's",
+        "ini": 83.36,
+        "fin": 83.56
+       },
+       {
+        "t": "me!",
+        "ini": 83.62,
+        "fin": 83.98
+       }
+      ],
+      "trad": "¡Soy yo, soy yo!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Hello, hello, good morning,",
+      "ini": 85.48,
+      "fin": 88.62,
+      "palabras": [
+       {
+        "t": "Hello,",
+        "ini": 85.48,
+        "fin": 86.1
+       },
+       {
+        "t": "hello,",
+        "ini": 86.54,
+        "fin": 87.16
+       },
+       {
+        "t": "good",
+        "ini": 87.6,
+        "fin": 87.8
+       },
+       {
+        "t": "morning,",
+        "ini": 87.9,
+        "fin": 88.62
+       }
+      ],
+      "trad": "¡Hola, hola, buenos días!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "I'm at school, yippee!",
+      "ini": 89.58,
+      "fin": 92.54,
+      "palabras": [
+       {
+        "t": "I'm",
+        "ini": 89.58,
+        "fin": 89.74
+       },
+       {
+        "t": "at",
+        "ini": 89.8,
+        "fin": 89.92
+       },
+       {
+        "t": "school,",
+        "ini": 89.98,
+        "fin": 90.4
+       },
+       {
+        "t": "yippee!",
+        "ini": 91.66,
+        "fin": 92.54
+       }
+      ],
+      "trad": "¡Ya estoy en el cole, yupi!"
+     },
+     {
+      "seccion": "Calm Ending",
+      "texto": "And now, slowly, slowly, we sit down… shhh…",
+      "ini": 96.18,
+      "fin": 102.72,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 96.18,
+        "fin": 96.38
+       },
+       {
+        "t": "now,",
+        "ini": 96.48,
+        "fin": 96.82
+       },
+       {
+        "t": "slowly,",
+        "ini": 97.48,
+        "fin": 98.42
+       },
+       {
+        "t": "slowly,",
+        "ini": 98.56,
+        "fin": 99.24
+       },
+       {
+        "t": "we",
+        "ini": 100.2,
+        "fin": 100.32
+       },
+       {
+        "t": "sit",
+        "ini": 100.44,
+        "fin": 100.68
+       },
+       {
+        "t": "down…",
+        "ini": 100.76,
+        "fin": 101.34
+       },
+       {
+        "t": "shhh…",
+        "ini": 102.52,
+        "fin": 102.72
+       }
+      ],
+      "trad": "Y ahora, despacito, despacito, nos sentamos… chsss…"
+     },
+     {
+      "seccion": "Calm Ending",
+      "texto": "in our circle, all together… good morning!",
+      "ini": 104.56,
+      "fin": 110.08,
+      "palabras": [
+       {
+        "t": "in",
+        "ini": 104.56,
+        "fin": 104.74
+       },
+       {
+        "t": "our",
+        "ini": 104.78,
+        "fin": 104.92
+       },
+       {
+        "t": "circle,",
+        "ini": 105.0,
+        "fin": 105.66
+       },
+       {
+        "t": "all",
+        "ini": 106.18,
+        "fin": 106.72
+       },
+       {
+        "t": "together…",
+        "ini": 106.9,
+        "fin": 107.82
+       },
+       {
+        "t": "good",
+        "ini": 109.02,
+        "fin": 109.16
+       },
+       {
+        "t": "morning!",
+        "ini": 109.34,
+        "fin": 110.08
+       }
+      ],
+      "trad": "en nuestro corro, todos juntos… ¡buenos días!"
+     }
+    ],
+    "duracion": 115.82
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "¡Toc, toc! ¿Quién es?",
+      "ini": 8.54,
+      "fin": 11.2,
+      "palabras": [
+       {
+        "t": "¡Toc,",
+        "ini": 8.54,
+        "fin": 8.96
+       },
+       {
+        "t": "toc!",
+        "ini": 9.62,
+        "fin": 9.98
+       },
+       {
+        "t": "¿Quién",
+        "ini": 10.04,
+        "fin": 10.72
+       },
+       {
+        "t": "es?",
+        "ini": 10.78,
+        "fin": 11.2
+       }
+      ],
+      "trad": "Knock, knock! Who's there?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Soy yo, soy yo!",
+      "ini": 13.41,
+      "fin": 15.32,
+      "palabras": [
+       {
+        "t": "¡Soy",
+        "ini": 13.41,
+        "fin": 13.86
+       },
+       {
+        "t": "yo,",
+        "ini": 13.9,
+        "fin": 14.16
+       },
+       {
+        "t": "soy",
+        "ini": 14.4,
+        "fin": 14.92
+       },
+       {
+        "t": "yo!",
+        "ini": 14.98,
+        "fin": 15.32
+       }
+      ],
+      "trad": "It's me, it's me!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Hola, hola, buenos días,",
+      "ini": 17.49,
+      "fin": 20.0,
+      "palabras": [
+       {
+        "t": "¡Hola,",
+        "ini": 17.49,
+        "fin": 17.94
+       },
+       {
+        "t": "hola,",
+        "ini": 18.22,
+        "fin": 18.66
+       },
+       {
+        "t": "buenos",
+        "ini": 18.74,
+        "fin": 19.24
+       },
+       {
+        "t": "días,",
+        "ini": 19.3,
+        "fin": 20.0
+       }
+      ],
+      "trad": "Hello, hello, good morning,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "ya llegué al cole yo!",
+      "ini": 20.9,
+      "fin": 23.92,
+      "palabras": [
+       {
+        "t": "ya",
+        "ini": 20.9,
+        "fin": 21.12
+       },
+       {
+        "t": "llegué",
+        "ini": 21.14,
+        "fin": 21.96
+       },
+       {
+        "t": "al",
+        "ini": 22.02,
+        "fin": 22.38
+       },
+       {
+        "t": "cole",
+        "ini": 22.5,
+        "fin": 23.3
+       },
+       {
+        "t": "yo!",
+        "ini": 23.56,
+        "fin": 23.92
+       }
+      ],
+      "trad": "I'm here at school!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Digo hola con la mano: ¡hola, hola!",
+      "ini": 27.32,
+      "fin": 30.74,
+      "palabras": [
+       {
+        "t": "Digo",
+        "ini": 27.32,
+        "fin": 27.78
+       },
+       {
+        "t": "hola",
+        "ini": 27.86,
+        "fin": 28.52
+       },
+       {
+        "t": "con",
+        "ini": 28.64,
+        "fin": 28.76
+       },
+       {
+        "t": "la",
+        "ini": 28.82,
+        "fin": 28.88
+       },
+       {
+        "t": "mano:",
+        "ini": 28.96,
+        "fin": 29.34
+       },
+       {
+        "t": "¡hola,",
+        "ini": 29.46,
+        "fin": 29.86
+       },
+       {
+        "t": "hola!",
+        "ini": 30.04,
+        "fin": 30.74
+       }
+      ],
+      "trad": "I say hello with my hand: hello, hello!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Digo hola a mis amigos: ¡hola, hola!",
+      "ini": 31.6,
+      "fin": 35.06,
+      "palabras": [
+       {
+        "t": "Digo",
+        "ini": 31.6,
+        "fin": 32.06
+       },
+       {
+        "t": "hola",
+        "ini": 32.18,
+        "fin": 32.8
+       },
+       {
+        "t": "a",
+        "ini": 32.86,
+        "fin": 32.88
+       },
+       {
+        "t": "mis",
+        "ini": 32.92,
+        "fin": 33.08
+       },
+       {
+        "t": "amigos:",
+        "ini": 33.12,
+        "fin": 33.74
+       },
+       {
+        "t": "¡hola,",
+        "ini": 33.76,
+        "fin": 34.16
+       },
+       {
+        "t": "hola!",
+        "ini": 34.32,
+        "fin": 35.06
+       }
+      ],
+      "trad": "I say hello to my friends: hello, hello!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Digo hola a mi profe: ¡hola, hola!",
+      "ini": 35.9,
+      "fin": 39.06,
+      "palabras": [
+       {
+        "t": "Digo",
+        "ini": 35.9,
+        "fin": 36.34
+       },
+       {
+        "t": "hola",
+        "ini": 36.46,
+        "fin": 37.14
+       },
+       {
+        "t": "a",
+        "ini": 37.24,
+        "fin": 37.32
+       },
+       {
+        "t": "mi",
+        "ini": 37.36,
+        "fin": 37.44
+       },
+       {
+        "t": "profe:",
+        "ini": 37.5,
+        "fin": 37.96
+       },
+       {
+        "t": "¡hola,",
+        "ini": 38.04,
+        "fin": 38.44
+       },
+       {
+        "t": "hola!",
+        "ini": 38.58,
+        "fin": 39.06
+       }
+      ],
+      "trad": "I say hello to my teacher: hello, hello!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Y lanzo un besito al aire… ¡muac!",
+      "ini": 39.42,
+      "fin": 41.98,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 39.42,
+        "fin": 39.58
+       },
+       {
+        "t": "lanzo",
+        "ini": 39.64,
+        "fin": 39.94
+       },
+       {
+        "t": "un",
+        "ini": 39.98,
+        "fin": 40.02
+       },
+       {
+        "t": "besito",
+        "ini": 40.04,
+        "fin": 40.52
+       },
+       {
+        "t": "al",
+        "ini": 40.56,
+        "fin": 40.74
+       },
+       {
+        "t": "aire…",
+        "ini": 40.82,
+        "fin": 41.62
+       },
+       {
+        "t": "¡muac!",
+        "ini": 41.74,
+        "fin": 41.98
+       }
+      ],
+      "trad": "And I blow a kiss into the air… mwah!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Toc, toc! ¿Quién es?",
+      "ini": 43.87,
+      "fin": 46.56,
+      "palabras": [
+       {
+        "t": "¡Toc,",
+        "ini": 43.87,
+        "fin": 44.32
+       },
+       {
+        "t": "toc!",
+        "ini": 45.0,
+        "fin": 45.36
+       },
+       {
+        "t": "¿Quién",
+        "ini": 45.36,
+        "fin": 46.12
+       },
+       {
+        "t": "es?",
+        "ini": 46.18,
+        "fin": 46.56
+       }
+      ],
+      "trad": "Knock, knock! Who's there?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Soy yo, soy yo!",
+      "ini": 48.77,
+      "fin": 50.62,
+      "palabras": [
+       {
+        "t": "¡Soy",
+        "ini": 48.77,
+        "fin": 49.22
+       },
+       {
+        "t": "yo,",
+        "ini": 49.28,
+        "fin": 49.52
+       },
+       {
+        "t": "soy",
+        "ini": 49.76,
+        "fin": 50.28
+       },
+       {
+        "t": "yo!",
+        "ini": 50.34,
+        "fin": 50.62
+       }
+      ],
+      "trad": "It's me, it's me!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Hola, hola, buenos días,",
+      "ini": 50.76,
+      "fin": 54.3,
+      "palabras": [
+       {
+        "t": "¡Hola,",
+        "ini": 50.76,
+        "fin": 52.22
+       },
+       {
+        "t": "hola,",
+        "ini": 52.5,
+        "fin": 52.9
+       },
+       {
+        "t": "buenos",
+        "ini": 53.04,
+        "fin": 53.52
+       },
+       {
+        "t": "días,",
+        "ini": 53.58,
+        "fin": 54.3
+       }
+      ],
+      "trad": "Hello, hello, good morning,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "ya llegué al cole yo!",
+      "ini": 55.22,
+      "fin": 58.2,
+      "palabras": [
+       {
+        "t": "ya",
+        "ini": 55.22,
+        "fin": 55.4
+       },
+       {
+        "t": "llegué",
+        "ini": 55.44,
+        "fin": 55.96
+       },
+       {
+        "t": "al",
+        "ini": 56.3,
+        "fin": 56.66
+       },
+       {
+        "t": "cole",
+        "ini": 56.78,
+        "fin": 57.58
+       },
+       {
+        "t": "yo!",
+        "ini": 57.84,
+        "fin": 58.2
+       }
+      ],
+      "trad": "I'm here at school!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¿Quién ha venido hoy? ¡Yo, yo, yo!",
+      "ini": 61.19,
+      "fin": 64.54,
+      "palabras": [
+       {
+        "t": "¿Quién",
+        "ini": 61.19,
+        "fin": 61.64
+       },
+       {
+        "t": "ha",
+        "ini": 61.66,
+        "fin": 61.82
+       },
+       {
+        "t": "venido",
+        "ini": 61.88,
+        "fin": 62.94
+       },
+       {
+        "t": "hoy?",
+        "ini": 63.22,
+        "fin": 63.62
+       },
+       {
+        "t": "¡Yo,",
+        "ini": 63.72,
+        "fin": 63.9
+       },
+       {
+        "t": "yo,",
+        "ini": 64.02,
+        "fin": 64.18
+       },
+       {
+        "t": "yo!",
+        "ini": 64.28,
+        "fin": 64.54
+       }
+      ],
+      "trad": "Who's here today? Me, me, me!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¿Quién trae una sonrisa? ¡Yo, yo, yo!",
+      "ini": 64.54,
+      "fin": 68.84,
+      "palabras": [
+       {
+        "t": "¿Quién",
+        "ini": 64.54,
+        "fin": 65.28
+       },
+       {
+        "t": "trae",
+        "ini": 65.34,
+        "fin": 65.72
+       },
+       {
+        "t": "una",
+        "ini": 65.82,
+        "fin": 66.0
+       },
+       {
+        "t": "sonrisa?",
+        "ini": 66.12,
+        "fin": 67.2
+       },
+       {
+        "t": "¡Yo,",
+        "ini": 67.44,
+        "fin": 67.72
+       },
+       {
+        "t": "yo,",
+        "ini": 68.3,
+        "fin": 68.48
+       },
+       {
+        "t": "yo!",
+        "ini": 68.58,
+        "fin": 68.84
+       }
+      ],
+      "trad": "Who brings a smile? Me, me, me!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¿Quién tiene ganas de jugar? ¡Yo, yo, yo!",
+      "ini": 68.84,
+      "fin": 73.18,
+      "palabras": [
+       {
+        "t": "¿Quién",
+        "ini": 68.84,
+        "fin": 69.58
+       },
+       {
+        "t": "tiene",
+        "ini": 69.64,
+        "fin": 70.12
+       },
+       {
+        "t": "ganas",
+        "ini": 70.18,
+        "fin": 70.66
+       },
+       {
+        "t": "de",
+        "ini": 70.74,
+        "fin": 71.1
+       },
+       {
+        "t": "jugar?",
+        "ini": 71.24,
+        "fin": 72.12
+       },
+       {
+        "t": "¡Yo,",
+        "ini": 72.3,
+        "fin": 72.5
+       },
+       {
+        "t": "yo,",
+        "ini": 72.62,
+        "fin": 72.74
+       },
+       {
+        "t": "yo!",
+        "ini": 72.86,
+        "fin": 73.18
+       }
+      ],
+      "trad": "Who wants to play? Me, me, me!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Pues todos a la vez: ¡hoooola!",
+      "ini": 73.66,
+      "fin": 76.92,
+      "palabras": [
+       {
+        "t": "Pues",
+        "ini": 73.66,
+        "fin": 73.88
+       },
+       {
+        "t": "todos",
+        "ini": 73.96,
+        "fin": 74.46
+       },
+       {
+        "t": "a",
+        "ini": 74.56,
+        "fin": 74.68
+       },
+       {
+        "t": "la",
+        "ini": 74.76,
+        "fin": 74.94
+       },
+       {
+        "t": "vez:",
+        "ini": 75.0,
+        "fin": 75.4
+       },
+       {
+        "t": "¡hoooola!",
+        "ini": 75.4,
+        "fin": 76.92
+       }
+      ],
+      "trad": "So all together: hellooo!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Toc, toc! ¿Quién es?",
+      "ini": 77.12,
+      "fin": 79.78,
+      "palabras": [
+       {
+        "t": "¡Toc,",
+        "ini": 77.12,
+        "fin": 77.4
+       },
+       {
+        "t": "toc!",
+        "ini": 78.22,
+        "fin": 78.48
+       },
+       {
+        "t": "¿Quién",
+        "ini": 78.56,
+        "fin": 79.34
+       },
+       {
+        "t": "es?",
+        "ini": 79.4,
+        "fin": 79.78
+       }
+      ],
+      "trad": "Knock, knock! Who's there?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Soy yo, soy yo!",
+      "ini": 81.99,
+      "fin": 83.9,
+      "palabras": [
+       {
+        "t": "¡Soy",
+        "ini": 81.99,
+        "fin": 82.44
+       },
+       {
+        "t": "yo,",
+        "ini": 82.56,
+        "fin": 82.76
+       },
+       {
+        "t": "soy",
+        "ini": 83.08,
+        "fin": 83.5
+       },
+       {
+        "t": "yo!",
+        "ini": 83.58,
+        "fin": 83.9
+       }
+      ],
+      "trad": "It's me, it's me!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Hola, hola, buenos días,",
+      "ini": 86.03,
+      "fin": 88.56,
+      "palabras": [
+       {
+        "t": "¡Hola,",
+        "ini": 86.03,
+        "fin": 86.48
+       },
+       {
+        "t": "hola,",
+        "ini": 86.78,
+        "fin": 87.24
+       },
+       {
+        "t": "buenos",
+        "ini": 87.36,
+        "fin": 87.82
+       },
+       {
+        "t": "días,",
+        "ini": 87.92,
+        "fin": 88.56
+       }
+      ],
+      "trad": "Hello, hello, good morning,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "ya llegué al cole yo!",
+      "ini": 89.5,
+      "fin": 92.48,
+      "palabras": [
+       {
+        "t": "ya",
+        "ini": 89.5,
+        "fin": 89.7
+       },
+       {
+        "t": "llegué",
+        "ini": 89.74,
+        "fin": 90.52
+       },
+       {
+        "t": "al",
+        "ini": 90.64,
+        "fin": 90.94
+       },
+       {
+        "t": "cole",
+        "ini": 91.06,
+        "fin": 91.88
+       },
+       {
+        "t": "yo!",
+        "ini": 92.18,
+        "fin": 92.48
+       }
+      ],
+      "trad": "I'm here at school!"
+     },
+     {
+      "seccion": "Calm Ending",
+      "texto": "Y ahora, despacito, nos sentamos… chsss…",
+      "ini": 95.94,
+      "fin": 102.94,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 95.94,
+        "fin": 96.2
+       },
+       {
+        "t": "ahora,",
+        "ini": 96.3,
+        "fin": 97.72
+       },
+       {
+        "t": "despacito,",
+        "ini": 98.06,
+        "fin": 99.34
+       },
+       {
+        "t": "nos",
+        "ini": 100.2,
+        "fin": 100.38
+       },
+       {
+        "t": "sentamos…",
+        "ini": 100.46,
+        "fin": 102.3
+       },
+       {
+        "t": "chsss…",
+        "ini": 102.9,
+        "fin": 102.94
+       }
+      ],
+      "trad": "And now, slowly, we sit down… shhh…"
+     },
+     {
+      "seccion": "Calm Ending",
+      "texto": "en el corro, todos juntos… ¡buenos días!",
+      "ini": 104.56,
+      "fin": 110.18,
+      "palabras": [
+       {
+        "t": "en",
+        "ini": 104.56,
+        "fin": 104.74
+       },
+       {
+        "t": "el",
+        "ini": 104.8,
+        "fin": 104.9
+       },
+       {
+        "t": "corro,",
+        "ini": 105.04,
+        "fin": 106.34
+       },
+       {
+        "t": "todos",
+        "ini": 106.64,
+        "fin": 107.08
+       },
+       {
+        "t": "juntos…",
+        "ini": 107.18,
+        "fin": 108.16
+       },
+       {
+        "t": "¡buenos",
+        "ini": 108.2,
+        "fin": 109.24
+       },
+       {
+        "t": "días!",
+        "ini": 109.32,
+        "fin": 110.18
+       }
+      ],
+      "trad": "in the circle, all together… good morning!"
+     }
+    ],
+    "duracion": 115.82
+   },
+   "preguntas": []
+  },
+  {
+   "id": "i02-despierta-cuerpo",
+   "titulo_en": "Wake Up, Body!",
+   "titulo_es": "¡Despierta, cuerpo!",
+   "ensena_en": "body parts (hands, feet, eyes, mouth, nose, tummy, ears, head), open and close, up and down (ages 1-3)",
+   "ensena_es": "las partes del cuerpo (manos, pies, ojos, boca, nariz, tripa, orejas, cabeza), abrir y cerrar, arriba y abajo (1-3 años)",
+   "infantil": true,
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "Wake up, wake up,",
+      "ini": 8.32,
+      "fin": 10.28,
+      "palabras": [
+       {
+        "t": "Wake",
+        "ini": 8.32,
+        "fin": 8.84
+       },
+       {
+        "t": "up,",
+        "ini": 8.98,
+        "fin": 9.18
+       },
+       {
+        "t": "wake",
+        "ini": 9.38,
+        "fin": 9.88
+       },
+       {
+        "t": "up,",
+        "ini": 10.0,
+        "fin": 10.28
+       }
+      ],
+      "trad": "Despierta, despierta,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "it's a brand-new day!",
+      "ini": 10.94,
+      "fin": 12.34,
+      "palabras": [
+       {
+        "t": "it's",
+        "ini": 10.94,
+        "fin": 11.12
+       },
+       {
+        "t": "a",
+        "ini": 11.22,
+        "fin": 11.26
+       },
+       {
+        "t": "brand-new",
+        "ini": 11.36,
+        "fin": 11.82
+       },
+       {
+        "t": "day!",
+        "ini": 11.9,
+        "fin": 12.34
+       }
+      ],
+      "trad": "¡es un día nuevo!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Wake up, body,",
+      "ini": 12.48,
+      "fin": 14.42,
+      "palabras": [
+       {
+        "t": "Wake",
+        "ini": 12.48,
+        "fin": 12.98
+       },
+       {
+        "t": "up,",
+        "ini": 13.1,
+        "fin": 13.32
+       },
+       {
+        "t": "body,",
+        "ini": 13.46,
+        "fin": 14.42
+       }
+      ],
+      "trad": "Despierta, cuerpo,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "it's time to play!",
+      "ini": 15.32,
+      "fin": 16.5,
+      "palabras": [
+       {
+        "t": "it's",
+        "ini": 15.32,
+        "fin": 15.5
+       },
+       {
+        "t": "time",
+        "ini": 15.56,
+        "fin": 15.78
+       },
+       {
+        "t": "to",
+        "ini": 15.82,
+        "fin": 15.9
+       },
+       {
+        "t": "play!",
+        "ini": 16.02,
+        "fin": 16.5
+       }
+      ],
+      "trad": "¡es hora de jugar!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "My hands wake up: clap, clap, clap!",
+      "ini": 24.58,
+      "fin": 26.58,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 24.58,
+        "fin": 24.8
+       },
+       {
+        "t": "hands",
+        "ini": 24.86,
+        "fin": 25.1
+       },
+       {
+        "t": "wake",
+        "ini": 25.16,
+        "fin": 25.4
+       },
+       {
+        "t": "up:",
+        "ini": 25.5,
+        "fin": 25.6
+       },
+       {
+        "t": "clap,",
+        "ini": 25.86,
+        "fin": 26.04
+       },
+       {
+        "t": "clap,",
+        "ini": 26.12,
+        "fin": 26.3
+       },
+       {
+        "t": "clap!",
+        "ini": 26.38,
+        "fin": 26.58
+       }
+      ],
+      "trad": "Mis manos se despiertan: ¡plas, plas, plas!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "My feet wake up: stomp, stomp, stomp!",
+      "ini": 26.66,
+      "fin": 28.66,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 26.66,
+        "fin": 26.78
+       },
+       {
+        "t": "feet",
+        "ini": 26.92,
+        "fin": 27.12
+       },
+       {
+        "t": "wake",
+        "ini": 27.2,
+        "fin": 27.48
+       },
+       {
+        "t": "up:",
+        "ini": 27.58,
+        "fin": 27.66
+       },
+       {
+        "t": "stomp,",
+        "ini": 27.92,
+        "fin": 28.14
+       },
+       {
+        "t": "stomp,",
+        "ini": 28.2,
+        "fin": 28.4
+       },
+       {
+        "t": "stomp!",
+        "ini": 28.46,
+        "fin": 28.66
+       }
+      ],
+      "trad": "Mis pies se despiertan: ¡pom, pom, pom!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "My eyes wake up: open, close!",
+      "ini": 28.76,
+      "fin": 30.78,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 28.76,
+        "fin": 28.9
+       },
+       {
+        "t": "eyes",
+        "ini": 29.04,
+        "fin": 29.24
+       },
+       {
+        "t": "wake",
+        "ini": 29.3,
+        "fin": 29.52
+       },
+       {
+        "t": "up:",
+        "ini": 29.62,
+        "fin": 29.74
+       },
+       {
+        "t": "open,",
+        "ini": 30.08,
+        "fin": 30.44
+       },
+       {
+        "t": "close!",
+        "ini": 30.52,
+        "fin": 30.78
+       }
+      ],
+      "trad": "Mis ojos se despiertan: ¡abro, cierro!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "And my mouth yawns: aaah!",
+      "ini": 30.86,
+      "fin": 33.1,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 30.86,
+        "fin": 30.98
+       },
+       {
+        "t": "my",
+        "ini": 31.06,
+        "fin": 31.24
+       },
+       {
+        "t": "mouth",
+        "ini": 31.34,
+        "fin": 31.54
+       },
+       {
+        "t": "yawns:",
+        "ini": 31.62,
+        "fin": 32.12
+       },
+       {
+        "t": "aaah!",
+        "ini": 32.72,
+        "fin": 33.1
+       }
+      ],
+      "trad": "Y mi boca bosteza: ¡aaah!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Wake up, wake up,",
+      "ini": 41.44,
+      "fin": 43.28,
+      "palabras": [
+       {
+        "t": "Wake",
+        "ini": 41.44,
+        "fin": 41.94
+       },
+       {
+        "t": "up,",
+        "ini": 42.06,
+        "fin": 42.3
+       },
+       {
+        "t": "wake",
+        "ini": 42.48,
+        "fin": 42.98
+       },
+       {
+        "t": "up,",
+        "ini": 43.1,
+        "fin": 43.28
+       }
+      ],
+      "trad": "Despierta, despierta,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "it's a brand-new day!",
+      "ini": 44.06,
+      "fin": 45.4,
+      "palabras": [
+       {
+        "t": "it's",
+        "ini": 44.06,
+        "fin": 44.24
+       },
+       {
+        "t": "a",
+        "ini": 44.32,
+        "fin": 44.36
+       },
+       {
+        "t": "brand-new",
+        "ini": 44.48,
+        "fin": 44.92
+       },
+       {
+        "t": "day!",
+        "ini": 45.06,
+        "fin": 45.4
+       }
+      ],
+      "trad": "¡es un día nuevo!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Wake up, body,",
+      "ini": 45.58,
+      "fin": 47.52,
+      "palabras": [
+       {
+        "t": "Wake",
+        "ini": 45.58,
+        "fin": 46.08
+       },
+       {
+        "t": "up,",
+        "ini": 46.16,
+        "fin": 46.42
+       },
+       {
+        "t": "body,",
+        "ini": 46.6,
+        "fin": 47.52
+       }
+      ],
+      "trad": "Despierta, cuerpo,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "it's time to play!",
+      "ini": 48.44,
+      "fin": 49.66,
+      "palabras": [
+       {
+        "t": "it's",
+        "ini": 48.44,
+        "fin": 48.6
+       },
+       {
+        "t": "time",
+        "ini": 48.64,
+        "fin": 48.88
+       },
+       {
+        "t": "to",
+        "ini": 48.92,
+        "fin": 49.04
+       },
+       {
+        "t": "play!",
+        "ini": 49.12,
+        "fin": 49.66
+       }
+      ],
+      "trad": "¡es hora de jugar!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "My nose wakes up: achoo!",
+      "ini": 57.7,
+      "fin": 59.64,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 57.7,
+        "fin": 57.82
+       },
+       {
+        "t": "nose",
+        "ini": 57.92,
+        "fin": 58.18
+       },
+       {
+        "t": "wakes",
+        "ini": 58.24,
+        "fin": 58.46
+       },
+       {
+        "t": "up:",
+        "ini": 58.6,
+        "fin": 58.72
+       },
+       {
+        "t": "achoo!",
+        "ini": 59.24,
+        "fin": 59.64
+       }
+      ],
+      "trad": "Mi nariz se despierta: ¡achís!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "My tummy wakes up: grrr, I'm hungry!",
+      "ini": 59.78,
+      "fin": 62.6,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 59.78,
+        "fin": 59.88
+       },
+       {
+        "t": "tummy",
+        "ini": 59.98,
+        "fin": 60.22
+       },
+       {
+        "t": "wakes",
+        "ini": 60.3,
+        "fin": 60.56
+       },
+       {
+        "t": "up:",
+        "ini": 60.66,
+        "fin": 60.78
+       },
+       {
+        "t": "grrr,",
+        "ini": 61.1,
+        "fin": 61.54
+       },
+       {
+        "t": "I'm",
+        "ini": 61.92,
+        "fin": 62.04
+       },
+       {
+        "t": "hungry!",
+        "ini": 62.1,
+        "fin": 62.6
+       }
+      ],
+      "trad": "Mi tripa se despierta: ¡grrr, tengo hambre!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "My ears wake up: what's that? Tweet, tweet!",
+      "ini": 63.92,
+      "fin": 66.48,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 63.92,
+        "fin": 64.08
+       },
+       {
+        "t": "ears",
+        "ini": 64.2,
+        "fin": 64.4
+       },
+       {
+        "t": "wake",
+        "ini": 64.46,
+        "fin": 64.7
+       },
+       {
+        "t": "up:",
+        "ini": 64.8,
+        "fin": 64.92
+       },
+       {
+        "t": "what's",
+        "ini": 65.46,
+        "fin": 65.7
+       },
+       {
+        "t": "that?",
+        "ini": 65.76,
+        "fin": 65.88
+       },
+       {
+        "t": "Tweet,",
+        "ini": 65.96,
+        "fin": 66.14
+       },
+       {
+        "t": "tweet!",
+        "ini": 66.22,
+        "fin": 66.48
+       }
+      ],
+      "trad": "Mis orejas se despiertan: ¿qué es eso? ¡Pío, pío!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "And my head says yes, yes, yes!",
+      "ini": 67.54,
+      "fin": 69.72,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 67.54,
+        "fin": 67.6
+       },
+       {
+        "t": "my",
+        "ini": 67.64,
+        "fin": 67.74
+       },
+       {
+        "t": "head",
+        "ini": 67.78,
+        "fin": 67.96
+       },
+       {
+        "t": "says",
+        "ini": 68.02,
+        "fin": 68.24
+       },
+       {
+        "t": "yes,",
+        "ini": 68.32,
+        "fin": 68.58
+       },
+       {
+        "t": "yes,",
+        "ini": 68.84,
+        "fin": 69.1
+       },
+       {
+        "t": "yes!",
+        "ini": 69.36,
+        "fin": 69.72
+       }
+      ],
+      "trad": "¡Y mi cabeza dice sí, sí, sí!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Now my whole body stretches… way up high… up to the sky!",
+      "ini": 70.88,
+      "fin": 78.1,
+      "palabras": [
+       {
+        "t": "Now",
+        "ini": 70.88,
+        "fin": 71.3
+       },
+       {
+        "t": "my",
+        "ini": 71.42,
+        "fin": 71.82
+       },
+       {
+        "t": "whole",
+        "ini": 71.94,
+        "fin": 72.32
+       },
+       {
+        "t": "body",
+        "ini": 72.42,
+        "fin": 73.26
+       },
+       {
+        "t": "stretches…",
+        "ini": 73.34,
+        "fin": 74.36
+       },
+       {
+        "t": "way",
+        "ini": 74.52,
+        "fin": 75.0
+       },
+       {
+        "t": "up",
+        "ini": 75.12,
+        "fin": 75.48
+       },
+       {
+        "t": "high…",
+        "ini": 75.56,
+        "fin": 76.02
+       },
+       {
+        "t": "up",
+        "ini": 76.68,
+        "fin": 77.02
+       },
+       {
+        "t": "to",
+        "ini": 77.1,
+        "fin": 77.3
+       },
+       {
+        "t": "the",
+        "ini": 77.36,
+        "fin": 77.42
+       },
+       {
+        "t": "sky!",
+        "ini": 77.58,
+        "fin": 78.1
+       }
+      ],
+      "trad": "Ahora todo mi cuerpo se estira… muy arriba… ¡hasta el cielo!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "And down we go, slowly… slowly… and jump! Hop!",
+      "ini": 79.2,
+      "fin": 86.7,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 79.2,
+        "fin": 79.6
+       },
+       {
+        "t": "down",
+        "ini": 79.72,
+        "fin": 80.16
+       },
+       {
+        "t": "we",
+        "ini": 80.26,
+        "fin": 80.44
+       },
+       {
+        "t": "go,",
+        "ini": 80.7,
+        "fin": 81.18
+       },
+       {
+        "t": "slowly…",
+        "ini": 81.68,
+        "fin": 82.5
+       },
+       {
+        "t": "slowly…",
+        "ini": 82.74,
+        "fin": 84.26
+       },
+       {
+        "t": "and",
+        "ini": 84.4,
+        "fin": 84.74
+       },
+       {
+        "t": "jump!",
+        "ini": 84.84,
+        "fin": 85.18
+       },
+       {
+        "t": "Hop!",
+        "ini": 86.38,
+        "fin": 86.7
+       }
+      ],
+      "trad": "Y bajamos despacito… despacito… ¡y saltamos! ¡Hop!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Wake up, wake up,",
+      "ini": 95.22,
+      "fin": 97.06,
+      "palabras": [
+       {
+        "t": "Wake",
+        "ini": 95.22,
+        "fin": 95.72
+       },
+       {
+        "t": "up,",
+        "ini": 95.86,
+        "fin": 96.08
+       },
+       {
+        "t": "wake",
+        "ini": 96.28,
+        "fin": 96.78
+       },
+       {
+        "t": "up,",
+        "ini": 96.9,
+        "fin": 97.06
+       }
+      ],
+      "trad": "Despierta, despierta,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "it's a brand-new day!",
+      "ini": 97.86,
+      "fin": 99.24,
+      "palabras": [
+       {
+        "t": "it's",
+        "ini": 97.86,
+        "fin": 98.04
+       },
+       {
+        "t": "a",
+        "ini": 98.12,
+        "fin": 98.16
+       },
+       {
+        "t": "brand-new",
+        "ini": 98.28,
+        "fin": 98.72
+       },
+       {
+        "t": "day!",
+        "ini": 98.86,
+        "fin": 99.24
+       }
+      ],
+      "trad": "¡es un día nuevo!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Wake up, body,",
+      "ini": 99.38,
+      "fin": 101.24,
+      "palabras": [
+       {
+        "t": "Wake",
+        "ini": 99.38,
+        "fin": 99.88
+       },
+       {
+        "t": "up,",
+        "ini": 100.04,
+        "fin": 100.22
+       },
+       {
+        "t": "body,",
+        "ini": 100.4,
+        "fin": 101.24
+       }
+      ],
+      "trad": "Despierta, cuerpo,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "it's time to play!",
+      "ini": 102.24,
+      "fin": 103.38,
+      "palabras": [
+       {
+        "t": "it's",
+        "ini": 102.24,
+        "fin": 102.38
+       },
+       {
+        "t": "time",
+        "ini": 102.44,
+        "fin": 102.68
+       },
+       {
+        "t": "to",
+        "ini": 102.72,
+        "fin": 102.82
+       },
+       {
+        "t": "play!",
+        "ini": 102.92,
+        "fin": 103.38
+       }
+      ],
+      "trad": "¡es hora de jugar!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Wake up, wake up,",
+      "ini": 103.5,
+      "fin": 105.38,
+      "palabras": [
+       {
+        "t": "Wake",
+        "ini": 103.5,
+        "fin": 104.0
+       },
+       {
+        "t": "up,",
+        "ini": 104.12,
+        "fin": 104.36
+       },
+       {
+        "t": "wake",
+        "ini": 104.54,
+        "fin": 105.06
+       },
+       {
+        "t": "up,",
+        "ini": 105.18,
+        "fin": 105.38
+       }
+      ],
+      "trad": "Despierta, despierta,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "it's a brand-new day!",
+      "ini": 106.12,
+      "fin": 107.52,
+      "palabras": [
+       {
+        "t": "it's",
+        "ini": 106.12,
+        "fin": 106.3
+       },
+       {
+        "t": "a",
+        "ini": 106.4,
+        "fin": 106.44
+       },
+       {
+        "t": "brand-new",
+        "ini": 106.56,
+        "fin": 107.0
+       },
+       {
+        "t": "day!",
+        "ini": 107.14,
+        "fin": 107.52
+       }
+      ],
+      "trad": "¡es un día nuevo!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Wake up, body,",
+      "ini": 107.64,
+      "fin": 109.52,
+      "palabras": [
+       {
+        "t": "Wake",
+        "ini": 107.64,
+        "fin": 108.12
+       },
+       {
+        "t": "up,",
+        "ini": 108.28,
+        "fin": 108.5
+       },
+       {
+        "t": "body,",
+        "ini": 108.68,
+        "fin": 109.52
+       }
+      ],
+      "trad": "Despierta, cuerpo,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "it's time to play!",
+      "ini": 110.5,
+      "fin": 111.72,
+      "palabras": [
+       {
+        "t": "it's",
+        "ini": 110.5,
+        "fin": 110.66
+       },
+       {
+        "t": "time",
+        "ini": 110.72,
+        "fin": 110.96
+       },
+       {
+        "t": "to",
+        "ini": 111.0,
+        "fin": 111.1
+       },
+       {
+        "t": "play!",
+        "ini": 111.18,
+        "fin": 111.72
+       }
+      ],
+      "trad": "¡es hora de jugar!"
+     }
+    ],
+    "duracion": 128.35
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "¡Despierta, despierta,",
+      "ini": 7.98,
+      "fin": 10.0,
+      "palabras": [
+       {
+        "t": "¡Despierta,",
+        "ini": 7.98,
+        "fin": 8.94
+       },
+       {
+        "t": "despierta,",
+        "ini": 9.06,
+        "fin": 10.0
+       }
+      ],
+      "trad": "Wake up, wake up,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "que ya es de día!",
+      "ini": 10.62,
+      "fin": 11.9,
+      "palabras": [
+       {
+        "t": "que",
+        "ini": 10.62,
+        "fin": 10.82
+       },
+       {
+        "t": "ya",
+        "ini": 10.86,
+        "fin": 10.98
+       },
+       {
+        "t": "es",
+        "ini": 11.02,
+        "fin": 11.1
+       },
+       {
+        "t": "de",
+        "ini": 11.14,
+        "fin": 11.34
+       },
+       {
+        "t": "día!",
+        "ini": 11.4,
+        "fin": 11.9
+       }
+      ],
+      "trad": "it's daytime now!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Despierta, cuerpo,",
+      "ini": 12.12,
+      "fin": 14.12,
+      "palabras": [
+       {
+        "t": "¡Despierta,",
+        "ini": 12.12,
+        "fin": 12.94
+       },
+       {
+        "t": "cuerpo,",
+        "ini": 13.46,
+        "fin": 14.12
+       }
+      ],
+      "trad": "Wake up, body,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "con mucha alegría!",
+      "ini": 14.5,
+      "fin": 16.28,
+      "palabras": [
+       {
+        "t": "con",
+        "ini": 14.5,
+        "fin": 14.7
+       },
+       {
+        "t": "mucha",
+        "ini": 14.76,
+        "fin": 15.14
+       },
+       {
+        "t": "alegría!",
+        "ini": 15.2,
+        "fin": 16.28
+       }
+      ],
+      "trad": "with lots of joy!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Las manos se despiertan: ¡plas, plas, plas!",
+      "ini": 24.7,
+      "fin": 26.7,
+      "palabras": [
+       {
+        "t": "Las",
+        "ini": 24.7,
+        "fin": 24.8
+       },
+       {
+        "t": "manos",
+        "ini": 24.86,
+        "fin": 25.06
+       },
+       {
+        "t": "se",
+        "ini": 25.1,
+        "fin": 25.18
+       },
+       {
+        "t": "despiertan:",
+        "ini": 25.2,
+        "fin": 25.76
+       },
+       {
+        "t": "¡plas,",
+        "ini": 25.84,
+        "fin": 26.04
+       },
+       {
+        "t": "plas,",
+        "ini": 26.14,
+        "fin": 26.32
+       },
+       {
+        "t": "plas!",
+        "ini": 26.42,
+        "fin": 26.7
+       }
+      ],
+      "trad": "My hands wake up: clap, clap, clap!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Los pies se despiertan: ¡pom, pom, pom!",
+      "ini": 28.96,
+      "fin": 30.78,
+      "palabras": [
+       {
+        "t": "Los",
+        "ini": 28.96,
+        "fin": 29.06
+       },
+       {
+        "t": "pies",
+        "ini": 29.12,
+        "fin": 29.22
+       },
+       {
+        "t": "se",
+        "ini": 29.24,
+        "fin": 29.32
+       },
+       {
+        "t": "despiertan:",
+        "ini": 29.34,
+        "fin": 29.94
+       },
+       {
+        "t": "¡pom,",
+        "ini": 30.0,
+        "fin": 30.2
+       },
+       {
+        "t": "pom,",
+        "ini": 30.28,
+        "fin": 30.36
+       },
+       {
+        "t": "pom!",
+        "ini": 30.52,
+        "fin": 30.78
+       }
+      ],
+      "trad": "My feet wake up: stomp, stomp, stomp!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Los ojos se despiertan: ¡abro y cierro!",
+      "ini": 30.92,
+      "fin": 32.98,
+      "palabras": [
+       {
+        "t": "Los",
+        "ini": 30.92,
+        "fin": 31.04
+       },
+       {
+        "t": "ojos",
+        "ini": 31.1,
+        "fin": 31.28
+       },
+       {
+        "t": "se",
+        "ini": 31.32,
+        "fin": 31.38
+       },
+       {
+        "t": "despiertan:",
+        "ini": 31.42,
+        "fin": 31.96
+       },
+       {
+        "t": "¡abro",
+        "ini": 32.08,
+        "fin": 32.44
+       },
+       {
+        "t": "y",
+        "ini": 32.46,
+        "fin": 32.5
+       },
+       {
+        "t": "cierro!",
+        "ini": 32.58,
+        "fin": 32.98
+       }
+      ],
+      "trad": "My eyes wake up: I open and close!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Y la boca bosteza: ¡aaaah!",
+      "ini": 33.18,
+      "fin": 35.7,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 33.18,
+        "fin": 33.34
+       },
+       {
+        "t": "la",
+        "ini": 33.4,
+        "fin": 33.56
+       },
+       {
+        "t": "boca",
+        "ini": 33.64,
+        "fin": 34.1
+       },
+       {
+        "t": "bosteza:",
+        "ini": 34.18,
+        "fin": 35.12
+       },
+       {
+        "t": "¡aaaah!",
+        "ini": 35.22,
+        "fin": 35.7
+       }
+      ],
+      "trad": "And my mouth yawns: aaaah!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Despierta, despierta,",
+      "ini": 41.1,
+      "fin": 43.12,
+      "palabras": [
+       {
+        "t": "¡Despierta,",
+        "ini": 41.1,
+        "fin": 42.02
+       },
+       {
+        "t": "despierta,",
+        "ini": 42.18,
+        "fin": 43.12
+       }
+      ],
+      "trad": "Wake up, wake up,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "que ya es de día!",
+      "ini": 43.72,
+      "fin": 45.16,
+      "palabras": [
+       {
+        "t": "que",
+        "ini": 43.72,
+        "fin": 43.92
+       },
+       {
+        "t": "ya",
+        "ini": 43.96,
+        "fin": 44.08
+       },
+       {
+        "t": "es",
+        "ini": 44.12,
+        "fin": 44.22
+       },
+       {
+        "t": "de",
+        "ini": 44.26,
+        "fin": 44.46
+       },
+       {
+        "t": "día!",
+        "ini": 44.52,
+        "fin": 45.16
+       }
+      ],
+      "trad": "it's daytime now!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Despierta, cuerpo,",
+      "ini": 49.87,
+      "fin": 51.36,
+      "palabras": [
+       {
+        "t": "¡Despierta,",
+        "ini": 49.87,
+        "fin": 50.32
+       },
+       {
+        "t": "cuerpo,",
+        "ini": 50.7,
+        "fin": 51.36
+       }
+      ],
+      "trad": "Wake up, body,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "con mucha alegría!",
+      "ini": 51.72,
+      "fin": 53.28,
+      "palabras": [
+       {
+        "t": "con",
+        "ini": 51.72,
+        "fin": 51.92
+       },
+       {
+        "t": "mucha",
+        "ini": 52.0,
+        "fin": 52.36
+       },
+       {
+        "t": "alegría!",
+        "ini": 52.46,
+        "fin": 53.28
+       }
+      ],
+      "trad": "with lots of joy!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "La nariz se despierta: ¡achís!",
+      "ini": 54.32,
+      "fin": 57.76,
+      "palabras": [
+       {
+        "t": "La",
+        "ini": 54.32,
+        "fin": 54.5
+       },
+       {
+        "t": "nariz",
+        "ini": 54.58,
+        "fin": 55.08
+       },
+       {
+        "t": "se",
+        "ini": 55.34,
+        "fin": 55.56
+       },
+       {
+        "t": "despierta:",
+        "ini": 55.62,
+        "fin": 56.48
+       },
+       {
+        "t": "¡achís!",
+        "ini": 56.48,
+        "fin": 57.76
+       }
+      ],
+      "trad": "My nose wakes up: achoo!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "La tripa se despierta: ¡grrr, qué hambre!",
+      "ini": 58.2,
+      "fin": 61.82,
+      "palabras": [
+       {
+        "t": "La",
+        "ini": 58.2,
+        "fin": 58.32
+       },
+       {
+        "t": "tripa",
+        "ini": 58.42,
+        "fin": 58.8
+       },
+       {
+        "t": "se",
+        "ini": 58.96,
+        "fin": 59.18
+       },
+       {
+        "t": "despierta:",
+        "ini": 59.24,
+        "fin": 59.92
+       },
+       {
+        "t": "¡grrr,",
+        "ini": 59.92,
+        "fin": 60.52
+       },
+       {
+        "t": "qué",
+        "ini": 60.8,
+        "fin": 61.04
+       },
+       {
+        "t": "hambre!",
+        "ini": 61.1,
+        "fin": 61.82
+       }
+      ],
+      "trad": "My tummy wakes up: grrr, I'm so hungry!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Las orejas se despiertan: ¿qué se oye? ¡Pío, pío!",
+      "ini": 62.58,
+      "fin": 66.12,
+      "palabras": [
+       {
+        "t": "Las",
+        "ini": 62.58,
+        "fin": 62.84
+       },
+       {
+        "t": "orejas",
+        "ini": 62.94,
+        "fin": 63.56
+       },
+       {
+        "t": "se",
+        "ini": 63.64,
+        "fin": 63.8
+       },
+       {
+        "t": "despiertan:",
+        "ini": 63.88,
+        "fin": 64.5
+       },
+       {
+        "t": "¿qué",
+        "ini": 64.54,
+        "fin": 64.62
+       },
+       {
+        "t": "se",
+        "ini": 64.66,
+        "fin": 64.72
+       },
+       {
+        "t": "oye?",
+        "ini": 64.78,
+        "fin": 65.06
+       },
+       {
+        "t": "¡Pío,",
+        "ini": 65.08,
+        "fin": 65.56
+       },
+       {
+        "t": "pío!",
+        "ini": 65.7,
+        "fin": 66.12
+       }
+      ],
+      "trad": "My ears wake up: what can you hear? Tweet, tweet!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Y la cabeza dice que sí, que sí.",
+      "ini": 66.54,
+      "fin": 69.68,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 66.54,
+        "fin": 66.64
+       },
+       {
+        "t": "la",
+        "ini": 66.74,
+        "fin": 66.86
+       },
+       {
+        "t": "cabeza",
+        "ini": 66.98,
+        "fin": 67.7
+       },
+       {
+        "t": "dice",
+        "ini": 67.76,
+        "fin": 68.14
+       },
+       {
+        "t": "que",
+        "ini": 68.28,
+        "fin": 68.5
+       },
+       {
+        "t": "sí,",
+        "ini": 68.66,
+        "fin": 68.88
+       },
+       {
+        "t": "que",
+        "ini": 69.06,
+        "fin": 69.2
+       },
+       {
+        "t": "sí.",
+        "ini": 69.3,
+        "fin": 69.68
+       }
+      ],
+      "trad": "And my head says yes, yes."
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Y ahora todo el cuerpo se estira… muy arriba… ¡hasta el cielo!",
+      "ini": 70.88,
+      "fin": 78.36,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 70.88,
+        "fin": 70.94
+       },
+       {
+        "t": "ahora",
+        "ini": 71.04,
+        "fin": 71.8
+       },
+       {
+        "t": "todo",
+        "ini": 71.92,
+        "fin": 72.22
+       },
+       {
+        "t": "el",
+        "ini": 72.28,
+        "fin": 72.34
+       },
+       {
+        "t": "cuerpo",
+        "ini": 72.42,
+        "fin": 72.82
+       },
+       {
+        "t": "se",
+        "ini": 72.94,
+        "fin": 73.12
+       },
+       {
+        "t": "estira…",
+        "ini": 73.24,
+        "fin": 74.3
+       },
+       {
+        "t": "muy",
+        "ini": 74.5,
+        "fin": 75.28
+       },
+       {
+        "t": "arriba…",
+        "ini": 75.36,
+        "fin": 76.24
+       },
+       {
+        "t": "¡hasta",
+        "ini": 76.26,
+        "fin": 77.22
+       },
+       {
+        "t": "el",
+        "ini": 77.32,
+        "fin": 77.44
+       },
+       {
+        "t": "cielo!",
+        "ini": 77.58,
+        "fin": 78.36
+       }
+      ],
+      "trad": "And now my whole body stretches… way up high… up to the sky!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Y bajamos despacito… despacito… ¡y saltamos! ¡Hop!",
+      "ini": 78.78,
+      "fin": 86.7,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 78.78,
+        "fin": 79.34
+       },
+       {
+        "t": "bajamos",
+        "ini": 79.42,
+        "fin": 80.62
+       },
+       {
+        "t": "despacito…",
+        "ini": 80.72,
+        "fin": 82.5
+       },
+       {
+        "t": "despacito…",
+        "ini": 82.78,
+        "fin": 83.7
+       },
+       {
+        "t": "¡y",
+        "ini": 83.7,
+        "fin": 84.18
+       },
+       {
+        "t": "saltamos!",
+        "ini": 84.32,
+        "fin": 85.86
+       },
+       {
+        "t": "¡Hop!",
+        "ini": 85.86,
+        "fin": 86.7
+       }
+      ],
+      "trad": "And we come down slowly… slowly… and we jump! Hop!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Despierta, despierta,",
+      "ini": 88.21,
+      "fin": 90.72,
+      "palabras": [
+       {
+        "t": "¡Despierta,",
+        "ini": 88.21,
+        "fin": 88.66
+       },
+       {
+        "t": "despierta,",
+        "ini": 89.76,
+        "fin": 90.72
+       }
+      ],
+      "trad": "Wake up, wake up,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "que ya es de día!",
+      "ini": 91.8,
+      "fin": 94.92,
+      "palabras": [
+       {
+        "t": "que",
+        "ini": 91.8,
+        "fin": 92.02
+       },
+       {
+        "t": "ya",
+        "ini": 92.12,
+        "fin": 92.3
+       },
+       {
+        "t": "es",
+        "ini": 92.4,
+        "fin": 92.58
+       },
+       {
+        "t": "de",
+        "ini": 92.88,
+        "fin": 93.06
+       },
+       {
+        "t": "día!",
+        "ini": 93.16,
+        "fin": 94.92
+       }
+      ],
+      "trad": "it's daytime now!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Despierta, cuerpo,",
+      "ini": 96.49,
+      "fin": 99.0,
+      "palabras": [
+       {
+        "t": "¡Despierta,",
+        "ini": 96.49,
+        "fin": 96.94
+       },
+       {
+        "t": "cuerpo,",
+        "ini": 98.3,
+        "fin": 99.0
+       }
+      ],
+      "trad": "Wake up, body,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "con mucha alegría!",
+      "ini": 100.1,
+      "fin": 103.26,
+      "palabras": [
+       {
+        "t": "con",
+        "ini": 100.1,
+        "fin": 100.3
+       },
+       {
+        "t": "mucha",
+        "ini": 100.4,
+        "fin": 101.08
+       },
+       {
+        "t": "alegría!",
+        "ini": 101.44,
+        "fin": 103.26
+       }
+      ],
+      "trad": "with lots of joy!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Despierta, despierta,",
+      "ini": 104.2,
+      "fin": 107.28,
+      "palabras": [
+       {
+        "t": "¡Despierta,",
+        "ini": 104.2,
+        "fin": 105.22
+       },
+       {
+        "t": "despierta,",
+        "ini": 106.3,
+        "fin": 107.28
+       }
+      ],
+      "trad": "Wake up, wake up,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "que ya es de día!",
+      "ini": 108.36,
+      "fin": 111.46,
+      "palabras": [
+       {
+        "t": "que",
+        "ini": 108.36,
+        "fin": 108.58
+       },
+       {
+        "t": "ya",
+        "ini": 108.68,
+        "fin": 108.86
+       },
+       {
+        "t": "es",
+        "ini": 108.96,
+        "fin": 109.12
+       },
+       {
+        "t": "de",
+        "ini": 109.42,
+        "fin": 109.6
+       },
+       {
+        "t": "día!",
+        "ini": 109.7,
+        "fin": 111.46
+       }
+      ],
+      "trad": "it's daytime now!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Despierta, cuerpo,",
+      "ini": 113.03,
+      "fin": 115.56,
+      "palabras": [
+       {
+        "t": "¡Despierta,",
+        "ini": 113.03,
+        "fin": 113.48
+       },
+       {
+        "t": "cuerpo,",
+        "ini": 114.86,
+        "fin": 115.56
+       }
+      ],
+      "trad": "Wake up, body,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "con mucha alegría!",
+      "ini": 116.66,
+      "fin": 119.74,
+      "palabras": [
+       {
+        "t": "con",
+        "ini": 116.66,
+        "fin": 116.86
+       },
+       {
+        "t": "mucha",
+        "ini": 116.94,
+        "fin": 117.64
+       },
+       {
+        "t": "alegría!",
+        "ini": 118.06,
+        "fin": 119.74
+       }
+      ],
+      "trad": "with lots of joy!"
+     }
+    ],
+    "duracion": 128.35
+   },
+   "preguntas": []
+  },
+  {
+   "id": "i03-cucu",
+   "titulo_en": "Peekaboo! What's My Face Today?",
+   "titulo_es": "¡Cucú! ¿Qué cara traigo hoy?",
+   "ensena_en": "feelings with their faces (happy, sleepy, surprised, angry) and that a hug makes anger go away (ages 1-3)",
+   "ensena_es": "las emociones con su cara (contento, sueño, sorpresa, enfado) y que el enfado se pasa con un abrazo (1-3 años)",
+   "infantil": true,
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "I hide my face… where am I?",
+      "ini": 4.92,
+      "fin": 9.9,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 4.92,
+        "fin": 5.1
+       },
+       {
+        "t": "hide",
+        "ini": 6.0,
+        "fin": 6.56
+       },
+       {
+        "t": "my",
+        "ini": 6.64,
+        "fin": 7.0
+       },
+       {
+        "t": "face…",
+        "ini": 7.2,
+        "fin": 7.8
+       },
+       {
+        "t": "where",
+        "ini": 8.7,
+        "fin": 9.0
+       },
+       {
+        "t": "am",
+        "ini": 9.08,
+        "fin": 9.34
+       },
+       {
+        "t": "I?",
+        "ini": 9.74,
+        "fin": 9.9
+       }
+      ],
+      "trad": "Escondo mi cara… ¿dónde estoy?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Peekaboo! Here I am!",
+      "ini": 12.07,
+      "fin": 14.16,
+      "palabras": [
+       {
+        "t": "Peekaboo!",
+        "ini": 12.07,
+        "fin": 12.52
+       },
+       {
+        "t": "Here",
+        "ini": 13.2,
+        "fin": 13.54
+       },
+       {
+        "t": "I",
+        "ini": 13.72,
+        "fin": 13.78
+       },
+       {
+        "t": "am!",
+        "ini": 13.92,
+        "fin": 14.16
+       }
+      ],
+      "trad": "¡Cucú! ¡Aquí estoy!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "What's my face today?",
+      "ini": 14.46,
+      "fin": 17.38,
+      "palabras": [
+       {
+        "t": "What's",
+        "ini": 14.46,
+        "fin": 14.92
+       },
+       {
+        "t": "my",
+        "ini": 15.0,
+        "fin": 15.42
+       },
+       {
+        "t": "face",
+        "ini": 15.6,
+        "fin": 16.1
+       },
+       {
+        "t": "today?",
+        "ini": 16.24,
+        "fin": 17.38
+       }
+      ],
+      "trad": "¿Qué cara tengo hoy?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Look at me, look at me, I'll show you, hooray!",
+      "ini": 19.2,
+      "fin": 22.94,
+      "palabras": [
+       {
+        "t": "Look",
+        "ini": 19.2,
+        "fin": 19.4
+       },
+       {
+        "t": "at",
+        "ini": 19.44,
+        "fin": 19.62
+       },
+       {
+        "t": "me,",
+        "ini": 19.68,
+        "fin": 19.96
+       },
+       {
+        "t": "look",
+        "ini": 20.4,
+        "fin": 20.6
+       },
+       {
+        "t": "at",
+        "ini": 20.64,
+        "fin": 20.8
+       },
+       {
+        "t": "me,",
+        "ini": 20.88,
+        "fin": 21.16
+       },
+       {
+        "t": "I'll",
+        "ini": 21.34,
+        "fin": 21.5
+       },
+       {
+        "t": "show",
+        "ini": 21.6,
+        "fin": 22.0
+       },
+       {
+        "t": "you,",
+        "ini": 22.14,
+        "fin": 22.38
+       },
+       {
+        "t": "hooray!",
+        "ini": 22.48,
+        "fin": 22.94
+       }
+      ],
+      "trad": "¡Mírame, mírame, te la enseño, hurra!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "A happy face: hee, hee, hee!",
+      "ini": 24.92,
+      "fin": 28.46,
+      "palabras": [
+       {
+        "t": "A",
+        "ini": 24.92,
+        "fin": 25.08
+       },
+       {
+        "t": "happy",
+        "ini": 25.18,
+        "fin": 26.16
+       },
+       {
+        "t": "face:",
+        "ini": 26.4,
+        "fin": 27.0
+       },
+       {
+        "t": "hee,",
+        "ini": 27.6,
+        "fin": 27.82
+       },
+       {
+        "t": "hee,",
+        "ini": 27.9,
+        "fin": 28.1
+       },
+       {
+        "t": "hee!",
+        "ini": 28.2,
+        "fin": 28.46
+       }
+      ],
+      "trad": "Una cara contenta: ¡ji, ji, ji!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "A great big smile… like this, you see!",
+      "ini": 29.74,
+      "fin": 33.9,
+      "palabras": [
+       {
+        "t": "A",
+        "ini": 29.74,
+        "fin": 29.84
+       },
+       {
+        "t": "great",
+        "ini": 29.98,
+        "fin": 30.52
+       },
+       {
+        "t": "big",
+        "ini": 30.64,
+        "fin": 31.02
+       },
+       {
+        "t": "smile…",
+        "ini": 31.16,
+        "fin": 31.76
+       },
+       {
+        "t": "like",
+        "ini": 32.74,
+        "fin": 32.92
+       },
+       {
+        "t": "this,",
+        "ini": 33.02,
+        "fin": 33.24
+       },
+       {
+        "t": "you",
+        "ini": 33.34,
+        "fin": 33.42
+       },
+       {
+        "t": "see!",
+        "ini": 33.6,
+        "fin": 33.9
+       }
+      ],
+      "trad": "Una sonrisa enorme… ¡así, mira!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "A sleepy face: aaah, aaah!",
+      "ini": 34.52,
+      "fin": 37.5,
+      "palabras": [
+       {
+        "t": "A",
+        "ini": 34.52,
+        "fin": 34.62
+       },
+       {
+        "t": "sleepy",
+        "ini": 34.72,
+        "fin": 35.78
+       },
+       {
+        "t": "face:",
+        "ini": 36.0,
+        "fin": 36.56
+       },
+       {
+        "t": "aaah,",
+        "ini": 36.66,
+        "fin": 37.36
+       },
+       {
+        "t": "aaah!",
+        "ini": 37.36,
+        "fin": 37.5
+       }
+      ],
+      "trad": "Una cara de sueño: ¡aaah, aaah!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Little sleepy eyes… but not yet, no, no, no!",
+      "ini": 39.0,
+      "fin": 43.16,
+      "palabras": [
+       {
+        "t": "Little",
+        "ini": 39.0,
+        "fin": 39.42
+       },
+       {
+        "t": "sleepy",
+        "ini": 39.56,
+        "fin": 40.64
+       },
+       {
+        "t": "eyes…",
+        "ini": 40.84,
+        "fin": 41.2
+       },
+       {
+        "t": "but",
+        "ini": 41.28,
+        "fin": 41.38
+       },
+       {
+        "t": "not",
+        "ini": 41.44,
+        "fin": 41.62
+       },
+       {
+        "t": "yet,",
+        "ini": 41.74,
+        "fin": 41.94
+       },
+       {
+        "t": "no,",
+        "ini": 42.34,
+        "fin": 42.5
+       },
+       {
+        "t": "no,",
+        "ini": 42.64,
+        "fin": 42.78
+       },
+       {
+        "t": "no!",
+        "ini": 42.94,
+        "fin": 43.16
+       }
+      ],
+      "trad": "Ojitos con sueño… ¡pero todavía no, no, no!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "I hide my face… where am I?",
+      "ini": 43.36,
+      "fin": 48.3,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 43.36,
+        "fin": 43.68
+       },
+       {
+        "t": "hide",
+        "ini": 44.46,
+        "fin": 44.96
+       },
+       {
+        "t": "my",
+        "ini": 45.02,
+        "fin": 45.4
+       },
+       {
+        "t": "face…",
+        "ini": 45.6,
+        "fin": 46.18
+       },
+       {
+        "t": "where",
+        "ini": 47.1,
+        "fin": 47.4
+       },
+       {
+        "t": "am",
+        "ini": 47.48,
+        "fin": 47.74
+       },
+       {
+        "t": "I?",
+        "ini": 48.12,
+        "fin": 48.3
+       }
+      ],
+      "trad": "Escondo mi cara… ¿dónde estoy?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Peekaboo! Here I am!",
+      "ini": 50.47,
+      "fin": 52.5,
+      "palabras": [
+       {
+        "t": "Peekaboo!",
+        "ini": 50.47,
+        "fin": 50.92
+       },
+       {
+        "t": "Here",
+        "ini": 51.6,
+        "fin": 51.94
+       },
+       {
+        "t": "I",
+        "ini": 52.1,
+        "fin": 52.18
+       },
+       {
+        "t": "am!",
+        "ini": 52.28,
+        "fin": 52.5
+       }
+      ],
+      "trad": "¡Cucú! ¡Aquí estoy!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "What's my face today?",
+      "ini": 52.86,
+      "fin": 55.78,
+      "palabras": [
+       {
+        "t": "What's",
+        "ini": 52.86,
+        "fin": 53.32
+       },
+       {
+        "t": "my",
+        "ini": 53.42,
+        "fin": 53.82
+       },
+       {
+        "t": "face",
+        "ini": 54.0,
+        "fin": 54.5
+       },
+       {
+        "t": "today?",
+        "ini": 54.62,
+        "fin": 55.78
+       }
+      ],
+      "trad": "¿Qué cara tengo hoy?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Look at me, look at me, I'll show you, hooray!",
+      "ini": 57.6,
+      "fin": 61.38,
+      "palabras": [
+       {
+        "t": "Look",
+        "ini": 57.6,
+        "fin": 57.8
+       },
+       {
+        "t": "at",
+        "ini": 57.86,
+        "fin": 58.02
+       },
+       {
+        "t": "me,",
+        "ini": 58.08,
+        "fin": 58.36
+       },
+       {
+        "t": "look",
+        "ini": 58.8,
+        "fin": 59.0
+       },
+       {
+        "t": "at",
+        "ini": 59.04,
+        "fin": 59.18
+       },
+       {
+        "t": "me,",
+        "ini": 59.28,
+        "fin": 59.54
+       },
+       {
+        "t": "I'll",
+        "ini": 59.7,
+        "fin": 59.9
+       },
+       {
+        "t": "show",
+        "ini": 59.98,
+        "fin": 60.4
+       },
+       {
+        "t": "you,",
+        "ini": 60.52,
+        "fin": 60.78
+       },
+       {
+        "t": "hooray!",
+        "ini": 60.88,
+        "fin": 61.38
+       }
+      ],
+      "trad": "¡Mírame, mírame, te la enseño, hurra!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "A surprised face: ooooh!",
+      "ini": 63.32,
+      "fin": 66.86,
+      "palabras": [
+       {
+        "t": "A",
+        "ini": 63.32,
+        "fin": 63.4
+       },
+       {
+        "t": "surprised",
+        "ini": 63.52,
+        "fin": 64.7
+       },
+       {
+        "t": "face:",
+        "ini": 64.84,
+        "fin": 65.4
+       },
+       {
+        "t": "ooooh!",
+        "ini": 66.08,
+        "fin": 66.86
+       }
+      ],
+      "trad": "Una cara de sorpresa: ¡ooooh!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "My mouth is round and round… just like an O!",
+      "ini": 67.54,
+      "fin": 72.34,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 67.54,
+        "fin": 67.7
+       },
+       {
+        "t": "mouth",
+        "ini": 67.82,
+        "fin": 68.1
+       },
+       {
+        "t": "is",
+        "ini": 68.2,
+        "fin": 68.34
+       },
+       {
+        "t": "round",
+        "ini": 68.46,
+        "fin": 69.06
+       },
+       {
+        "t": "and",
+        "ini": 69.1,
+        "fin": 69.46
+       },
+       {
+        "t": "round…",
+        "ini": 69.6,
+        "fin": 70.26
+       },
+       {
+        "t": "just",
+        "ini": 71.12,
+        "fin": 71.38
+       },
+       {
+        "t": "like",
+        "ini": 71.44,
+        "fin": 71.74
+       },
+       {
+        "t": "an",
+        "ini": 71.84,
+        "fin": 72.06
+       },
+       {
+        "t": "O!",
+        "ini": 72.14,
+        "fin": 72.34
+       }
+      ],
+      "trad": "Mi boca está muy redonda… ¡igual que una O!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "An angry face: grrr, grrr!",
+      "ini": 72.94,
+      "fin": 77.0,
+      "palabras": [
+       {
+        "t": "An",
+        "ini": 72.94,
+        "fin": 73.1
+       },
+       {
+        "t": "angry",
+        "ini": 73.34,
+        "fin": 74.2
+       },
+       {
+        "t": "face:",
+        "ini": 74.44,
+        "fin": 74.98
+       },
+       {
+        "t": "grrr,",
+        "ini": 75.04,
+        "fin": 75.58
+       },
+       {
+        "t": "grrr!",
+        "ini": 75.94,
+        "fin": 77.0
+       }
+      ],
+      "trad": "Una cara enfadada: ¡grrr, grrr!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "But with a great big hug… it's gone right away!",
+      "ini": 77.14,
+      "fin": 81.52,
+      "palabras": [
+       {
+        "t": "But",
+        "ini": 77.14,
+        "fin": 77.3
+       },
+       {
+        "t": "with",
+        "ini": 77.42,
+        "fin": 77.7
+       },
+       {
+        "t": "a",
+        "ini": 77.8,
+        "fin": 77.84
+       },
+       {
+        "t": "great",
+        "ini": 78.0,
+        "fin": 78.52
+       },
+       {
+        "t": "big",
+        "ini": 78.64,
+        "fin": 79.12
+       },
+       {
+        "t": "hug…",
+        "ini": 79.2,
+        "fin": 79.68
+       },
+       {
+        "t": "it's",
+        "ini": 80.16,
+        "fin": 80.36
+       },
+       {
+        "t": "gone",
+        "ini": 80.42,
+        "fin": 80.68
+       },
+       {
+        "t": "right",
+        "ini": 80.72,
+        "fin": 80.9
+       },
+       {
+        "t": "away!",
+        "ini": 80.94,
+        "fin": 81.52
+       }
+      ],
+      "trad": "Pero con un abrazo enorme… ¡se va enseguida!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Happy, sleepy, surprised, angry…",
+      "ini": 82.24,
+      "fin": 87.9,
+      "palabras": [
+       {
+        "t": "Happy,",
+        "ini": 82.24,
+        "fin": 83.1
+       },
+       {
+        "t": "sleepy,",
+        "ini": 84.56,
+        "fin": 85.5
+       },
+       {
+        "t": "surprised,",
+        "ini": 86.12,
+        "fin": 87.02
+       },
+       {
+        "t": "angry…",
+        "ini": 87.22,
+        "fin": 87.9
+       }
+      ],
+      "trad": "Contento, con sueño, sorprendido, enfadado…"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "And now? A good-morning face!",
+      "ini": 88.52,
+      "fin": 91.64,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 88.52,
+        "fin": 88.72
+       },
+       {
+        "t": "now?",
+        "ini": 88.84,
+        "fin": 89.2
+       },
+       {
+        "t": "A",
+        "ini": 90.22,
+        "fin": 90.24
+       },
+       {
+        "t": "good-morning",
+        "ini": 90.34,
+        "fin": 91.06
+       },
+       {
+        "t": "face!",
+        "ini": 91.2,
+        "fin": 91.64
+       }
+      ],
+      "trad": "¿Y ahora? ¡Una cara de buenos días!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "I hide my face… where am I?",
+      "ini": 101.06,
+      "fin": 105.9,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 101.06,
+        "fin": 101.28
+       },
+       {
+        "t": "hide",
+        "ini": 102.04,
+        "fin": 102.52
+       },
+       {
+        "t": "my",
+        "ini": 102.62,
+        "fin": 103.0
+       },
+       {
+        "t": "face…",
+        "ini": 103.2,
+        "fin": 103.78
+       },
+       {
+        "t": "where",
+        "ini": 104.7,
+        "fin": 105.0
+       },
+       {
+        "t": "am",
+        "ini": 105.14,
+        "fin": 105.34
+       },
+       {
+        "t": "I?",
+        "ini": 105.74,
+        "fin": 105.9
+       }
+      ],
+      "trad": "Escondo mi cara… ¿dónde estoy?"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Peekaboo! Here I am!",
+      "ini": 108.09,
+      "fin": 110.18,
+      "palabras": [
+       {
+        "t": "Peekaboo!",
+        "ini": 108.09,
+        "fin": 108.54
+       },
+       {
+        "t": "Here",
+        "ini": 109.2,
+        "fin": 109.52
+       },
+       {
+        "t": "I",
+        "ini": 109.7,
+        "fin": 109.78
+       },
+       {
+        "t": "am!",
+        "ini": 109.94,
+        "fin": 110.18
+       }
+      ],
+      "trad": "¡Cucú! ¡Aquí estoy!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "What's my face today?",
+      "ini": 110.44,
+      "fin": 113.34,
+      "palabras": [
+       {
+        "t": "What's",
+        "ini": 110.44,
+        "fin": 110.96
+       },
+       {
+        "t": "my",
+        "ini": 111.04,
+        "fin": 111.4
+       },
+       {
+        "t": "face",
+        "ini": 111.62,
+        "fin": 112.1
+       },
+       {
+        "t": "today?",
+        "ini": 112.24,
+        "fin": 113.34
+       }
+      ],
+      "trad": "¿Qué cara tengo hoy?"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Look at me, look at me, I'll show you, hooray!",
+      "ini": 115.22,
+      "fin": 118.98,
+      "palabras": [
+       {
+        "t": "Look",
+        "ini": 115.22,
+        "fin": 115.4
+       },
+       {
+        "t": "at",
+        "ini": 115.44,
+        "fin": 115.62
+       },
+       {
+        "t": "me,",
+        "ini": 115.68,
+        "fin": 115.94
+       },
+       {
+        "t": "look",
+        "ini": 116.4,
+        "fin": 116.58
+       },
+       {
+        "t": "at",
+        "ini": 116.64,
+        "fin": 116.8
+       },
+       {
+        "t": "me,",
+        "ini": 116.86,
+        "fin": 117.0
+       },
+       {
+        "t": "I'll",
+        "ini": 117.3,
+        "fin": 117.5
+       },
+       {
+        "t": "show",
+        "ini": 117.58,
+        "fin": 117.9
+       },
+       {
+        "t": "you,",
+        "ini": 118.16,
+        "fin": 118.38
+       },
+       {
+        "t": "hooray!",
+        "ini": 118.5,
+        "fin": 118.98
+       }
+      ],
+      "trad": "¡Mírame, mírame, te la enseño, hurra!"
+     }
+    ],
+    "duracion": 129.62
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "Me tapo la cara… ¿dónde estoy?",
+      "ini": 9.3,
+      "fin": 13.72,
+      "palabras": [
+       {
+        "t": "Me",
+        "ini": 9.3,
+        "fin": 9.46
+       },
+       {
+        "t": "tapo",
+        "ini": 9.86,
+        "fin": 10.4
+       },
+       {
+        "t": "la",
+        "ini": 10.46,
+        "fin": 10.68
+       },
+       {
+        "t": "cara…",
+        "ini": 10.78,
+        "fin": 11.7
+       },
+       {
+        "t": "¿dónde",
+        "ini": 11.96,
+        "fin": 12.76
+       },
+       {
+        "t": "estoy?",
+        "ini": 12.88,
+        "fin": 13.72
+       }
+      ],
+      "trad": "I cover my face… Where am I?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Cucú! ¡Aquí estoy!",
+      "ini": 13.72,
+      "fin": 15.96,
+      "palabras": [
+       {
+        "t": "¡Cucú!",
+        "ini": 13.72,
+        "fin": 14.6
+       },
+       {
+        "t": "¡Aquí",
+        "ini": 14.72,
+        "fin": 15.28
+       },
+       {
+        "t": "estoy!",
+        "ini": 15.34,
+        "fin": 15.96
+       }
+      ],
+      "trad": "Peekaboo! Here I am!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Qué cara traigo hoy?",
+      "ini": 15.96,
+      "fin": 18.66,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 15.96,
+        "fin": 16.14
+       },
+       {
+        "t": "cara",
+        "ini": 16.24,
+        "fin": 16.66
+       },
+       {
+        "t": "traigo",
+        "ini": 16.8,
+        "fin": 17.82
+       },
+       {
+        "t": "hoy?",
+        "ini": 18.0,
+        "fin": 18.66
+       }
+      ],
+      "trad": "What face do I have today?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Mírame, mírame, que te la enseño yo!",
+      "ini": 18.66,
+      "fin": 23.08,
+      "palabras": [
+       {
+        "t": "¡Mírame,",
+        "ini": 18.66,
+        "fin": 20.0
+       },
+       {
+        "t": "mírame,",
+        "ini": 20.4,
+        "fin": 21.14
+       },
+       {
+        "t": "que",
+        "ini": 21.3,
+        "fin": 21.44
+       },
+       {
+        "t": "te",
+        "ini": 21.58,
+        "fin": 21.84
+       },
+       {
+        "t": "la",
+        "ini": 21.88,
+        "fin": 21.96
+       },
+       {
+        "t": "enseño",
+        "ini": 22.02,
+        "fin": 22.72
+       },
+       {
+        "t": "yo!",
+        "ini": 22.8,
+        "fin": 23.08
+       }
+      ],
+      "trad": "Look at me, look at me, I'll show it to you!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Cara de contento: ¡ji, ji, ji!",
+      "ini": 25.2,
+      "fin": 28.7,
+      "palabras": [
+       {
+        "t": "Cara",
+        "ini": 25.2,
+        "fin": 25.74
+       },
+       {
+        "t": "de",
+        "ini": 25.8,
+        "fin": 25.94
+       },
+       {
+        "t": "contento:",
+        "ini": 26.08,
+        "fin": 27.26
+       },
+       {
+        "t": "¡ji,",
+        "ini": 27.26,
+        "fin": 28.04
+       },
+       {
+        "t": "ji,",
+        "ini": 28.18,
+        "fin": 28.34
+       },
+       {
+        "t": "ji!",
+        "ini": 28.5,
+        "fin": 28.7
+       }
+      ],
+      "trad": "Happy face: hee, hee, hee!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Una sonrisa grande… ¡así, así!",
+      "ini": 29.74,
+      "fin": 33.84,
+      "palabras": [
+       {
+        "t": "Una",
+        "ini": 29.74,
+        "fin": 30.12
+       },
+       {
+        "t": "sonrisa",
+        "ini": 30.24,
+        "fin": 31.08
+       },
+       {
+        "t": "grande…",
+        "ini": 31.18,
+        "fin": 32.06
+       },
+       {
+        "t": "¡así,",
+        "ini": 32.06,
+        "fin": 33.18
+       },
+       {
+        "t": "así!",
+        "ini": 33.32,
+        "fin": 33.84
+       }
+      ],
+      "trad": "A big smile… like this, like this!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Cara de sueño: ¡aaah, aaah!",
+      "ini": 34.5,
+      "fin": 36.9,
+      "palabras": [
+       {
+        "t": "Cara",
+        "ini": 34.5,
+        "fin": 35.04
+       },
+       {
+        "t": "de",
+        "ini": 35.1,
+        "fin": 35.22
+       },
+       {
+        "t": "sueño:",
+        "ini": 35.34,
+        "fin": 35.86
+       },
+       {
+        "t": "¡aaah,",
+        "ini": 36.0,
+        "fin": 36.6
+       },
+       {
+        "t": "aaah!",
+        "ini": 36.66,
+        "fin": 36.9
+       }
+      ],
+      "trad": "Sleepy face: aaah, aaah!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Los ojitos chiquititos… ¡pero aún no, no, no!",
+      "ini": 38.98,
+      "fin": 43.14,
+      "palabras": [
+       {
+        "t": "Los",
+        "ini": 38.98,
+        "fin": 39.28
+       },
+       {
+        "t": "ojitos",
+        "ini": 39.38,
+        "fin": 40.1
+       },
+       {
+        "t": "chiquititos…",
+        "ini": 40.18,
+        "fin": 41.62
+       },
+       {
+        "t": "¡pero",
+        "ini": 41.7,
+        "fin": 42.06
+       },
+       {
+        "t": "aún",
+        "ini": 42.1,
+        "fin": 42.26
+       },
+       {
+        "t": "no,",
+        "ini": 42.34,
+        "fin": 42.46
+       },
+       {
+        "t": "no,",
+        "ini": 42.62,
+        "fin": 42.74
+       },
+       {
+        "t": "no!",
+        "ini": 42.92,
+        "fin": 43.14
+       }
+      ],
+      "trad": "Tiny little eyes… but not yet, no, no, no!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Me tapo la cara… ¿dónde estoy?",
+      "ini": 44.12,
+      "fin": 48.46,
+      "palabras": [
+       {
+        "t": "Me",
+        "ini": 44.12,
+        "fin": 44.32
+       },
+       {
+        "t": "tapo",
+        "ini": 44.66,
+        "fin": 45.24
+       },
+       {
+        "t": "la",
+        "ini": 45.3,
+        "fin": 45.48
+       },
+       {
+        "t": "cara…",
+        "ini": 45.6,
+        "fin": 46.5
+       },
+       {
+        "t": "¿dónde",
+        "ini": 46.74,
+        "fin": 47.56
+       },
+       {
+        "t": "estoy?",
+        "ini": 47.7,
+        "fin": 48.46
+       }
+      ],
+      "trad": "I cover my face… Where am I?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Cucú! ¡Aquí estoy!",
+      "ini": 48.52,
+      "fin": 50.76,
+      "palabras": [
+       {
+        "t": "¡Cucú!",
+        "ini": 48.52,
+        "fin": 49.38
+       },
+       {
+        "t": "¡Aquí",
+        "ini": 49.5,
+        "fin": 50.08
+       },
+       {
+        "t": "estoy!",
+        "ini": 50.14,
+        "fin": 50.76
+       }
+      ],
+      "trad": "Peekaboo! Here I am!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Qué cara traigo hoy?",
+      "ini": 50.76,
+      "fin": 53.46,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 50.76,
+        "fin": 50.94
+       },
+       {
+        "t": "cara",
+        "ini": 51.02,
+        "fin": 51.46
+       },
+       {
+        "t": "traigo",
+        "ini": 51.58,
+        "fin": 52.64
+       },
+       {
+        "t": "hoy?",
+        "ini": 52.8,
+        "fin": 53.46
+       }
+      ],
+      "trad": "What face do I have today?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Mírame, mírame, que te la enseño yo!",
+      "ini": 53.48,
+      "fin": 57.88,
+      "palabras": [
+       {
+        "t": "¡Mírame,",
+        "ini": 53.48,
+        "fin": 54.8
+       },
+       {
+        "t": "mírame,",
+        "ini": 55.2,
+        "fin": 55.94
+       },
+       {
+        "t": "que",
+        "ini": 56.1,
+        "fin": 56.24
+       },
+       {
+        "t": "te",
+        "ini": 56.38,
+        "fin": 56.66
+       },
+       {
+        "t": "la",
+        "ini": 56.7,
+        "fin": 56.76
+       },
+       {
+        "t": "enseño",
+        "ini": 56.82,
+        "fin": 57.52
+       },
+       {
+        "t": "yo!",
+        "ini": 57.6,
+        "fin": 57.88
+       }
+      ],
+      "trad": "Look at me, look at me, I'll show it to you!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Cara de sorpresa: ¡oooh!",
+      "ini": 63.6,
+      "fin": 66.6,
+      "palabras": [
+       {
+        "t": "Cara",
+        "ini": 63.6,
+        "fin": 64.14
+       },
+       {
+        "t": "de",
+        "ini": 64.2,
+        "fin": 64.32
+       },
+       {
+        "t": "sorpresa:",
+        "ini": 64.44,
+        "fin": 65.62
+       },
+       {
+        "t": "¡oooh!",
+        "ini": 65.62,
+        "fin": 66.6
+       }
+      ],
+      "trad": "Surprised face: oooh!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "La boca muy redonda… ¡como una O!",
+      "ini": 68.1,
+      "fin": 72.3,
+      "palabras": [
+       {
+        "t": "La",
+        "ini": 68.1,
+        "fin": 68.34
+       },
+       {
+        "t": "boca",
+        "ini": 68.4,
+        "fin": 68.86
+       },
+       {
+        "t": "muy",
+        "ini": 69.0,
+        "fin": 69.24
+       },
+       {
+        "t": "redonda…",
+        "ini": 69.32,
+        "fin": 70.44
+       },
+       {
+        "t": "¡como",
+        "ini": 70.44,
+        "fin": 71.52
+       },
+       {
+        "t": "una",
+        "ini": 71.62,
+        "fin": 71.88
+       },
+       {
+        "t": "O!",
+        "ini": 72.1,
+        "fin": 72.3
+       }
+      ],
+      "trad": "A very round mouth… like an O!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Cara de enfado: ¡grrr, grrr!",
+      "ini": 73.22,
+      "fin": 77.58,
+      "palabras": [
+       {
+        "t": "Cara",
+        "ini": 73.22,
+        "fin": 73.78
+       },
+       {
+        "t": "de",
+        "ini": 73.84,
+        "fin": 73.98
+       },
+       {
+        "t": "enfado:",
+        "ini": 74.06,
+        "fin": 75.3
+       },
+       {
+        "t": "¡grrr,",
+        "ini": 75.6,
+        "fin": 76.76
+       },
+       {
+        "t": "grrr!",
+        "ini": 77.0,
+        "fin": 77.58
+       }
+      ],
+      "trad": "Angry face: grrr, grrr!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Pero con un abrazo… ¡se me pasa ya!",
+      "ini": 77.72,
+      "fin": 81.24,
+      "palabras": [
+       {
+        "t": "Pero",
+        "ini": 77.72,
+        "fin": 78.16
+       },
+       {
+        "t": "con",
+        "ini": 78.32,
+        "fin": 78.62
+       },
+       {
+        "t": "un",
+        "ini": 78.74,
+        "fin": 78.94
+       },
+       {
+        "t": "abrazo…",
+        "ini": 79.02,
+        "fin": 79.64
+       },
+       {
+        "t": "¡se",
+        "ini": 79.74,
+        "fin": 80.0
+       },
+       {
+        "t": "me",
+        "ini": 80.1,
+        "fin": 80.26
+       },
+       {
+        "t": "pasa",
+        "ini": 80.4,
+        "fin": 80.9
+       },
+       {
+        "t": "ya!",
+        "ini": 81.02,
+        "fin": 81.24
+       }
+      ],
+      "trad": "But with a hug… it's gone already!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Contento, sueño, sorpresa, enfado…",
+      "ini": 83.83,
+      "fin": 91.5,
+      "palabras": [
+       {
+        "t": "Contento,",
+        "ini": 83.83,
+        "fin": 84.28
+       },
+       {
+        "t": "sueño,",
+        "ini": 85.18,
+        "fin": 86.68
+       },
+       {
+        "t": "sorpresa,",
+        "ini": 87.3,
+        "fin": 89.1
+       },
+       {
+        "t": "enfado…",
+        "ini": 89.74,
+        "fin": 91.5
+       }
+      ],
+      "trad": "Happy, sleepy, surprised, angry…"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "¿Y ahora? ¡Cara de buenos días!",
+      "ini": 91.72,
+      "fin": 99.74,
+      "palabras": [
+       {
+        "t": "¿Y",
+        "ini": 91.72,
+        "fin": 92.5
+       },
+       {
+        "t": "ahora?",
+        "ini": 92.6,
+        "fin": 94.5
+       },
+       {
+        "t": "¡Cara",
+        "ini": 94.8,
+        "fin": 98.04
+       },
+       {
+        "t": "de",
+        "ini": 98.14,
+        "fin": 98.3
+       },
+       {
+        "t": "buenos",
+        "ini": 98.4,
+        "fin": 98.94
+       },
+       {
+        "t": "días!",
+        "ini": 99.04,
+        "fin": 99.74
+       }
+      ],
+      "trad": "And now? A good-morning face!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Me tapo la cara… ¿dónde estoy?",
+      "ini": 101.72,
+      "fin": 106.14,
+      "palabras": [
+       {
+        "t": "Me",
+        "ini": 101.72,
+        "fin": 101.94
+       },
+       {
+        "t": "tapo",
+        "ini": 102.3,
+        "fin": 102.86
+       },
+       {
+        "t": "la",
+        "ini": 102.94,
+        "fin": 103.06
+       },
+       {
+        "t": "cara…",
+        "ini": 103.2,
+        "fin": 104.08
+       },
+       {
+        "t": "¿dónde",
+        "ini": 104.38,
+        "fin": 105.2
+       },
+       {
+        "t": "estoy?",
+        "ini": 105.3,
+        "fin": 106.14
+       }
+      ],
+      "trad": "I cover my face… Where am I?"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Cucú! ¡Aquí estoy!",
+      "ini": 106.14,
+      "fin": 108.36,
+      "palabras": [
+       {
+        "t": "¡Cucú!",
+        "ini": 106.14,
+        "fin": 107.0
+       },
+       {
+        "t": "¡Aquí",
+        "ini": 107.1,
+        "fin": 107.68
+       },
+       {
+        "t": "estoy!",
+        "ini": 107.72,
+        "fin": 108.36
+       }
+      ],
+      "trad": "Peekaboo! Here I am!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Qué cara traigo hoy?",
+      "ini": 108.36,
+      "fin": 111.08,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 108.36,
+        "fin": 108.54
+       },
+       {
+        "t": "cara",
+        "ini": 108.62,
+        "fin": 109.06
+       },
+       {
+        "t": "traigo",
+        "ini": 109.18,
+        "fin": 110.1
+       },
+       {
+        "t": "hoy?",
+        "ini": 110.4,
+        "fin": 111.08
+       }
+      ],
+      "trad": "What face do I have today?"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Mírame, mírame, que te la enseño yo!",
+      "ini": 111.08,
+      "fin": 115.46,
+      "palabras": [
+       {
+        "t": "¡Mírame,",
+        "ini": 111.08,
+        "fin": 112.44
+       },
+       {
+        "t": "mírame,",
+        "ini": 112.8,
+        "fin": 113.56
+       },
+       {
+        "t": "que",
+        "ini": 113.7,
+        "fin": 113.84
+       },
+       {
+        "t": "te",
+        "ini": 114.0,
+        "fin": 114.22
+       },
+       {
+        "t": "la",
+        "ini": 114.28,
+        "fin": 114.38
+       },
+       {
+        "t": "enseño",
+        "ini": 114.4,
+        "fin": 115.1
+       },
+       {
+        "t": "yo!",
+        "ini": 115.2,
+        "fin": 115.46
+       }
+      ],
+      "trad": "Look at me, look at me, I'll show it to you!"
+     }
+    ],
+    "duracion": 129.62
+   },
+   "preguntas": []
+  },
+  {
    "id": "01-ayer",
    "titulo_en": "Yesterday Was Crazy",
    "titulo_es": "Ayer fue una locura",

@@ -364,27 +364,34 @@ def canciones():
     except Exception: return []
     os.makedirs(os.path.join(WEB, "canciones"), exist_ok=True)
     datos, lista = [], []
-    for n, c in enumerate(cat.get("canciones", [])):
+    n = -1
+    for c in cat.get("canciones", []):
+        # [2-nov, él: «3 canciones exclusivas para escuelas de infantil… una sección al principio»] las de infantil (1-3 años): siempre
+        # enteras y en su sección, arriba; no cuentan para las 20
+        inf = bool(c.get("infantil"))
+        if not inf: n += 1
         d = os.path.join(CANCIONES, c["id"])
-        entera = n < ENTERAS_CANCIONES
+        entera = inf or n < ENTERAS_CANCIONES
         if not all(os.path.exists(os.path.join(d, f)) for f in (["en.mp3", "es.mp3"] if entera else ["en_muestra.mp3", "es_muestra.mp3"]) + ["portada.jpg"]):
             aviso("canción sin sus archivos, no sale:", c["id"]); continue
         mini = os.path.join(WEB, "canciones", c["id"] + ".jpg")
         if not os.path.exists(mini) or os.path.getmtime(mini) < os.path.getmtime(os.path.join(d, "portada.jpg")):
             im = Image.open(os.path.join(d, "portada.jpg")).convert("RGB"); im.thumbnail((480, 480)); guarda_jpg(im, mini, 70)
         x = {"id": c["id"], "t": [c["titulo_es"], c["titulo_en"]], "entera": entera}
+        if inf: x["inf"] = True
         for idi in ("en", "es"):
             l = c[idi]; corte = l["duracion"] * (1 if entera else MUESTRA_CANCION)
             x[idi] = {"d": round(corte, 2), "l": [[ln["texto"], ln["ini"], [w["ini"] for w in ln["palabras"]], ln.get("trad", "")] for ln in l["lineas"] if entera or ln["ini"] < corte - 1]}
-        datos.append(x); lista.append(dict(c, _n=n, _entera=entera))
+        datos.append(x); lista.append(dict(c, _n=n, _entera=entera, _inf=inf))
     escribe_si_cambia(os.path.join(WEB, "canciones.json"), json.dumps({"canciones": datos}, ensure_ascii=False, separators=(",", ":")) + "\n")
-    return list(reversed(lista))
+    return [c for c in lista if c["_inf"]] + list(reversed([c for c in lista if not c["_inf"]]))
 
 
 def tarjeta_cancion(c):
     """Una canción: con la web en español, su título en INGLÉS (es la que se canta) y debajo en español; en inglés, al revés."""
     idq = urllib.parse.quote(c["id"])
-    candado = "" if c["_entera"] else '<span class="sello muestra" data-en="Preview">Muestra</span>'
+    candado = ('<span class="sello muestra" data-en="Ages 1-3">1-3 años</span>' if c.get("_inf") else
+               "" if c["_entera"] else '<span class="sello muestra" data-en="Preview">Muestra</span>')
     return f"""
     <li class="cancion" id="c-{e(c['id'])}">
       <a class="tapa-c" href="cancion.html?id={idq}" data-cancion="{e(c['id'])}">
@@ -399,11 +406,19 @@ def tarjeta_cancion(c):
 
 def seccion_canciones(lista):
     if not lista: return ""
-    tarjetas = "".join(tarjeta_cancion(c) for c in lista)
+    inf = [c for c in lista if c.get("_inf")]
+    tarjetas = "".join(tarjeta_cancion(c) for c in lista if not c.get("_inf"))
+    infantil = "" if not inf else f"""
+  <h3 class="titulo-sub" data-en="Little ones · ages 1 to 3">Infantil · de 1 a 3 años</h3>
+  <p class="entradilla" data-en="To start the day at nursery school: saying hello, waking up the body and feelings, with gestures and a calm ending to sit in the circle.">Para empezar el día en la escuela infantil: saludar, despertar el cuerpo y las emociones, con gestos y un final tranquilo para sentarse en el corro.</p>
+  <ul class="lista-canciones">{"".join(tarjeta_cancion(c) for c in inf)}
+  </ul>
+  <h3 class="titulo-sub" data-en="For all ages">Para todas las edades</h3>"""
     return f"""
 <section id="canciones" class="canciones envoltorio" aria-labelledby="h-can">
   <h2 class="titulo-seccion" id="h-can" data-en="Songs to learn Spanish">Canciones para aprender inglés</h2>
   <p class="entradilla" data-en="Original songs sung in Spanish, with the lyrics lighting up word by word as they're sung and the translation at the touch of a button. Grammar for real (the past, comparing, the future…) with a catchy chorus for the little ones.">Canciones originales cantadas en inglés, con la letra iluminándose palabra a palabra al cantar y la traducción con un botón. Gramática de verdad (el pasado, comparar, el futuro…) con un estribillo pegadizo para los peques.</p>
+{infantil}
   <ul class="lista-canciones">{tarjetas}
   </ul>
 </section>
