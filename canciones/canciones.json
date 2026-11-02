@@ -5109,6 +5109,1656 @@
    "preguntas": []
   },
   {
+   "id": "i04-colores",
+   "titulo_en": "Good Morning, Colors!",
+   "titulo_es": "¡Buenos días, colores!",
+   "ensena_en": "colors (yellow, blue, white, green, red, orange, brown) and the things of the morning, calmly (ages 1-3)",
+   "ensena_es": "los colores (amarillo, azul, blanco, verde, rojo, naranja, marrón) y las cosas de la mañana, con calma (1-3 años)",
+   "infantil": true,
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "What color is the morning?",
+      "ini": 6.12,
+      "fin": 9.62,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 6.12,
+        "fin": 6.28
+       },
+       {
+        "t": "color",
+        "ini": 6.46,
+        "fin": 7.04
+       },
+       {
+        "t": "is",
+        "ini": 7.18,
+        "fin": 8.18
+       },
+       {
+        "t": "the",
+        "ini": 8.24,
+        "fin": 8.34
+       },
+       {
+        "t": "morning?",
+        "ini": 8.46,
+        "fin": 9.62
+       }
+      ],
+      "trad": "¿De qué color es la mañana?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Open your eyes and look out the window…",
+      "ini": 11.84,
+      "fin": 16.34,
+      "palabras": [
+       {
+        "t": "Open",
+        "ini": 11.84,
+        "fin": 12.42
+       },
+       {
+        "t": "your",
+        "ini": 12.52,
+        "fin": 12.68
+       },
+       {
+        "t": "eyes",
+        "ini": 12.76,
+        "fin": 13.88
+       },
+       {
+        "t": "and",
+        "ini": 13.9,
+        "fin": 14.18
+       },
+       {
+        "t": "look",
+        "ini": 14.6,
+        "fin": 14.96
+       },
+       {
+        "t": "out",
+        "ini": 15.04,
+        "fin": 15.26
+       },
+       {
+        "t": "the",
+        "ini": 15.32,
+        "fin": 15.44
+       },
+       {
+        "t": "window…",
+        "ini": 15.54,
+        "fin": 16.34
+       }
+      ],
+      "trad": "Abre los ojos y mira por la ventana…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Good morning, colors,",
+      "ini": 16.7,
+      "fin": 21.84,
+      "palabras": [
+       {
+        "t": "Good",
+        "ini": 16.7,
+        "fin": 16.88
+       },
+       {
+        "t": "morning,",
+        "ini": 16.98,
+        "fin": 18.06
+       },
+       {
+        "t": "colors,",
+        "ini": 19.88,
+        "fin": 21.84
+       }
+      ],
+      "trad": "Buenos días, colores,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "good morning, new day.",
+      "ini": 22.34,
+      "fin": 25.9,
+      "palabras": [
+       {
+        "t": "good",
+        "ini": 22.34,
+        "fin": 22.52
+       },
+       {
+        "t": "morning,",
+        "ini": 22.72,
+        "fin": 23.78
+       },
+       {
+        "t": "new",
+        "ini": 24.1,
+        "fin": 24.48
+       },
+       {
+        "t": "day.",
+        "ini": 25.52,
+        "fin": 25.9
+       }
+      ],
+      "trad": "buenos días, día nuevo."
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Yellow, the sun… rising slowly, slowly.",
+      "ini": 28.74,
+      "fin": 33.64,
+      "palabras": [
+       {
+        "t": "Yellow,",
+        "ini": 28.74,
+        "fin": 29.34
+       },
+       {
+        "t": "the",
+        "ini": 29.42,
+        "fin": 29.52
+       },
+       {
+        "t": "sun…",
+        "ini": 29.66,
+        "fin": 30.32
+       },
+       {
+        "t": "rising",
+        "ini": 30.48,
+        "fin": 31.0
+       },
+       {
+        "t": "slowly,",
+        "ini": 31.14,
+        "fin": 32.14
+       },
+       {
+        "t": "slowly.",
+        "ini": 32.58,
+        "fin": 33.64
+       }
+      ],
+      "trad": "Amarillo, el sol… que sale despacito, despacito."
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Blue, the sky… so big, so big.",
+      "ini": 34.36,
+      "fin": 38.94,
+      "palabras": [
+       {
+        "t": "Blue,",
+        "ini": 34.36,
+        "fin": 34.96
+       },
+       {
+        "t": "the",
+        "ini": 35.04,
+        "fin": 35.14
+       },
+       {
+        "t": "sky…",
+        "ini": 35.2,
+        "fin": 35.78
+       },
+       {
+        "t": "so",
+        "ini": 36.48,
+        "fin": 36.7
+       },
+       {
+        "t": "big,",
+        "ini": 36.88,
+        "fin": 37.4
+       },
+       {
+        "t": "so",
+        "ini": 37.58,
+        "fin": 37.86
+       },
+       {
+        "t": "big.",
+        "ini": 38.3,
+        "fin": 38.94
+       }
+      ],
+      "trad": "Azul, el cielo… tan grande, tan grande."
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "White, the cloud… soft, so soft.",
+      "ini": 40.04,
+      "fin": 44.6,
+      "palabras": [
+       {
+        "t": "White,",
+        "ini": 40.04,
+        "fin": 40.64
+       },
+       {
+        "t": "the",
+        "ini": 40.72,
+        "fin": 40.8
+       },
+       {
+        "t": "cloud…",
+        "ini": 40.88,
+        "fin": 42.02
+       },
+       {
+        "t": "soft,",
+        "ini": 42.46,
+        "fin": 43.04
+       },
+       {
+        "t": "so",
+        "ini": 43.2,
+        "fin": 43.5
+       },
+       {
+        "t": "soft.",
+        "ini": 43.84,
+        "fin": 44.6
+       }
+      ],
+      "trad": "Blanca, la nube… suave, muy suave."
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Green, the grass… it tickles my toes.",
+      "ini": 45.66,
+      "fin": 50.18,
+      "palabras": [
+       {
+        "t": "Green,",
+        "ini": 45.66,
+        "fin": 46.28
+       },
+       {
+        "t": "the",
+        "ini": 46.36,
+        "fin": 46.44
+       },
+       {
+        "t": "grass…",
+        "ini": 46.56,
+        "fin": 47.74
+       },
+       {
+        "t": "it",
+        "ini": 47.82,
+        "fin": 48.04
+       },
+       {
+        "t": "tickles",
+        "ini": 48.1,
+        "fin": 48.78
+       },
+       {
+        "t": "my",
+        "ini": 48.88,
+        "fin": 49.32
+       },
+       {
+        "t": "toes.",
+        "ini": 49.48,
+        "fin": 50.18
+       }
+      ],
+      "trad": "Verde, la hierba… me hace cosquillas en los deditos."
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "What color is the morning?",
+      "ini": 50.6,
+      "fin": 54.82,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 50.6,
+        "fin": 50.94
+       },
+       {
+        "t": "color",
+        "ini": 51.64,
+        "fin": 52.22
+       },
+       {
+        "t": "is",
+        "ini": 52.36,
+        "fin": 53.36
+       },
+       {
+        "t": "the",
+        "ini": 53.44,
+        "fin": 53.52
+       },
+       {
+        "t": "morning?",
+        "ini": 53.66,
+        "fin": 54.82
+       }
+      ],
+      "trad": "¿De qué color es la mañana?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Open your eyes and look out the window…",
+      "ini": 57.02,
+      "fin": 61.78,
+      "palabras": [
+       {
+        "t": "Open",
+        "ini": 57.02,
+        "fin": 57.58
+       },
+       {
+        "t": "your",
+        "ini": 57.68,
+        "fin": 57.84
+       },
+       {
+        "t": "eyes",
+        "ini": 57.92,
+        "fin": 59.04
+       },
+       {
+        "t": "and",
+        "ini": 59.08,
+        "fin": 59.34
+       },
+       {
+        "t": "look",
+        "ini": 59.78,
+        "fin": 60.12
+       },
+       {
+        "t": "out",
+        "ini": 60.22,
+        "fin": 60.44
+       },
+       {
+        "t": "the",
+        "ini": 60.5,
+        "fin": 60.62
+       },
+       {
+        "t": "window…",
+        "ini": 60.7,
+        "fin": 61.78
+       }
+      ],
+      "trad": "Abre los ojos y mira por la ventana…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Good morning, colors,",
+      "ini": 61.88,
+      "fin": 66.98,
+      "palabras": [
+       {
+        "t": "Good",
+        "ini": 61.88,
+        "fin": 62.1
+       },
+       {
+        "t": "morning,",
+        "ini": 62.26,
+        "fin": 63.28
+       },
+       {
+        "t": "colors,",
+        "ini": 65.04,
+        "fin": 66.98
+       }
+      ],
+      "trad": "Buenos días, colores,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "good morning, new day.",
+      "ini": 67.52,
+      "fin": 71.08,
+      "palabras": [
+       {
+        "t": "good",
+        "ini": 67.52,
+        "fin": 67.72
+       },
+       {
+        "t": "morning,",
+        "ini": 67.86,
+        "fin": 68.94
+       },
+       {
+        "t": "new",
+        "ini": 69.32,
+        "fin": 69.66
+       },
+       {
+        "t": "day.",
+        "ini": 70.72,
+        "fin": 71.08
+       }
+      ],
+      "trad": "buenos días, día nuevo."
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Red, the strawberry… for breakfast, yum!",
+      "ini": 73.86,
+      "fin": 77.4,
+      "palabras": [
+       {
+        "t": "Red,",
+        "ini": 73.86,
+        "fin": 74.48
+       },
+       {
+        "t": "the",
+        "ini": 74.58,
+        "fin": 74.68
+       },
+       {
+        "t": "strawberry…",
+        "ini": 74.78,
+        "fin": 75.82
+       },
+       {
+        "t": "for",
+        "ini": 76.0,
+        "fin": 76.16
+       },
+       {
+        "t": "breakfast,",
+        "ini": 76.34,
+        "fin": 77.02
+       },
+       {
+        "t": "yum!",
+        "ini": 77.1,
+        "fin": 77.4
+       }
+      ],
+      "trad": "Roja, la fresa… para desayunar, ¡ñam!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Orange, the juice… glug, glug, glug.",
+      "ini": 79.62,
+      "fin": 84.12,
+      "palabras": [
+       {
+        "t": "Orange,",
+        "ini": 79.62,
+        "fin": 80.18
+       },
+       {
+        "t": "the",
+        "ini": 80.26,
+        "fin": 80.32
+       },
+       {
+        "t": "juice…",
+        "ini": 80.46,
+        "fin": 81.46
+       },
+       {
+        "t": "glug,",
+        "ini": 81.98,
+        "fin": 82.58
+       },
+       {
+        "t": "glug,",
+        "ini": 82.68,
+        "fin": 83.3
+       },
+       {
+        "t": "glug.",
+        "ini": 83.42,
+        "fin": 84.12
+       }
+      ],
+      "trad": "Naranja, el zumo… glu, glu, glu."
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Brown, my teddy… he gives me a hug.",
+      "ini": 85.2,
+      "fin": 89.44,
+      "palabras": [
+       {
+        "t": "Brown,",
+        "ini": 85.2,
+        "fin": 85.8
+       },
+       {
+        "t": "my",
+        "ini": 85.92,
+        "fin": 86.08
+       },
+       {
+        "t": "teddy…",
+        "ini": 86.24,
+        "fin": 86.94
+       },
+       {
+        "t": "he",
+        "ini": 87.3,
+        "fin": 87.48
+       },
+       {
+        "t": "gives",
+        "ini": 87.66,
+        "fin": 88.0
+       },
+       {
+        "t": "me",
+        "ini": 88.06,
+        "fin": 88.34
+       },
+       {
+        "t": "a",
+        "ini": 88.48,
+        "fin": 88.56
+       },
+       {
+        "t": "hug.",
+        "ini": 88.7,
+        "fin": 89.44
+       }
+      ],
+      "trad": "Marrón, mi osito… me da un abrazo."
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "And all the colors together… a rainbow!",
+      "ini": 89.48,
+      "fin": 94.6,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 89.48,
+        "fin": 89.82
+       },
+       {
+        "t": "all",
+        "ini": 89.92,
+        "fin": 90.12
+       },
+       {
+        "t": "the",
+        "ini": 90.2,
+        "fin": 90.3
+       },
+       {
+        "t": "colors",
+        "ini": 90.48,
+        "fin": 91.44
+       },
+       {
+        "t": "together…",
+        "ini": 91.54,
+        "fin": 92.52
+       },
+       {
+        "t": "a",
+        "ini": 93.06,
+        "fin": 93.18
+       },
+       {
+        "t": "rainbow!",
+        "ini": 93.3,
+        "fin": 94.6
+       }
+      ],
+      "trad": "Y todos los colores juntos… ¡un arcoíris!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Yellow, blue, white and green…",
+      "ini": 95.1,
+      "fin": 99.64,
+      "palabras": [
+       {
+        "t": "Yellow,",
+        "ini": 95.1,
+        "fin": 96.0
+       },
+       {
+        "t": "blue,",
+        "ini": 96.12,
+        "fin": 96.66
+       },
+       {
+        "t": "white",
+        "ini": 96.88,
+        "fin": 97.6
+       },
+       {
+        "t": "and",
+        "ini": 97.64,
+        "fin": 98.24
+       },
+       {
+        "t": "green…",
+        "ini": 98.96,
+        "fin": 99.64
+       }
+      ],
+      "trad": "Amarillo, azul, blanco y verde…"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "red and orange… and good morning to you.",
+      "ini": 100.76,
+      "fin": 106.7,
+      "palabras": [
+       {
+        "t": "red",
+        "ini": 100.76,
+        "fin": 101.1
+       },
+       {
+        "t": "and",
+        "ini": 101.18,
+        "fin": 101.8
+       },
+       {
+        "t": "orange…",
+        "ini": 101.98,
+        "fin": 103.26
+       },
+       {
+        "t": "and",
+        "ini": 103.6,
+        "fin": 104.14
+       },
+       {
+        "t": "good",
+        "ini": 104.28,
+        "fin": 104.5
+       },
+       {
+        "t": "morning",
+        "ini": 104.64,
+        "fin": 105.24
+       },
+       {
+        "t": "to",
+        "ini": 105.34,
+        "fin": 105.64
+       },
+       {
+        "t": "you.",
+        "ini": 106.44,
+        "fin": 106.7
+       }
+      ],
+      "trad": "rojo y naranja… y buenos días a ti."
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "What color is the morning?",
+      "ini": 118.36,
+      "fin": 122.56,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 118.36,
+        "fin": 118.7
+       },
+       {
+        "t": "color",
+        "ini": 119.42,
+        "fin": 120.0
+       },
+       {
+        "t": "is",
+        "ini": 120.12,
+        "fin": 121.12
+       },
+       {
+        "t": "the",
+        "ini": 121.22,
+        "fin": 121.34
+       },
+       {
+        "t": "morning?",
+        "ini": 121.46,
+        "fin": 122.56
+       }
+      ],
+      "trad": "¿De qué color es la mañana?"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "Open your eyes and look out the window…",
+      "ini": 124.82,
+      "fin": 129.56,
+      "palabras": [
+       {
+        "t": "Open",
+        "ini": 124.82,
+        "fin": 125.36
+       },
+       {
+        "t": "your",
+        "ini": 125.46,
+        "fin": 125.62
+       },
+       {
+        "t": "eyes",
+        "ini": 125.72,
+        "fin": 126.82
+       },
+       {
+        "t": "and",
+        "ini": 126.9,
+        "fin": 127.12
+       },
+       {
+        "t": "look",
+        "ini": 127.56,
+        "fin": 127.9
+       },
+       {
+        "t": "out",
+        "ini": 127.98,
+        "fin": 128.2
+       },
+       {
+        "t": "the",
+        "ini": 128.26,
+        "fin": 128.38
+       },
+       {
+        "t": "window…",
+        "ini": 128.48,
+        "fin": 129.56
+       }
+      ],
+      "trad": "Abre los ojos y mira por la ventana…"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "Good morning, colors,",
+      "ini": 129.68,
+      "fin": 134.74,
+      "palabras": [
+       {
+        "t": "Good",
+        "ini": 129.68,
+        "fin": 129.9
+       },
+       {
+        "t": "morning,",
+        "ini": 130.02,
+        "fin": 130.96
+       },
+       {
+        "t": "colors,",
+        "ini": 132.8,
+        "fin": 134.74
+       }
+      ],
+      "trad": "Buenos días, colores,"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "good morning, new day.",
+      "ini": 135.3,
+      "fin": 138.82,
+      "palabras": [
+       {
+        "t": "good",
+        "ini": 135.3,
+        "fin": 135.48
+       },
+       {
+        "t": "morning,",
+        "ini": 135.7,
+        "fin": 136.7
+       },
+       {
+        "t": "new",
+        "ini": 137.12,
+        "fin": 138.12
+       },
+       {
+        "t": "day.",
+        "ini": 138.48,
+        "fin": 138.82
+       }
+      ],
+      "trad": "buenos días, día nuevo."
+     }
+    ],
+    "duracion": 145.15
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "¿De qué color es la mañana?",
+      "ini": 5.74,
+      "fin": 9.64,
+      "palabras": [
+       {
+        "t": "¿De",
+        "ini": 5.74,
+        "fin": 6.08
+       },
+       {
+        "t": "qué",
+        "ini": 6.48,
+        "fin": 6.64
+       },
+       {
+        "t": "color",
+        "ini": 6.78,
+        "fin": 7.6
+       },
+       {
+        "t": "es",
+        "ini": 7.66,
+        "fin": 7.86
+       },
+       {
+        "t": "la",
+        "ini": 7.94,
+        "fin": 8.12
+       },
+       {
+        "t": "mañana?",
+        "ini": 8.28,
+        "fin": 9.64
+       }
+      ],
+      "trad": "What color is the morning?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Abre los ojos y mira por la ventana…",
+      "ini": 11.54,
+      "fin": 16.6,
+      "palabras": [
+       {
+        "t": "Abre",
+        "ini": 11.54,
+        "fin": 12.32
+       },
+       {
+        "t": "los",
+        "ini": 12.48,
+        "fin": 12.76
+       },
+       {
+        "t": "ojos",
+        "ini": 12.98,
+        "fin": 13.9
+       },
+       {
+        "t": "y",
+        "ini": 13.98,
+        "fin": 14.06
+       },
+       {
+        "t": "mira",
+        "ini": 14.2,
+        "fin": 14.64
+       },
+       {
+        "t": "por",
+        "ini": 14.76,
+        "fin": 14.94
+       },
+       {
+        "t": "la",
+        "ini": 15.04,
+        "fin": 15.22
+       },
+       {
+        "t": "ventana…",
+        "ini": 15.28,
+        "fin": 16.6
+       }
+      ],
+      "trad": "Open your eyes and look out the window…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Buenos días, colores,",
+      "ini": 17.08,
+      "fin": 21.26,
+      "palabras": [
+       {
+        "t": "Buenos",
+        "ini": 17.08,
+        "fin": 18.44
+       },
+       {
+        "t": "días,",
+        "ini": 18.52,
+        "fin": 19.44
+       },
+       {
+        "t": "colores,",
+        "ini": 19.56,
+        "fin": 21.26
+       }
+      ],
+      "trad": "Good morning, colors,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "buenos días, mañana.",
+      "ini": 22.74,
+      "fin": 26.6,
+      "palabras": [
+       {
+        "t": "buenos",
+        "ini": 22.74,
+        "fin": 24.04
+       },
+       {
+        "t": "días,",
+        "ini": 24.14,
+        "fin": 25.1
+       },
+       {
+        "t": "mañana.",
+        "ini": 25.22,
+        "fin": 26.6
+       }
+      ],
+      "trad": "good morning, morning."
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Amarillo, el sol… que sale despacito.",
+      "ini": 28.4,
+      "fin": 32.24,
+      "palabras": [
+       {
+        "t": "Amarillo,",
+        "ini": 28.4,
+        "fin": 29.5
+       },
+       {
+        "t": "el",
+        "ini": 29.56,
+        "fin": 29.66
+       },
+       {
+        "t": "sol…",
+        "ini": 29.76,
+        "fin": 30.06
+       },
+       {
+        "t": "que",
+        "ini": 30.14,
+        "fin": 30.2
+       },
+       {
+        "t": "sale",
+        "ini": 30.2,
+        "fin": 30.48
+       },
+       {
+        "t": "despacito.",
+        "ini": 30.54,
+        "fin": 32.24
+       }
+      ],
+      "trad": "Yellow, the sun… rising nice and slowly."
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Azul, el cielo… grande, muy grande.",
+      "ini": 34.12,
+      "fin": 39.08,
+      "palabras": [
+       {
+        "t": "Azul,",
+        "ini": 34.12,
+        "fin": 35.06
+       },
+       {
+        "t": "el",
+        "ini": 35.16,
+        "fin": 35.28
+       },
+       {
+        "t": "cielo…",
+        "ini": 35.4,
+        "fin": 36.24
+       },
+       {
+        "t": "grande,",
+        "ini": 36.8,
+        "fin": 37.54
+       },
+       {
+        "t": "muy",
+        "ini": 37.88,
+        "fin": 38.16
+       },
+       {
+        "t": "grande.",
+        "ini": 38.24,
+        "fin": 39.08
+       }
+      ],
+      "trad": "Blue, the sky… big, very big."
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Blanca, la nube… suave, suavecita.",
+      "ini": 39.64,
+      "fin": 44.6,
+      "palabras": [
+       {
+        "t": "Blanca,",
+        "ini": 39.64,
+        "fin": 40.56
+       },
+       {
+        "t": "la",
+        "ini": 40.72,
+        "fin": 40.92
+       },
+       {
+        "t": "nube…",
+        "ini": 41.08,
+        "fin": 41.86
+       },
+       {
+        "t": "suave,",
+        "ini": 42.44,
+        "fin": 42.94
+       },
+       {
+        "t": "suavecita.",
+        "ini": 43.14,
+        "fin": 44.6
+       }
+      ],
+      "trad": "White, the cloud… soft, so soft."
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Verde, la hierba… que me hace cosquillas.",
+      "ini": 45.3,
+      "fin": 49.18,
+      "palabras": [
+       {
+        "t": "Verde,",
+        "ini": 45.3,
+        "fin": 46.0
+       },
+       {
+        "t": "la",
+        "ini": 46.38,
+        "fin": 46.56
+       },
+       {
+        "t": "hierba…",
+        "ini": 46.6,
+        "fin": 47.0
+       },
+       {
+        "t": "que",
+        "ini": 47.08,
+        "fin": 47.16
+       },
+       {
+        "t": "me",
+        "ini": 47.2,
+        "fin": 47.28
+       },
+       {
+        "t": "hace",
+        "ini": 47.3,
+        "fin": 47.62
+       },
+       {
+        "t": "cosquillas.",
+        "ini": 47.78,
+        "fin": 49.18
+       }
+      ],
+      "trad": "Green, the grass… it tickles me."
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿De qué color es la mañana?",
+      "ini": 50.0,
+      "fin": 54.82,
+      "palabras": [
+       {
+        "t": "¿De",
+        "ini": 50.0,
+        "fin": 51.14
+       },
+       {
+        "t": "qué",
+        "ini": 51.68,
+        "fin": 51.84
+       },
+       {
+        "t": "color",
+        "ini": 51.98,
+        "fin": 52.78
+       },
+       {
+        "t": "es",
+        "ini": 52.82,
+        "fin": 53.04
+       },
+       {
+        "t": "la",
+        "ini": 53.12,
+        "fin": 53.3
+       },
+       {
+        "t": "mañana?",
+        "ini": 53.42,
+        "fin": 54.82
+       }
+      ],
+      "trad": "What color is the morning?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Abre los ojos y mira por la ventana…",
+      "ini": 56.7,
+      "fin": 61.76,
+      "palabras": [
+       {
+        "t": "Abre",
+        "ini": 56.7,
+        "fin": 57.58
+       },
+       {
+        "t": "los",
+        "ini": 57.64,
+        "fin": 58.02
+       },
+       {
+        "t": "ojos",
+        "ini": 58.14,
+        "fin": 59.08
+       },
+       {
+        "t": "y",
+        "ini": 59.14,
+        "fin": 59.22
+       },
+       {
+        "t": "mira",
+        "ini": 59.4,
+        "fin": 59.8
+       },
+       {
+        "t": "por",
+        "ini": 59.92,
+        "fin": 60.12
+       },
+       {
+        "t": "la",
+        "ini": 60.2,
+        "fin": 60.4
+       },
+       {
+        "t": "ventana…",
+        "ini": 60.48,
+        "fin": 61.76
+       }
+      ],
+      "trad": "Open your eyes and look out the window…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Buenos días, colores,",
+      "ini": 62.26,
+      "fin": 66.1,
+      "palabras": [
+       {
+        "t": "Buenos",
+        "ini": 62.26,
+        "fin": 63.62
+       },
+       {
+        "t": "días,",
+        "ini": 63.7,
+        "fin": 64.62
+       },
+       {
+        "t": "colores,",
+        "ini": 64.72,
+        "fin": 66.1
+       }
+      ],
+      "trad": "Good morning, colors,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "buenos días, mañana.",
+      "ini": 67.9,
+      "fin": 71.76,
+      "palabras": [
+       {
+        "t": "buenos",
+        "ini": 67.9,
+        "fin": 69.24
+       },
+       {
+        "t": "días,",
+        "ini": 69.3,
+        "fin": 70.28
+       },
+       {
+        "t": "mañana.",
+        "ini": 70.4,
+        "fin": 71.76
+       }
+      ],
+      "trad": "good morning, morning."
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Roja, la fresa… del desayuno, ¡ñam!",
+      "ini": 73.54,
+      "fin": 78.12,
+      "palabras": [
+       {
+        "t": "Roja,",
+        "ini": 73.54,
+        "fin": 74.5
+       },
+       {
+        "t": "la",
+        "ini": 74.6,
+        "fin": 74.78
+       },
+       {
+        "t": "fresa…",
+        "ini": 74.94,
+        "fin": 75.46
+       },
+       {
+        "t": "del",
+        "ini": 75.5,
+        "fin": 75.66
+       },
+       {
+        "t": "desayuno,",
+        "ini": 75.72,
+        "fin": 77.36
+       },
+       {
+        "t": "¡ñam!",
+        "ini": 77.38,
+        "fin": 78.12
+       }
+      ],
+      "trad": "Red, the strawberry… for breakfast, yum!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Naranja, el zumo… glu, glu, glu.",
+      "ini": 78.84,
+      "fin": 83.76,
+      "palabras": [
+       {
+        "t": "Naranja,",
+        "ini": 78.84,
+        "fin": 80.02
+       },
+       {
+        "t": "el",
+        "ini": 80.24,
+        "fin": 80.42
+       },
+       {
+        "t": "zumo…",
+        "ini": 80.56,
+        "fin": 81.46
+       },
+       {
+        "t": "glu,",
+        "ini": 81.98,
+        "fin": 82.36
+       },
+       {
+        "t": "glu,",
+        "ini": 82.68,
+        "fin": 83.06
+       },
+       {
+        "t": "glu.",
+        "ini": 83.4,
+        "fin": 83.76
+       }
+      ],
+      "trad": "Orange, the juice… glug, glug, glug."
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Marrón, mi osito… que me da un abrazo.",
+      "ini": 84.86,
+      "fin": 90.0,
+      "palabras": [
+       {
+        "t": "Marrón,",
+        "ini": 84.86,
+        "fin": 85.8
+       },
+       {
+        "t": "mi",
+        "ini": 85.9,
+        "fin": 85.98
+       },
+       {
+        "t": "osito…",
+        "ini": 86.02,
+        "fin": 87.08
+       },
+       {
+        "t": "que",
+        "ini": 87.64,
+        "fin": 87.94
+       },
+       {
+        "t": "me",
+        "ini": 88.02,
+        "fin": 88.32
+       },
+       {
+        "t": "da",
+        "ini": 88.38,
+        "fin": 88.54
+       },
+       {
+        "t": "un",
+        "ini": 88.62,
+        "fin": 88.74
+       },
+       {
+        "t": "abrazo.",
+        "ini": 88.84,
+        "fin": 90.0
+       }
+      ],
+      "trad": "Brown, my teddy bear… he gives me a hug."
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Y todos juntos… ¡un arcoíris!",
+      "ini": 90.56,
+      "fin": 94.78,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 90.56,
+        "fin": 91.04
+       },
+       {
+        "t": "todos",
+        "ini": 91.18,
+        "fin": 91.8
+       },
+       {
+        "t": "juntos…",
+        "ini": 91.88,
+        "fin": 92.42
+       },
+       {
+        "t": "¡un",
+        "ini": 92.44,
+        "fin": 92.64
+       },
+       {
+        "t": "arcoíris!",
+        "ini": 92.72,
+        "fin": 94.78
+       }
+      ],
+      "trad": "And all together… a rainbow!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Amarillo, azul, blanco y verde…",
+      "ini": 97.45,
+      "fin": 103.52,
+      "palabras": [
+       {
+        "t": "Amarillo,",
+        "ini": 97.45,
+        "fin": 97.9
+       },
+       {
+        "t": "azul,",
+        "ini": 99.0,
+        "fin": 100.5
+       },
+       {
+        "t": "blanco",
+        "ini": 101.08,
+        "fin": 101.58
+       },
+       {
+        "t": "y",
+        "ini": 101.64,
+        "fin": 101.72
+       },
+       {
+        "t": "verde…",
+        "ini": 101.86,
+        "fin": 103.52
+       }
+      ],
+      "trad": "Yellow, blue, white and green…"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "rojo, naranja… y buenos días a ti.",
+      "ini": 104.66,
+      "fin": 116.24,
+      "palabras": [
+       {
+        "t": "rojo,",
+        "ini": 104.66,
+        "fin": 105.64
+       },
+       {
+        "t": "naranja…",
+        "ini": 107.42,
+        "fin": 111.3
+       },
+       {
+        "t": "y",
+        "ini": 112.8,
+        "fin": 112.94
+       },
+       {
+        "t": "buenos",
+        "ini": 113.08,
+        "fin": 114.4
+       },
+       {
+        "t": "días",
+        "ini": 114.52,
+        "fin": 115.5
+       },
+       {
+        "t": "a",
+        "ini": 115.54,
+        "fin": 115.7
+       },
+       {
+        "t": "ti.",
+        "ini": 115.88,
+        "fin": 116.24
+       }
+      ],
+      "trad": "red, orange… and good morning to you."
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "¿De qué color es la mañana?",
+      "ini": 118.85,
+      "fin": 122.58,
+      "palabras": [
+       {
+        "t": "¿De",
+        "ini": 118.85,
+        "fin": 119.3
+       },
+       {
+        "t": "qué",
+        "ini": 119.44,
+        "fin": 119.6
+       },
+       {
+        "t": "color",
+        "ini": 119.76,
+        "fin": 120.54
+       },
+       {
+        "t": "es",
+        "ini": 120.62,
+        "fin": 120.8
+       },
+       {
+        "t": "la",
+        "ini": 120.9,
+        "fin": 121.08
+       },
+       {
+        "t": "mañana?",
+        "ini": 121.18,
+        "fin": 122.58
+       }
+      ],
+      "trad": "What color is the morning?"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "Abre los ojos y mira por la ventana…",
+      "ini": 124.4,
+      "fin": 129.5,
+      "palabras": [
+       {
+        "t": "Abre",
+        "ini": 124.4,
+        "fin": 125.34
+       },
+       {
+        "t": "los",
+        "ini": 125.44,
+        "fin": 125.78
+       },
+       {
+        "t": "ojos",
+        "ini": 125.92,
+        "fin": 126.84
+       },
+       {
+        "t": "y",
+        "ini": 126.92,
+        "fin": 127.0
+       },
+       {
+        "t": "mira",
+        "ini": 127.22,
+        "fin": 127.58
+       },
+       {
+        "t": "por",
+        "ini": 127.7,
+        "fin": 127.9
+       },
+       {
+        "t": "la",
+        "ini": 127.98,
+        "fin": 128.16
+       },
+       {
+        "t": "ventana…",
+        "ini": 128.24,
+        "fin": 129.5
+       }
+      ],
+      "trad": "Open your eyes and look out the window…"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "Buenos días, colores,",
+      "ini": 130.02,
+      "fin": 133.88,
+      "palabras": [
+       {
+        "t": "Buenos",
+        "ini": 130.02,
+        "fin": 131.38
+       },
+       {
+        "t": "días,",
+        "ini": 131.48,
+        "fin": 132.38
+       },
+       {
+        "t": "colores,",
+        "ini": 132.52,
+        "fin": 133.88
+       }
+      ],
+      "trad": "Good morning, colors,"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "buenos días, mañana.",
+      "ini": 135.7,
+      "fin": 139.54,
+      "palabras": [
+       {
+        "t": "buenos",
+        "ini": 135.7,
+        "fin": 136.98
+       },
+       {
+        "t": "días,",
+        "ini": 137.1,
+        "fin": 138.04
+       },
+       {
+        "t": "mañana.",
+        "ini": 138.18,
+        "fin": 139.54
+       }
+      ],
+      "trad": "good morning, morning."
+     }
+    ],
+    "duracion": 145.15
+   },
+   "preguntas": []
+  },
+  {
    "id": "01-ayer",
    "titulo_en": "Yesterday Was Crazy",
    "titulo_es": "Ayer fue una locura",
