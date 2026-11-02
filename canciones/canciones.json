@@ -40386,6 +40386,6943 @@
      ]
     }
    ]
+  },
+  {
+   "id": "15-a-mi-tambien",
+   "titulo_en": "So Do I! Neither Do I!",
+   "titulo_es": "¡A mí también! ¡A mí tampoco!",
+   "ensena_en": "likes and dislikes (I love, I like, I don't like) and agreeing: «So do I!», «Neither do I!», «I don't!»",
+   "ensena_es": "gustar y encantar (me gusta, me gustan, me encanta, no me gusta nada) y «a mí también», «a mí tampoco», «a mí no»",
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "— I love the ocean! — So do I!",
+      "ini": 3.82,
+      "fin": 6.88,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 3.82,
+        "fin": 3.82
+       },
+       {
+        "t": "I",
+        "ini": 3.94,
+        "fin": 4.2
+       },
+       {
+        "t": "love",
+        "ini": 4.28,
+        "fin": 4.54
+       },
+       {
+        "t": "the",
+        "ini": 4.58,
+        "fin": 4.74
+       },
+       {
+        "t": "ocean!",
+        "ini": 4.84,
+        "fin": 5.48
+       },
+       {
+        "t": "—",
+        "ini": 5.66,
+        "fin": 5.66
+       },
+       {
+        "t": "So",
+        "ini": 5.76,
+        "fin": 6.1
+       },
+       {
+        "t": "do",
+        "ini": 6.2,
+        "fin": 6.42
+       },
+       {
+        "t": "I!",
+        "ini": 6.6,
+        "fin": 6.88
+       }
+      ],
+      "trad": "—¡Me encanta el mar! —¡A mí también!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "— I don't like spiders! — Neither do I!",
+      "ini": 6.88,
+      "fin": 10.66,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 6.88,
+        "fin": 6.88
+       },
+       {
+        "t": "I",
+        "ini": 7.74,
+        "fin": 8.0
+       },
+       {
+        "t": "don't",
+        "ini": 8.12,
+        "fin": 8.32
+       },
+       {
+        "t": "like",
+        "ini": 8.36,
+        "fin": 8.5
+       },
+       {
+        "t": "spiders!",
+        "ini": 8.58,
+        "fin": 9.42
+       },
+       {
+        "t": "—",
+        "ini": 9.5,
+        "fin": 9.5
+       },
+       {
+        "t": "Neither",
+        "ini": 9.54,
+        "fin": 9.9
+       },
+       {
+        "t": "do",
+        "ini": 10.04,
+        "fin": 10.2
+       },
+       {
+        "t": "I!",
+        "ini": 10.38,
+        "fin": 10.66
+       }
+      ],
+      "trad": "—¡No me gustan las arañas! —¡A mí tampoco!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Say «so do I», or say «neither do I»,",
+      "ini": 11.42,
+      "fin": 14.48,
+      "palabras": [
+       {
+        "t": "Say",
+        "ini": 11.42,
+        "fin": 11.74
+       },
+       {
+        "t": "«so",
+        "ini": 11.84,
+        "fin": 12.08
+       },
+       {
+        "t": "do",
+        "ini": 12.18,
+        "fin": 12.36
+       },
+       {
+        "t": "I»,",
+        "ini": 12.5,
+        "fin": 12.6
+       },
+       {
+        "t": "or",
+        "ini": 12.7,
+        "fin": 12.72
+       },
+       {
+        "t": "say",
+        "ini": 12.86,
+        "fin": 13.1
+       },
+       {
+        "t": "«neither",
+        "ini": 13.14,
+        "fin": 13.72
+       },
+       {
+        "t": "do",
+        "ini": 13.86,
+        "fin": 14.04
+       },
+       {
+        "t": "I»,",
+        "ini": 14.18,
+        "fin": 14.48
+       }
+      ],
+      "trad": "Di «a mí también» o di «a mí tampoco»,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "we're not the same, but we're friends, you and I!",
+      "ini": 15.28,
+      "fin": 18.44,
+      "palabras": [
+       {
+        "t": "we're",
+        "ini": 15.28,
+        "fin": 15.64
+       },
+       {
+        "t": "not",
+        "ini": 15.72,
+        "fin": 15.88
+       },
+       {
+        "t": "the",
+        "ini": 15.96,
+        "fin": 16.1
+       },
+       {
+        "t": "same,",
+        "ini": 16.2,
+        "fin": 16.4
+       },
+       {
+        "t": "but",
+        "ini": 16.48,
+        "fin": 16.66
+       },
+       {
+        "t": "we're",
+        "ini": 16.72,
+        "fin": 17.02
+       },
+       {
+        "t": "friends,",
+        "ini": 17.12,
+        "fin": 17.42
+       },
+       {
+        "t": "you",
+        "ini": 17.52,
+        "fin": 17.62
+       },
+       {
+        "t": "and",
+        "ini": 17.7,
+        "fin": 17.86
+       },
+       {
+        "t": "I!",
+        "ini": 18.04,
+        "fin": 18.44
+       }
+      ],
+      "trad": "no somos iguales, pero somos amigos, ¡tú y yo!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "— I'm Lola, I'm new here, I love to skate all day!",
+      "ini": 18.44,
+      "fin": 22.7,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 18.44,
+        "fin": 18.44
+       },
+       {
+        "t": "I'm",
+        "ini": 19.38,
+        "fin": 19.5
+       },
+       {
+        "t": "Lola,",
+        "ini": 19.56,
+        "fin": 19.94
+       },
+       {
+        "t": "I'm",
+        "ini": 20.34,
+        "fin": 20.46
+       },
+       {
+        "t": "new",
+        "ini": 20.52,
+        "fin": 20.68
+       },
+       {
+        "t": "here,",
+        "ini": 20.76,
+        "fin": 20.96
+       },
+       {
+        "t": "I",
+        "ini": 21.32,
+        "fin": 21.38
+       },
+       {
+        "t": "love",
+        "ini": 21.44,
+        "fin": 21.64
+       },
+       {
+        "t": "to",
+        "ini": 21.7,
+        "fin": 21.82
+       },
+       {
+        "t": "skate",
+        "ini": 21.9,
+        "fin": 22.16
+       },
+       {
+        "t": "all",
+        "ini": 22.22,
+        "fin": 22.32
+       },
+       {
+        "t": "day!",
+        "ini": 22.42,
+        "fin": 22.7
+       }
+      ],
+      "trad": "—Soy Lola, soy nueva aquí, ¡me encanta patinar todo el día!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "— I'm Teo, and I don't like skating, I prefer to read and play.",
+      "ini": 22.7,
+      "fin": 26.5,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 22.7,
+        "fin": 22.7
+       },
+       {
+        "t": "I'm",
+        "ini": 23.16,
+        "fin": 23.3
+       },
+       {
+        "t": "Teo,",
+        "ini": 23.34,
+        "fin": 23.56
+       },
+       {
+        "t": "and",
+        "ini": 23.62,
+        "fin": 23.7
+       },
+       {
+        "t": "I",
+        "ini": 23.76,
+        "fin": 23.82
+       },
+       {
+        "t": "don't",
+        "ini": 23.86,
+        "fin": 24.04
+       },
+       {
+        "t": "like",
+        "ini": 24.08,
+        "fin": 24.24
+       },
+       {
+        "t": "skating,",
+        "ini": 24.28,
+        "fin": 24.68
+       },
+       {
+        "t": "I",
+        "ini": 24.88,
+        "fin": 24.94
+       },
+       {
+        "t": "prefer",
+        "ini": 25.02,
+        "fin": 25.46
+       },
+       {
+        "t": "to",
+        "ini": 25.52,
+        "fin": 25.62
+       },
+       {
+        "t": "read",
+        "ini": 25.74,
+        "fin": 25.96
+       },
+       {
+        "t": "and",
+        "ini": 26.0,
+        "fin": 26.12
+       },
+       {
+        "t": "play.",
+        "ini": 26.18,
+        "fin": 26.5
+       }
+      ],
+      "trad": "—Soy Teo, y no me gusta patinar, prefiero leer y jugar."
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "— I love chocolate! — I like lemon! — Hey, we're not alike!",
+      "ini": 26.68,
+      "fin": 30.24,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 26.68,
+        "fin": 26.68
+       },
+       {
+        "t": "I",
+        "ini": 26.8,
+        "fin": 26.88
+       },
+       {
+        "t": "love",
+        "ini": 26.92,
+        "fin": 27.06
+       },
+       {
+        "t": "chocolate!",
+        "ini": 27.14,
+        "fin": 27.54
+       },
+       {
+        "t": "—",
+        "ini": 27.66,
+        "fin": 27.66
+       },
+       {
+        "t": "I",
+        "ini": 27.76,
+        "fin": 27.8
+       },
+       {
+        "t": "like",
+        "ini": 27.86,
+        "fin": 28.04
+       },
+       {
+        "t": "lemon!",
+        "ini": 28.14,
+        "fin": 28.48
+       },
+       {
+        "t": "—",
+        "ini": 28.78,
+        "fin": 28.78
+       },
+       {
+        "t": "Hey,",
+        "ini": 28.82,
+        "fin": 29.04
+       },
+       {
+        "t": "we're",
+        "ini": 29.32,
+        "fin": 29.5
+       },
+       {
+        "t": "not",
+        "ini": 29.54,
+        "fin": 29.78
+       },
+       {
+        "t": "alike!",
+        "ini": 29.82,
+        "fin": 30.24
+       }
+      ],
+      "trad": "—¡Me encanta el chocolate! —¡A mí me gusta el limón! —¡Anda, no nos parecemos!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "— I don't like waking up early! — Neither do I! — High five!",
+      "ini": 30.24,
+      "fin": 34.12,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 30.24,
+        "fin": 30.24
+       },
+       {
+        "t": "I",
+        "ini": 30.78,
+        "fin": 30.86
+       },
+       {
+        "t": "don't",
+        "ini": 30.96,
+        "fin": 31.16
+       },
+       {
+        "t": "like",
+        "ini": 31.2,
+        "fin": 31.4
+       },
+       {
+        "t": "waking",
+        "ini": 31.44,
+        "fin": 31.72
+       },
+       {
+        "t": "up",
+        "ini": 31.76,
+        "fin": 31.92
+       },
+       {
+        "t": "early!",
+        "ini": 31.98,
+        "fin": 32.3
+       },
+       {
+        "t": "—",
+        "ini": 32.36,
+        "fin": 32.36
+       },
+       {
+        "t": "Neither",
+        "ini": 32.4,
+        "fin": 32.64
+       },
+       {
+        "t": "do",
+        "ini": 32.74,
+        "fin": 32.84
+       },
+       {
+        "t": "I!",
+        "ini": 33.0,
+        "fin": 33.18
+       },
+       {
+        "t": "—",
+        "ini": 33.2,
+        "fin": 33.2
+       },
+       {
+        "t": "High",
+        "ini": 33.58,
+        "fin": 33.74
+       },
+       {
+        "t": "five!",
+        "ini": 33.86,
+        "fin": 34.12
+       }
+      ],
+      "trad": "—¡No me gusta madrugar! —¡A mí tampoco! —¡Choca esos cinco!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "— I love the ocean! — So do I!",
+      "ini": 34.3,
+      "fin": 37.34,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 34.3,
+        "fin": 34.3
+       },
+       {
+        "t": "I",
+        "ini": 34.42,
+        "fin": 34.68
+       },
+       {
+        "t": "love",
+        "ini": 34.76,
+        "fin": 35.02
+       },
+       {
+        "t": "the",
+        "ini": 35.06,
+        "fin": 35.22
+       },
+       {
+        "t": "ocean!",
+        "ini": 35.3,
+        "fin": 35.96
+       },
+       {
+        "t": "—",
+        "ini": 36.14,
+        "fin": 36.14
+       },
+       {
+        "t": "So",
+        "ini": 36.24,
+        "fin": 36.44
+       },
+       {
+        "t": "do",
+        "ini": 36.72,
+        "fin": 36.88
+       },
+       {
+        "t": "I!",
+        "ini": 37.04,
+        "fin": 37.34
+       }
+      ],
+      "trad": "—¡Me encanta el mar! —¡A mí también!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "— I don't like spiders! — Neither do I!",
+      "ini": 37.36,
+      "fin": 41.16,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 37.36,
+        "fin": 37.36
+       },
+       {
+        "t": "I",
+        "ini": 38.2,
+        "fin": 38.46
+       },
+       {
+        "t": "don't",
+        "ini": 38.58,
+        "fin": 38.78
+       },
+       {
+        "t": "like",
+        "ini": 38.82,
+        "fin": 38.98
+       },
+       {
+        "t": "spiders!",
+        "ini": 39.06,
+        "fin": 39.92
+       },
+       {
+        "t": "—",
+        "ini": 39.98,
+        "fin": 39.98
+       },
+       {
+        "t": "Neither",
+        "ini": 40.0,
+        "fin": 40.36
+       },
+       {
+        "t": "do",
+        "ini": 40.52,
+        "fin": 40.68
+       },
+       {
+        "t": "I!",
+        "ini": 40.84,
+        "fin": 41.16
+       }
+      ],
+      "trad": "—¡No me gustan las arañas! —¡A mí tampoco!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Say «so do I», or say «neither do I»,",
+      "ini": 41.9,
+      "fin": 44.88,
+      "palabras": [
+       {
+        "t": "Say",
+        "ini": 41.9,
+        "fin": 42.2
+       },
+       {
+        "t": "«so",
+        "ini": 42.32,
+        "fin": 42.54
+       },
+       {
+        "t": "do",
+        "ini": 42.66,
+        "fin": 42.84
+       },
+       {
+        "t": "I»,",
+        "ini": 42.96,
+        "fin": 43.1
+       },
+       {
+        "t": "or",
+        "ini": 43.16,
+        "fin": 43.2
+       },
+       {
+        "t": "say",
+        "ini": 43.38,
+        "fin": 43.58
+       },
+       {
+        "t": "«neither",
+        "ini": 43.78,
+        "fin": 44.2
+       },
+       {
+        "t": "do",
+        "ini": 44.34,
+        "fin": 44.46
+       },
+       {
+        "t": "I»,",
+        "ini": 44.66,
+        "fin": 44.88
+       }
+      ],
+      "trad": "Di «a mí también» o di «a mí tampoco»,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "we're not the same, but we're friends, you and I!",
+      "ini": 45.76,
+      "fin": 48.92,
+      "palabras": [
+       {
+        "t": "we're",
+        "ini": 45.76,
+        "fin": 46.1
+       },
+       {
+        "t": "not",
+        "ini": 46.2,
+        "fin": 46.4
+       },
+       {
+        "t": "the",
+        "ini": 46.44,
+        "fin": 46.58
+       },
+       {
+        "t": "same,",
+        "ini": 46.66,
+        "fin": 46.88
+       },
+       {
+        "t": "but",
+        "ini": 46.96,
+        "fin": 47.1
+       },
+       {
+        "t": "we're",
+        "ini": 47.18,
+        "fin": 47.38
+       },
+       {
+        "t": "friends,",
+        "ini": 47.6,
+        "fin": 47.9
+       },
+       {
+        "t": "you",
+        "ini": 47.98,
+        "fin": 48.06
+       },
+       {
+        "t": "and",
+        "ini": 48.18,
+        "fin": 48.4
+       },
+       {
+        "t": "I!",
+        "ini": 48.52,
+        "fin": 48.92
+       }
+      ],
+      "trad": "no somos iguales, pero somos amigos, ¡tú y yo!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— I love rainy Sundays! — Well, I like the sunny ones,",
+      "ini": 48.92,
+      "fin": 53.32,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 48.92,
+        "fin": 48.92
+       },
+       {
+        "t": "I",
+        "ini": 50.1,
+        "fin": 50.18
+       },
+       {
+        "t": "love",
+        "ini": 50.26,
+        "fin": 50.46
+       },
+       {
+        "t": "rainy",
+        "ini": 50.5,
+        "fin": 50.8
+       },
+       {
+        "t": "Sundays!",
+        "ini": 50.94,
+        "fin": 51.52
+       },
+       {
+        "t": "—",
+        "ini": 51.6,
+        "fin": 51.6
+       },
+       {
+        "t": "Well,",
+        "ini": 51.62,
+        "fin": 51.7
+       },
+       {
+        "t": "I",
+        "ini": 51.82,
+        "fin": 51.88
+       },
+       {
+        "t": "like",
+        "ini": 51.94,
+        "fin": 52.14
+       },
+       {
+        "t": "the",
+        "ini": 52.18,
+        "fin": 52.24
+       },
+       {
+        "t": "sunny",
+        "ini": 52.4,
+        "fin": 52.78
+       },
+       {
+        "t": "ones,",
+        "ini": 52.92,
+        "fin": 53.32
+       }
+      ],
+      "trad": "—¡Me encantan los domingos de lluvia! —Pues a mí me gustan los de sol,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— I don't like homework at all! — I love it, it's so much fun!",
+      "ini": 53.34,
+      "fin": 57.02,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 53.34,
+        "fin": 53.34
+       },
+       {
+        "t": "I",
+        "ini": 53.72,
+        "fin": 53.74
+       },
+       {
+        "t": "don't",
+        "ini": 53.84,
+        "fin": 54.04
+       },
+       {
+        "t": "like",
+        "ini": 54.06,
+        "fin": 54.26
+       },
+       {
+        "t": "homework",
+        "ini": 54.3,
+        "fin": 54.76
+       },
+       {
+        "t": "at",
+        "ini": 54.82,
+        "fin": 55.0
+       },
+       {
+        "t": "all!",
+        "ini": 55.12,
+        "fin": 55.38
+       },
+       {
+        "t": "—",
+        "ini": 55.5,
+        "fin": 55.5
+       },
+       {
+        "t": "I",
+        "ini": 55.58,
+        "fin": 55.68
+       },
+       {
+        "t": "love",
+        "ini": 55.72,
+        "fin": 55.86
+       },
+       {
+        "t": "it,",
+        "ini": 55.9,
+        "fin": 55.94
+       },
+       {
+        "t": "it's",
+        "ini": 56.0,
+        "fin": 56.14
+       },
+       {
+        "t": "so",
+        "ini": 56.2,
+        "fin": 56.34
+       },
+       {
+        "t": "much",
+        "ini": 56.44,
+        "fin": 56.62
+       },
+       {
+        "t": "fun!",
+        "ini": 56.72,
+        "fin": 57.02
+       }
+      ],
+      "trad": "—¡No me gustan nada los deberes! —¡A mí me encantan, son superdivertidos!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— I like football! — I don't… but I like to watch and cheer,",
+      "ini": 57.04,
+      "fin": 60.86,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 57.04,
+        "fin": 57.04
+       },
+       {
+        "t": "I",
+        "ini": 57.48,
+        "fin": 57.56
+       },
+       {
+        "t": "like",
+        "ini": 57.64,
+        "fin": 57.82
+       },
+       {
+        "t": "football!",
+        "ini": 57.88,
+        "fin": 58.26
+       },
+       {
+        "t": "—",
+        "ini": 58.34,
+        "fin": 58.34
+       },
+       {
+        "t": "I",
+        "ini": 58.48,
+        "fin": 58.58
+       },
+       {
+        "t": "don't…",
+        "ini": 58.64,
+        "fin": 58.82
+       },
+       {
+        "t": "but",
+        "ini": 59.24,
+        "fin": 59.34
+       },
+       {
+        "t": "I",
+        "ini": 59.44,
+        "fin": 59.5
+       },
+       {
+        "t": "like",
+        "ini": 59.56,
+        "fin": 59.74
+       },
+       {
+        "t": "to",
+        "ini": 59.8,
+        "fin": 59.9
+       },
+       {
+        "t": "watch",
+        "ini": 60.02,
+        "fin": 60.28
+       },
+       {
+        "t": "and",
+        "ini": 60.3,
+        "fin": 60.42
+       },
+       {
+        "t": "cheer,",
+        "ini": 60.52,
+        "fin": 60.86
+       }
+      ],
+      "trad": "—¡Me gusta el fútbol! —A mí no… pero me gusta verlo y animar,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— I love music! — So do I! — Let's dance, the beat is here!",
+      "ini": 60.88,
+      "fin": 64.64,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 60.88,
+        "fin": 60.88
+       },
+       {
+        "t": "I",
+        "ini": 61.28,
+        "fin": 61.4
+       },
+       {
+        "t": "love",
+        "ini": 61.44,
+        "fin": 61.64
+       },
+       {
+        "t": "music!",
+        "ini": 61.7,
+        "fin": 62.04
+       },
+       {
+        "t": "—",
+        "ini": 62.1,
+        "fin": 62.1
+       },
+       {
+        "t": "So",
+        "ini": 62.14,
+        "fin": 62.26
+       },
+       {
+        "t": "do",
+        "ini": 62.3,
+        "fin": 62.38
+       },
+       {
+        "t": "I!",
+        "ini": 62.5,
+        "fin": 62.72
+       },
+       {
+        "t": "—",
+        "ini": 62.74,
+        "fin": 62.74
+       },
+       {
+        "t": "Let's",
+        "ini": 63.1,
+        "fin": 63.32
+       },
+       {
+        "t": "dance,",
+        "ini": 63.38,
+        "fin": 63.66
+       },
+       {
+        "t": "the",
+        "ini": 63.74,
+        "fin": 63.82
+       },
+       {
+        "t": "beat",
+        "ini": 63.86,
+        "fin": 64.06
+       },
+       {
+        "t": "is",
+        "ini": 64.12,
+        "fin": 64.28
+       },
+       {
+        "t": "here!",
+        "ini": 64.34,
+        "fin": 64.64
+       }
+      ],
+      "trad": "—¡Me encanta la música! —¡A mí también! —¡Vamos a bailar, ya suena el ritmo!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "— I love the ocean! — So do I!",
+      "ini": 64.64,
+      "fin": 67.82,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 64.64,
+        "fin": 64.64
+       },
+       {
+        "t": "I",
+        "ini": 64.9,
+        "fin": 65.18
+       },
+       {
+        "t": "love",
+        "ini": 65.24,
+        "fin": 65.48
+       },
+       {
+        "t": "the",
+        "ini": 65.54,
+        "fin": 65.68
+       },
+       {
+        "t": "ocean!",
+        "ini": 65.78,
+        "fin": 66.4
+       },
+       {
+        "t": "—",
+        "ini": 66.42,
+        "fin": 66.42
+       },
+       {
+        "t": "So",
+        "ini": 66.72,
+        "fin": 67.06
+       },
+       {
+        "t": "do",
+        "ini": 67.18,
+        "fin": 67.38
+       },
+       {
+        "t": "I!",
+        "ini": 67.52,
+        "fin": 67.82
+       }
+      ],
+      "trad": "—¡Me encanta el mar! —¡A mí también!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "— I don't like spiders! — Neither do I!",
+      "ini": 67.86,
+      "fin": 71.56,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 67.86,
+        "fin": 67.86
+       },
+       {
+        "t": "I",
+        "ini": 68.7,
+        "fin": 68.94
+       },
+       {
+        "t": "don't",
+        "ini": 69.04,
+        "fin": 69.26
+       },
+       {
+        "t": "like",
+        "ini": 69.3,
+        "fin": 69.46
+       },
+       {
+        "t": "spiders!",
+        "ini": 69.54,
+        "fin": 70.4
+       },
+       {
+        "t": "—",
+        "ini": 70.46,
+        "fin": 70.46
+       },
+       {
+        "t": "Neither",
+        "ini": 70.48,
+        "fin": 70.84
+       },
+       {
+        "t": "do",
+        "ini": 71.0,
+        "fin": 71.18
+       },
+       {
+        "t": "I!",
+        "ini": 71.3,
+        "fin": 71.56
+       }
+      ],
+      "trad": "—¡No me gustan las arañas! —¡A mí tampoco!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Say «so do I», or say «neither do I»,",
+      "ini": 72.36,
+      "fin": 75.38,
+      "palabras": [
+       {
+        "t": "Say",
+        "ini": 72.36,
+        "fin": 72.68
+       },
+       {
+        "t": "«so",
+        "ini": 72.8,
+        "fin": 73.02
+       },
+       {
+        "t": "do",
+        "ini": 73.1,
+        "fin": 73.32
+       },
+       {
+        "t": "I»,",
+        "ini": 73.44,
+        "fin": 73.54
+       },
+       {
+        "t": "or",
+        "ini": 73.62,
+        "fin": 73.68
+       },
+       {
+        "t": "say",
+        "ini": 73.84,
+        "fin": 74.2
+       },
+       {
+        "t": "«neither",
+        "ini": 74.26,
+        "fin": 74.68
+       },
+       {
+        "t": "do",
+        "ini": 74.8,
+        "fin": 74.98
+       },
+       {
+        "t": "I»,",
+        "ini": 75.14,
+        "fin": 75.38
+       }
+      ],
+      "trad": "Di «a mí también» o di «a mí tampoco»,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "we're not the same, but we're friends, you and I!",
+      "ini": 76.24,
+      "fin": 79.28,
+      "palabras": [
+       {
+        "t": "we're",
+        "ini": 76.24,
+        "fin": 76.56
+       },
+       {
+        "t": "not",
+        "ini": 76.68,
+        "fin": 76.86
+       },
+       {
+        "t": "the",
+        "ini": 76.92,
+        "fin": 77.06
+       },
+       {
+        "t": "same,",
+        "ini": 77.14,
+        "fin": 77.36
+       },
+       {
+        "t": "but",
+        "ini": 77.42,
+        "fin": 77.62
+       },
+       {
+        "t": "we're",
+        "ini": 77.66,
+        "fin": 77.98
+       },
+       {
+        "t": "friends,",
+        "ini": 78.08,
+        "fin": 78.36
+       },
+       {
+        "t": "you",
+        "ini": 78.46,
+        "fin": 78.56
+       },
+       {
+        "t": "and",
+        "ini": 78.64,
+        "fin": 78.82
+       },
+       {
+        "t": "I!",
+        "ini": 79.02,
+        "fin": 79.28
+       }
+      ],
+      "trad": "no somos iguales, pero somos amigos, ¡tú y yo!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "I do, I don't, so do I, neither do I…",
+      "ini": 80.6,
+      "fin": 85.72,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 80.6,
+        "fin": 80.84
+       },
+       {
+        "t": "do,",
+        "ini": 81.0,
+        "fin": 81.18
+       },
+       {
+        "t": "I",
+        "ini": 81.56,
+        "fin": 81.68
+       },
+       {
+        "t": "don't,",
+        "ini": 81.96,
+        "fin": 82.28
+       },
+       {
+        "t": "so",
+        "ini": 82.88,
+        "fin": 83.1
+       },
+       {
+        "t": "do",
+        "ini": 83.38,
+        "fin": 83.56
+       },
+       {
+        "t": "I,",
+        "ini": 83.7,
+        "fin": 84.18
+       },
+       {
+        "t": "neither",
+        "ini": 84.78,
+        "fin": 85.18
+       },
+       {
+        "t": "do",
+        "ini": 85.28,
+        "fin": 85.48
+       },
+       {
+        "t": "I…",
+        "ini": 85.66,
+        "fin": 85.72
+       }
+      ],
+      "trad": "A mí sí, a mí no, a mí también, a mí tampoco…"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "it's fine to be different, my friend — and here's why:",
+      "ini": 88.22,
+      "fin": 93.8,
+      "palabras": [
+       {
+        "t": "it's",
+        "ini": 88.22,
+        "fin": 88.52
+       },
+       {
+        "t": "fine",
+        "ini": 88.6,
+        "fin": 88.98
+       },
+       {
+        "t": "to",
+        "ini": 89.1,
+        "fin": 89.42
+       },
+       {
+        "t": "be",
+        "ini": 89.56,
+        "fin": 89.94
+       },
+       {
+        "t": "different,",
+        "ini": 90.52,
+        "fin": 90.9
+       },
+       {
+        "t": "my",
+        "ini": 91.0,
+        "fin": 91.28
+       },
+       {
+        "t": "friend",
+        "ini": 91.42,
+        "fin": 91.9
+       },
+       {
+        "t": "—",
+        "ini": 92.04,
+        "fin": 92.04
+       },
+       {
+        "t": "and",
+        "ini": 92.68,
+        "fin": 92.82
+       },
+       {
+        "t": "here's",
+        "ini": 92.9,
+        "fin": 93.32
+       },
+       {
+        "t": "why:",
+        "ini": 93.36,
+        "fin": 93.8
+       }
+      ],
+      "trad": "está bien ser diferentes, amigo, y te digo por qué:"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "You like lemon, I like chocolate, so we share a scoop of each,",
+      "ini": 95.78,
+      "fin": 99.24,
+      "palabras": [
+       {
+        "t": "You",
+        "ini": 95.78,
+        "fin": 95.9
+       },
+       {
+        "t": "like",
+        "ini": 95.98,
+        "fin": 96.18
+       },
+       {
+        "t": "lemon,",
+        "ini": 96.24,
+        "fin": 96.62
+       },
+       {
+        "t": "I",
+        "ini": 96.82,
+        "fin": 96.88
+       },
+       {
+        "t": "like",
+        "ini": 96.92,
+        "fin": 97.1
+       },
+       {
+        "t": "chocolate,",
+        "ini": 97.16,
+        "fin": 97.54
+       },
+       {
+        "t": "so",
+        "ini": 97.66,
+        "fin": 97.82
+       },
+       {
+        "t": "we",
+        "ini": 97.88,
+        "fin": 98.0
+       },
+       {
+        "t": "share",
+        "ini": 98.08,
+        "fin": 98.34
+       },
+       {
+        "t": "a",
+        "ini": 98.4,
+        "fin": 98.46
+       },
+       {
+        "t": "scoop",
+        "ini": 98.52,
+        "fin": 98.82
+       },
+       {
+        "t": "of",
+        "ini": 98.82,
+        "fin": 98.82
+       },
+       {
+        "t": "each,",
+        "ini": 98.92,
+        "fin": 99.24
+       }
+      ],
+      "trad": "A ti te gusta el limón y a mí el chocolate, así que compartimos una bola de cada,"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "and every afternoon we skate and read together at the beach!",
+      "ini": 103.14,
+      "fin": 109.88,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 103.14,
+        "fin": 103.26
+       },
+       {
+        "t": "every",
+        "ini": 103.42,
+        "fin": 103.8
+       },
+       {
+        "t": "afternoon",
+        "ini": 103.92,
+        "fin": 104.48
+       },
+       {
+        "t": "we",
+        "ini": 104.54,
+        "fin": 104.66
+       },
+       {
+        "t": "skate",
+        "ini": 104.72,
+        "fin": 105.08
+       },
+       {
+        "t": "and",
+        "ini": 105.98,
+        "fin": 106.14
+       },
+       {
+        "t": "read",
+        "ini": 106.22,
+        "fin": 106.4
+       },
+       {
+        "t": "together",
+        "ini": 106.48,
+        "fin": 107.34
+       },
+       {
+        "t": "at",
+        "ini": 107.66,
+        "fin": 107.86
+       },
+       {
+        "t": "the",
+        "ini": 107.94,
+        "fin": 108.22
+       },
+       {
+        "t": "beach!",
+        "ini": 108.4,
+        "fin": 109.88
+       }
+      ],
+      "trad": "¡y cada tarde patinamos y leemos juntos en la playa!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "— I love the ocean! — So do I!",
+      "ini": 109.88,
+      "fin": 113.54,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 109.88,
+        "fin": 109.88
+       },
+       {
+        "t": "I",
+        "ini": 110.62,
+        "fin": 110.9
+       },
+       {
+        "t": "love",
+        "ini": 111.0,
+        "fin": 111.2
+       },
+       {
+        "t": "the",
+        "ini": 111.26,
+        "fin": 111.4
+       },
+       {
+        "t": "ocean!",
+        "ini": 111.5,
+        "fin": 112.14
+       },
+       {
+        "t": "—",
+        "ini": 112.34,
+        "fin": 112.34
+       },
+       {
+        "t": "So",
+        "ini": 112.44,
+        "fin": 112.8
+       },
+       {
+        "t": "do",
+        "ini": 112.9,
+        "fin": 113.1
+       },
+       {
+        "t": "I!",
+        "ini": 113.24,
+        "fin": 113.54
+       }
+      ],
+      "trad": "—¡Me encanta el mar! —¡A mí también!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "— I don't like spiders! — Neither do I!",
+      "ini": 113.54,
+      "fin": 117.3,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 113.54,
+        "fin": 113.54
+       },
+       {
+        "t": "I",
+        "ini": 114.42,
+        "fin": 114.64
+       },
+       {
+        "t": "don't",
+        "ini": 114.76,
+        "fin": 114.98
+       },
+       {
+        "t": "like",
+        "ini": 115.02,
+        "fin": 115.18
+       },
+       {
+        "t": "spiders!",
+        "ini": 115.22,
+        "fin": 116.12
+       },
+       {
+        "t": "—",
+        "ini": 116.18,
+        "fin": 116.18
+       },
+       {
+        "t": "Neither",
+        "ini": 116.24,
+        "fin": 116.56
+       },
+       {
+        "t": "do",
+        "ini": 116.72,
+        "fin": 116.9
+       },
+       {
+        "t": "I!",
+        "ini": 117.04,
+        "fin": 117.3
+       }
+      ],
+      "trad": "—¡No me gustan las arañas! —¡A mí tampoco!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Say «so do I», or say «neither do I»,",
+      "ini": 118.1,
+      "fin": 121.1,
+      "palabras": [
+       {
+        "t": "Say",
+        "ini": 118.1,
+        "fin": 118.36
+       },
+       {
+        "t": "«so",
+        "ini": 118.5,
+        "fin": 118.74
+       },
+       {
+        "t": "do",
+        "ini": 118.84,
+        "fin": 119.02
+       },
+       {
+        "t": "I»,",
+        "ini": 119.16,
+        "fin": 119.28
+       },
+       {
+        "t": "or",
+        "ini": 119.46,
+        "fin": 119.46
+       },
+       {
+        "t": "say",
+        "ini": 119.56,
+        "fin": 119.92
+       },
+       {
+        "t": "«neither",
+        "ini": 119.98,
+        "fin": 120.4
+       },
+       {
+        "t": "do",
+        "ini": 120.52,
+        "fin": 120.68
+       },
+       {
+        "t": "I»,",
+        "ini": 120.84,
+        "fin": 121.1
+       }
+      ],
+      "trad": "Di «a mí también» o di «a mí tampoco»,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "we're not the same, but we're friends, you and I!",
+      "ini": 121.96,
+      "fin": 125.0,
+      "palabras": [
+       {
+        "t": "we're",
+        "ini": 121.96,
+        "fin": 122.28
+       },
+       {
+        "t": "not",
+        "ini": 122.38,
+        "fin": 122.6
+       },
+       {
+        "t": "the",
+        "ini": 122.64,
+        "fin": 122.78
+       },
+       {
+        "t": "same,",
+        "ini": 122.86,
+        "fin": 123.06
+       },
+       {
+        "t": "but",
+        "ini": 123.14,
+        "fin": 123.32
+       },
+       {
+        "t": "we're",
+        "ini": 123.38,
+        "fin": 123.76
+       },
+       {
+        "t": "friends,",
+        "ini": 123.82,
+        "fin": 124.08
+       },
+       {
+        "t": "you",
+        "ini": 124.18,
+        "fin": 124.24
+       },
+       {
+        "t": "and",
+        "ini": 124.36,
+        "fin": 124.58
+       },
+       {
+        "t": "I!",
+        "ini": 124.72,
+        "fin": 125.0
+       }
+      ],
+      "trad": "no somos iguales, pero somos amigos, ¡tú y yo!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "— I love the ocean! — So do I!",
+      "ini": 125.1,
+      "fin": 128.78,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 125.1,
+        "fin": 125.1
+       },
+       {
+        "t": "I",
+        "ini": 125.86,
+        "fin": 126.12
+       },
+       {
+        "t": "love",
+        "ini": 126.2,
+        "fin": 126.44
+       },
+       {
+        "t": "the",
+        "ini": 126.5,
+        "fin": 126.64
+       },
+       {
+        "t": "ocean!",
+        "ini": 126.74,
+        "fin": 127.38
+       },
+       {
+        "t": "—",
+        "ini": 127.38,
+        "fin": 127.38
+       },
+       {
+        "t": "So",
+        "ini": 127.66,
+        "fin": 128.0
+       },
+       {
+        "t": "do",
+        "ini": 128.16,
+        "fin": 128.34
+       },
+       {
+        "t": "I!",
+        "ini": 128.48,
+        "fin": 128.78
+       }
+      ],
+      "trad": "—¡Me encanta el mar! —¡A mí también!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "— I don't like spiders! — Neither do I!",
+      "ini": 128.82,
+      "fin": 132.62,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 128.82,
+        "fin": 128.82
+       },
+       {
+        "t": "I",
+        "ini": 129.64,
+        "fin": 129.92
+       },
+       {
+        "t": "don't",
+        "ini": 130.04,
+        "fin": 130.24
+       },
+       {
+        "t": "like",
+        "ini": 130.28,
+        "fin": 130.4
+       },
+       {
+        "t": "spiders!",
+        "ini": 130.48,
+        "fin": 131.36
+       },
+       {
+        "t": "—",
+        "ini": 131.42,
+        "fin": 131.42
+       },
+       {
+        "t": "Neither",
+        "ini": 131.44,
+        "fin": 131.88
+       },
+       {
+        "t": "do",
+        "ini": 131.94,
+        "fin": 132.14
+       },
+       {
+        "t": "I!",
+        "ini": 132.3,
+        "fin": 132.62
+       }
+      ],
+      "trad": "—¡No me gustan las arañas! —¡A mí tampoco!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Say «so do I», or say «neither do I»,",
+      "ini": 133.32,
+      "fin": 136.32,
+      "palabras": [
+       {
+        "t": "Say",
+        "ini": 133.32,
+        "fin": 133.62
+       },
+       {
+        "t": "«so",
+        "ini": 133.7,
+        "fin": 133.98
+       },
+       {
+        "t": "do",
+        "ini": 134.08,
+        "fin": 134.26
+       },
+       {
+        "t": "I»,",
+        "ini": 134.42,
+        "fin": 134.52
+       },
+       {
+        "t": "or",
+        "ini": 134.6,
+        "fin": 134.62
+       },
+       {
+        "t": "say",
+        "ini": 134.8,
+        "fin": 135.14
+       },
+       {
+        "t": "«neither",
+        "ini": 135.22,
+        "fin": 135.64
+       },
+       {
+        "t": "do",
+        "ini": 135.76,
+        "fin": 135.92
+       },
+       {
+        "t": "I»,",
+        "ini": 136.08,
+        "fin": 136.32
+       }
+      ],
+      "trad": "Di «a mí también» o di «a mí tampoco»,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "we're not the same, but we're friends, you and I!",
+      "ini": 136.94,
+      "fin": 140.02,
+      "palabras": [
+       {
+        "t": "we're",
+        "ini": 136.94,
+        "fin": 137.1
+       },
+       {
+        "t": "not",
+        "ini": 137.18,
+        "fin": 137.62
+       },
+       {
+        "t": "the",
+        "ini": 137.88,
+        "fin": 137.94
+       },
+       {
+        "t": "same,",
+        "ini": 138.1,
+        "fin": 138.3
+       },
+       {
+        "t": "but",
+        "ini": 138.38,
+        "fin": 138.52
+       },
+       {
+        "t": "we're",
+        "ini": 138.62,
+        "fin": 138.88
+       },
+       {
+        "t": "friends,",
+        "ini": 139.06,
+        "fin": 139.32
+       },
+       {
+        "t": "you",
+        "ini": 139.38,
+        "fin": 139.46
+       },
+       {
+        "t": "and",
+        "ini": 139.58,
+        "fin": 139.82
+       },
+       {
+        "t": "I!",
+        "ini": 139.98,
+        "fin": 140.02
+       }
+      ],
+      "trad": "no somos iguales, pero somos amigos, ¡tú y yo!"
+     }
+    ],
+    "duracion": 148.58
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "—¡Me encanta el mar! —¡A mí también!",
+      "ini": 4.06,
+      "fin": 6.9,
+      "palabras": [
+       {
+        "t": "—¡Me",
+        "ini": 4.06,
+        "fin": 4.12
+       },
+       {
+        "t": "encanta",
+        "ini": 4.16,
+        "fin": 4.62
+       },
+       {
+        "t": "el",
+        "ini": 4.66,
+        "fin": 4.74
+       },
+       {
+        "t": "mar!",
+        "ini": 4.8,
+        "fin": 5.18
+       },
+       {
+        "t": "—¡A",
+        "ini": 5.98,
+        "fin": 6.16
+       },
+       {
+        "t": "mí",
+        "ini": 6.2,
+        "fin": 6.34
+       },
+       {
+        "t": "también!",
+        "ini": 6.44,
+        "fin": 6.9
+       }
+      ],
+      "trad": "—I love the sea! —Me too!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "—¡No me gustan las arañas! —¡A mí tampoco!",
+      "ini": 7.18,
+      "fin": 10.96,
+      "palabras": [
+       {
+        "t": "—¡No",
+        "ini": 7.18,
+        "fin": 7.32
+       },
+       {
+        "t": "me",
+        "ini": 7.4,
+        "fin": 7.58
+       },
+       {
+        "t": "gustan",
+        "ini": 7.66,
+        "fin": 8.06
+       },
+       {
+        "t": "las",
+        "ini": 8.1,
+        "fin": 8.34
+       },
+       {
+        "t": "arañas!",
+        "ini": 8.44,
+        "fin": 9.28
+       },
+       {
+        "t": "—¡A",
+        "ini": 9.84,
+        "fin": 9.96
+       },
+       {
+        "t": "mí",
+        "ini": 10.02,
+        "fin": 10.2
+       },
+       {
+        "t": "tampoco!",
+        "ini": 10.24,
+        "fin": 10.96
+       }
+      ],
+      "trad": "—I don't like spiders! —Me neither!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Di «a mí también» o di «a mí tampoco»,",
+      "ini": 10.96,
+      "fin": 14.72,
+      "palabras": [
+       {
+        "t": "Di",
+        "ini": 10.96,
+        "fin": 11.78
+       },
+       {
+        "t": "«a",
+        "ini": 11.78,
+        "fin": 11.86
+       },
+       {
+        "t": "mí",
+        "ini": 11.92,
+        "fin": 12.06
+       },
+       {
+        "t": "también»",
+        "ini": 12.16,
+        "fin": 12.86
+       },
+       {
+        "t": "o",
+        "ini": 12.96,
+        "fin": 13.08
+       },
+       {
+        "t": "di",
+        "ini": 13.14,
+        "fin": 13.32
+       },
+       {
+        "t": "«a",
+        "ini": 13.66,
+        "fin": 13.76
+       },
+       {
+        "t": "mí",
+        "ini": 13.82,
+        "fin": 13.98
+       },
+       {
+        "t": "tampoco»,",
+        "ini": 14.06,
+        "fin": 14.72
+       }
+      ],
+      "trad": "Say «me too» or say «me neither»,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "distintos, pero amigos… ¡y un poco locos!",
+      "ini": 15.04,
+      "fin": 18.8,
+      "palabras": [
+       {
+        "t": "distintos,",
+        "ini": 15.04,
+        "fin": 15.64
+       },
+       {
+        "t": "pero",
+        "ini": 15.76,
+        "fin": 16.02
+       },
+       {
+        "t": "amigos…",
+        "ini": 16.06,
+        "fin": 16.86
+       },
+       {
+        "t": "¡y",
+        "ini": 17.38,
+        "fin": 17.44
+       },
+       {
+        "t": "un",
+        "ini": 17.5,
+        "fin": 17.6
+       },
+       {
+        "t": "poco",
+        "ini": 17.64,
+        "fin": 18.06
+       },
+       {
+        "t": "locos!",
+        "ini": 18.14,
+        "fin": 18.8
+       }
+      ],
+      "trad": "different, but friends… and a little crazy!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "—Soy Lola, soy nueva, ¡me encanta patinar!",
+      "ini": 19.32,
+      "fin": 22.7,
+      "palabras": [
+       {
+        "t": "—Soy",
+        "ini": 19.32,
+        "fin": 19.54
+       },
+       {
+        "t": "Lola,",
+        "ini": 19.58,
+        "fin": 19.96
+       },
+       {
+        "t": "soy",
+        "ini": 20.26,
+        "fin": 20.44
+       },
+       {
+        "t": "nueva,",
+        "ini": 20.5,
+        "fin": 20.94
+       },
+       {
+        "t": "¡me",
+        "ini": 21.22,
+        "fin": 21.28
+       },
+       {
+        "t": "encanta",
+        "ini": 21.32,
+        "fin": 21.8
+       },
+       {
+        "t": "patinar!",
+        "ini": 21.94,
+        "fin": 22.7
+       }
+      ],
+      "trad": "—I'm Lola, I'm new here, I love skating!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "—Soy Teo, no me gusta patinar, prefiero leer y jugar.",
+      "ini": 23.12,
+      "fin": 26.44,
+      "palabras": [
+       {
+        "t": "—Soy",
+        "ini": 23.12,
+        "fin": 23.3
+       },
+       {
+        "t": "Teo,",
+        "ini": 23.36,
+        "fin": 23.52
+       },
+       {
+        "t": "no",
+        "ini": 23.58,
+        "fin": 23.66
+       },
+       {
+        "t": "me",
+        "ini": 23.7,
+        "fin": 23.78
+       },
+       {
+        "t": "gusta",
+        "ini": 23.82,
+        "fin": 24.18
+       },
+       {
+        "t": "patinar,",
+        "ini": 24.3,
+        "fin": 24.9
+       },
+       {
+        "t": "prefiero",
+        "ini": 25.02,
+        "fin": 25.48
+       },
+       {
+        "t": "leer",
+        "ini": 25.52,
+        "fin": 25.8
+       },
+       {
+        "t": "y",
+        "ini": 25.84,
+        "fin": 25.9
+       },
+       {
+        "t": "jugar.",
+        "ini": 25.96,
+        "fin": 26.44
+       }
+      ],
+      "trad": "—I'm Teo, I don't like skating, I'd rather read and play."
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "—¡Me encanta el chocolate! —Me gusta el limón… ¡qué distintos!",
+      "ini": 26.94,
+      "fin": 30.62,
+      "palabras": [
+       {
+        "t": "—¡Me",
+        "ini": 26.94,
+        "fin": 27.0
+       },
+       {
+        "t": "encanta",
+        "ini": 27.04,
+        "fin": 27.46
+       },
+       {
+        "t": "el",
+        "ini": 27.5,
+        "fin": 27.6
+       },
+       {
+        "t": "chocolate!",
+        "ini": 27.64,
+        "fin": 28.54
+       },
+       {
+        "t": "—Me",
+        "ini": 28.8,
+        "fin": 28.88
+       },
+       {
+        "t": "gusta",
+        "ini": 28.92,
+        "fin": 29.14
+       },
+       {
+        "t": "el",
+        "ini": 29.18,
+        "fin": 29.24
+       },
+       {
+        "t": "limón…",
+        "ini": 29.28,
+        "fin": 29.7
+       },
+       {
+        "t": "¡qué",
+        "ini": 29.74,
+        "fin": 29.86
+       },
+       {
+        "t": "distintos!",
+        "ini": 29.9,
+        "fin": 30.62
+       }
+      ],
+      "trad": "—I love chocolate! —I like lemon… how different we are!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "—¡No me gusta madrugar! —¡A mí tampoco! ¡Choca esos cinco!",
+      "ini": 30.74,
+      "fin": 34.28,
+      "palabras": [
+       {
+        "t": "—¡No",
+        "ini": 30.74,
+        "fin": 30.82
+       },
+       {
+        "t": "me",
+        "ini": 30.86,
+        "fin": 30.96
+       },
+       {
+        "t": "gusta",
+        "ini": 31.0,
+        "fin": 31.38
+       },
+       {
+        "t": "madrugar!",
+        "ini": 31.44,
+        "fin": 32.14
+       },
+       {
+        "t": "—¡A",
+        "ini": 32.3,
+        "fin": 32.34
+       },
+       {
+        "t": "mí",
+        "ini": 32.4,
+        "fin": 32.5
+       },
+       {
+        "t": "tampoco!",
+        "ini": 32.56,
+        "fin": 33.1
+       },
+       {
+        "t": "¡Choca",
+        "ini": 33.22,
+        "fin": 33.46
+       },
+       {
+        "t": "esos",
+        "ini": 33.48,
+        "fin": 33.7
+       },
+       {
+        "t": "cinco!",
+        "ini": 33.76,
+        "fin": 34.28
+       }
+      ],
+      "trad": "—I don't like getting up early! —Me neither! High five!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "—¡Me encanta el mar! —¡A mí también!",
+      "ini": 34.54,
+      "fin": 37.6,
+      "palabras": [
+       {
+        "t": "—¡Me",
+        "ini": 34.54,
+        "fin": 34.6
+       },
+       {
+        "t": "encanta",
+        "ini": 34.64,
+        "fin": 35.1
+       },
+       {
+        "t": "el",
+        "ini": 35.14,
+        "fin": 35.22
+       },
+       {
+        "t": "mar!",
+        "ini": 35.28,
+        "fin": 35.7
+       },
+       {
+        "t": "—¡A",
+        "ini": 36.5,
+        "fin": 36.64
+       },
+       {
+        "t": "mí",
+        "ini": 36.7,
+        "fin": 36.86
+       },
+       {
+        "t": "también!",
+        "ini": 36.92,
+        "fin": 37.6
+       }
+      ],
+      "trad": "—I love the sea! —Me too!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "—¡No me gustan las arañas! —¡A mí tampoco!",
+      "ini": 37.66,
+      "fin": 41.42,
+      "palabras": [
+       {
+        "t": "—¡No",
+        "ini": 37.66,
+        "fin": 37.82
+       },
+       {
+        "t": "me",
+        "ini": 37.88,
+        "fin": 38.06
+       },
+       {
+        "t": "gustan",
+        "ini": 38.14,
+        "fin": 38.54
+       },
+       {
+        "t": "las",
+        "ini": 38.6,
+        "fin": 38.82
+       },
+       {
+        "t": "arañas!",
+        "ini": 39.02,
+        "fin": 39.78
+       },
+       {
+        "t": "—¡A",
+        "ini": 40.32,
+        "fin": 40.44
+       },
+       {
+        "t": "mí",
+        "ini": 40.5,
+        "fin": 40.66
+       },
+       {
+        "t": "tampoco!",
+        "ini": 40.74,
+        "fin": 41.42
+       }
+      ],
+      "trad": "—I don't like spiders! —Me neither!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Di «a mí también» o di «a mí tampoco»,",
+      "ini": 41.42,
+      "fin": 45.24,
+      "palabras": [
+       {
+        "t": "Di",
+        "ini": 41.42,
+        "fin": 42.24
+       },
+       {
+        "t": "«a",
+        "ini": 42.24,
+        "fin": 42.34
+       },
+       {
+        "t": "mí",
+        "ini": 42.4,
+        "fin": 42.56
+       },
+       {
+        "t": "también»",
+        "ini": 42.64,
+        "fin": 43.34
+       },
+       {
+        "t": "o",
+        "ini": 43.46,
+        "fin": 43.56
+       },
+       {
+        "t": "di",
+        "ini": 43.62,
+        "fin": 43.8
+       },
+       {
+        "t": "«a",
+        "ini": 44.14,
+        "fin": 44.24
+       },
+       {
+        "t": "mí",
+        "ini": 44.32,
+        "fin": 44.46
+       },
+       {
+        "t": "tampoco»,",
+        "ini": 44.54,
+        "fin": 45.24
+       }
+      ],
+      "trad": "Say «me too» or say «me neither»,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "distintos, pero amigos… ¡y un poco locos!",
+      "ini": 45.5,
+      "fin": 49.28,
+      "palabras": [
+       {
+        "t": "distintos,",
+        "ini": 45.5,
+        "fin": 46.16
+       },
+       {
+        "t": "pero",
+        "ini": 46.22,
+        "fin": 46.52
+       },
+       {
+        "t": "amigos…",
+        "ini": 46.58,
+        "fin": 47.36
+       },
+       {
+        "t": "¡y",
+        "ini": 47.86,
+        "fin": 47.92
+       },
+       {
+        "t": "un",
+        "ini": 47.98,
+        "fin": 48.06
+       },
+       {
+        "t": "poco",
+        "ini": 48.12,
+        "fin": 48.54
+       },
+       {
+        "t": "locos!",
+        "ini": 48.62,
+        "fin": 49.28
+       }
+      ],
+      "trad": "different, but friends… and a little crazy!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¡Me encantan los domingos de lluvia! —Pues a mí, los de sol,",
+      "ini": 49.76,
+      "fin": 53.24,
+      "palabras": [
+       {
+        "t": "—¡Me",
+        "ini": 49.76,
+        "fin": 49.82
+       },
+       {
+        "t": "encantan",
+        "ini": 49.86,
+        "fin": 50.34
+       },
+       {
+        "t": "los",
+        "ini": 50.4,
+        "fin": 50.56
+       },
+       {
+        "t": "domingos",
+        "ini": 50.6,
+        "fin": 51.16
+       },
+       {
+        "t": "de",
+        "ini": 51.2,
+        "fin": 51.3
+       },
+       {
+        "t": "lluvia!",
+        "ini": 51.34,
+        "fin": 51.9
+       },
+       {
+        "t": "—Pues",
+        "ini": 52.04,
+        "fin": 52.16
+       },
+       {
+        "t": "a",
+        "ini": 52.22,
+        "fin": 52.26
+       },
+       {
+        "t": "mí,",
+        "ini": 52.3,
+        "fin": 52.36
+       },
+       {
+        "t": "los",
+        "ini": 52.42,
+        "fin": 52.58
+       },
+       {
+        "t": "de",
+        "ini": 52.62,
+        "fin": 52.7
+       },
+       {
+        "t": "sol,",
+        "ini": 52.78,
+        "fin": 53.24
+       }
+      ],
+      "trad": "—I love rainy Sundays! —Well, I like the sunny ones,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—No me gustan nada los deberes. —¡A mí me encantan, por favor!",
+      "ini": 53.58,
+      "fin": 57.14,
+      "palabras": [
+       {
+        "t": "—No",
+        "ini": 53.58,
+        "fin": 53.66
+       },
+       {
+        "t": "me",
+        "ini": 53.7,
+        "fin": 53.8
+       },
+       {
+        "t": "gustan",
+        "ini": 53.84,
+        "fin": 54.26
+       },
+       {
+        "t": "nada",
+        "ini": 54.32,
+        "fin": 54.72
+       },
+       {
+        "t": "los",
+        "ini": 54.78,
+        "fin": 54.96
+       },
+       {
+        "t": "deberes.",
+        "ini": 55.02,
+        "fin": 55.72
+       },
+       {
+        "t": "—¡A",
+        "ini": 55.9,
+        "fin": 55.92
+       },
+       {
+        "t": "mí",
+        "ini": 55.96,
+        "fin": 56.02
+       },
+       {
+        "t": "me",
+        "ini": 56.06,
+        "fin": 56.1
+       },
+       {
+        "t": "encantan,",
+        "ini": 56.12,
+        "fin": 56.52
+       },
+       {
+        "t": "por",
+        "ini": 56.56,
+        "fin": 56.72
+       },
+       {
+        "t": "favor!",
+        "ini": 56.78,
+        "fin": 57.14
+       }
+      ],
+      "trad": "—I don't like homework at all. —I love it, come on!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¡Me gusta el fútbol! —A mí no… pero me gusta animar,",
+      "ini": 57.4,
+      "fin": 60.72,
+      "palabras": [
+       {
+        "t": "—¡Me",
+        "ini": 57.4,
+        "fin": 57.6
+       },
+       {
+        "t": "gusta",
+        "ini": 57.66,
+        "fin": 57.94
+       },
+       {
+        "t": "el",
+        "ini": 57.96,
+        "fin": 58.06
+       },
+       {
+        "t": "fútbol!",
+        "ini": 58.14,
+        "fin": 58.68
+       },
+       {
+        "t": "—A",
+        "ini": 58.74,
+        "fin": 58.78
+       },
+       {
+        "t": "mí",
+        "ini": 58.84,
+        "fin": 58.92
+       },
+       {
+        "t": "no…",
+        "ini": 58.96,
+        "fin": 59.14
+       },
+       {
+        "t": "pero",
+        "ini": 59.32,
+        "fin": 59.52
+       },
+       {
+        "t": "me",
+        "ini": 59.58,
+        "fin": 59.72
+       },
+       {
+        "t": "gusta",
+        "ini": 59.76,
+        "fin": 60.1
+       },
+       {
+        "t": "animar,",
+        "ini": 60.12,
+        "fin": 60.72
+       }
+      ],
+      "trad": "—I like soccer! —Not me… but I like to cheer,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¡Me encanta la música! —¡A mí también! ¡Vamos a bailar!",
+      "ini": 61.2,
+      "fin": 64.54,
+      "palabras": [
+       {
+        "t": "—¡Me",
+        "ini": 61.2,
+        "fin": 61.26
+       },
+       {
+        "t": "encanta",
+        "ini": 61.3,
+        "fin": 61.76
+       },
+       {
+        "t": "la",
+        "ini": 61.8,
+        "fin": 61.88
+       },
+       {
+        "t": "música!",
+        "ini": 61.94,
+        "fin": 62.7
+       },
+       {
+        "t": "—¡A",
+        "ini": 62.76,
+        "fin": 62.82
+       },
+       {
+        "t": "mí",
+        "ini": 62.88,
+        "fin": 62.96
+       },
+       {
+        "t": "también!",
+        "ini": 63.02,
+        "fin": 63.52
+       },
+       {
+        "t": "¡Vamos",
+        "ini": 63.58,
+        "fin": 63.84
+       },
+       {
+        "t": "a",
+        "ini": 63.88,
+        "fin": 63.96
+       },
+       {
+        "t": "bailar!",
+        "ini": 64.0,
+        "fin": 64.54
+       }
+      ],
+      "trad": "—I love music! —Me too! Let's dance!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "—¡Me encanta el mar! —¡A mí también!",
+      "ini": 65.02,
+      "fin": 68.06,
+      "palabras": [
+       {
+        "t": "—¡Me",
+        "ini": 65.02,
+        "fin": 65.08
+       },
+       {
+        "t": "encanta",
+        "ini": 65.12,
+        "fin": 65.56
+       },
+       {
+        "t": "el",
+        "ini": 65.62,
+        "fin": 65.7
+       },
+       {
+        "t": "mar!",
+        "ini": 65.76,
+        "fin": 66.44
+       },
+       {
+        "t": "—¡A",
+        "ini": 67.0,
+        "fin": 67.12
+       },
+       {
+        "t": "mí",
+        "ini": 67.18,
+        "fin": 67.34
+       },
+       {
+        "t": "también!",
+        "ini": 67.4,
+        "fin": 68.06
+       }
+      ],
+      "trad": "—I love the sea! —Me too!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "—¡No me gustan las arañas! —¡A mí tampoco!",
+      "ini": 68.14,
+      "fin": 71.92,
+      "palabras": [
+       {
+        "t": "—¡No",
+        "ini": 68.14,
+        "fin": 68.3
+       },
+       {
+        "t": "me",
+        "ini": 68.36,
+        "fin": 68.56
+       },
+       {
+        "t": "gustan",
+        "ini": 68.62,
+        "fin": 69.0
+       },
+       {
+        "t": "las",
+        "ini": 69.06,
+        "fin": 69.3
+       },
+       {
+        "t": "arañas!",
+        "ini": 69.48,
+        "fin": 70.26
+       },
+       {
+        "t": "—¡A",
+        "ini": 70.8,
+        "fin": 70.92
+       },
+       {
+        "t": "mí",
+        "ini": 71.0,
+        "fin": 71.14
+       },
+       {
+        "t": "tampoco!",
+        "ini": 71.2,
+        "fin": 71.92
+       }
+      ],
+      "trad": "—I don't like spiders! —Me neither!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Di «a mí también» o di «a mí tampoco»,",
+      "ini": 71.92,
+      "fin": 75.72,
+      "palabras": [
+       {
+        "t": "Di",
+        "ini": 71.92,
+        "fin": 72.74
+       },
+       {
+        "t": "«a",
+        "ini": 72.74,
+        "fin": 72.82
+       },
+       {
+        "t": "mí",
+        "ini": 72.9,
+        "fin": 73.04
+       },
+       {
+        "t": "también»",
+        "ini": 73.12,
+        "fin": 73.82
+       },
+       {
+        "t": "o",
+        "ini": 73.92,
+        "fin": 74.04
+       },
+       {
+        "t": "di",
+        "ini": 74.12,
+        "fin": 74.28
+       },
+       {
+        "t": "«a",
+        "ini": 74.62,
+        "fin": 74.72
+       },
+       {
+        "t": "mí",
+        "ini": 74.8,
+        "fin": 74.92
+       },
+       {
+        "t": "tampoco»,",
+        "ini": 75.02,
+        "fin": 75.72
+       }
+      ],
+      "trad": "Say «me too» or say «me neither»,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "distintos, pero amigos… ¡y un poco locos!",
+      "ini": 75.96,
+      "fin": 79.76,
+      "palabras": [
+       {
+        "t": "distintos,",
+        "ini": 75.96,
+        "fin": 76.64
+       },
+       {
+        "t": "pero",
+        "ini": 76.7,
+        "fin": 77.0
+       },
+       {
+        "t": "amigos…",
+        "ini": 77.06,
+        "fin": 77.84
+       },
+       {
+        "t": "¡y",
+        "ini": 78.34,
+        "fin": 78.4
+       },
+       {
+        "t": "un",
+        "ini": 78.46,
+        "fin": 78.54
+       },
+       {
+        "t": "poco",
+        "ini": 78.6,
+        "fin": 79.0
+       },
+       {
+        "t": "locos!",
+        "ini": 79.06,
+        "fin": 79.76
+       }
+      ],
+      "trad": "different, but friends… and a little crazy!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "A mí sí, a mí no, a mí también, a mí tampoco…",
+      "ini": 80.32,
+      "fin": 87.14,
+      "palabras": [
+       {
+        "t": "A",
+        "ini": 80.32,
+        "fin": 80.42
+       },
+       {
+        "t": "mí",
+        "ini": 80.48,
+        "fin": 80.62
+       },
+       {
+        "t": "sí,",
+        "ini": 80.74,
+        "fin": 81.02
+       },
+       {
+        "t": "a",
+        "ini": 82.22,
+        "fin": 82.34
+       },
+       {
+        "t": "mí",
+        "ini": 82.42,
+        "fin": 82.58
+       },
+       {
+        "t": "no,",
+        "ini": 82.66,
+        "fin": 82.96
+       },
+       {
+        "t": "a",
+        "ini": 84.12,
+        "fin": 84.22
+       },
+       {
+        "t": "mí",
+        "ini": 84.3,
+        "fin": 84.46
+       },
+       {
+        "t": "también,",
+        "ini": 84.54,
+        "fin": 85.2
+       },
+       {
+        "t": "a",
+        "ini": 86.04,
+        "fin": 86.16
+       },
+       {
+        "t": "mí",
+        "ini": 86.24,
+        "fin": 86.38
+       },
+       {
+        "t": "tampoco…",
+        "ini": 86.44,
+        "fin": 87.14
+       }
+      ],
+      "trad": "I do, I don't, me too, me neither…"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "ser distintos está bien, amigo, y te explico un poco:",
+      "ini": 87.64,
+      "fin": 95.0,
+      "palabras": [
+       {
+        "t": "ser",
+        "ini": 87.64,
+        "fin": 88.28
+       },
+       {
+        "t": "distintos",
+        "ini": 88.36,
+        "fin": 89.5
+       },
+       {
+        "t": "está",
+        "ini": 89.64,
+        "fin": 90.64
+       },
+       {
+        "t": "bien,",
+        "ini": 91.42,
+        "fin": 91.92
+       },
+       {
+        "t": "amigo,",
+        "ini": 92.04,
+        "fin": 92.84
+       },
+       {
+        "t": "y",
+        "ini": 93.4,
+        "fin": 93.52
+       },
+       {
+        "t": "te",
+        "ini": 93.58,
+        "fin": 93.62
+       },
+       {
+        "t": "explico",
+        "ini": 93.66,
+        "fin": 94.12
+       },
+       {
+        "t": "un",
+        "ini": 94.16,
+        "fin": 94.24
+       },
+       {
+        "t": "poco:",
+        "ini": 94.3,
+        "fin": 95.0
+       }
+      ],
+      "trad": "being different is fine, my friend, and let me explain a little:"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Tú, limón; yo, chocolate: ¡pedimos un helado de los dos!",
+      "ini": 95.74,
+      "fin": 101.44,
+      "palabras": [
+       {
+        "t": "Tú,",
+        "ini": 95.74,
+        "fin": 95.92
+       },
+       {
+        "t": "limón;",
+        "ini": 95.98,
+        "fin": 96.38
+       },
+       {
+        "t": "yo,",
+        "ini": 96.48,
+        "fin": 96.56
+       },
+       {
+        "t": "chocolate:",
+        "ini": 96.66,
+        "fin": 98.32
+       },
+       {
+        "t": "¡pedimos",
+        "ini": 98.84,
+        "fin": 99.52
+       },
+       {
+        "t": "un",
+        "ini": 99.7,
+        "fin": 99.8
+       },
+       {
+        "t": "helado",
+        "ini": 99.9,
+        "fin": 100.44
+       },
+       {
+        "t": "de",
+        "ini": 100.52,
+        "fin": 100.68
+       },
+       {
+        "t": "los",
+        "ini": 100.74,
+        "fin": 100.92
+       },
+       {
+        "t": "dos!",
+        "ini": 100.98,
+        "fin": 101.44
+       }
+      ],
+      "trad": "You, lemon; me, chocolate: we order one ice cream with both!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "y en la playa, cada tarde, patinamos y leemos un montón.",
+      "ini": 103.34,
+      "fin": 109.04,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 103.34,
+        "fin": 103.38
+       },
+       {
+        "t": "en",
+        "ini": 103.44,
+        "fin": 103.52
+       },
+       {
+        "t": "la",
+        "ini": 103.58,
+        "fin": 103.72
+       },
+       {
+        "t": "playa,",
+        "ini": 103.8,
+        "fin": 104.22
+       },
+       {
+        "t": "cada",
+        "ini": 104.32,
+        "fin": 104.68
+       },
+       {
+        "t": "tarde,",
+        "ini": 104.8,
+        "fin": 106.14
+       },
+       {
+        "t": "patinamos",
+        "ini": 106.22,
+        "fin": 107.14
+       },
+       {
+        "t": "y",
+        "ini": 107.24,
+        "fin": 107.34
+       },
+       {
+        "t": "leemos",
+        "ini": 107.42,
+        "fin": 108.08
+       },
+       {
+        "t": "un",
+        "ini": 108.2,
+        "fin": 108.28
+       },
+       {
+        "t": "montón.",
+        "ini": 108.34,
+        "fin": 109.04
+       }
+      ],
+      "trad": "and on the beach, every afternoon, we skate and read a lot."
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "—¡Me encanta el mar! —¡A mí también!",
+      "ini": 110.74,
+      "fin": 113.78,
+      "palabras": [
+       {
+        "t": "—¡Me",
+        "ini": 110.74,
+        "fin": 110.8
+       },
+       {
+        "t": "encanta",
+        "ini": 110.84,
+        "fin": 111.3
+       },
+       {
+        "t": "el",
+        "ini": 111.34,
+        "fin": 111.42
+       },
+       {
+        "t": "mar!",
+        "ini": 111.48,
+        "fin": 112.14
+       },
+       {
+        "t": "—¡A",
+        "ini": 112.72,
+        "fin": 112.84
+       },
+       {
+        "t": "mí",
+        "ini": 112.9,
+        "fin": 113.04
+       },
+       {
+        "t": "también!",
+        "ini": 113.12,
+        "fin": 113.78
+       }
+      ],
+      "trad": "—I love the sea! —Me too!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "—¡No me gustan las arañas! —¡A mí tampoco!",
+      "ini": 113.86,
+      "fin": 117.62,
+      "palabras": [
+       {
+        "t": "—¡No",
+        "ini": 113.86,
+        "fin": 114.02
+       },
+       {
+        "t": "me",
+        "ini": 114.08,
+        "fin": 114.26
+       },
+       {
+        "t": "gustan",
+        "ini": 114.32,
+        "fin": 114.72
+       },
+       {
+        "t": "las",
+        "ini": 114.78,
+        "fin": 115.02
+       },
+       {
+        "t": "arañas!",
+        "ini": 115.2,
+        "fin": 116.04
+       },
+       {
+        "t": "—¡A",
+        "ini": 116.52,
+        "fin": 116.64
+       },
+       {
+        "t": "mí",
+        "ini": 116.7,
+        "fin": 116.86
+       },
+       {
+        "t": "tampoco!",
+        "ini": 116.92,
+        "fin": 117.62
+       }
+      ],
+      "trad": "—I don't like spiders! —Me neither!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Di «a mí también» o di «a mí tampoco»,",
+      "ini": 117.62,
+      "fin": 121.42,
+      "palabras": [
+       {
+        "t": "Di",
+        "ini": 117.62,
+        "fin": 118.46
+       },
+       {
+        "t": "«a",
+        "ini": 118.46,
+        "fin": 118.54
+       },
+       {
+        "t": "mí",
+        "ini": 118.62,
+        "fin": 118.74
+       },
+       {
+        "t": "también»",
+        "ini": 118.82,
+        "fin": 119.54
+       },
+       {
+        "t": "o",
+        "ini": 119.64,
+        "fin": 119.74
+       },
+       {
+        "t": "di",
+        "ini": 119.82,
+        "fin": 120.22
+       },
+       {
+        "t": "«a",
+        "ini": 120.32,
+        "fin": 120.44
+       },
+       {
+        "t": "mí",
+        "ini": 120.52,
+        "fin": 120.66
+       },
+       {
+        "t": "tampoco»,",
+        "ini": 120.74,
+        "fin": 121.42
+       }
+      ],
+      "trad": "Say «me too» or say «me neither»,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "distintos, pero amigos… ¡y un poco locos!",
+      "ini": 121.68,
+      "fin": 125.48,
+      "palabras": [
+       {
+        "t": "distintos,",
+        "ini": 121.68,
+        "fin": 122.34
+       },
+       {
+        "t": "pero",
+        "ini": 122.4,
+        "fin": 122.82
+       },
+       {
+        "t": "amigos…",
+        "ini": 122.84,
+        "fin": 123.56
+       },
+       {
+        "t": "¡y",
+        "ini": 124.06,
+        "fin": 124.1
+       },
+       {
+        "t": "un",
+        "ini": 124.16,
+        "fin": 124.24
+       },
+       {
+        "t": "poco",
+        "ini": 124.3,
+        "fin": 124.72
+       },
+       {
+        "t": "locos!",
+        "ini": 124.8,
+        "fin": 125.48
+       }
+      ],
+      "trad": "different, but friends… and a little crazy!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "—¡Me encanta el mar! —¡A mí también!",
+      "ini": 125.98,
+      "fin": 129.02,
+      "palabras": [
+       {
+        "t": "—¡Me",
+        "ini": 125.98,
+        "fin": 126.04
+       },
+       {
+        "t": "encanta",
+        "ini": 126.06,
+        "fin": 126.52
+       },
+       {
+        "t": "el",
+        "ini": 126.56,
+        "fin": 126.66
+       },
+       {
+        "t": "mar!",
+        "ini": 126.72,
+        "fin": 127.38
+       },
+       {
+        "t": "—¡A",
+        "ini": 127.92,
+        "fin": 128.08
+       },
+       {
+        "t": "mí",
+        "ini": 128.14,
+        "fin": 128.28
+       },
+       {
+        "t": "también!",
+        "ini": 128.36,
+        "fin": 129.02
+       }
+      ],
+      "trad": "—I love the sea! —Me too!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "—¡No me gustan las arañas! —¡A mí tampoco!",
+      "ini": 129.12,
+      "fin": 133.1,
+      "palabras": [
+       {
+        "t": "—¡No",
+        "ini": 129.12,
+        "fin": 129.26
+       },
+       {
+        "t": "me",
+        "ini": 129.32,
+        "fin": 129.5
+       },
+       {
+        "t": "gustan",
+        "ini": 129.56,
+        "fin": 129.96
+       },
+       {
+        "t": "las",
+        "ini": 130.02,
+        "fin": 130.26
+       },
+       {
+        "t": "arañas!",
+        "ini": 130.44,
+        "fin": 131.28
+       },
+       {
+        "t": "—¡A",
+        "ini": 131.76,
+        "fin": 131.9
+       },
+       {
+        "t": "mí",
+        "ini": 131.96,
+        "fin": 132.08
+       },
+       {
+        "t": "tampoco!",
+        "ini": 132.16,
+        "fin": 133.1
+       }
+      ],
+      "trad": "—I don't like spiders! —Me neither!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Di «a mí también» o di «a mí tampoco»,",
+      "ini": 133.56,
+      "fin": 136.66,
+      "palabras": [
+       {
+        "t": "Di",
+        "ini": 133.56,
+        "fin": 133.64
+       },
+       {
+        "t": "«a",
+        "ini": 133.7,
+        "fin": 133.78
+       },
+       {
+        "t": "mí",
+        "ini": 133.84,
+        "fin": 133.98
+       },
+       {
+        "t": "también»",
+        "ini": 134.06,
+        "fin": 134.78
+       },
+       {
+        "t": "o",
+        "ini": 134.86,
+        "fin": 134.98
+       },
+       {
+        "t": "di",
+        "ini": 135.06,
+        "fin": 135.46
+       },
+       {
+        "t": "«a",
+        "ini": 135.58,
+        "fin": 135.68
+       },
+       {
+        "t": "mí",
+        "ini": 135.76,
+        "fin": 135.9
+       },
+       {
+        "t": "tampoco»,",
+        "ini": 135.96,
+        "fin": 136.66
+       }
+      ],
+      "trad": "Say «me too» or say «me neither»,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "distintos, pero amigos… ¡y un poco locos!",
+      "ini": 136.94,
+      "fin": 140.72,
+      "palabras": [
+       {
+        "t": "distintos,",
+        "ini": 136.94,
+        "fin": 137.58
+       },
+       {
+        "t": "pero",
+        "ini": 137.66,
+        "fin": 138.06
+       },
+       {
+        "t": "amigos…",
+        "ini": 138.08,
+        "fin": 138.8
+       },
+       {
+        "t": "¡y",
+        "ini": 139.3,
+        "fin": 139.34
+       },
+       {
+        "t": "un",
+        "ini": 139.4,
+        "fin": 139.48
+       },
+       {
+        "t": "poco",
+        "ini": 139.54,
+        "fin": 139.96
+       },
+       {
+        "t": "locos!",
+        "ini": 140.04,
+        "fin": 140.72
+       }
+      ],
+      "trad": "different, but friends… and a little crazy!"
+     }
+    ],
+    "duracion": 148.58
+   },
+   "preguntas": [
+    {
+     "en": "What does Lola love doing?",
+     "en_op": [
+      "Skating",
+      "Reading",
+      "Getting up early"
+     ],
+     "es": "¿Qué le encanta hacer a Lola?",
+     "es_op": [
+      "Patinar",
+      "Leer",
+      "Madrugar"
+     ]
+    },
+    {
+     "en": "«I don't like spiders!» — «___»",
+     "en_op": [
+      "Neither do I!",
+      "So do I!",
+      "Yes, I do!"
+     ],
+     "es": "«¡No me gustan las arañas!» —«___»",
+     "es_op": [
+      "¡A mí tampoco!",
+      "¡A mí también!",
+      "¡Sí, me gusta!"
+     ]
+    },
+    {
+     "en": "What do Lola and Teo share at the end?",
+     "en_op": [
+      "An ice cream",
+      "A skateboard",
+      "A book"
+     ],
+     "es": "¿Qué comparten Lola y Teo al final?",
+     "es_op": [
+      "Un helado",
+      "Un monopatín",
+      "Un libro"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "16-aburrido",
+   "titulo_en": "I'm Not Boring, I'm Bored!",
+   "titulo_es": "¡No soy aburrido, estoy aburrido!",
+   "ensena_en": "adjectives with -ed and -ing (bored / boring, excited / exciting, amazed / amazing, tired / tiring)",
+   "ensena_es": "ser y estar (soy aburrido / estoy aburrido, está listo / es listo, es asombroso / está asombrada)",
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Verse 1",
+      "texto": "Rainy Sunday, no TV, and nothing, nothing to do,",
+      "ini": 7.72,
+      "fin": 10.9,
+      "palabras": [
+       {
+        "t": "Rainy",
+        "ini": 7.72,
+        "fin": 8.06
+       },
+       {
+        "t": "Sunday,",
+        "ini": 8.14,
+        "fin": 8.56
+       },
+       {
+        "t": "no",
+        "ini": 8.66,
+        "fin": 8.76
+       },
+       {
+        "t": "TV,",
+        "ini": 8.86,
+        "fin": 9.3
+       },
+       {
+        "t": "and",
+        "ini": 9.36,
+        "fin": 9.5
+       },
+       {
+        "t": "nothing,",
+        "ini": 9.58,
+        "fin": 9.92
+       },
+       {
+        "t": "nothing",
+        "ini": 10.02,
+        "fin": 10.4
+       },
+       {
+        "t": "to",
+        "ini": 10.48,
+        "fin": 10.6
+       },
+       {
+        "t": "do,",
+        "ini": 10.72,
+        "fin": 10.9
+       }
+      ],
+      "trad": "Domingo de lluvia, sin tele, y nada, nada que hacer,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "I yawn: «Mom, I'm boring!» — and Mom starts laughing too:",
+      "ini": 11.24,
+      "fin": 14.38,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 11.24,
+        "fin": 11.28
+       },
+       {
+        "t": "yawn:",
+        "ini": 11.38,
+        "fin": 11.7
+       },
+       {
+        "t": "«Mom,",
+        "ini": 11.8,
+        "fin": 12.04
+       },
+       {
+        "t": "I'm",
+        "ini": 12.12,
+        "fin": 12.18
+       },
+       {
+        "t": "boring!»",
+        "ini": 12.3,
+        "fin": 12.72
+       },
+       {
+        "t": "—",
+        "ini": 12.72,
+        "fin": 12.72
+       },
+       {
+        "t": "and",
+        "ini": 12.98,
+        "fin": 13.08
+       },
+       {
+        "t": "Mom",
+        "ini": 13.18,
+        "fin": 13.34
+       },
+       {
+        "t": "starts",
+        "ini": 13.4,
+        "fin": 13.62
+       },
+       {
+        "t": "laughing",
+        "ini": 13.68,
+        "fin": 14.06
+       },
+       {
+        "t": "too:",
+        "ini": 14.14,
+        "fin": 14.38
+       }
+      ],
+      "trad": "Bostezo: «¡Mamá, soy aburrido!», y mamá también se echa a reír:"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "«You're not boring, you are bored — it's the day that's boring, see?",
+      "ini": 14.38,
+      "fin": 18.46,
+      "palabras": [
+       {
+        "t": "«You're",
+        "ini": 14.38,
+        "fin": 15.18
+       },
+       {
+        "t": "not",
+        "ini": 15.24,
+        "fin": 15.44
+       },
+       {
+        "t": "boring,",
+        "ini": 15.5,
+        "fin": 15.88
+       },
+       {
+        "t": "you",
+        "ini": 16.0,
+        "fin": 16.12
+       },
+       {
+        "t": "are",
+        "ini": 16.2,
+        "fin": 16.36
+       },
+       {
+        "t": "bored",
+        "ini": 16.4,
+        "fin": 16.76
+       },
+       {
+        "t": "—",
+        "ini": 16.82,
+        "fin": 16.82
+       },
+       {
+        "t": "it's",
+        "ini": 16.88,
+        "fin": 17.04
+       },
+       {
+        "t": "the",
+        "ini": 17.08,
+        "fin": 17.14
+       },
+       {
+        "t": "day",
+        "ini": 17.3,
+        "fin": 17.46
+       },
+       {
+        "t": "that's",
+        "ini": 17.52,
+        "fin": 17.72
+       },
+       {
+        "t": "boring,",
+        "ini": 17.76,
+        "fin": 18.08
+       },
+       {
+        "t": "see?",
+        "ini": 18.22,
+        "fin": 18.46
+       }
+      ],
+      "trad": "«No eres aburrido, estás aburrido: el aburrido es el día, ¿ves?"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Grab a box, grab some tape… and make it exciting for me!»",
+      "ini": 18.64,
+      "fin": 21.8,
+      "palabras": [
+       {
+        "t": "Grab",
+        "ini": 18.64,
+        "fin": 18.88
+       },
+       {
+        "t": "a",
+        "ini": 18.94,
+        "fin": 18.96
+       },
+       {
+        "t": "box,",
+        "ini": 19.1,
+        "fin": 19.44
+       },
+       {
+        "t": "grab",
+        "ini": 19.54,
+        "fin": 19.76
+       },
+       {
+        "t": "some",
+        "ini": 19.8,
+        "fin": 19.96
+       },
+       {
+        "t": "tape…",
+        "ini": 20.02,
+        "fin": 20.26
+       },
+       {
+        "t": "and",
+        "ini": 20.28,
+        "fin": 20.4
+       },
+       {
+        "t": "make",
+        "ini": 20.5,
+        "fin": 20.66
+       },
+       {
+        "t": "it",
+        "ini": 20.7,
+        "fin": 20.78
+       },
+       {
+        "t": "exciting",
+        "ini": 20.82,
+        "fin": 21.3
+       },
+       {
+        "t": "for",
+        "ini": 21.42,
+        "fin": 21.54
+       },
+       {
+        "t": "me!»",
+        "ini": 21.64,
+        "fin": 21.8
+       }
+      ],
+      "trad": "¡Coge una caja, coge cinta… y hazlo emocionante para mí!»"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "I'm not boring — I'm bored! I'm bored!",
+      "ini": 22.2,
+      "fin": 24.92,
+      "palabras": [
+       {
+        "t": "I'm",
+        "ini": 22.2,
+        "fin": 22.46
+       },
+       {
+        "t": "not",
+        "ini": 22.52,
+        "fin": 22.72
+       },
+       {
+        "t": "boring",
+        "ini": 22.76,
+        "fin": 23.26
+       },
+       {
+        "t": "—",
+        "ini": 23.42,
+        "fin": 23.42
+       },
+       {
+        "t": "I'm",
+        "ini": 23.46,
+        "fin": 23.58
+       },
+       {
+        "t": "bored!",
+        "ini": 23.68,
+        "fin": 24.1
+       },
+       {
+        "t": "I'm",
+        "ini": 24.38,
+        "fin": 24.5
+       },
+       {
+        "t": "bored!",
+        "ini": 24.58,
+        "fin": 24.92
+       }
+      ],
+      "trad": "¡No soy aburrido: estoy aburrido! ¡Estoy aburrido!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "But the box is exciting, and I'm excited — let's go!",
+      "ini": 25.02,
+      "fin": 28.96,
+      "palabras": [
+       {
+        "t": "But",
+        "ini": 25.02,
+        "fin": 25.22
+       },
+       {
+        "t": "the",
+        "ini": 25.26,
+        "fin": 25.32
+       },
+       {
+        "t": "box",
+        "ini": 25.48,
+        "fin": 25.9
+       },
+       {
+        "t": "is",
+        "ini": 26.04,
+        "fin": 26.14
+       },
+       {
+        "t": "exciting,",
+        "ini": 26.2,
+        "fin": 26.86
+       },
+       {
+        "t": "and",
+        "ini": 27.1,
+        "fin": 27.3
+       },
+       {
+        "t": "I'm",
+        "ini": 27.4,
+        "fin": 27.52
+       },
+       {
+        "t": "excited",
+        "ini": 27.58,
+        "fin": 28.16
+       },
+       {
+        "t": "—",
+        "ini": 28.32,
+        "fin": 28.32
+       },
+       {
+        "t": "let's",
+        "ini": 28.42,
+        "fin": 28.64
+       },
+       {
+        "t": "go!",
+        "ini": 28.68,
+        "fin": 28.96
+       }
+      ],
+      "trad": "Pero la caja es emocionante, y yo estoy emocionado: ¡vamos!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Bored or boring, excited or exciting:",
+      "ini": 29.12,
+      "fin": 32.34,
+      "palabras": [
+       {
+        "t": "Bored",
+        "ini": 29.12,
+        "fin": 29.54
+       },
+       {
+        "t": "or",
+        "ini": 29.82,
+        "fin": 29.9
+       },
+       {
+        "t": "boring,",
+        "ini": 30.04,
+        "fin": 30.52
+       },
+       {
+        "t": "excited",
+        "ini": 30.72,
+        "fin": 31.38
+       },
+       {
+        "t": "or",
+        "ini": 31.44,
+        "fin": 31.6
+       },
+       {
+        "t": "exciting:",
+        "ini": 31.66,
+        "fin": 32.34
+       }
+      ],
+      "trad": "Estar aburrido o ser aburrido, estar emocionado o ser emocionante:"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "bored is how I feel, and boring is the show!",
+      "ini": 32.76,
+      "fin": 35.92,
+      "palabras": [
+       {
+        "t": "bored",
+        "ini": 32.76,
+        "fin": 33.0
+       },
+       {
+        "t": "is",
+        "ini": 33.06,
+        "fin": 33.18
+       },
+       {
+        "t": "how",
+        "ini": 33.24,
+        "fin": 33.44
+       },
+       {
+        "t": "I",
+        "ini": 33.52,
+        "fin": 33.6
+       },
+       {
+        "t": "feel,",
+        "ini": 33.68,
+        "fin": 34.04
+       },
+       {
+        "t": "and",
+        "ini": 34.36,
+        "fin": 34.48
+       },
+       {
+        "t": "boring",
+        "ini": 34.56,
+        "fin": 35.04
+       },
+       {
+        "t": "is",
+        "ini": 35.1,
+        "fin": 35.22
+       },
+       {
+        "t": "the",
+        "ini": 35.28,
+        "fin": 35.38
+       },
+       {
+        "t": "show!",
+        "ini": 35.44,
+        "fin": 35.92
+       }
+      ],
+      "trad": "¡«bored» es cómo me siento, y «boring», cómo es el espectáculo!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "I build a robot out of boxes, bottle caps in red and blue,",
+      "ini": 36.66,
+      "fin": 40.18,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 36.66,
+        "fin": 36.72
+       },
+       {
+        "t": "build",
+        "ini": 36.86,
+        "fin": 37.08
+       },
+       {
+        "t": "a",
+        "ini": 37.14,
+        "fin": 37.2
+       },
+       {
+        "t": "robot",
+        "ini": 37.3,
+        "fin": 37.76
+       },
+       {
+        "t": "out",
+        "ini": 37.84,
+        "fin": 37.98
+       },
+       {
+        "t": "of",
+        "ini": 38.02,
+        "fin": 38.08
+       },
+       {
+        "t": "boxes,",
+        "ini": 38.2,
+        "fin": 38.58
+       },
+       {
+        "t": "bottle",
+        "ini": 38.68,
+        "fin": 38.98
+       },
+       {
+        "t": "caps",
+        "ini": 39.1,
+        "fin": 39.36
+       },
+       {
+        "t": "in",
+        "ini": 39.4,
+        "fin": 39.48
+       },
+       {
+        "t": "red",
+        "ini": 39.6,
+        "fin": 39.8
+       },
+       {
+        "t": "and",
+        "ini": 39.82,
+        "fin": 39.94
+       },
+       {
+        "t": "blue,",
+        "ini": 40.0,
+        "fin": 40.18
+       }
+      ],
+      "trad": "Construyo un robot con cajas, con tapones rojos y azules,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "my sister is amazed: «It's amazing!» — and she claps, me too!",
+      "ini": 40.26,
+      "fin": 43.48,
+      "palabras": [
+       {
+        "t": "my",
+        "ini": 40.26,
+        "fin": 40.4
+       },
+       {
+        "t": "sister",
+        "ini": 40.46,
+        "fin": 40.82
+       },
+       {
+        "t": "is",
+        "ini": 41.0,
+        "fin": 41.14
+       },
+       {
+        "t": "amazed:",
+        "ini": 41.18,
+        "fin": 41.6
+       },
+       {
+        "t": "«It's",
+        "ini": 41.6,
+        "fin": 41.74
+       },
+       {
+        "t": "amazing!»",
+        "ini": 41.76,
+        "fin": 42.2
+       },
+       {
+        "t": "—",
+        "ini": 42.28,
+        "fin": 42.28
+       },
+       {
+        "t": "and",
+        "ini": 42.34,
+        "fin": 42.44
+       },
+       {
+        "t": "she",
+        "ini": 42.5,
+        "fin": 42.6
+       },
+       {
+        "t": "claps,",
+        "ini": 42.7,
+        "fin": 42.94
+       },
+       {
+        "t": "me",
+        "ini": 43.02,
+        "fin": 43.08
+       },
+       {
+        "t": "too!",
+        "ini": 43.22,
+        "fin": 43.48
+       }
+      ],
+      "trad": "mi hermana está asombrada: «¡Es asombroso!», y aplaude, ¡y yo también!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "«Is it ready?» — «Yes, it's ready! And it's clever: it can dance!»",
+      "ini": 43.48,
+      "fin": 47.52,
+      "palabras": [
+       {
+        "t": "«Is",
+        "ini": 43.48,
+        "fin": 44.32
+       },
+       {
+        "t": "it",
+        "ini": 44.38,
+        "fin": 44.48
+       },
+       {
+        "t": "ready?»",
+        "ini": 44.6,
+        "fin": 44.9
+       },
+       {
+        "t": "—",
+        "ini": 45.0,
+        "fin": 45.0
+       },
+       {
+        "t": "«Yes,",
+        "ini": 45.0,
+        "fin": 45.2
+       },
+       {
+        "t": "it's",
+        "ini": 45.28,
+        "fin": 45.44
+       },
+       {
+        "t": "ready!",
+        "ini": 45.5,
+        "fin": 45.78
+       },
+       {
+        "t": "And",
+        "ini": 46.0,
+        "fin": 46.12
+       },
+       {
+        "t": "it's",
+        "ini": 46.16,
+        "fin": 46.32
+       },
+       {
+        "t": "clever:",
+        "ini": 46.36,
+        "fin": 46.7
+       },
+       {
+        "t": "it",
+        "ini": 46.88,
+        "fin": 46.96
+       },
+       {
+        "t": "can",
+        "ini": 47.06,
+        "fin": 47.2
+       },
+       {
+        "t": "dance!»",
+        "ini": 47.28,
+        "fin": 47.52
+       }
+      ],
+      "trad": "«¿Está listo?» «¡Sí, está listo! Y es listo: ¡sabe bailar!»"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "It dances round the kitchen — even Mom joins in the dance!",
+      "ini": 47.58,
+      "fin": 50.9,
+      "palabras": [
+       {
+        "t": "It",
+        "ini": 47.58,
+        "fin": 47.66
+       },
+       {
+        "t": "dances",
+        "ini": 47.76,
+        "fin": 48.12
+       },
+       {
+        "t": "round",
+        "ini": 48.22,
+        "fin": 48.42
+       },
+       {
+        "t": "the",
+        "ini": 48.46,
+        "fin": 48.6
+       },
+       {
+        "t": "kitchen",
+        "ini": 48.64,
+        "fin": 49.04
+       },
+       {
+        "t": "—",
+        "ini": 49.1,
+        "fin": 49.1
+       },
+       {
+        "t": "even",
+        "ini": 49.18,
+        "fin": 49.44
+       },
+       {
+        "t": "Mom",
+        "ini": 49.54,
+        "fin": 49.72
+       },
+       {
+        "t": "joins",
+        "ini": 49.8,
+        "fin": 50.04
+       },
+       {
+        "t": "in",
+        "ini": 50.1,
+        "fin": 50.22
+       },
+       {
+        "t": "the",
+        "ini": 50.26,
+        "fin": 50.32
+       },
+       {
+        "t": "dance!",
+        "ini": 50.48,
+        "fin": 50.9
+       }
+      ],
+      "trad": "Baila por toda la cocina: ¡hasta mamá se une al baile!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "I'm not boring — I'm bored! I'm bored!",
+      "ini": 51.26,
+      "fin": 54.04,
+      "palabras": [
+       {
+        "t": "I'm",
+        "ini": 51.26,
+        "fin": 51.52
+       },
+       {
+        "t": "not",
+        "ini": 51.58,
+        "fin": 51.82
+       },
+       {
+        "t": "boring",
+        "ini": 51.86,
+        "fin": 52.34
+       },
+       {
+        "t": "—",
+        "ini": 52.5,
+        "fin": 52.5
+       },
+       {
+        "t": "I'm",
+        "ini": 52.56,
+        "fin": 52.68
+       },
+       {
+        "t": "bored!",
+        "ini": 52.76,
+        "fin": 53.18
+       },
+       {
+        "t": "I'm",
+        "ini": 53.48,
+        "fin": 53.58
+       },
+       {
+        "t": "bored!",
+        "ini": 53.68,
+        "fin": 54.04
+       }
+      ],
+      "trad": "¡No soy aburrido: estoy aburrido! ¡Estoy aburrido!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "But the box is exciting, and I'm excited — let's go!",
+      "ini": 54.1,
+      "fin": 58.06,
+      "palabras": [
+       {
+        "t": "But",
+        "ini": 54.1,
+        "fin": 54.3
+       },
+       {
+        "t": "the",
+        "ini": 54.34,
+        "fin": 54.4
+       },
+       {
+        "t": "box",
+        "ini": 54.58,
+        "fin": 55.0
+       },
+       {
+        "t": "is",
+        "ini": 55.12,
+        "fin": 55.24
+       },
+       {
+        "t": "exciting,",
+        "ini": 55.3,
+        "fin": 55.96
+       },
+       {
+        "t": "and",
+        "ini": 56.2,
+        "fin": 56.34
+       },
+       {
+        "t": "I'm",
+        "ini": 56.5,
+        "fin": 56.62
+       },
+       {
+        "t": "excited",
+        "ini": 56.66,
+        "fin": 57.26
+       },
+       {
+        "t": "—",
+        "ini": 57.44,
+        "fin": 57.44
+       },
+       {
+        "t": "let's",
+        "ini": 57.5,
+        "fin": 57.72
+       },
+       {
+        "t": "go!",
+        "ini": 57.76,
+        "fin": 58.06
+       }
+      ],
+      "trad": "Pero la caja es emocionante, y yo estoy emocionado: ¡vamos!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Bored or boring, excited or exciting:",
+      "ini": 58.22,
+      "fin": 61.44,
+      "palabras": [
+       {
+        "t": "Bored",
+        "ini": 58.22,
+        "fin": 58.64
+       },
+       {
+        "t": "or",
+        "ini": 58.92,
+        "fin": 59.02
+       },
+       {
+        "t": "boring,",
+        "ini": 59.12,
+        "fin": 59.62
+       },
+       {
+        "t": "excited",
+        "ini": 59.82,
+        "fin": 60.46
+       },
+       {
+        "t": "or",
+        "ini": 60.54,
+        "fin": 60.7
+       },
+       {
+        "t": "exciting:",
+        "ini": 60.74,
+        "fin": 61.44
+       }
+      ],
+      "trad": "Estar aburrido o ser aburrido, estar emocionado o ser emocionante:"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "bored is how I feel, and boring is the show!",
+      "ini": 61.86,
+      "fin": 65.04,
+      "palabras": [
+       {
+        "t": "bored",
+        "ini": 61.86,
+        "fin": 62.1
+       },
+       {
+        "t": "is",
+        "ini": 62.14,
+        "fin": 62.28
+       },
+       {
+        "t": "how",
+        "ini": 62.34,
+        "fin": 62.52
+       },
+       {
+        "t": "I",
+        "ini": 62.6,
+        "fin": 62.7
+       },
+       {
+        "t": "feel,",
+        "ini": 62.78,
+        "fin": 63.12
+       },
+       {
+        "t": "and",
+        "ini": 63.44,
+        "fin": 63.56
+       },
+       {
+        "t": "boring",
+        "ini": 63.64,
+        "fin": 64.1
+       },
+       {
+        "t": "is",
+        "ini": 64.18,
+        "fin": 64.32
+       },
+       {
+        "t": "the",
+        "ini": 64.36,
+        "fin": 64.42
+       },
+       {
+        "t": "show!",
+        "ini": 64.52,
+        "fin": 65.04
+       }
+      ],
+      "trad": "¡«bored» es cómo me siento, y «boring», cómo es el espectáculo!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "The day was boring, I was bored — the robot is exciting,",
+      "ini": 66.12,
+      "fin": 71.56,
+      "palabras": [
+       {
+        "t": "The",
+        "ini": 66.12,
+        "fin": 66.22
+       },
+       {
+        "t": "day",
+        "ini": 66.4,
+        "fin": 66.94
+       },
+       {
+        "t": "was",
+        "ini": 67.06,
+        "fin": 67.26
+       },
+       {
+        "t": "boring,",
+        "ini": 67.3,
+        "fin": 67.84
+       },
+       {
+        "t": "I",
+        "ini": 68.42,
+        "fin": 68.56
+       },
+       {
+        "t": "was",
+        "ini": 68.68,
+        "fin": 68.98
+       },
+       {
+        "t": "bored",
+        "ini": 69.12,
+        "fin": 69.5
+       },
+       {
+        "t": "—",
+        "ini": 69.76,
+        "fin": 69.76
+       },
+       {
+        "t": "the",
+        "ini": 69.8,
+        "fin": 69.9
+       },
+       {
+        "t": "robot",
+        "ini": 70.02,
+        "fin": 70.5
+       },
+       {
+        "t": "is",
+        "ini": 70.58,
+        "fin": 70.68
+       },
+       {
+        "t": "exciting,",
+        "ini": 70.74,
+        "fin": 71.56
+       }
+      ],
+      "trad": "El día era aburrido, yo estaba aburrido… el robot es emocionante,"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "and I'm excited… bored and boring, what a funny thing!",
+      "ini": 73.46,
+      "fin": 78.74,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 73.46,
+        "fin": 73.62
+       },
+       {
+        "t": "I'm",
+        "ini": 73.86,
+        "fin": 74.32
+       },
+       {
+        "t": "excited…",
+        "ini": 74.38,
+        "fin": 75.08
+       },
+       {
+        "t": "bored",
+        "ini": 75.46,
+        "fin": 75.94
+       },
+       {
+        "t": "and",
+        "ini": 76.0,
+        "fin": 76.24
+       },
+       {
+        "t": "boring,",
+        "ini": 76.38,
+        "fin": 76.9
+       },
+       {
+        "t": "what",
+        "ini": 77.3,
+        "fin": 77.52
+       },
+       {
+        "t": "a",
+        "ini": 77.58,
+        "fin": 77.68
+       },
+       {
+        "t": "funny",
+        "ini": 77.76,
+        "fin": 78.08
+       },
+       {
+        "t": "thing!",
+        "ini": 78.2,
+        "fin": 78.74
+       }
+      ],
+      "trad": "y yo estoy emocionado… «bored» y «boring», ¡qué cosa tan curiosa!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Now it's night and I'm so tired — what a tiring, happy day,",
+      "ini": 81.4,
+      "fin": 87.24,
+      "palabras": [
+       {
+        "t": "Now",
+        "ini": 81.4,
+        "fin": 81.58
+       },
+       {
+        "t": "it's",
+        "ini": 81.64,
+        "fin": 81.8
+       },
+       {
+        "t": "night",
+        "ini": 81.86,
+        "fin": 82.3
+       },
+       {
+        "t": "and",
+        "ini": 82.36,
+        "fin": 82.74
+       },
+       {
+        "t": "I'm",
+        "ini": 82.86,
+        "fin": 83.04
+       },
+       {
+        "t": "so",
+        "ini": 83.18,
+        "fin": 83.46
+       },
+       {
+        "t": "tired",
+        "ini": 83.64,
+        "fin": 84.2
+       },
+       {
+        "t": "—",
+        "ini": 84.2,
+        "fin": 84.2
+       },
+       {
+        "t": "what",
+        "ini": 85.04,
+        "fin": 85.24
+       },
+       {
+        "t": "a",
+        "ini": 85.3,
+        "fin": 85.38
+       },
+       {
+        "t": "tiring,",
+        "ini": 85.46,
+        "fin": 86.02
+       },
+       {
+        "t": "happy",
+        "ini": 86.4,
+        "fin": 86.74
+       },
+       {
+        "t": "day,",
+        "ini": 86.88,
+        "fin": 87.24
+       }
+      ],
+      "trad": "Ya es de noche y estoy muy cansado: ¡qué día tan agotador y tan feliz!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "and my robot's sleeping too… but tomorrow we will play!",
+      "ini": 88.7,
+      "fin": 93.18,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 88.7,
+        "fin": 88.84
+       },
+       {
+        "t": "my",
+        "ini": 88.9,
+        "fin": 89.04
+       },
+       {
+        "t": "robot's",
+        "ini": 89.14,
+        "fin": 89.92
+       },
+       {
+        "t": "sleeping",
+        "ini": 89.98,
+        "fin": 90.58
+       },
+       {
+        "t": "too…",
+        "ini": 90.72,
+        "fin": 91.06
+       },
+       {
+        "t": "but",
+        "ini": 91.2,
+        "fin": 91.52
+       },
+       {
+        "t": "tomorrow",
+        "ini": 91.6,
+        "fin": 92.24
+       },
+       {
+        "t": "we",
+        "ini": 92.32,
+        "fin": 92.48
+       },
+       {
+        "t": "will",
+        "ini": 92.52,
+        "fin": 92.68
+       },
+       {
+        "t": "play!",
+        "ini": 92.72,
+        "fin": 93.18
+       }
+      ],
+      "trad": "y mi robot también está durmiendo… ¡pero mañana jugaremos!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "I'm not boring — I'm bored! I'm bored!",
+      "ini": 96.76,
+      "fin": 99.48,
+      "palabras": [
+       {
+        "t": "I'm",
+        "ini": 96.76,
+        "fin": 96.98
+       },
+       {
+        "t": "not",
+        "ini": 97.06,
+        "fin": 97.26
+       },
+       {
+        "t": "boring",
+        "ini": 97.32,
+        "fin": 97.82
+       },
+       {
+        "t": "—",
+        "ini": 97.96,
+        "fin": 97.96
+       },
+       {
+        "t": "I'm",
+        "ini": 98.02,
+        "fin": 98.14
+       },
+       {
+        "t": "bored!",
+        "ini": 98.22,
+        "fin": 98.64
+       },
+       {
+        "t": "I'm",
+        "ini": 98.92,
+        "fin": 99.04
+       },
+       {
+        "t": "bored!",
+        "ini": 99.14,
+        "fin": 99.48
+       }
+      ],
+      "trad": "¡No soy aburrido: estoy aburrido! ¡Estoy aburrido!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "But the box is exciting, and I'm excited — let's go!",
+      "ini": 99.58,
+      "fin": 103.52,
+      "palabras": [
+       {
+        "t": "But",
+        "ini": 99.58,
+        "fin": 99.76
+       },
+       {
+        "t": "the",
+        "ini": 99.8,
+        "fin": 99.88
+       },
+       {
+        "t": "box",
+        "ini": 100.04,
+        "fin": 100.46
+       },
+       {
+        "t": "is",
+        "ini": 100.58,
+        "fin": 100.7
+       },
+       {
+        "t": "exciting,",
+        "ini": 100.76,
+        "fin": 101.44
+       },
+       {
+        "t": "and",
+        "ini": 101.66,
+        "fin": 101.84
+       },
+       {
+        "t": "I'm",
+        "ini": 101.94,
+        "fin": 102.08
+       },
+       {
+        "t": "excited",
+        "ini": 102.12,
+        "fin": 102.72
+       },
+       {
+        "t": "—",
+        "ini": 102.88,
+        "fin": 102.88
+       },
+       {
+        "t": "let's",
+        "ini": 102.96,
+        "fin": 103.18
+       },
+       {
+        "t": "go!",
+        "ini": 103.24,
+        "fin": 103.52
+       }
+      ],
+      "trad": "Pero la caja es emocionante, y yo estoy emocionado: ¡vamos!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Bored or boring, excited or exciting:",
+      "ini": 103.68,
+      "fin": 106.9,
+      "palabras": [
+       {
+        "t": "Bored",
+        "ini": 103.68,
+        "fin": 104.1
+       },
+       {
+        "t": "or",
+        "ini": 104.38,
+        "fin": 104.46
+       },
+       {
+        "t": "boring,",
+        "ini": 104.58,
+        "fin": 105.08
+       },
+       {
+        "t": "excited",
+        "ini": 105.28,
+        "fin": 105.92
+       },
+       {
+        "t": "or",
+        "ini": 106.0,
+        "fin": 106.14
+       },
+       {
+        "t": "exciting:",
+        "ini": 106.2,
+        "fin": 106.9
+       }
+      ],
+      "trad": "Estar aburrido o ser aburrido, estar emocionado o ser emocionante:"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "bored is how I feel, and boring is the show!",
+      "ini": 107.32,
+      "fin": 110.46,
+      "palabras": [
+       {
+        "t": "bored",
+        "ini": 107.32,
+        "fin": 107.54
+       },
+       {
+        "t": "is",
+        "ini": 107.6,
+        "fin": 107.72
+       },
+       {
+        "t": "how",
+        "ini": 107.78,
+        "fin": 107.96
+       },
+       {
+        "t": "I",
+        "ini": 108.04,
+        "fin": 108.14
+       },
+       {
+        "t": "feel,",
+        "ini": 108.24,
+        "fin": 108.6
+       },
+       {
+        "t": "and",
+        "ini": 108.9,
+        "fin": 109.02
+       },
+       {
+        "t": "boring",
+        "ini": 109.12,
+        "fin": 109.56
+       },
+       {
+        "t": "is",
+        "ini": 109.64,
+        "fin": 109.76
+       },
+       {
+        "t": "the",
+        "ini": 109.82,
+        "fin": 109.92
+       },
+       {
+        "t": "show!",
+        "ini": 109.98,
+        "fin": 110.46
+       }
+      ],
+      "trad": "¡«bored» es cómo me siento, y «boring», cómo es el espectáculo!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "I'm not boring — I'm bored! I'm bored!",
+      "ini": 111.34,
+      "fin": 114.04,
+      "palabras": [
+       {
+        "t": "I'm",
+        "ini": 111.34,
+        "fin": 111.54
+       },
+       {
+        "t": "not",
+        "ini": 111.6,
+        "fin": 111.8
+       },
+       {
+        "t": "boring",
+        "ini": 111.86,
+        "fin": 112.38
+       },
+       {
+        "t": "—",
+        "ini": 112.5,
+        "fin": 112.5
+       },
+       {
+        "t": "I'm",
+        "ini": 112.56,
+        "fin": 112.72
+       },
+       {
+        "t": "bored!",
+        "ini": 112.78,
+        "fin": 113.18
+       },
+       {
+        "t": "I'm",
+        "ini": 113.48,
+        "fin": 113.58
+       },
+       {
+        "t": "bored!",
+        "ini": 113.68,
+        "fin": 114.04
+       }
+      ],
+      "trad": "¡No soy aburrido: estoy aburrido! ¡Estoy aburrido!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "But the box is exciting, and I'm excited — let's go!",
+      "ini": 114.12,
+      "fin": 118.06,
+      "palabras": [
+       {
+        "t": "But",
+        "ini": 114.12,
+        "fin": 114.3
+       },
+       {
+        "t": "the",
+        "ini": 114.34,
+        "fin": 114.42
+       },
+       {
+        "t": "box",
+        "ini": 114.58,
+        "fin": 115.0
+       },
+       {
+        "t": "is",
+        "ini": 115.12,
+        "fin": 115.24
+       },
+       {
+        "t": "exciting,",
+        "ini": 115.3,
+        "fin": 115.98
+       },
+       {
+        "t": "and",
+        "ini": 116.2,
+        "fin": 116.38
+       },
+       {
+        "t": "I'm",
+        "ini": 116.5,
+        "fin": 116.62
+       },
+       {
+        "t": "excited",
+        "ini": 116.68,
+        "fin": 117.28
+       },
+       {
+        "t": "—",
+        "ini": 117.44,
+        "fin": 117.44
+       },
+       {
+        "t": "let's",
+        "ini": 117.52,
+        "fin": 117.72
+       },
+       {
+        "t": "go!",
+        "ini": 117.78,
+        "fin": 118.06
+       }
+      ],
+      "trad": "Pero la caja es emocionante, y yo estoy emocionado: ¡vamos!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Bored or boring, excited or exciting:",
+      "ini": 118.22,
+      "fin": 121.46,
+      "palabras": [
+       {
+        "t": "Bored",
+        "ini": 118.22,
+        "fin": 118.64
+       },
+       {
+        "t": "or",
+        "ini": 118.92,
+        "fin": 119.04
+       },
+       {
+        "t": "boring,",
+        "ini": 119.14,
+        "fin": 119.62
+       },
+       {
+        "t": "excited",
+        "ini": 119.82,
+        "fin": 120.48
+       },
+       {
+        "t": "or",
+        "ini": 120.56,
+        "fin": 120.7
+       },
+       {
+        "t": "exciting:",
+        "ini": 120.76,
+        "fin": 121.46
+       }
+      ],
+      "trad": "Estar aburrido o ser aburrido, estar emocionado o ser emocionante:"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "bored is how I feel, and boring is the show!",
+      "ini": 121.86,
+      "fin": 125.0,
+      "palabras": [
+       {
+        "t": "bored",
+        "ini": 121.86,
+        "fin": 122.1
+       },
+       {
+        "t": "is",
+        "ini": 122.16,
+        "fin": 122.28
+       },
+       {
+        "t": "how",
+        "ini": 122.32,
+        "fin": 122.52
+       },
+       {
+        "t": "I",
+        "ini": 122.6,
+        "fin": 122.68
+       },
+       {
+        "t": "feel,",
+        "ini": 122.78,
+        "fin": 123.14
+       },
+       {
+        "t": "and",
+        "ini": 123.46,
+        "fin": 123.56
+       },
+       {
+        "t": "boring",
+        "ini": 123.66,
+        "fin": 124.1
+       },
+       {
+        "t": "is",
+        "ini": 124.18,
+        "fin": 124.32
+       },
+       {
+        "t": "the",
+        "ini": 124.36,
+        "fin": 124.44
+       },
+       {
+        "t": "show!",
+        "ini": 124.54,
+        "fin": 125.0
+       }
+      ],
+      "trad": "¡«bored» es cómo me siento, y «boring», cómo es el espectáculo!"
+     }
+    ],
+    "duracion": 131.04
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Verse 1",
+      "texto": "Domingo de lluvia, sin tele y sin nada que hacer,",
+      "ini": 7.5,
+      "fin": 10.72,
+      "palabras": [
+       {
+        "t": "Domingo",
+        "ini": 7.5,
+        "fin": 8.02
+       },
+       {
+        "t": "de",
+        "ini": 8.06,
+        "fin": 8.14
+       },
+       {
+        "t": "lluvia,",
+        "ini": 8.18,
+        "fin": 8.5
+       },
+       {
+        "t": "sin",
+        "ini": 9.32,
+        "fin": 9.46
+       },
+       {
+        "t": "tele",
+        "ini": 9.56,
+        "fin": 9.78
+       },
+       {
+        "t": "y",
+        "ini": 9.82,
+        "fin": 9.84
+       },
+       {
+        "t": "sin",
+        "ini": 9.88,
+        "fin": 9.98
+       },
+       {
+        "t": "nada",
+        "ini": 10.02,
+        "fin": 10.18
+       },
+       {
+        "t": "que",
+        "ini": 10.22,
+        "fin": 10.28
+       },
+       {
+        "t": "hacer,",
+        "ini": 10.32,
+        "fin": 10.72
+       }
+      ],
+      "trad": "Rainy Sunday, no TV and nothing to do,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "bostezo: «¡Mamá, soy aburrido!». Y mamá se echa a reír:",
+      "ini": 11.16,
+      "fin": 14.38,
+      "palabras": [
+       {
+        "t": "bostezo:",
+        "ini": 11.16,
+        "fin": 11.64
+       },
+       {
+        "t": "«¡Mamá,",
+        "ini": 11.68,
+        "fin": 11.88
+       },
+       {
+        "t": "soy",
+        "ini": 11.94,
+        "fin": 12.06
+       },
+       {
+        "t": "aburrido!».",
+        "ini": 12.1,
+        "fin": 12.5
+       },
+       {
+        "t": "Y",
+        "ini": 12.98,
+        "fin": 13.04
+       },
+       {
+        "t": "mamá",
+        "ini": 13.08,
+        "fin": 13.3
+       },
+       {
+        "t": "se",
+        "ini": 13.4,
+        "fin": 13.46
+       },
+       {
+        "t": "echa",
+        "ini": 13.5,
+        "fin": 13.72
+       },
+       {
+        "t": "a",
+        "ini": 13.76,
+        "fin": 13.78
+       },
+       {
+        "t": "reír:",
+        "ini": 13.88,
+        "fin": 14.38
+       }
+      ],
+      "trad": "I yawn: «Mom, I'm boring!». And Mom bursts out laughing:"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "«No eres aburrido: estás aburrido. ¡Aburrido es el día!",
+      "ini": 14.42,
+      "fin": 18.02,
+      "palabras": [
+       {
+        "t": "«No",
+        "ini": 14.42,
+        "fin": 14.84
+       },
+       {
+        "t": "eres",
+        "ini": 14.88,
+        "fin": 15.22
+       },
+       {
+        "t": "aburrido:",
+        "ini": 15.28,
+        "fin": 15.68
+       },
+       {
+        "t": "estás",
+        "ini": 15.82,
+        "fin": 16.14
+       },
+       {
+        "t": "aburrido.",
+        "ini": 16.2,
+        "fin": 16.68
+       },
+       {
+        "t": "¡Aburrido",
+        "ini": 16.68,
+        "fin": 17.46
+       },
+       {
+        "t": "es",
+        "ini": 17.52,
+        "fin": 17.62
+       },
+       {
+        "t": "el",
+        "ini": 17.64,
+        "fin": 17.72
+       },
+       {
+        "t": "día!",
+        "ini": 17.76,
+        "fin": 18.02
+       }
+      ],
+      "trad": "«You're not boring: you're bored. It's the day that's boring!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Coge una caja, coge cinta… ¡y hazlo emocionante, vida mía!»",
+      "ini": 18.44,
+      "fin": 21.62,
+      "palabras": [
+       {
+        "t": "Coge",
+        "ini": 18.44,
+        "fin": 18.76
+       },
+       {
+        "t": "una",
+        "ini": 18.92,
+        "fin": 19.02
+       },
+       {
+        "t": "caja,",
+        "ini": 19.1,
+        "fin": 19.26
+       },
+       {
+        "t": "coge",
+        "ini": 19.32,
+        "fin": 19.52
+       },
+       {
+        "t": "cinta…",
+        "ini": 19.56,
+        "fin": 19.92
+       },
+       {
+        "t": "¡y",
+        "ini": 20.22,
+        "fin": 20.28
+       },
+       {
+        "t": "hazlo",
+        "ini": 20.32,
+        "fin": 20.56
+       },
+       {
+        "t": "emocionante,",
+        "ini": 20.6,
+        "fin": 21.1
+       },
+       {
+        "t": "vida",
+        "ini": 21.16,
+        "fin": 21.3
+       },
+       {
+        "t": "mía!»",
+        "ini": 21.38,
+        "fin": 21.62
+       }
+      ],
+      "trad": "Grab a box, grab some tape… and make it exciting, sweetheart!»"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡No soy aburrido, estoy aburrido!",
+      "ini": 22.02,
+      "fin": 25.0,
+      "palabras": [
+       {
+        "t": "¡No",
+        "ini": 22.02,
+        "fin": 22.14
+       },
+       {
+        "t": "soy",
+        "ini": 22.28,
+        "fin": 22.52
+       },
+       {
+        "t": "aburrido,",
+        "ini": 22.58,
+        "fin": 23.18
+       },
+       {
+        "t": "estoy",
+        "ini": 23.9,
+        "fin": 24.34
+       },
+       {
+        "t": "aburrido!",
+        "ini": 24.4,
+        "fin": 25.0
+       }
+      ],
+      "trad": "I'm not boring, I'm bored!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Pero la caja es genial… ¡y estoy emocionado, vamos!",
+      "ini": 25.7,
+      "fin": 28.64,
+      "palabras": [
+       {
+        "t": "Pero",
+        "ini": 25.7,
+        "fin": 26.1
+       },
+       {
+        "t": "la",
+        "ini": 26.16,
+        "fin": 26.24
+       },
+       {
+        "t": "caja",
+        "ini": 26.38,
+        "fin": 26.66
+       },
+       {
+        "t": "es",
+        "ini": 26.68,
+        "fin": 26.8
+       },
+       {
+        "t": "genial…",
+        "ini": 26.84,
+        "fin": 27.38
+       },
+       {
+        "t": "¡y",
+        "ini": 27.5,
+        "fin": 27.56
+       },
+       {
+        "t": "estoy",
+        "ini": 27.6,
+        "fin": 27.88
+       },
+       {
+        "t": "emocionado,",
+        "ini": 27.92,
+        "fin": 28.36
+       },
+       {
+        "t": "vamos!",
+        "ini": 28.42,
+        "fin": 28.64
+       }
+      ],
+      "trad": "But the box is great… and I'm excited, let's go!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Soy o estoy, estoy o soy:",
+      "ini": 29.1,
+      "fin": 31.3,
+      "palabras": [
+       {
+        "t": "Soy",
+        "ini": 29.1,
+        "fin": 29.54
+       },
+       {
+        "t": "o",
+        "ini": 29.56,
+        "fin": 29.6
+       },
+       {
+        "t": "estoy,",
+        "ini": 29.64,
+        "fin": 30.12
+       },
+       {
+        "t": "estoy",
+        "ini": 30.28,
+        "fin": 30.7
+       },
+       {
+        "t": "o",
+        "ini": 30.74,
+        "fin": 30.78
+       },
+       {
+        "t": "soy:",
+        "ini": 30.92,
+        "fin": 31.3
+       }
+      ],
+      "trad": "«Soy» or «estoy», «estoy» or «soy»:"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "«soy» es cómo soy, y «estoy», cómo me siento hoy.",
+      "ini": 31.3,
+      "fin": 35.68,
+      "palabras": [
+       {
+        "t": "«soy»",
+        "ini": 31.3,
+        "fin": 32.06
+       },
+       {
+        "t": "es",
+        "ini": 32.12,
+        "fin": 32.22
+       },
+       {
+        "t": "cómo",
+        "ini": 32.3,
+        "fin": 32.6
+       },
+       {
+        "t": "soy,",
+        "ini": 32.72,
+        "fin": 33.1
+       },
+       {
+        "t": "y",
+        "ini": 33.16,
+        "fin": 33.2
+       },
+       {
+        "t": "«estoy»,",
+        "ini": 33.22,
+        "fin": 33.74
+       },
+       {
+        "t": "cómo",
+        "ini": 33.9,
+        "fin": 34.26
+       },
+       {
+        "t": "me",
+        "ini": 34.34,
+        "fin": 34.42
+       },
+       {
+        "t": "siento",
+        "ini": 34.54,
+        "fin": 35.0
+       },
+       {
+        "t": "hoy.",
+        "ini": 35.24,
+        "fin": 35.68
+       }
+      ],
+      "trad": "«soy» is how I am, and «estoy», how I feel today."
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Hago un robot con cajas y con tapones de colores,",
+      "ini": 36.6,
+      "fin": 39.92,
+      "palabras": [
+       {
+        "t": "Hago",
+        "ini": 36.6,
+        "fin": 36.9
+       },
+       {
+        "t": "un",
+        "ini": 36.94,
+        "fin": 37.02
+       },
+       {
+        "t": "robot",
+        "ini": 37.08,
+        "fin": 37.44
+       },
+       {
+        "t": "con",
+        "ini": 37.52,
+        "fin": 37.66
+       },
+       {
+        "t": "cajas",
+        "ini": 37.74,
+        "fin": 38.08
+       },
+       {
+        "t": "y",
+        "ini": 38.1,
+        "fin": 38.18
+       },
+       {
+        "t": "con",
+        "ini": 38.22,
+        "fin": 38.34
+       },
+       {
+        "t": "tapones",
+        "ini": 38.42,
+        "fin": 39.04
+       },
+       {
+        "t": "de",
+        "ini": 39.12,
+        "fin": 39.2
+       },
+       {
+        "t": "colores,",
+        "ini": 39.34,
+        "fin": 39.92
+       }
+      ],
+      "trad": "I make a robot out of boxes and colorful bottle caps,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "mi hermana está asombrada: «¡Es asombroso!», y aplaude a montones.",
+      "ini": 40.24,
+      "fin": 43.56,
+      "palabras": [
+       {
+        "t": "mi",
+        "ini": 40.24,
+        "fin": 40.3
+       },
+       {
+        "t": "hermana",
+        "ini": 40.32,
+        "fin": 40.74
+       },
+       {
+        "t": "está",
+        "ini": 40.76,
+        "fin": 40.98
+       },
+       {
+        "t": "asombrada:",
+        "ini": 41.02,
+        "fin": 41.58
+       },
+       {
+        "t": "«¡Es",
+        "ini": 41.7,
+        "fin": 41.82
+       },
+       {
+        "t": "asombroso!»,",
+        "ini": 41.88,
+        "fin": 42.5
+       },
+       {
+        "t": "y",
+        "ini": 42.6,
+        "fin": 42.62
+       },
+       {
+        "t": "aplaude",
+        "ini": 42.66,
+        "fin": 42.9
+       },
+       {
+        "t": "a",
+        "ini": 42.92,
+        "fin": 42.94
+       },
+       {
+        "t": "montones.",
+        "ini": 42.98,
+        "fin": 43.56
+       }
+      ],
+      "trad": "my sister is amazed: «It's amazing!», and she claps and claps."
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¿Está listo? —¡Sí, está listo! ¡Y es muy listo: sabe bailar!",
+      "ini": 43.86,
+      "fin": 47.14,
+      "palabras": [
+       {
+        "t": "—¿Está",
+        "ini": 43.86,
+        "fin": 44.08
+       },
+       {
+        "t": "listo?",
+        "ini": 44.12,
+        "fin": 44.42
+       },
+       {
+        "t": "—¡Sí,",
+        "ini": 44.52,
+        "fin": 44.68
+       },
+       {
+        "t": "está",
+        "ini": 44.8,
+        "fin": 44.98
+       },
+       {
+        "t": "listo!",
+        "ini": 45.02,
+        "fin": 45.34
+       },
+       {
+        "t": "¡Y",
+        "ini": 45.44,
+        "fin": 45.5
+       },
+       {
+        "t": "es",
+        "ini": 45.56,
+        "fin": 45.64
+       },
+       {
+        "t": "muy",
+        "ini": 45.7,
+        "fin": 45.84
+       },
+       {
+        "t": "listo:",
+        "ini": 45.92,
+        "fin": 46.22
+       },
+       {
+        "t": "sabe",
+        "ini": 46.36,
+        "fin": 46.58
+       },
+       {
+        "t": "bailar!",
+        "ini": 46.6,
+        "fin": 47.14
+       }
+      ],
+      "trad": "—Is it ready? —Yes, it's ready! And it's very smart: it knows how to dance!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Baila por la cocina… ¡y mamá se une sin dudar!",
+      "ini": 47.52,
+      "fin": 50.62,
+      "palabras": [
+       {
+        "t": "Baila",
+        "ini": 47.52,
+        "fin": 47.84
+       },
+       {
+        "t": "por",
+        "ini": 47.96,
+        "fin": 48.14
+       },
+       {
+        "t": "la",
+        "ini": 48.2,
+        "fin": 48.3
+       },
+       {
+        "t": "cocina…",
+        "ini": 48.4,
+        "fin": 48.86
+       },
+       {
+        "t": "¡y",
+        "ini": 49.32,
+        "fin": 49.4
+       },
+       {
+        "t": "mamá",
+        "ini": 49.44,
+        "fin": 49.64
+       },
+       {
+        "t": "se",
+        "ini": 49.68,
+        "fin": 49.78
+       },
+       {
+        "t": "une",
+        "ini": 49.82,
+        "fin": 49.94
+       },
+       {
+        "t": "sin",
+        "ini": 50.0,
+        "fin": 50.18
+       },
+       {
+        "t": "dudar!",
+        "ini": 50.24,
+        "fin": 50.62
+       }
+      ],
+      "trad": "It dances around the kitchen… and Mom joins in right away!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡No soy aburrido, estoy aburrido!",
+      "ini": 51.08,
+      "fin": 54.08,
+      "palabras": [
+       {
+        "t": "¡No",
+        "ini": 51.08,
+        "fin": 51.22
+       },
+       {
+        "t": "soy",
+        "ini": 51.36,
+        "fin": 51.6
+       },
+       {
+        "t": "aburrido,",
+        "ini": 51.64,
+        "fin": 52.16
+       },
+       {
+        "t": "estoy",
+        "ini": 53.0,
+        "fin": 53.42
+       },
+       {
+        "t": "aburrido!",
+        "ini": 53.48,
+        "fin": 54.08
+       }
+      ],
+      "trad": "I'm not boring, I'm bored!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Pero la caja es genial… ¡y estoy emocionado, vamos!",
+      "ini": 54.8,
+      "fin": 57.96,
+      "palabras": [
+       {
+        "t": "Pero",
+        "ini": 54.8,
+        "fin": 55.18
+       },
+       {
+        "t": "la",
+        "ini": 55.24,
+        "fin": 55.34
+       },
+       {
+        "t": "caja",
+        "ini": 55.46,
+        "fin": 55.74
+       },
+       {
+        "t": "es",
+        "ini": 55.76,
+        "fin": 55.86
+       },
+       {
+        "t": "genial…",
+        "ini": 55.92,
+        "fin": 56.46
+       },
+       {
+        "t": "¡y",
+        "ini": 56.58,
+        "fin": 56.64
+       },
+       {
+        "t": "estoy",
+        "ini": 56.68,
+        "fin": 56.96
+       },
+       {
+        "t": "emocionado,",
+        "ini": 57.0,
+        "fin": 57.44
+       },
+       {
+        "t": "vamos!",
+        "ini": 57.5,
+        "fin": 57.96
+       }
+      ],
+      "trad": "But the box is great… and I'm excited, let's go!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Soy o estoy, estoy o soy:",
+      "ini": 58.16,
+      "fin": 60.42,
+      "palabras": [
+       {
+        "t": "Soy",
+        "ini": 58.16,
+        "fin": 58.62
+       },
+       {
+        "t": "o",
+        "ini": 58.64,
+        "fin": 58.7
+       },
+       {
+        "t": "estoy,",
+        "ini": 58.72,
+        "fin": 59.24
+       },
+       {
+        "t": "estoy",
+        "ini": 59.36,
+        "fin": 59.78
+       },
+       {
+        "t": "o",
+        "ini": 59.82,
+        "fin": 59.86
+       },
+       {
+        "t": "soy:",
+        "ini": 60.0,
+        "fin": 60.42
+       }
+      ],
+      "trad": "«Soy» or «estoy», «estoy» or «soy»:"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "«soy» es cómo soy, y «estoy», cómo me siento hoy.",
+      "ini": 60.46,
+      "fin": 64.88,
+      "palabras": [
+       {
+        "t": "«soy»",
+        "ini": 60.46,
+        "fin": 61.14
+       },
+       {
+        "t": "es",
+        "ini": 61.2,
+        "fin": 61.3
+       },
+       {
+        "t": "cómo",
+        "ini": 61.4,
+        "fin": 61.68
+       },
+       {
+        "t": "soy,",
+        "ini": 61.82,
+        "fin": 62.22
+       },
+       {
+        "t": "y",
+        "ini": 62.26,
+        "fin": 62.32
+       },
+       {
+        "t": "«estoy»,",
+        "ini": 62.32,
+        "fin": 62.84
+       },
+       {
+        "t": "cómo",
+        "ini": 62.98,
+        "fin": 63.36
+       },
+       {
+        "t": "me",
+        "ini": 63.42,
+        "fin": 63.5
+       },
+       {
+        "t": "siento",
+        "ini": 63.62,
+        "fin": 64.16
+       },
+       {
+        "t": "hoy.",
+        "ini": 64.32,
+        "fin": 64.88
+       }
+      ],
+      "trad": "«soy» is how I am, and «estoy», how I feel today."
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "El día era aburrido, yo estaba aburrido… el robot es divertido,",
+      "ini": 66.18,
+      "fin": 72.28,
+      "palabras": [
+       {
+        "t": "El",
+        "ini": 66.18,
+        "fin": 66.3
+       },
+       {
+        "t": "día",
+        "ini": 66.38,
+        "fin": 66.68
+       },
+       {
+        "t": "era",
+        "ini": 66.76,
+        "fin": 66.94
+       },
+       {
+        "t": "aburrido,",
+        "ini": 66.98,
+        "fin": 67.66
+       },
+       {
+        "t": "yo",
+        "ini": 68.18,
+        "fin": 68.24
+       },
+       {
+        "t": "estaba",
+        "ini": 68.26,
+        "fin": 68.76
+       },
+       {
+        "t": "aburrido…",
+        "ini": 68.8,
+        "fin": 69.46
+       },
+       {
+        "t": "el",
+        "ini": 70.04,
+        "fin": 70.16
+       },
+       {
+        "t": "robot",
+        "ini": 70.28,
+        "fin": 71.16
+       },
+       {
+        "t": "es",
+        "ini": 71.2,
+        "fin": 71.32
+       },
+       {
+        "t": "divertido,",
+        "ini": 71.38,
+        "fin": 72.28
+       }
+      ],
+      "trad": "The day was boring, I was bored… the robot is fun,"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "y yo estoy contento… ¡ser y estar, qué lío más divertido!",
+      "ini": 73.5,
+      "fin": 78.78,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 73.5,
+        "fin": 73.58
+       },
+       {
+        "t": "yo",
+        "ini": 73.64,
+        "fin": 73.86
+       },
+       {
+        "t": "estoy",
+        "ini": 73.9,
+        "fin": 74.3
+       },
+       {
+        "t": "contento…",
+        "ini": 74.32,
+        "fin": 75.18
+       },
+       {
+        "t": "¡ser",
+        "ini": 75.4,
+        "fin": 75.64
+       },
+       {
+        "t": "y",
+        "ini": 75.68,
+        "fin": 75.72
+       },
+       {
+        "t": "estar,",
+        "ini": 75.76,
+        "fin": 76.28
+       },
+       {
+        "t": "qué",
+        "ini": 76.62,
+        "fin": 76.78
+       },
+       {
+        "t": "lío",
+        "ini": 77.06,
+        "fin": 77.44
+       },
+       {
+        "t": "más",
+        "ini": 77.52,
+        "fin": 77.68
+       },
+       {
+        "t": "divertido!",
+        "ini": 77.76,
+        "fin": 78.78
+       }
+      ],
+      "trad": "and I'm happy… ser and estar, what a fun mess!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Ya es de noche y estoy cansado: ¡qué día tan largo y tan feliz!",
+      "ini": 81.14,
+      "fin": 86.76,
+      "palabras": [
+       {
+        "t": "Ya",
+        "ini": 81.14,
+        "fin": 81.22
+       },
+       {
+        "t": "es",
+        "ini": 81.26,
+        "fin": 81.34
+       },
+       {
+        "t": "de",
+        "ini": 81.4,
+        "fin": 81.52
+       },
+       {
+        "t": "noche",
+        "ini": 81.6,
+        "fin": 82.02
+       },
+       {
+        "t": "y",
+        "ini": 82.5,
+        "fin": 82.54
+       },
+       {
+        "t": "estoy",
+        "ini": 82.58,
+        "fin": 82.92
+       },
+       {
+        "t": "cansado:",
+        "ini": 82.96,
+        "fin": 83.58
+       },
+       {
+        "t": "¡qué",
+        "ini": 83.58,
+        "fin": 84.5
+       },
+       {
+        "t": "día",
+        "ini": 84.56,
+        "fin": 84.94
+       },
+       {
+        "t": "tan",
+        "ini": 85.02,
+        "fin": 85.18
+       },
+       {
+        "t": "largo",
+        "ini": 85.26,
+        "fin": 85.76
+       },
+       {
+        "t": "y",
+        "ini": 85.8,
+        "fin": 85.88
+       },
+       {
+        "t": "tan",
+        "ini": 85.92,
+        "fin": 86.06
+       },
+       {
+        "t": "feliz!",
+        "ini": 86.18,
+        "fin": 86.76
+       }
+      ],
+      "trad": "It's nighttime now and I'm tired: what a long, happy day!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "mi robot también duerme… ¡y mañana, a jugar otra vez, por fin!",
+      "ini": 88.64,
+      "fin": 93.88,
+      "palabras": [
+       {
+        "t": "mi",
+        "ini": 88.64,
+        "fin": 88.78
+       },
+       {
+        "t": "robot",
+        "ini": 88.9,
+        "fin": 89.3
+       },
+       {
+        "t": "también",
+        "ini": 89.34,
+        "fin": 89.72
+       },
+       {
+        "t": "duerme…",
+        "ini": 89.8,
+        "fin": 90.44
+       },
+       {
+        "t": "¡y",
+        "ini": 90.5,
+        "fin": 90.6
+       },
+       {
+        "t": "mañana,",
+        "ini": 90.7,
+        "fin": 91.22
+       },
+       {
+        "t": "a",
+        "ini": 91.32,
+        "fin": 91.32
+       },
+       {
+        "t": "jugar",
+        "ini": 91.4,
+        "fin": 91.94
+       },
+       {
+        "t": "otra",
+        "ini": 92.14,
+        "fin": 92.48
+       },
+       {
+        "t": "vez,",
+        "ini": 92.54,
+        "fin": 92.82
+       },
+       {
+        "t": "por",
+        "ini": 93.0,
+        "fin": 93.24
+       },
+       {
+        "t": "fin!",
+        "ini": 93.44,
+        "fin": 93.88
+       }
+      ],
+      "trad": "my robot is sleeping too… and tomorrow, we'll play again at last!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡No soy aburrido, estoy aburrido!",
+      "ini": 95.33,
+      "fin": 98.64,
+      "palabras": [
+       {
+        "t": "¡No",
+        "ini": 95.33,
+        "fin": 95.78
+       },
+       {
+        "t": "soy",
+        "ini": 95.92,
+        "fin": 96.16
+       },
+       {
+        "t": "aburrido,",
+        "ini": 96.22,
+        "fin": 96.8
+       },
+       {
+        "t": "estoy",
+        "ini": 97.56,
+        "fin": 97.98
+       },
+       {
+        "t": "aburrido!",
+        "ini": 98.04,
+        "fin": 98.64
+       }
+      ],
+      "trad": "I'm not boring, I'm bored!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Pero la caja es genial… ¡y estoy emocionado, vamos!",
+      "ini": 99.34,
+      "fin": 102.7,
+      "palabras": [
+       {
+        "t": "Pero",
+        "ini": 99.34,
+        "fin": 99.74
+       },
+       {
+        "t": "la",
+        "ini": 99.8,
+        "fin": 99.88
+       },
+       {
+        "t": "caja",
+        "ini": 100.02,
+        "fin": 100.3
+       },
+       {
+        "t": "es",
+        "ini": 100.32,
+        "fin": 100.4
+       },
+       {
+        "t": "genial…",
+        "ini": 100.48,
+        "fin": 101.04
+       },
+       {
+        "t": "¡y",
+        "ini": 101.1,
+        "fin": 101.18
+       },
+       {
+        "t": "estoy",
+        "ini": 101.22,
+        "fin": 101.52
+       },
+       {
+        "t": "emocionado,",
+        "ini": 101.56,
+        "fin": 102.0
+       },
+       {
+        "t": "vamos!",
+        "ini": 102.06,
+        "fin": 102.7
+       }
+      ],
+      "trad": "But the box is great… and I'm excited, let's go!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Soy o estoy, estoy o soy:",
+      "ini": 102.76,
+      "fin": 104.92,
+      "palabras": [
+       {
+        "t": "Soy",
+        "ini": 102.76,
+        "fin": 103.2
+       },
+       {
+        "t": "o",
+        "ini": 103.22,
+        "fin": 103.26
+       },
+       {
+        "t": "estoy,",
+        "ini": 103.28,
+        "fin": 103.78
+       },
+       {
+        "t": "estoy",
+        "ini": 103.92,
+        "fin": 104.34
+       },
+       {
+        "t": "o",
+        "ini": 104.38,
+        "fin": 104.42
+       },
+       {
+        "t": "soy:",
+        "ini": 104.56,
+        "fin": 104.92
+       }
+      ],
+      "trad": "«Soy» or «estoy», «estoy» or «soy»:"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "«soy» es cómo soy, y «estoy», cómo me siento hoy.",
+      "ini": 104.94,
+      "fin": 109.54,
+      "palabras": [
+       {
+        "t": "«soy»",
+        "ini": 104.94,
+        "fin": 105.68
+       },
+       {
+        "t": "es",
+        "ini": 105.76,
+        "fin": 105.86
+       },
+       {
+        "t": "cómo",
+        "ini": 105.94,
+        "fin": 106.22
+       },
+       {
+        "t": "soy,",
+        "ini": 106.38,
+        "fin": 106.76
+       },
+       {
+        "t": "y",
+        "ini": 106.82,
+        "fin": 106.86
+       },
+       {
+        "t": "«estoy»,",
+        "ini": 106.86,
+        "fin": 107.38
+       },
+       {
+        "t": "cómo",
+        "ini": 107.54,
+        "fin": 107.92
+       },
+       {
+        "t": "me",
+        "ini": 107.96,
+        "fin": 108.04
+       },
+       {
+        "t": "siento",
+        "ini": 108.18,
+        "fin": 108.74
+       },
+       {
+        "t": "hoy.",
+        "ini": 108.88,
+        "fin": 109.54
+       }
+      ],
+      "trad": "«soy» is how I am, and «estoy», how I feel today."
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡No soy aburrido, estoy aburrido!",
+      "ini": 110.2,
+      "fin": 113.18,
+      "palabras": [
+       {
+        "t": "¡No",
+        "ini": 110.2,
+        "fin": 110.32
+       },
+       {
+        "t": "soy",
+        "ini": 110.46,
+        "fin": 110.7
+       },
+       {
+        "t": "aburrido,",
+        "ini": 110.76,
+        "fin": 111.34
+       },
+       {
+        "t": "estoy",
+        "ini": 112.1,
+        "fin": 112.52
+       },
+       {
+        "t": "aburrido!",
+        "ini": 112.58,
+        "fin": 113.18
+       }
+      ],
+      "trad": "I'm not boring, I'm bored!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Pero la caja es genial… ¡y estoy emocionado, vamos!",
+      "ini": 113.88,
+      "fin": 117.04,
+      "palabras": [
+       {
+        "t": "Pero",
+        "ini": 113.88,
+        "fin": 114.28
+       },
+       {
+        "t": "la",
+        "ini": 114.34,
+        "fin": 114.42
+       },
+       {
+        "t": "caja",
+        "ini": 114.56,
+        "fin": 114.84
+       },
+       {
+        "t": "es",
+        "ini": 114.86,
+        "fin": 114.96
+       },
+       {
+        "t": "genial…",
+        "ini": 115.02,
+        "fin": 115.58
+       },
+       {
+        "t": "¡y",
+        "ini": 115.66,
+        "fin": 115.74
+       },
+       {
+        "t": "estoy",
+        "ini": 115.78,
+        "fin": 116.06
+       },
+       {
+        "t": "emocionado,",
+        "ini": 116.08,
+        "fin": 116.54
+       },
+       {
+        "t": "vamos!",
+        "ini": 116.6,
+        "fin": 117.04
+       }
+      ],
+      "trad": "But the box is great… and I'm excited, let's go!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Soy o estoy, estoy o soy:",
+      "ini": 117.28,
+      "fin": 119.48,
+      "palabras": [
+       {
+        "t": "Soy",
+        "ini": 117.28,
+        "fin": 117.74
+       },
+       {
+        "t": "o",
+        "ini": 117.78,
+        "fin": 117.8
+       },
+       {
+        "t": "estoy,",
+        "ini": 117.8,
+        "fin": 118.32
+       },
+       {
+        "t": "estoy",
+        "ini": 118.48,
+        "fin": 118.88
+       },
+       {
+        "t": "o",
+        "ini": 118.92,
+        "fin": 118.96
+       },
+       {
+        "t": "soy:",
+        "ini": 119.1,
+        "fin": 119.48
+       }
+      ],
+      "trad": "«Soy» or «estoy», «estoy» or «soy»:"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "«soy» es cómo soy, y «estoy», cómo me siento hoy.",
+      "ini": 119.5,
+      "fin": 124.08,
+      "palabras": [
+       {
+        "t": "«soy»",
+        "ini": 119.5,
+        "fin": 120.24
+       },
+       {
+        "t": "es",
+        "ini": 120.3,
+        "fin": 120.4
+       },
+       {
+        "t": "cómo",
+        "ini": 120.48,
+        "fin": 120.78
+       },
+       {
+        "t": "soy,",
+        "ini": 120.92,
+        "fin": 121.3
+       },
+       {
+        "t": "y",
+        "ini": 121.38,
+        "fin": 121.4
+       },
+       {
+        "t": "«estoy»,",
+        "ini": 121.42,
+        "fin": 121.92
+       },
+       {
+        "t": "cómo",
+        "ini": 122.08,
+        "fin": 122.46
+       },
+       {
+        "t": "me",
+        "ini": 122.52,
+        "fin": 122.6
+       },
+       {
+        "t": "siento",
+        "ini": 122.72,
+        "fin": 123.18
+       },
+       {
+        "t": "hoy.",
+        "ini": 123.44,
+        "fin": 124.08
+       }
+      ],
+      "trad": "«soy» is how I am, and «estoy», how I feel today."
+     }
+    ],
+    "duracion": 131.04
+   },
+   "preguntas": [
+    {
+     "en": "What does the boy build?",
+     "en_op": [
+      "A robot",
+      "A kite",
+      "A boat"
+     ],
+     "es": "¿Qué construye el niño?",
+     "es_op": [
+      "Un robot",
+      "Una cometa",
+      "Un barco"
+     ]
+    },
+    {
+     "en": "The day is boring, so I'm ___.",
+     "en_op": [
+      "bored",
+      "boring",
+      "bore"
+     ],
+     "es": "El día es aburrido, así que ___ aburrido.",
+     "es_op": [
+      "estoy",
+      "soy",
+      "eres"
+     ]
+    },
+    {
+     "en": "Who joins the robot's dance?",
+     "en_op": [
+      "Mom",
+      "The cat",
+      "Grandpa"
+     ],
+     "es": "¿Quién se une al baile del robot?",
+     "es_op": [
+      "Mamá",
+      "El gato",
+      "El abuelo"
+     ]
+    }
+   ]
   }
  ]
 }
