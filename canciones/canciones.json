@@ -6759,6 +6759,3066 @@
    "preguntas": []
   },
   {
+   "id": "i05-animal",
+   "titulo_en": "What Animal Could It Be?",
+   "titulo_es": "¿Qué animal será?",
+   "ensena_en": "animals and their sounds, listening carefully (ages 1-3)",
+   "ensena_es": "los animales y sus sonidos, escuchando con atención (1-3 años)",
+   "infantil": true,
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "Shh… listen, listen…",
+      "ini": 0.0,
+      "fin": 11.4,
+      "palabras": [
+       {
+        "t": "Shh…",
+        "ini": 0.0,
+        "fin": 0.34
+       },
+       {
+        "t": "listen,",
+        "ini": 9.6,
+        "fin": 10.26
+       },
+       {
+        "t": "listen…",
+        "ini": 10.78,
+        "fin": 11.4
+       }
+      ],
+      "trad": "Chsss… escucha, escucha…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "what animal could it be?",
+      "ini": 11.7,
+      "fin": 13.48,
+      "palabras": [
+       {
+        "t": "what",
+        "ini": 11.7,
+        "fin": 11.92
+       },
+       {
+        "t": "animal",
+        "ini": 12.08,
+        "fin": 12.5
+       },
+       {
+        "t": "could",
+        "ini": 12.6,
+        "fin": 12.94
+       },
+       {
+        "t": "it",
+        "ini": 13.0,
+        "fin": 13.1
+       },
+       {
+        "t": "be?",
+        "ini": 13.22,
+        "fin": 13.48
+       }
+      ],
+      "trad": "¿qué animal será?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "I hear it, I hear it…",
+      "ini": 14.26,
+      "fin": 16.2,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 14.26,
+        "fin": 14.3
+       },
+       {
+        "t": "hear",
+        "ini": 14.44,
+        "fin": 14.7
+       },
+       {
+        "t": "it,",
+        "ini": 14.78,
+        "fin": 14.96
+       },
+       {
+        "t": "I",
+        "ini": 15.48,
+        "fin": 15.52
+       },
+       {
+        "t": "hear",
+        "ini": 15.64,
+        "fin": 15.96
+       },
+       {
+        "t": "it…",
+        "ini": 16.04,
+        "fin": 16.2
+       }
+      ],
+      "trad": "Lo oigo, lo oigo…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "now I know, let's see!",
+      "ini": 16.84,
+      "fin": 18.44,
+      "palabras": [
+       {
+        "t": "now",
+        "ini": 16.84,
+        "fin": 17.1
+       },
+       {
+        "t": "I",
+        "ini": 17.26,
+        "fin": 17.3
+       },
+       {
+        "t": "know,",
+        "ini": 17.4,
+        "fin": 17.6
+       },
+       {
+        "t": "let's",
+        "ini": 17.7,
+        "fin": 17.98
+       },
+       {
+        "t": "see!",
+        "ini": 18.08,
+        "fin": 18.44
+       }
+      ],
+      "trad": "¡ya lo sé, a ver!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Moo, moo! Who could it be? The cow!",
+      "ini": 28.78,
+      "fin": 31.5,
+      "palabras": [
+       {
+        "t": "Moo,",
+        "ini": 28.78,
+        "fin": 29.1
+       },
+       {
+        "t": "moo!",
+        "ini": 29.4,
+        "fin": 29.68
+       },
+       {
+        "t": "Who",
+        "ini": 29.98,
+        "fin": 30.16
+       },
+       {
+        "t": "could",
+        "ini": 30.3,
+        "fin": 30.46
+       },
+       {
+        "t": "it",
+        "ini": 30.48,
+        "fin": 30.54
+       },
+       {
+        "t": "be?",
+        "ini": 30.64,
+        "fin": 30.82
+       },
+       {
+        "t": "The",
+        "ini": 30.92,
+        "fin": 31.0
+       },
+       {
+        "t": "cow!",
+        "ini": 31.2,
+        "fin": 31.5
+       }
+      ],
+      "trad": "¡Muuu, muuu! ¿Quién será? ¡La vaca!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Quack, quack! Who could it be? The duck!",
+      "ini": 31.8,
+      "fin": 33.88,
+      "palabras": [
+       {
+        "t": "Quack,",
+        "ini": 31.8,
+        "fin": 31.94
+       },
+       {
+        "t": "quack!",
+        "ini": 31.94,
+        "fin": 32.08
+       },
+       {
+        "t": "Who",
+        "ini": 32.4,
+        "fin": 32.56
+       },
+       {
+        "t": "could",
+        "ini": 32.7,
+        "fin": 32.84
+       },
+       {
+        "t": "it",
+        "ini": 32.88,
+        "fin": 32.98
+       },
+       {
+        "t": "be?",
+        "ini": 33.02,
+        "fin": 33.22
+       },
+       {
+        "t": "The",
+        "ini": 33.34,
+        "fin": 33.42
+       },
+       {
+        "t": "duck!",
+        "ini": 33.6,
+        "fin": 33.88
+       }
+      ],
+      "trad": "¡Cuac, cuac! ¿Quién será? ¡El pato!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Woof, woof! Who could it be? The dog!",
+      "ini": 34.2,
+      "fin": 36.6,
+      "palabras": [
+       {
+        "t": "Woof,",
+        "ini": 34.2,
+        "fin": 34.2
+       },
+       {
+        "t": "woof!",
+        "ini": 34.24,
+        "fin": 34.48
+       },
+       {
+        "t": "Who",
+        "ini": 34.84,
+        "fin": 34.96
+       },
+       {
+        "t": "could",
+        "ini": 35.1,
+        "fin": 35.26
+       },
+       {
+        "t": "it",
+        "ini": 35.3,
+        "fin": 35.38
+       },
+       {
+        "t": "be?",
+        "ini": 35.44,
+        "fin": 35.64
+       },
+       {
+        "t": "The",
+        "ini": 35.74,
+        "fin": 35.84
+       },
+       {
+        "t": "dog!",
+        "ini": 36.0,
+        "fin": 36.6
+       }
+      ],
+      "trad": "¡Guau, guau! ¿Quién será? ¡El perro!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Meow, meow! Who could it be? The cat!",
+      "ini": 38.36,
+      "fin": 41.14,
+      "palabras": [
+       {
+        "t": "Meow,",
+        "ini": 38.36,
+        "fin": 38.7
+       },
+       {
+        "t": "meow!",
+        "ini": 39.0,
+        "fin": 39.28
+       },
+       {
+        "t": "Who",
+        "ini": 39.58,
+        "fin": 39.76
+       },
+       {
+        "t": "could",
+        "ini": 39.9,
+        "fin": 40.06
+       },
+       {
+        "t": "it",
+        "ini": 40.08,
+        "fin": 40.18
+       },
+       {
+        "t": "be?",
+        "ini": 40.24,
+        "fin": 40.44
+       },
+       {
+        "t": "The",
+        "ini": 40.54,
+        "fin": 40.62
+       },
+       {
+        "t": "cat!",
+        "ini": 40.8,
+        "fin": 41.14
+       }
+      ],
+      "trad": "¡Miau, miau! ¿Quién será? ¡El gato!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Shh… listen, listen…",
+      "ini": 46.76,
+      "fin": 49.86,
+      "palabras": [
+       {
+        "t": "Shh…",
+        "ini": 46.76,
+        "fin": 47.08
+       },
+       {
+        "t": "listen,",
+        "ini": 48.0,
+        "fin": 48.66
+       },
+       {
+        "t": "listen…",
+        "ini": 49.2,
+        "fin": 49.86
+       }
+      ],
+      "trad": "Chsss… escucha, escucha…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "what animal could it be?",
+      "ini": 50.1,
+      "fin": 51.88,
+      "palabras": [
+       {
+        "t": "what",
+        "ini": 50.1,
+        "fin": 50.3
+       },
+       {
+        "t": "animal",
+        "ini": 50.48,
+        "fin": 50.88
+       },
+       {
+        "t": "could",
+        "ini": 51.0,
+        "fin": 51.34
+       },
+       {
+        "t": "it",
+        "ini": 51.38,
+        "fin": 51.48
+       },
+       {
+        "t": "be?",
+        "ini": 51.6,
+        "fin": 51.88
+       }
+      ],
+      "trad": "¿qué animal será?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "I hear it, I hear it…",
+      "ini": 52.58,
+      "fin": 54.68,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 52.58,
+        "fin": 52.68
+       },
+       {
+        "t": "hear",
+        "ini": 52.84,
+        "fin": 53.12
+       },
+       {
+        "t": "it,",
+        "ini": 53.2,
+        "fin": 53.36
+       },
+       {
+        "t": "I",
+        "ini": 53.8,
+        "fin": 53.9
+       },
+       {
+        "t": "hear",
+        "ini": 54.04,
+        "fin": 54.36
+       },
+       {
+        "t": "it…",
+        "ini": 54.44,
+        "fin": 54.68
+       }
+      ],
+      "trad": "Lo oigo, lo oigo…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "now I know, let's see!",
+      "ini": 55.24,
+      "fin": 56.66,
+      "palabras": [
+       {
+        "t": "now",
+        "ini": 55.24,
+        "fin": 55.5
+       },
+       {
+        "t": "I",
+        "ini": 55.66,
+        "fin": 55.68
+       },
+       {
+        "t": "know,",
+        "ini": 55.8,
+        "fin": 56.0
+       },
+       {
+        "t": "let's",
+        "ini": 56.1,
+        "fin": 56.38
+       },
+       {
+        "t": "see!",
+        "ini": 56.46,
+        "fin": 56.66
+       }
+      ],
+      "trad": "¡ya lo sé, a ver!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Baa, baa! Who could it be? The sheep!",
+      "ini": 67.24,
+      "fin": 69.9,
+      "palabras": [
+       {
+        "t": "Baa,",
+        "ini": 67.24,
+        "fin": 67.6
+       },
+       {
+        "t": "baa!",
+        "ini": 67.8,
+        "fin": 68.22
+       },
+       {
+        "t": "Who",
+        "ini": 68.4,
+        "fin": 68.56
+       },
+       {
+        "t": "could",
+        "ini": 68.7,
+        "fin": 68.88
+       },
+       {
+        "t": "it",
+        "ini": 68.9,
+        "fin": 68.98
+       },
+       {
+        "t": "be?",
+        "ini": 69.04,
+        "fin": 69.26
+       },
+       {
+        "t": "The",
+        "ini": 69.36,
+        "fin": 69.46
+       },
+       {
+        "t": "sheep!",
+        "ini": 69.56,
+        "fin": 69.9
+       }
+      ],
+      "trad": "¡Beee, beee! ¿Quién será? ¡La oveja!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Cheep, cheep! Who could it be? The chick!",
+      "ini": 70.18,
+      "fin": 72.3,
+      "palabras": [
+       {
+        "t": "Cheep,",
+        "ini": 70.18,
+        "fin": 70.18
+       },
+       {
+        "t": "cheep!",
+        "ini": 70.2,
+        "fin": 70.48
+       },
+       {
+        "t": "Who",
+        "ini": 70.84,
+        "fin": 70.96
+       },
+       {
+        "t": "could",
+        "ini": 71.1,
+        "fin": 71.28
+       },
+       {
+        "t": "it",
+        "ini": 71.3,
+        "fin": 71.4
+       },
+       {
+        "t": "be?",
+        "ini": 71.46,
+        "fin": 71.64
+       },
+       {
+        "t": "The",
+        "ini": 71.74,
+        "fin": 71.88
+       },
+       {
+        "t": "chick!",
+        "ini": 72.0,
+        "fin": 72.3
+       }
+      ],
+      "trad": "¡Pío, pío! ¿Quién será? ¡El pollito!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Ribbit, ribbit! Who could it be? The frog!",
+      "ini": 73.2,
+      "fin": 76.14,
+      "palabras": [
+       {
+        "t": "Ribbit,",
+        "ini": 73.2,
+        "fin": 73.64
+       },
+       {
+        "t": "ribbit!",
+        "ini": 73.84,
+        "fin": 74.26
+       },
+       {
+        "t": "Who",
+        "ini": 74.44,
+        "fin": 74.56
+       },
+       {
+        "t": "could",
+        "ini": 74.7,
+        "fin": 74.86
+       },
+       {
+        "t": "it",
+        "ini": 74.9,
+        "fin": 74.98
+       },
+       {
+        "t": "be?",
+        "ini": 75.04,
+        "fin": 75.22
+       },
+       {
+        "t": "The",
+        "ini": 75.34,
+        "fin": 75.44
+       },
+       {
+        "t": "frog!",
+        "ini": 75.6,
+        "fin": 76.14
+       }
+      ],
+      "trad": "¡Croac, croac! ¿Quién será? ¡La rana!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Grrr… Who could it be? A sleepy lion!",
+      "ini": 76.8,
+      "fin": 80.7,
+      "palabras": [
+       {
+        "t": "Grrr…",
+        "ini": 76.8,
+        "fin": 77.96
+       },
+       {
+        "t": "Who",
+        "ini": 78.06,
+        "fin": 78.16
+       },
+       {
+        "t": "could",
+        "ini": 78.3,
+        "fin": 78.46
+       },
+       {
+        "t": "it",
+        "ini": 78.48,
+        "fin": 78.58
+       },
+       {
+        "t": "be?",
+        "ini": 78.64,
+        "fin": 78.78
+       },
+       {
+        "t": "A",
+        "ini": 78.98,
+        "fin": 79.08
+       },
+       {
+        "t": "sleepy",
+        "ini": 79.2,
+        "fin": 79.78
+       },
+       {
+        "t": "lion!",
+        "ini": 80.14,
+        "fin": 80.7
+       }
+      ],
+      "trad": "Grrr… ¿Quién será? ¡Un león dormilón!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "And now, very quietly… who goes… shhh?",
+      "ini": 86.2,
+      "fin": 94.0,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 86.2,
+        "fin": 86.42
+       },
+       {
+        "t": "now,",
+        "ini": 86.52,
+        "fin": 87.3
+       },
+       {
+        "t": "very",
+        "ini": 88.26,
+        "fin": 88.64
+       },
+       {
+        "t": "quietly…",
+        "ini": 88.8,
+        "fin": 89.7
+       },
+       {
+        "t": "who",
+        "ini": 90.94,
+        "fin": 91.12
+       },
+       {
+        "t": "goes…",
+        "ini": 91.3,
+        "fin": 92.08
+       },
+       {
+        "t": "shhh?",
+        "ini": 93.6,
+        "fin": 94.0
+       }
+      ],
+      "trad": "Y ahora, muy bajito… ¿quién hace… chsss?"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "The little ones at school, who listen so well!",
+      "ini": 94.54,
+      "fin": 98.86,
+      "palabras": [
+       {
+        "t": "The",
+        "ini": 94.54,
+        "fin": 94.7
+       },
+       {
+        "t": "little",
+        "ini": 94.84,
+        "fin": 95.36
+       },
+       {
+        "t": "ones",
+        "ini": 95.5,
+        "fin": 95.74
+       },
+       {
+        "t": "at",
+        "ini": 95.78,
+        "fin": 95.92
+       },
+       {
+        "t": "school,",
+        "ini": 95.98,
+        "fin": 96.56
+       },
+       {
+        "t": "who",
+        "ini": 96.96,
+        "fin": 97.14
+       },
+       {
+        "t": "listen",
+        "ini": 97.22,
+        "fin": 97.66
+       },
+       {
+        "t": "so",
+        "ini": 97.84,
+        "fin": 98.26
+       },
+       {
+        "t": "well!",
+        "ini": 98.42,
+        "fin": 98.86
+       }
+      ],
+      "trad": "¡Los peques del cole, que escuchan tan bien!"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "Shh… listen, listen…",
+      "ini": 103.91,
+      "fin": 106.28,
+      "palabras": [
+       {
+        "t": "Shh…",
+        "ini": 103.91,
+        "fin": 104.36
+       },
+       {
+        "t": "listen,",
+        "ini": 104.4,
+        "fin": 105.08
+       },
+       {
+        "t": "listen…",
+        "ini": 105.62,
+        "fin": 106.28
+       }
+      ],
+      "trad": "Chsss… escucha, escucha…"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "what animal could it be?",
+      "ini": 106.5,
+      "fin": 108.28,
+      "palabras": [
+       {
+        "t": "what",
+        "ini": 106.5,
+        "fin": 106.74
+       },
+       {
+        "t": "animal",
+        "ini": 106.88,
+        "fin": 107.28
+       },
+       {
+        "t": "could",
+        "ini": 107.4,
+        "fin": 107.74
+       },
+       {
+        "t": "it",
+        "ini": 107.8,
+        "fin": 107.92
+       },
+       {
+        "t": "be?",
+        "ini": 108.02,
+        "fin": 108.28
+       }
+      ],
+      "trad": "¿qué animal será?"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "I hear it, I hear it…",
+      "ini": 109.06,
+      "fin": 111.0,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 109.06,
+        "fin": 109.12
+       },
+       {
+        "t": "hear",
+        "ini": 109.24,
+        "fin": 109.5
+       },
+       {
+        "t": "it,",
+        "ini": 109.6,
+        "fin": 109.78
+       },
+       {
+        "t": "I",
+        "ini": 110.28,
+        "fin": 110.34
+       },
+       {
+        "t": "hear",
+        "ini": 110.44,
+        "fin": 110.76
+       },
+       {
+        "t": "it…",
+        "ini": 110.84,
+        "fin": 111.0
+       }
+      ],
+      "trad": "Lo oigo, lo oigo…"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "now I know, let's see!",
+      "ini": 111.66,
+      "fin": 113.24,
+      "palabras": [
+       {
+        "t": "now",
+        "ini": 111.66,
+        "fin": 111.9
+       },
+       {
+        "t": "I",
+        "ini": 112.1,
+        "fin": 112.12
+       },
+       {
+        "t": "know,",
+        "ini": 112.2,
+        "fin": 112.44
+       },
+       {
+        "t": "let's",
+        "ini": 112.54,
+        "fin": 112.8
+       },
+       {
+        "t": "see!",
+        "ini": 112.88,
+        "fin": 113.24
+       }
+      ],
+      "trad": "¡ya lo sé, a ver!"
+     }
+    ],
+    "duracion": 124.82
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "Escucha, escucha, escucha…",
+      "ini": 9.32,
+      "fin": 11.6,
+      "palabras": [
+       {
+        "t": "Escucha,",
+        "ini": 9.32,
+        "fin": 9.98
+       },
+       {
+        "t": "escucha,",
+        "ini": 10.04,
+        "fin": 10.58
+       },
+       {
+        "t": "escucha…",
+        "ini": 10.62,
+        "fin": 11.6
+       }
+      ],
+      "trad": "Listen, listen, listen…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿qué animal será?",
+      "ini": 11.6,
+      "fin": 13.48,
+      "palabras": [
+       {
+        "t": "¿qué",
+        "ini": 11.6,
+        "fin": 12.06
+       },
+       {
+        "t": "animal",
+        "ini": 12.12,
+        "fin": 12.76
+       },
+       {
+        "t": "será?",
+        "ini": 12.86,
+        "fin": 13.48
+       }
+      ],
+      "trad": "What animal could it be?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Lo oigo, lo oigo…",
+      "ini": 14.1,
+      "fin": 16.4,
+      "palabras": [
+       {
+        "t": "Lo",
+        "ini": 14.1,
+        "fin": 14.32
+       },
+       {
+        "t": "oigo,",
+        "ini": 14.4,
+        "fin": 15.2
+       },
+       {
+        "t": "lo",
+        "ini": 15.3,
+        "fin": 15.54
+       },
+       {
+        "t": "oigo…",
+        "ini": 15.68,
+        "fin": 16.4
+       }
+      ],
+      "trad": "I hear it, I hear it…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡ya sé quién está!",
+      "ini": 16.4,
+      "fin": 18.28,
+      "palabras": [
+       {
+        "t": "¡ya",
+        "ini": 16.4,
+        "fin": 16.94
+       },
+       {
+        "t": "sé",
+        "ini": 17.08,
+        "fin": 17.26
+       },
+       {
+        "t": "quién",
+        "ini": 17.38,
+        "fin": 17.7
+       },
+       {
+        "t": "está!",
+        "ini": 17.76,
+        "fin": 18.28
+       }
+      ],
+      "trad": "I know who's there!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "¡Muuu, muuu! ¿Quién es? ¡La vaca!",
+      "ini": 26.23,
+      "fin": 28.72,
+      "palabras": [
+       {
+        "t": "¡Muuu,",
+        "ini": 26.23,
+        "fin": 26.68
+       },
+       {
+        "t": "muuu!",
+        "ini": 27.04,
+        "fin": 27.24
+       },
+       {
+        "t": "¿Quién",
+        "ini": 27.3,
+        "fin": 27.62
+       },
+       {
+        "t": "es?",
+        "ini": 27.68,
+        "fin": 27.84
+       },
+       {
+        "t": "¡La",
+        "ini": 27.88,
+        "fin": 28.1
+       },
+       {
+        "t": "vaca!",
+        "ini": 28.18,
+        "fin": 28.72
+       }
+      ],
+      "trad": "Moo, moo! Who is it? The cow!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "¡Cuac, cuac! ¿Quién es? ¡El pato!",
+      "ini": 31.15,
+      "fin": 33.52,
+      "palabras": [
+       {
+        "t": "¡Cuac,",
+        "ini": 31.15,
+        "fin": 31.6
+       },
+       {
+        "t": "cuac!",
+        "ini": 31.78,
+        "fin": 32.08
+       },
+       {
+        "t": "¿Quién",
+        "ini": 32.08,
+        "fin": 32.4
+       },
+       {
+        "t": "es?",
+        "ini": 32.46,
+        "fin": 32.62
+       },
+       {
+        "t": "¡El",
+        "ini": 32.7,
+        "fin": 32.88
+       },
+       {
+        "t": "pato!",
+        "ini": 33.0,
+        "fin": 33.52
+       }
+      ],
+      "trad": "Quack, quack! Who is it? The duck!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "¡Guau, guau! ¿Quién es? ¡El perro!",
+      "ini": 36.01,
+      "fin": 38.32,
+      "palabras": [
+       {
+        "t": "¡Guau,",
+        "ini": 36.01,
+        "fin": 36.46
+       },
+       {
+        "t": "guau!",
+        "ini": 36.56,
+        "fin": 36.86
+       },
+       {
+        "t": "¿Quién",
+        "ini": 36.86,
+        "fin": 37.2
+       },
+       {
+        "t": "es?",
+        "ini": 37.26,
+        "fin": 37.46
+       },
+       {
+        "t": "¡El",
+        "ini": 37.5,
+        "fin": 37.68
+       },
+       {
+        "t": "perro!",
+        "ini": 37.78,
+        "fin": 38.32
+       }
+      ],
+      "trad": "Woof, woof! Who is it? The dog!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "¡Miau, miau! ¿Quién es? ¡El gato!",
+      "ini": 40.81,
+      "fin": 43.08,
+      "palabras": [
+       {
+        "t": "¡Miau,",
+        "ini": 40.81,
+        "fin": 41.26
+       },
+       {
+        "t": "miau!",
+        "ini": 41.36,
+        "fin": 41.6
+       },
+       {
+        "t": "¿Quién",
+        "ini": 41.66,
+        "fin": 42.0
+       },
+       {
+        "t": "es?",
+        "ini": 42.08,
+        "fin": 42.28
+       },
+       {
+        "t": "¡El",
+        "ini": 42.3,
+        "fin": 42.54
+       },
+       {
+        "t": "gato!",
+        "ini": 42.6,
+        "fin": 43.08
+       }
+      ],
+      "trad": "Meow, meow! Who is it? The cat!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Escucha, escucha, escucha…",
+      "ini": 45.34,
+      "fin": 47.62,
+      "palabras": [
+       {
+        "t": "Escucha,",
+        "ini": 45.34,
+        "fin": 46.0
+       },
+       {
+        "t": "escucha,",
+        "ini": 46.04,
+        "fin": 46.58
+       },
+       {
+        "t": "escucha…",
+        "ini": 46.62,
+        "fin": 47.62
+       }
+      ],
+      "trad": "Listen, listen, listen…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿qué animal será?",
+      "ini": 47.62,
+      "fin": 49.48,
+      "palabras": [
+       {
+        "t": "¿qué",
+        "ini": 47.62,
+        "fin": 48.06
+       },
+       {
+        "t": "animal",
+        "ini": 48.12,
+        "fin": 48.76
+       },
+       {
+        "t": "será?",
+        "ini": 48.88,
+        "fin": 49.48
+       }
+      ],
+      "trad": "What animal could it be?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Lo oigo, lo oigo…",
+      "ini": 50.1,
+      "fin": 52.4,
+      "palabras": [
+       {
+        "t": "Lo",
+        "ini": 50.1,
+        "fin": 50.34
+       },
+       {
+        "t": "oigo,",
+        "ini": 50.4,
+        "fin": 51.2
+       },
+       {
+        "t": "lo",
+        "ini": 51.3,
+        "fin": 51.46
+       },
+       {
+        "t": "oigo…",
+        "ini": 51.7,
+        "fin": 52.4
+       }
+      ],
+      "trad": "I hear it, I hear it…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡ya sé quién está!",
+      "ini": 52.4,
+      "fin": 54.28,
+      "palabras": [
+       {
+        "t": "¡ya",
+        "ini": 52.4,
+        "fin": 52.94
+       },
+       {
+        "t": "sé",
+        "ini": 53.08,
+        "fin": 53.26
+       },
+       {
+        "t": "quién",
+        "ini": 53.4,
+        "fin": 53.7
+       },
+       {
+        "t": "está!",
+        "ini": 53.76,
+        "fin": 54.28
+       }
+      ],
+      "trad": "I know who's there!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¡Beee, beee! ¿Quién es? ¡La oveja!",
+      "ini": 64.85,
+      "fin": 67.1,
+      "palabras": [
+       {
+        "t": "¡Beee,",
+        "ini": 64.85,
+        "fin": 65.3
+       },
+       {
+        "t": "beee!",
+        "ini": 65.38,
+        "fin": 65.56
+       },
+       {
+        "t": "¿Quién",
+        "ini": 65.64,
+        "fin": 66.0
+       },
+       {
+        "t": "es?",
+        "ini": 66.08,
+        "fin": 66.24
+       },
+       {
+        "t": "¡La",
+        "ini": 66.26,
+        "fin": 66.46
+       },
+       {
+        "t": "oveja!",
+        "ini": 66.5,
+        "fin": 67.1
+       }
+      ],
+      "trad": "Baa, baa! Who is it? The sheep!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¡Pío, pío! ¿Quién es? ¡El pollito!",
+      "ini": 68.83,
+      "fin": 71.94,
+      "palabras": [
+       {
+        "t": "¡Pío,",
+        "ini": 68.83,
+        "fin": 69.28
+       },
+       {
+        "t": "pío!",
+        "ini": 69.6,
+        "fin": 70.36
+       },
+       {
+        "t": "¿Quién",
+        "ini": 70.44,
+        "fin": 70.8
+       },
+       {
+        "t": "es?",
+        "ini": 70.88,
+        "fin": 71.08
+       },
+       {
+        "t": "¡El",
+        "ini": 71.12,
+        "fin": 71.28
+       },
+       {
+        "t": "pollito!",
+        "ini": 71.4,
+        "fin": 71.94
+       }
+      ],
+      "trad": "Peep, peep! Who is it? The chick!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¡Croac, croac! ¿Quién es? ¡La rana!",
+      "ini": 74.43,
+      "fin": 76.68,
+      "palabras": [
+       {
+        "t": "¡Croac,",
+        "ini": 74.43,
+        "fin": 74.88
+       },
+       {
+        "t": "croac!",
+        "ini": 74.98,
+        "fin": 75.28
+       },
+       {
+        "t": "¿Quién",
+        "ini": 75.3,
+        "fin": 75.6
+       },
+       {
+        "t": "es?",
+        "ini": 75.66,
+        "fin": 75.84
+       },
+       {
+        "t": "¡La",
+        "ini": 75.88,
+        "fin": 76.1
+       },
+       {
+        "t": "rana!",
+        "ini": 76.2,
+        "fin": 76.68
+       }
+      ],
+      "trad": "Ribbit, ribbit! Who is it? The frog!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¡Grrr…! ¿Quién es? ¡Un león dormilón!",
+      "ini": 76.8,
+      "fin": 81.54,
+      "palabras": [
+       {
+        "t": "¡Grrr…!",
+        "ini": 76.8,
+        "fin": 78.04
+       },
+       {
+        "t": "¿Quién",
+        "ini": 78.88,
+        "fin": 79.22
+       },
+       {
+        "t": "es?",
+        "ini": 79.32,
+        "fin": 79.8
+       },
+       {
+        "t": "¡Un",
+        "ini": 79.8,
+        "fin": 80.04
+       },
+       {
+        "t": "león",
+        "ini": 80.12,
+        "fin": 80.66
+       },
+       {
+        "t": "dormilón!",
+        "ini": 80.74,
+        "fin": 81.54
+       }
+      ],
+      "trad": "Grrr…! Who is it? A sleepy lion!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Y ahora, muy bajito… ¿quién hace… chsss?",
+      "ini": 83.48,
+      "fin": 91.5,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 83.48,
+        "fin": 83.5
+       },
+       {
+        "t": "ahora,",
+        "ini": 83.62,
+        "fin": 84.86
+       },
+       {
+        "t": "muy",
+        "ini": 85.2,
+        "fin": 85.76
+       },
+       {
+        "t": "bajito…",
+        "ini": 85.88,
+        "fin": 87.3
+       },
+       {
+        "t": "¿quién",
+        "ini": 87.3,
+        "fin": 88.84
+       },
+       {
+        "t": "hace…",
+        "ini": 88.88,
+        "fin": 89.7
+       },
+       {
+        "t": "chsss?",
+        "ini": 90.96,
+        "fin": 91.5
+       }
+      ],
+      "trad": "And now, very quietly… who goes… shhh?"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "¡Los peques del cole, que escuchan muy bien!",
+      "ini": 92.98,
+      "fin": 98.8,
+      "palabras": [
+       {
+        "t": "¡Los",
+        "ini": 92.98,
+        "fin": 93.5
+       },
+       {
+        "t": "peques",
+        "ini": 93.62,
+        "fin": 95.32
+       },
+       {
+        "t": "del",
+        "ini": 95.46,
+        "fin": 95.9
+       },
+       {
+        "t": "cole,",
+        "ini": 96.04,
+        "fin": 96.78
+       },
+       {
+        "t": "que",
+        "ini": 96.9,
+        "fin": 96.96
+       },
+       {
+        "t": "escuchan",
+        "ini": 97.0,
+        "fin": 97.74
+       },
+       {
+        "t": "muy",
+        "ini": 97.82,
+        "fin": 98.1
+       },
+       {
+        "t": "bien!",
+        "ini": 98.4,
+        "fin": 98.8
+       }
+      ],
+      "trad": "The little ones at school, who listen so well!"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "Escucha, escucha, escucha…",
+      "ini": 102.72,
+      "fin": 105.26,
+      "palabras": [
+       {
+        "t": "Escucha,",
+        "ini": 102.72,
+        "fin": 104.0
+       },
+       {
+        "t": "escucha,",
+        "ini": 104.02,
+        "fin": 104.02
+       },
+       {
+        "t": "escucha…",
+        "ini": 104.1,
+        "fin": 105.26
+       }
+      ],
+      "trad": "Listen, listen, listen…"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "¿qué animal será?",
+      "ini": 106.76,
+      "fin": 108.28,
+      "palabras": [
+       {
+        "t": "¿qué",
+        "ini": 106.76,
+        "fin": 106.88
+       },
+       {
+        "t": "animal",
+        "ini": 107.04,
+        "fin": 107.62
+       },
+       {
+        "t": "será?",
+        "ini": 107.74,
+        "fin": 108.28
+       }
+      ],
+      "trad": "What animal could it be?"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "Lo oigo, lo oigo…",
+      "ini": 112.54,
+      "fin": 114.82,
+      "palabras": [
+       {
+        "t": "Lo",
+        "ini": 112.54,
+        "fin": 112.74
+       },
+       {
+        "t": "oigo,",
+        "ini": 112.8,
+        "fin": 113.6
+       },
+       {
+        "t": "lo",
+        "ini": 113.68,
+        "fin": 113.92
+       },
+       {
+        "t": "oigo…",
+        "ini": 114.4,
+        "fin": 114.82
+       }
+      ],
+      "trad": "I hear it, I hear it…"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "¡ya sé quién está!",
+      "ini": 115.18,
+      "fin": 116.68,
+      "palabras": [
+       {
+        "t": "¡ya",
+        "ini": 115.18,
+        "fin": 115.36
+       },
+       {
+        "t": "sé",
+        "ini": 115.5,
+        "fin": 115.66
+       },
+       {
+        "t": "quién",
+        "ini": 115.8,
+        "fin": 116.12
+       },
+       {
+        "t": "está!",
+        "ini": 116.2,
+        "fin": 116.68
+       }
+      ],
+      "trad": "I know who's there!"
+     }
+    ],
+    "duracion": 124.82
+   },
+   "preguntas": []
+  },
+  {
+   "id": "i06-brum",
+   "titulo_en": "Vroom, Choo-Choo, Ring-Ring!",
+   "titulo_es": "¡Brum, chu-chu, rin-rin!",
+   "ensena_en": "vehicles and their sounds, and stop and go with the traffic light: red and green, one, two, three (ages 1-3)",
+   "ensena_es": "los transportes y sus sonidos, y parar y andar con el semáforo: rojo y verde, uno, dos, tres (1-3 años)",
+   "infantil": true,
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "Vroom, vroom, choo-choo, ring-ring!",
+      "ini": 9.9,
+      "fin": 12.16,
+      "palabras": [
+       {
+        "t": "Vroom,",
+        "ini": 9.9,
+        "fin": 10.42
+       },
+       {
+        "t": "vroom,",
+        "ini": 10.5,
+        "fin": 10.96
+       },
+       {
+        "t": "choo-choo,",
+        "ini": 11.06,
+        "fin": 11.58
+       },
+       {
+        "t": "ring-ring!",
+        "ini": 11.68,
+        "fin": 12.16
+       }
+      ],
+      "trad": "¡Brum, brum, chu-chu, rin-rin!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Off to school we go… like this!",
+      "ini": 12.34,
+      "fin": 15.06,
+      "palabras": [
+       {
+        "t": "Off",
+        "ini": 12.34,
+        "fin": 12.6
+       },
+       {
+        "t": "to",
+        "ini": 12.68,
+        "fin": 12.76
+       },
+       {
+        "t": "school",
+        "ini": 12.8,
+        "fin": 13.2
+       },
+       {
+        "t": "we",
+        "ini": 13.28,
+        "fin": 13.4
+       },
+       {
+        "t": "go…",
+        "ini": 13.46,
+        "fin": 13.8
+       },
+       {
+        "t": "like",
+        "ini": 14.0,
+        "fin": 14.42
+       },
+       {
+        "t": "this!",
+        "ini": 14.62,
+        "fin": 15.06
+       }
+      ],
+      "trad": "¡Al cole vamos… así!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Hop on, come with me,",
+      "ini": 15.46,
+      "fin": 17.9,
+      "palabras": [
+       {
+        "t": "Hop",
+        "ini": 15.46,
+        "fin": 15.74
+       },
+       {
+        "t": "on,",
+        "ini": 15.84,
+        "fin": 16.18
+       },
+       {
+        "t": "come",
+        "ini": 16.32,
+        "fin": 16.86
+       },
+       {
+        "t": "with",
+        "ini": 16.96,
+        "fin": 17.4
+       },
+       {
+        "t": "me,",
+        "ini": 17.52,
+        "fin": 17.9
+       }
+      ],
+      "trad": "Súbete, ven conmigo,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "it's a trip we can't miss!",
+      "ini": 18.28,
+      "fin": 22.48,
+      "palabras": [
+       {
+        "t": "it's",
+        "ini": 18.28,
+        "fin": 18.66
+       },
+       {
+        "t": "a",
+        "ini": 18.78,
+        "fin": 19.04
+       },
+       {
+        "t": "trip",
+        "ini": 19.2,
+        "fin": 19.78
+       },
+       {
+        "t": "we",
+        "ini": 20.44,
+        "fin": 20.8
+       },
+       {
+        "t": "can't",
+        "ini": 20.98,
+        "fin": 21.48
+       },
+       {
+        "t": "miss!",
+        "ini": 21.58,
+        "fin": 22.48
+       }
+      ],
+      "trad": "¡es un viaje que no nos podemos perder!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "By car: vroom, vroom!",
+      "ini": 27.98,
+      "fin": 30.22,
+      "palabras": [
+       {
+        "t": "By",
+        "ini": 27.98,
+        "fin": 28.4
+       },
+       {
+        "t": "car:",
+        "ini": 28.54,
+        "fin": 29.02
+       },
+       {
+        "t": "vroom,",
+        "ini": 29.14,
+        "fin": 29.62
+       },
+       {
+        "t": "vroom!",
+        "ini": 29.72,
+        "fin": 30.22
+       }
+      ],
+      "trad": "En coche: ¡brum, brum!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "By train: choo, choo!",
+      "ini": 30.3,
+      "fin": 32.5,
+      "palabras": [
+       {
+        "t": "By",
+        "ini": 30.3,
+        "fin": 30.7
+       },
+       {
+        "t": "train:",
+        "ini": 30.86,
+        "fin": 31.34
+       },
+       {
+        "t": "choo,",
+        "ini": 31.46,
+        "fin": 31.84
+       },
+       {
+        "t": "choo!",
+        "ini": 32.04,
+        "fin": 32.5
+       }
+      ],
+      "trad": "En tren: ¡chu, chu!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "By bike: ring, ring!",
+      "ini": 32.64,
+      "fin": 36.62,
+      "palabras": [
+       {
+        "t": "By",
+        "ini": 32.64,
+        "fin": 33.08
+       },
+       {
+        "t": "bike:",
+        "ini": 33.24,
+        "fin": 33.76
+       },
+       {
+        "t": "ring,",
+        "ini": 34.4,
+        "fin": 35.46
+       },
+       {
+        "t": "ring!",
+        "ini": 35.6,
+        "fin": 36.62
+       }
+      ],
+      "trad": "En bici: ¡rin, rin!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "And by plane… wheee!",
+      "ini": 36.8,
+      "fin": 39.32,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 36.8,
+        "fin": 37.18
+       },
+       {
+        "t": "by",
+        "ini": 37.3,
+        "fin": 37.7
+       },
+       {
+        "t": "plane…",
+        "ini": 37.84,
+        "fin": 38.74
+       },
+       {
+        "t": "wheee!",
+        "ini": 39.0,
+        "fin": 39.32
+       }
+      ],
+      "trad": "Y en avión… ¡fiuuu!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Vroom, vroom, choo-choo, ring-ring!",
+      "ini": 42.52,
+      "fin": 44.8,
+      "palabras": [
+       {
+        "t": "Vroom,",
+        "ini": 42.52,
+        "fin": 43.0
+       },
+       {
+        "t": "vroom,",
+        "ini": 43.12,
+        "fin": 43.56
+       },
+       {
+        "t": "choo-choo,",
+        "ini": 43.68,
+        "fin": 44.2
+       },
+       {
+        "t": "ring-ring!",
+        "ini": 44.3,
+        "fin": 44.8
+       }
+      ],
+      "trad": "¡Brum, brum, chu-chu, rin-rin!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Off to school we go… like this!",
+      "ini": 44.96,
+      "fin": 47.68,
+      "palabras": [
+       {
+        "t": "Off",
+        "ini": 44.96,
+        "fin": 45.22
+       },
+       {
+        "t": "to",
+        "ini": 45.28,
+        "fin": 45.38
+       },
+       {
+        "t": "school",
+        "ini": 45.42,
+        "fin": 45.82
+       },
+       {
+        "t": "we",
+        "ini": 45.9,
+        "fin": 45.98
+       },
+       {
+        "t": "go…",
+        "ini": 46.08,
+        "fin": 46.32
+       },
+       {
+        "t": "like",
+        "ini": 46.64,
+        "fin": 47.04
+       },
+       {
+        "t": "this!",
+        "ini": 47.22,
+        "fin": 47.68
+       }
+      ],
+      "trad": "¡Al cole vamos… así!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Hop on, come with me,",
+      "ini": 50.72,
+      "fin": 55.24,
+      "palabras": [
+       {
+        "t": "Hop",
+        "ini": 50.72,
+        "fin": 50.98
+       },
+       {
+        "t": "on,",
+        "ini": 51.06,
+        "fin": 51.08
+       },
+       {
+        "t": "come",
+        "ini": 53.02,
+        "fin": 54.14
+       },
+       {
+        "t": "with",
+        "ini": 54.24,
+        "fin": 54.7
+       },
+       {
+        "t": "me,",
+        "ini": 54.82,
+        "fin": 55.24
+       }
+      ],
+      "trad": "Súbete, ven conmigo,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "it's a trip we can't miss!",
+      "ini": 55.58,
+      "fin": 59.64,
+      "palabras": [
+       {
+        "t": "it's",
+        "ini": 55.58,
+        "fin": 55.92
+       },
+       {
+        "t": "a",
+        "ini": 56.0,
+        "fin": 56.32
+       },
+       {
+        "t": "trip",
+        "ini": 56.48,
+        "fin": 57.0
+       },
+       {
+        "t": "we",
+        "ini": 57.74,
+        "fin": 58.06
+       },
+       {
+        "t": "can't",
+        "ini": 58.24,
+        "fin": 58.78
+       },
+       {
+        "t": "miss!",
+        "ini": 58.84,
+        "fin": 59.64
+       }
+      ],
+      "trad": "¡es un viaje que no nos podemos perder!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Oh! The traffic light… red! Freeze!",
+      "ini": 60.62,
+      "fin": 65.32,
+      "palabras": [
+       {
+        "t": "Oh!",
+        "ini": 60.62,
+        "fin": 60.82
+       },
+       {
+        "t": "The",
+        "ini": 60.9,
+        "fin": 61.0
+       },
+       {
+        "t": "traffic",
+        "ini": 61.14,
+        "fin": 62.16
+       },
+       {
+        "t": "light…",
+        "ini": 62.34,
+        "fin": 62.9
+       },
+       {
+        "t": "red!",
+        "ini": 63.52,
+        "fin": 63.98
+       },
+       {
+        "t": "Freeze!",
+        "ini": 64.64,
+        "fin": 65.32
+       }
+      ],
+      "trad": "¡Oh! El semáforo… ¡rojo! ¡Quietos!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "One, two, three… green! Let's go!",
+      "ini": 65.88,
+      "fin": 69.84,
+      "palabras": [
+       {
+        "t": "One,",
+        "ini": 65.88,
+        "fin": 66.28
+       },
+       {
+        "t": "two,",
+        "ini": 66.42,
+        "fin": 66.8
+       },
+       {
+        "t": "three…",
+        "ini": 66.98,
+        "fin": 67.52
+       },
+       {
+        "t": "green!",
+        "ini": 68.14,
+        "fin": 68.64
+       },
+       {
+        "t": "Let's",
+        "ini": 69.0,
+        "fin": 69.3
+       },
+       {
+        "t": "go!",
+        "ini": 69.34,
+        "fin": 69.84
+       }
+      ],
+      "trad": "Uno, dos, tres… ¡verde! ¡Vamos!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Red! Freeze like statues!",
+      "ini": 72.25,
+      "fin": 75.06,
+      "palabras": [
+       {
+        "t": "Red!",
+        "ini": 72.25,
+        "fin": 72.7
+       },
+       {
+        "t": "Freeze",
+        "ini": 72.82,
+        "fin": 73.36
+       },
+       {
+        "t": "like",
+        "ini": 73.46,
+        "fin": 73.86
+       },
+       {
+        "t": "statues!",
+        "ini": 73.98,
+        "fin": 75.06
+       }
+      ],
+      "trad": "¡Rojo! ¡Quietos como estatuas!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Green! On we go!",
+      "ini": 75.16,
+      "fin": 78.06,
+      "palabras": [
+       {
+        "t": "Green!",
+        "ini": 75.16,
+        "fin": 75.82
+       },
+       {
+        "t": "On",
+        "ini": 76.42,
+        "fin": 76.84
+       },
+       {
+        "t": "we",
+        "ini": 76.96,
+        "fin": 77.3
+       },
+       {
+        "t": "go!",
+        "ini": 77.5,
+        "fin": 78.06
+       }
+      ],
+      "trad": "¡Verde! ¡Seguimos!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "And walking, walking, hand in hand…",
+      "ini": 79.32,
+      "fin": 83.92,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 79.32,
+        "fin": 79.72
+       },
+       {
+        "t": "walking,",
+        "ini": 79.84,
+        "fin": 80.86
+       },
+       {
+        "t": "walking,",
+        "ini": 81.02,
+        "fin": 82.02
+       },
+       {
+        "t": "hand",
+        "ini": 82.16,
+        "fin": 82.74
+       },
+       {
+        "t": "in",
+        "ini": 82.86,
+        "fin": 83.18
+       },
+       {
+        "t": "hand…",
+        "ini": 83.32,
+        "fin": 83.92
+       }
+      ],
+      "trad": "Y andando, andando, de la mano…"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "we're at school! Good morning!",
+      "ini": 85.77,
+      "fin": 90.28,
+      "palabras": [
+       {
+        "t": "we're",
+        "ini": 85.77,
+        "fin": 86.22
+       },
+       {
+        "t": "at",
+        "ini": 86.32,
+        "fin": 86.64
+       },
+       {
+        "t": "school!",
+        "ini": 86.72,
+        "fin": 87.38
+       },
+       {
+        "t": "Good",
+        "ini": 87.98,
+        "fin": 88.98
+       },
+       {
+        "t": "morning!",
+        "ini": 89.14,
+        "fin": 90.28
+       }
+      ],
+      "trad": "¡ya estamos en el cole! ¡Buenos días!"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "Vroom, vroom, choo-choo, ring-ring!",
+      "ini": 98.46,
+      "fin": 100.7,
+      "palabras": [
+       {
+        "t": "Vroom,",
+        "ini": 98.46,
+        "fin": 98.9
+       },
+       {
+        "t": "vroom,",
+        "ini": 99.04,
+        "fin": 99.46
+       },
+       {
+        "t": "choo-choo,",
+        "ini": 99.6,
+        "fin": 100.14
+       },
+       {
+        "t": "ring-ring!",
+        "ini": 100.24,
+        "fin": 100.7
+       }
+      ],
+      "trad": "¡Brum, brum, chu-chu, rin-rin!"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "Off to school we go… like this!",
+      "ini": 100.88,
+      "fin": 103.6,
+      "palabras": [
+       {
+        "t": "Off",
+        "ini": 100.88,
+        "fin": 101.12
+       },
+       {
+        "t": "to",
+        "ini": 101.22,
+        "fin": 101.28
+       },
+       {
+        "t": "school",
+        "ini": 101.36,
+        "fin": 101.74
+       },
+       {
+        "t": "we",
+        "ini": 101.8,
+        "fin": 101.92
+       },
+       {
+        "t": "go…",
+        "ini": 101.98,
+        "fin": 102.24
+       },
+       {
+        "t": "like",
+        "ini": 102.58,
+        "fin": 102.98
+       },
+       {
+        "t": "this!",
+        "ini": 103.14,
+        "fin": 103.6
+       }
+      ],
+      "trad": "¡Al cole vamos… así!"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "Hop on, come with me,",
+      "ini": 107.8,
+      "fin": 111.12,
+      "palabras": [
+       {
+        "t": "Hop",
+        "ini": 107.8,
+        "fin": 108.36
+       },
+       {
+        "t": "on,",
+        "ini": 108.5,
+        "fin": 109.42
+       },
+       {
+        "t": "come",
+        "ini": 109.54,
+        "fin": 110.08
+       },
+       {
+        "t": "with",
+        "ini": 110.16,
+        "fin": 110.64
+       },
+       {
+        "t": "me,",
+        "ini": 110.72,
+        "fin": 111.12
+       }
+      ],
+      "trad": "Súbete, ven conmigo,"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "it's a trip we can't miss!",
+      "ini": 111.42,
+      "fin": 115.5,
+      "palabras": [
+       {
+        "t": "it's",
+        "ini": 111.42,
+        "fin": 111.84
+       },
+       {
+        "t": "a",
+        "ini": 111.94,
+        "fin": 112.24
+       },
+       {
+        "t": "trip",
+        "ini": 112.42,
+        "fin": 112.98
+       },
+       {
+        "t": "we",
+        "ini": 113.68,
+        "fin": 113.98
+       },
+       {
+        "t": "can't",
+        "ini": 114.16,
+        "fin": 114.7
+       },
+       {
+        "t": "miss!",
+        "ini": 114.78,
+        "fin": 115.5
+       }
+      ],
+      "trad": "¡es un viaje que no nos podemos perder!"
+     }
+    ],
+    "duracion": 120.12
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "¡Brum, brum, chu-chu, rin-rin!",
+      "ini": 9.71,
+      "fin": 11.92,
+      "palabras": [
+       {
+        "t": "¡Brum,",
+        "ini": 9.71,
+        "fin": 10.16
+       },
+       {
+        "t": "brum,",
+        "ini": 10.2,
+        "fin": 10.4
+       },
+       {
+        "t": "chu-chu,",
+        "ini": 10.46,
+        "fin": 10.96
+       },
+       {
+        "t": "rin-rin!",
+        "ini": 11.06,
+        "fin": 11.92
+       }
+      ],
+      "trad": "Vroom, vroom, choo-choo, ring-ring!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Al cole vamos… ¡así!",
+      "ini": 12.02,
+      "fin": 13.66,
+      "palabras": [
+       {
+        "t": "Al",
+        "ini": 12.02,
+        "fin": 12.14
+       },
+       {
+        "t": "cole",
+        "ini": 12.22,
+        "fin": 12.74
+       },
+       {
+        "t": "vamos…",
+        "ini": 12.8,
+        "fin": 13.1
+       },
+       {
+        "t": "¡así!",
+        "ini": 13.12,
+        "fin": 13.66
+       }
+      ],
+      "trad": "Off to school we go… like this!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Súbete conmigo,",
+      "ini": 13.88,
+      "fin": 16.16,
+      "palabras": [
+       {
+        "t": "¡Súbete",
+        "ini": 13.88,
+        "fin": 15.3
+       },
+       {
+        "t": "conmigo,",
+        "ini": 15.42,
+        "fin": 16.16
+       }
+      ],
+      "trad": "Hop on with me,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "que nos vamos de aquí!",
+      "ini": 16.32,
+      "fin": 18.48,
+      "palabras": [
+       {
+        "t": "que",
+        "ini": 16.32,
+        "fin": 16.54
+       },
+       {
+        "t": "nos",
+        "ini": 16.62,
+        "fin": 16.84
+       },
+       {
+        "t": "vamos",
+        "ini": 16.9,
+        "fin": 17.72
+       },
+       {
+        "t": "de",
+        "ini": 17.76,
+        "fin": 17.86
+       },
+       {
+        "t": "aquí!",
+        "ini": 17.9,
+        "fin": 18.48
+       }
+      ],
+      "trad": "we're on our way!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "En coche: ¡brum, brum!",
+      "ini": 28.56,
+      "fin": 30.54,
+      "palabras": [
+       {
+        "t": "En",
+        "ini": 28.56,
+        "fin": 28.74
+       },
+       {
+        "t": "coche:",
+        "ini": 28.82,
+        "fin": 29.32
+       },
+       {
+        "t": "¡brum,",
+        "ini": 29.66,
+        "fin": 30.0
+       },
+       {
+        "t": "brum!",
+        "ini": 30.24,
+        "fin": 30.54
+       }
+      ],
+      "trad": "By car: vroom, vroom!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "En tren: ¡chu, chu!",
+      "ini": 30.88,
+      "fin": 32.78,
+      "palabras": [
+       {
+        "t": "En",
+        "ini": 30.88,
+        "fin": 31.08
+       },
+       {
+        "t": "tren:",
+        "ini": 31.14,
+        "fin": 31.46
+       },
+       {
+        "t": "¡chu,",
+        "ini": 31.56,
+        "fin": 32.22
+       },
+       {
+        "t": "chu!",
+        "ini": 32.56,
+        "fin": 32.78
+       }
+      ],
+      "trad": "By train: choo, choo!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "En bici: ¡rin, rin!",
+      "ini": 33.2,
+      "fin": 35.16,
+      "palabras": [
+       {
+        "t": "En",
+        "ini": 33.2,
+        "fin": 33.42
+       },
+       {
+        "t": "bici:",
+        "ini": 33.5,
+        "fin": 34.02
+       },
+       {
+        "t": "¡rin,",
+        "ini": 34.32,
+        "fin": 34.64
+       },
+       {
+        "t": "rin!",
+        "ini": 34.92,
+        "fin": 35.16
+       }
+      ],
+      "trad": "By bike: ring, ring!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Y en avión… ¡fiuuu!",
+      "ini": 35.52,
+      "fin": 37.0,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 35.52,
+        "fin": 35.56
+       },
+       {
+        "t": "en",
+        "ini": 35.62,
+        "fin": 35.84
+       },
+       {
+        "t": "avión…",
+        "ini": 35.92,
+        "fin": 36.42
+       },
+       {
+        "t": "¡fiuuu!",
+        "ini": 36.64,
+        "fin": 37.0
+       }
+      ],
+      "trad": "And by plane… wheee!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Brum, brum, chu-chu, rin-rin!",
+      "ini": 46.97,
+      "fin": 49.18,
+      "palabras": [
+       {
+        "t": "¡Brum,",
+        "ini": 46.97,
+        "fin": 47.42
+       },
+       {
+        "t": "brum,",
+        "ini": 47.48,
+        "fin": 47.7
+       },
+       {
+        "t": "chu-chu,",
+        "ini": 47.76,
+        "fin": 48.24
+       },
+       {
+        "t": "rin-rin!",
+        "ini": 48.36,
+        "fin": 49.18
+       }
+      ],
+      "trad": "Vroom, vroom, choo-choo, ring-ring!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Al cole vamos… ¡así!",
+      "ini": 49.28,
+      "fin": 50.96,
+      "palabras": [
+       {
+        "t": "Al",
+        "ini": 49.28,
+        "fin": 49.42
+       },
+       {
+        "t": "cole",
+        "ini": 49.5,
+        "fin": 50.02
+       },
+       {
+        "t": "vamos…",
+        "ini": 50.08,
+        "fin": 50.4
+       },
+       {
+        "t": "¡así!",
+        "ini": 50.42,
+        "fin": 50.96
+       }
+      ],
+      "trad": "Off to school we go… like this!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Súbete conmigo,",
+      "ini": 51.14,
+      "fin": 53.42,
+      "palabras": [
+       {
+        "t": "¡Súbete",
+        "ini": 51.14,
+        "fin": 52.56
+       },
+       {
+        "t": "conmigo,",
+        "ini": 52.7,
+        "fin": 53.42
+       }
+      ],
+      "trad": "Hop on with me,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "que nos vamos de aquí!",
+      "ini": 53.6,
+      "fin": 55.62,
+      "palabras": [
+       {
+        "t": "que",
+        "ini": 53.6,
+        "fin": 53.82
+       },
+       {
+        "t": "nos",
+        "ini": 53.88,
+        "fin": 54.14
+       },
+       {
+        "t": "vamos",
+        "ini": 54.18,
+        "fin": 55.0
+       },
+       {
+        "t": "de",
+        "ini": 55.04,
+        "fin": 55.14
+       },
+       {
+        "t": "aquí!",
+        "ini": 55.18,
+        "fin": 55.62
+       }
+      ],
+      "trad": "we're on our way!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¡Uy! El semáforo… ¡rojo! ¡Quietos!",
+      "ini": 64.79,
+      "fin": 68.14,
+      "palabras": [
+       {
+        "t": "¡Uy!",
+        "ini": 64.79,
+        "fin": 65.24
+       },
+       {
+        "t": "El",
+        "ini": 65.3,
+        "fin": 65.42
+       },
+       {
+        "t": "semáforo…",
+        "ini": 65.52,
+        "fin": 66.66
+       },
+       {
+        "t": "¡rojo!",
+        "ini": 66.92,
+        "fin": 67.42
+       },
+       {
+        "t": "¡Quietos!",
+        "ini": 67.54,
+        "fin": 68.14
+       }
+      ],
+      "trad": "Oops! The traffic light… red! Freeze!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Uno, dos, tres… ¡verde! ¡Andando!",
+      "ini": 68.26,
+      "fin": 70.34,
+      "palabras": [
+       {
+        "t": "Uno,",
+        "ini": 68.26,
+        "fin": 68.66
+       },
+       {
+        "t": "dos,",
+        "ini": 68.76,
+        "fin": 68.94
+       },
+       {
+        "t": "tres…",
+        "ini": 69.02,
+        "fin": 69.26
+       },
+       {
+        "t": "¡verde!",
+        "ini": 69.32,
+        "fin": 69.74
+       },
+       {
+        "t": "¡Andando!",
+        "ini": 69.74,
+        "fin": 70.34
+       }
+      ],
+      "trad": "One, two, three… green! Let's go!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¡Rojo! ¡Quietos como estatuas!",
+      "ini": 70.34,
+      "fin": 73.96,
+      "palabras": [
+       {
+        "t": "¡Rojo!",
+        "ini": 70.34,
+        "fin": 71.36
+       },
+       {
+        "t": "¡Quietos",
+        "ini": 71.58,
+        "fin": 72.16
+       },
+       {
+        "t": "como",
+        "ini": 72.24,
+        "fin": 72.58
+       },
+       {
+        "t": "estatuas!",
+        "ini": 72.64,
+        "fin": 73.96
+       }
+      ],
+      "trad": "Red! Freeze like statues!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¡Verde! ¡Seguimos el viaje!",
+      "ini": 73.96,
+      "fin": 77.66,
+      "palabras": [
+       {
+        "t": "¡Verde!",
+        "ini": 73.96,
+        "fin": 74.44
+       },
+       {
+        "t": "¡Seguimos",
+        "ini": 74.44,
+        "fin": 75.7
+       },
+       {
+        "t": "el",
+        "ini": 75.8,
+        "fin": 75.96
+       },
+       {
+        "t": "viaje!",
+        "ini": 76.02,
+        "fin": 77.66
+       }
+      ],
+      "trad": "Green! On with our trip!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Y andando, andando, de la mano…",
+      "ini": 79.22,
+      "fin": 83.02,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 79.22,
+        "fin": 79.5
+       },
+       {
+        "t": "andando,",
+        "ini": 79.56,
+        "fin": 80.54
+       },
+       {
+        "t": "andando,",
+        "ini": 80.68,
+        "fin": 81.44
+       },
+       {
+        "t": "de",
+        "ini": 81.56,
+        "fin": 81.74
+       },
+       {
+        "t": "la",
+        "ini": 81.84,
+        "fin": 81.98
+       },
+       {
+        "t": "mano…",
+        "ini": 82.12,
+        "fin": 83.02
+       }
+      ],
+      "trad": "And walking, walking, hand in hand…"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "¡ya llegamos al cole! ¡Buenos días!",
+      "ini": 83.18,
+      "fin": 88.82,
+      "palabras": [
+       {
+        "t": "¡ya",
+        "ini": 83.18,
+        "fin": 84.1
+       },
+       {
+        "t": "llegamos",
+        "ini": 84.16,
+        "fin": 85.04
+       },
+       {
+        "t": "al",
+        "ini": 85.16,
+        "fin": 85.48
+       },
+       {
+        "t": "cole!",
+        "ini": 85.64,
+        "fin": 86.5
+       },
+       {
+        "t": "¡Buenos",
+        "ini": 86.5,
+        "fin": 87.88
+       },
+       {
+        "t": "días!",
+        "ini": 87.96,
+        "fin": 88.82
+       }
+      ],
+      "trad": "We've arrived at school! Good morning!"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "¡Brum, brum, chu-chu, rin-rin!",
+      "ini": 107.55,
+      "fin": 109.78,
+      "palabras": [
+       {
+        "t": "¡Brum,",
+        "ini": 107.55,
+        "fin": 108.0
+       },
+       {
+        "t": "brum,",
+        "ini": 108.06,
+        "fin": 108.28
+       },
+       {
+        "t": "chu-chu,",
+        "ini": 108.34,
+        "fin": 108.84
+       },
+       {
+        "t": "rin-rin!",
+        "ini": 108.94,
+        "fin": 109.78
+       }
+      ],
+      "trad": "Vroom, vroom, choo-choo, ring-ring!"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "Al cole vamos… ¡así!",
+      "ini": 109.86,
+      "fin": 111.56,
+      "palabras": [
+       {
+        "t": "Al",
+        "ini": 109.86,
+        "fin": 110.0
+       },
+       {
+        "t": "cole",
+        "ini": 110.08,
+        "fin": 110.6
+       },
+       {
+        "t": "vamos…",
+        "ini": 110.66,
+        "fin": 110.9
+       },
+       {
+        "t": "¡así!",
+        "ini": 110.92,
+        "fin": 111.56
+       }
+      ],
+      "trad": "Off to school we go… like this!"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "¡Súbete conmigo,",
+      "ini": 111.78,
+      "fin": 114.02,
+      "palabras": [
+       {
+        "t": "¡Súbete",
+        "ini": 111.78,
+        "fin": 113.16
+       },
+       {
+        "t": "conmigo,",
+        "ini": 113.3,
+        "fin": 114.02
+       }
+      ],
+      "trad": "Hop on with me,"
+     },
+     {
+      "seccion": "Last Chorus",
+      "texto": "que nos vamos de aquí!",
+      "ini": 114.18,
+      "fin": 116.22,
+      "palabras": [
+       {
+        "t": "que",
+        "ini": 114.18,
+        "fin": 114.4
+       },
+       {
+        "t": "nos",
+        "ini": 114.48,
+        "fin": 114.7
+       },
+       {
+        "t": "vamos",
+        "ini": 114.76,
+        "fin": 115.6
+       },
+       {
+        "t": "de",
+        "ini": 115.64,
+        "fin": 115.66
+       },
+       {
+        "t": "aquí!",
+        "ini": 115.76,
+        "fin": 116.22
+       }
+      ],
+      "trad": "we're on our way!"
+     }
+    ],
+    "duracion": 120.12
+   },
+   "preguntas": []
+  },
+  {
    "id": "01-ayer",
    "titulo_en": "Yesterday Was Crazy",
    "titulo_es": "Ayer fue una locura",
