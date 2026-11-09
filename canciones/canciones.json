@@ -64487,1566 +64487,1671 @@
    "id": "19-siempre-a-veces-nunca",
    "titulo_en": "Always, Sometimes, Never!",
    "titulo_es": "¡Siempre, a veces, nunca!",
-   "ensena_en": "the present simple for daily routines with always, sometimes and never, and the «-s» for he/she (I get up, he gets up; I sleep, he sleeps)",
-   "ensena_es": "el presente para hablar de la rutina con siempre, a veces y nunca, y los verbos con «me» y «se» (me levanto, se levanta; me visto, me pongo el pijama)",
+   "ensena_en": "the present simple for routines and real facts with always, almost always, sometimes and never, and the «-s» for he/she (I blink, he sleeps; he lands on his feet)",
+   "ensena_es": "el presente para contar la rutina y datos reales con siempre, casi siempre, a veces y nunca, y los verbos con «me» y «se» (me levanto, se lava, se despierta)",
    "en": {
     "lineas": [
      {
       "seccion": "Chorus",
-      "texto": "Always, sometimes, never — tell me, how about you?",
-      "ini": 10.54,
-      "fin": 12.9,
+      "texto": "Always, sometimes, never — who does what? Let's see!",
+      "ini": 5.28,
+      "fin": 10.08,
       "palabras": [
        {
         "t": "Always,",
-        "ini": 10.54,
-        "fin": 11.02
+        "ini": 5.28,
+        "fin": 6.2
        },
        {
         "t": "sometimes,",
-        "ini": 11.14,
-        "fin": 11.72
+        "ini": 6.56,
+        "fin": 7.18
        },
        {
         "t": "never",
-        "ini": 11.8,
-        "fin": 12.04
+        "ini": 7.26,
+        "fin": 7.78
        },
        {
         "t": "—",
-        "ini": 12.06,
-        "fin": 12.06
+        "ini": 7.78,
+        "fin": 8.22
        },
        {
-        "t": "tell",
-        "ini": 12.12,
-        "fin": 12.24
+        "t": "who",
+        "ini": 8.22,
+        "fin": 8.4
        },
        {
-        "t": "me,",
-        "ini": 12.3,
-        "fin": 12.36
+        "t": "does",
+        "ini": 8.52,
+        "fin": 8.88
        },
        {
-        "t": "how",
-        "ini": 12.44,
-        "fin": 12.54
+        "t": "what?",
+        "ini": 9.2,
+        "fin": 9.42
        },
        {
-        "t": "about",
-        "ini": 12.58,
-        "fin": 12.74
+        "t": "Let's",
+        "ini": 9.5,
+        "fin": 9.78
        },
        {
-        "t": "you?",
-        "ini": 12.82,
-        "fin": 12.9
+        "t": "see!",
+        "ini": 9.84,
+        "fin": 10.08
        }
       ],
-      "trad": "Siempre, a veces, nunca — dime, ¿y tú?"
+      "trad": "Siempre, a veces, nunca — ¿quién hace qué? ¡A ver!"
      },
      {
       "seccion": "Chorus",
-      "texto": "I always get up early — my cat never does!",
-      "ini": 13.0,
-      "fin": 15.44,
+      "texto": "I always blink without thinking — he sleeps half the day!",
+      "ini": 10.26,
+      "fin": 15.5,
       "palabras": [
        {
         "t": "I",
-        "ini": 13.0,
-        "fin": 13.04
+        "ini": 10.26,
+        "fin": 10.38
        },
        {
         "t": "always",
-        "ini": 13.12,
-        "fin": 13.42
+        "ini": 10.56,
+        "fin": 11.42
        },
        {
-        "t": "get",
-        "ini": 13.48,
-        "fin": 13.6
+        "t": "blink",
+        "ini": 11.78,
+        "fin": 11.96
        },
        {
-        "t": "up",
-        "ini": 13.64,
-        "fin": 13.74
+        "t": "without",
+        "ini": 12.0,
+        "fin": 12.38
        },
        {
-        "t": "early",
-        "ini": 13.8,
-        "fin": 14.12
-       },
-       {
-        "t": "—",
-        "ini": 14.12,
-        "fin": 14.12
-       },
-       {
-        "t": "my",
-        "ini": 14.26,
-        "fin": 14.36
-       },
-       {
-        "t": "cat",
-        "ini": 14.42,
-        "fin": 14.66
-       },
-       {
-        "t": "never",
-        "ini": 14.72,
-        "fin": 14.96
-       },
-       {
-        "t": "does!",
-        "ini": 15.06,
-        "fin": 15.44
-       }
-      ],
-      "trad": "Yo siempre me levanto temprano — ¡mi gato nunca lo hace!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "I take a shower every day — he washes with his tongue!",
-      "ini": 15.58,
-      "fin": 17.94,
-      "palabras": [
-       {
-        "t": "I",
-        "ini": 15.58,
-        "fin": 15.64
-       },
-       {
-        "t": "take",
-        "ini": 15.68,
-        "fin": 15.86
-       },
-       {
-        "t": "a",
-        "ini": 15.9,
-        "fin": 15.94
-       },
-       {
-        "t": "shower",
-        "ini": 15.98,
-        "fin": 16.3
-       },
-       {
-        "t": "every",
-        "ini": 16.4,
-        "fin": 16.64
-       },
-       {
-        "t": "day",
-        "ini": 16.68,
-        "fin": 16.8
+        "t": "thinking",
+        "ini": 12.44,
+        "fin": 13.18
        },
        {
         "t": "—",
-        "ini": 16.84,
-        "fin": 16.84
+        "ini": 13.18,
+        "fin": 14.24
        },
        {
         "t": "he",
-        "ini": 16.88,
+        "ini": 14.24,
+        "fin": 14.34
+       },
+       {
+        "t": "sleeps",
+        "ini": 14.4,
+        "fin": 14.68
+       },
+       {
+        "t": "half",
+        "ini": 14.72,
+        "fin": 14.86
+       },
+       {
+        "t": "the",
+        "ini": 14.92,
+        "fin": 15.0
+       },
+       {
+        "t": "day!",
+        "ini": 15.1,
+        "fin": 15.5
+       }
+      ],
+      "trad": "Yo siempre parpadeo sin pensarlo — ¡él duerme la mitad del día!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "He almost always lands on his feet… and sometimes on his bottom!",
+      "ini": 15.58,
+      "fin": 19.96,
+      "palabras": [
+       {
+        "t": "He",
+        "ini": 15.58,
+        "fin": 15.66
+       },
+       {
+        "t": "almost",
+        "ini": 15.78,
+        "fin": 16.28
+       },
+       {
+        "t": "always",
+        "ini": 16.48,
         "fin": 16.96
        },
        {
-        "t": "washes",
-        "ini": 17.0,
-        "fin": 17.34
+        "t": "lands",
+        "ini": 17.04,
+        "fin": 17.32
        },
        {
-        "t": "with",
-        "ini": 17.38,
-        "fin": 17.48
+        "t": "on",
+        "ini": 17.4,
+        "fin": 17.5
        },
        {
         "t": "his",
-        "ini": 17.52,
-        "fin": 17.6
+        "ini": 17.54,
+        "fin": 17.66
        },
        {
-        "t": "tongue!",
-        "ini": 17.66,
+        "t": "feet…",
+        "ini": 17.72,
         "fin": 17.94
+       },
+       {
+        "t": "and",
+        "ini": 18.14,
+        "fin": 18.24
+       },
+       {
+        "t": "sometimes",
+        "ini": 18.34,
+        "fin": 18.98
+       },
+       {
+        "t": "on",
+        "ini": 19.1,
+        "fin": 19.28
+       },
+       {
+        "t": "his",
+        "ini": 19.32,
+        "fin": 19.54
+       },
+       {
+        "t": "bottom!",
+        "ini": 19.62,
+        "fin": 19.96
        }
       ],
-      "trad": "Me ducho todos los días — ¡él se lava con la lengua!"
+      "trad": "Casi siempre cae de pie… ¡y a veces, de culete!"
      },
      {
       "seccion": "Chorus",
       "texto": "Always, sometimes, never — my cat and me!",
-      "ini": 18.34,
-      "fin": 20.54,
+      "ini": 20.94,
+      "fin": 25.88,
       "palabras": [
        {
         "t": "Always,",
-        "ini": 18.34,
-        "fin": 18.6
+        "ini": 20.94,
+        "fin": 21.86
        },
        {
         "t": "sometimes,",
-        "ini": 18.66,
-        "fin": 19.02
+        "ini": 22.22,
+        "fin": 22.8
        },
        {
         "t": "never",
-        "ini": 19.1,
-        "fin": 19.36
+        "ini": 22.9,
+        "fin": 23.34
        },
        {
         "t": "—",
-        "ini": 19.4,
-        "fin": 19.4
+        "ini": 23.34,
+        "fin": 23.86
        },
        {
         "t": "my",
-        "ini": 19.48,
-        "fin": 19.56
+        "ini": 23.86,
+        "fin": 24.1
        },
        {
         "t": "cat",
-        "ini": 19.62,
-        "fin": 19.88
+        "ini": 24.18,
+        "fin": 24.46
        },
        {
         "t": "and",
-        "ini": 19.98,
-        "fin": 20.18
+        "ini": 25.2,
+        "fin": 25.4
        },
        {
         "t": "me!",
-        "ini": 20.26,
-        "fin": 20.54
+        "ini": 25.5,
+        "fin": 25.88
        }
       ],
       "trad": "Siempre, a veces, nunca — ¡mi gato y yo!"
      },
      {
       "seccion": "Verse 1",
-      "texto": "Seven o'clock — riiing! — I jump right out of bed,",
-      "ini": 30.04,
-      "fin": 33.58,
+      "texto": "Riiing! Seven o'clock — I jump out of bed: good morning, hey!",
+      "ini": 26.99,
+      "fin": 30.98,
       "palabras": [
        {
+        "t": "Riiing!",
+        "ini": 26.99,
+        "fin": 27.44
+       },
+       {
         "t": "Seven",
-        "ini": 30.04,
-        "fin": 30.52
+        "ini": 27.44,
+        "fin": 27.74
        },
        {
         "t": "o'clock",
-        "ini": 30.56,
-        "fin": 31.04
+        "ini": 27.78,
+        "fin": 28.32
        },
        {
         "t": "—",
-        "ini": 31.26,
-        "fin": 31.26
-       },
-       {
-        "t": "riiing!",
-        "ini": 31.36,
-        "fin": 32.4
-       },
-       {
-        "t": "—",
-        "ini": 32.46,
-        "fin": 32.46
+        "ini": 28.32,
+        "fin": 28.64
        },
        {
         "t": "I",
-        "ini": 32.52,
-        "fin": 32.6
+        "ini": 28.64,
+        "fin": 28.68
        },
        {
         "t": "jump",
-        "ini": 32.66,
-        "fin": 32.84
-       },
-       {
-        "t": "right",
-        "ini": 32.9,
-        "fin": 33.02
+        "ini": 28.78,
+        "fin": 28.98
        },
        {
         "t": "out",
-        "ini": 33.06,
-        "fin": 33.18
+        "ini": 29.1,
+        "fin": 29.2
        },
        {
         "t": "of",
-        "ini": 33.2,
-        "fin": 33.26
+        "ini": 29.24,
+        "fin": 29.32
        },
        {
-        "t": "bed,",
-        "ini": 33.34,
-        "fin": 33.58
+        "t": "bed:",
+        "ini": 29.38,
+        "fin": 29.66
+       },
+       {
+        "t": "good",
+        "ini": 29.9,
+        "fin": 29.98
+       },
+       {
+        "t": "morning,",
+        "ini": 30.06,
+        "fin": 30.48
+       },
+       {
+        "t": "hey!",
+        "ini": 30.54,
+        "fin": 30.98
        }
       ],
-      "trad": "Las siete en punto, ¡riiing!, salto de la cama,"
+      "trad": "¡Riiing! Las siete: salto de la cama, ¡buenos días!"
      },
      {
       "seccion": "Verse 1",
-      "texto": "I brush my teeth, I get dressed, and I eat my bread!",
-      "ini": 33.84,
+      "texto": "my heart never rests — it beats a hundred thousand times a day!",
+      "ini": 32.5,
       "fin": 36.2,
       "palabras": [
        {
-        "t": "I",
-        "ini": 33.84,
-        "fin": 33.9
-       },
-       {
-        "t": "brush",
-        "ini": 33.96,
-        "fin": 34.16
-       },
-       {
         "t": "my",
-        "ini": 34.2,
-        "fin": 34.32
+        "ini": 32.5,
+        "fin": 32.58
        },
        {
-        "t": "teeth,",
-        "ini": 34.38,
-        "fin": 34.56
-       },
-       {
-        "t": "I",
-        "ini": 34.7,
-        "fin": 34.74
-       },
-       {
-        "t": "get",
-        "ini": 34.8,
-        "fin": 34.9
-       },
-       {
-        "t": "dressed,",
-        "ini": 34.96,
-        "fin": 35.24
-       },
-       {
-        "t": "and",
-        "ini": 35.3,
-        "fin": 35.42
-       },
-       {
-        "t": "I",
-        "ini": 35.48,
-        "fin": 35.54
-       },
-       {
-        "t": "eat",
-        "ini": 35.6,
-        "fin": 35.72
-       },
-       {
-        "t": "my",
-        "ini": 35.76,
-        "fin": 35.86
-       },
-       {
-        "t": "bread!",
-        "ini": 35.94,
-        "fin": 36.2
-       }
-      ],
-      "trad": "me lavo los dientes, me visto ¡y me como mi pan!"
-     },
-     {
-      "seccion": "Verse 1",
-      "texto": "My cat Tostón always sleeps till ten,",
-      "ini": 36.44,
-      "fin": 38.76,
-      "palabras": [
-       {
-        "t": "My",
-        "ini": 36.44,
-        "fin": 36.58
-       },
-       {
-        "t": "cat",
-        "ini": 36.62,
-        "fin": 36.84
-       },
-       {
-        "t": "Tostón",
-        "ini": 36.9,
-        "fin": 37.5
-       },
-       {
-        "t": "always",
-        "ini": 37.6,
-        "fin": 37.84
-       },
-       {
-        "t": "sleeps",
-        "ini": 37.92,
-        "fin": 38.22
-       },
-       {
-        "t": "till",
-        "ini": 38.26,
-        "fin": 38.36
-       },
-       {
-        "t": "ten,",
-        "ini": 38.48,
-        "fin": 38.76
-       }
-      ],
-      "trad": "Mi gato Tostón siempre duerme hasta las diez,"
-     },
-     {
-      "seccion": "Verse 1",
-      "texto": "he never does his homework — and sometimes he sleeps again!",
-      "ini": 39.02,
-      "fin": 41.48,
-      "palabras": [
-       {
-        "t": "he",
-        "ini": 39.02,
-        "fin": 39.12
+        "t": "heart",
+        "ini": 32.62,
+        "fin": 32.82
        },
        {
         "t": "never",
-        "ini": 39.18,
-        "fin": 39.44
+        "ini": 32.86,
+        "fin": 33.1
        },
        {
-        "t": "does",
-        "ini": 39.48,
-        "fin": 39.66
-       },
-       {
-        "t": "his",
-        "ini": 39.68,
-        "fin": 39.84
-       },
-       {
-        "t": "homework",
-        "ini": 39.88,
-        "fin": 40.2
+        "t": "rests",
+        "ini": 33.18,
+        "fin": 33.72
        },
        {
         "t": "—",
-        "ini": 40.22,
-        "fin": 40.22
+        "ini": 33.72,
+        "fin": 34.18
        },
        {
-        "t": "and",
-        "ini": 40.24,
-        "fin": 40.32
+        "t": "it",
+        "ini": 34.18,
+        "fin": 34.24
        },
        {
-        "t": "sometimes",
-        "ini": 40.36,
-        "fin": 40.72
-       },
-       {
-        "t": "he",
-        "ini": 40.74,
-        "fin": 40.82
-       },
-       {
-        "t": "sleeps",
-        "ini": 40.86,
-        "fin": 41.06
-       },
-       {
-        "t": "again!",
-        "ini": 41.14,
-        "fin": 41.48
-       }
-      ],
-      "trad": "nunca hace los deberes… ¡y a veces vuelve a dormir!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "Always, sometimes, never — tell me, how about you?",
-      "ini": 52.3,
-      "fin": 54.62,
-      "palabras": [
-       {
-        "t": "Always,",
-        "ini": 52.3,
-        "fin": 52.72
-       },
-       {
-        "t": "sometimes,",
-        "ini": 52.88,
-        "fin": 53.46
-       },
-       {
-        "t": "never",
-        "ini": 53.54,
-        "fin": 53.78
-       },
-       {
-        "t": "—",
-        "ini": 53.8,
-        "fin": 53.8
-       },
-       {
-        "t": "tell",
-        "ini": 53.86,
-        "fin": 54.0
-       },
-       {
-        "t": "me,",
-        "ini": 54.04,
-        "fin": 54.12
-       },
-       {
-        "t": "how",
-        "ini": 54.18,
-        "fin": 54.28
-       },
-       {
-        "t": "about",
-        "ini": 54.32,
-        "fin": 54.48
-       },
-       {
-        "t": "you?",
-        "ini": 54.54,
-        "fin": 54.62
-       }
-      ],
-      "trad": "Siempre, a veces, nunca — dime, ¿y tú?"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "I always get up early — my cat never does!",
-      "ini": 54.74,
-      "fin": 57.16,
-      "palabras": [
-       {
-        "t": "I",
-        "ini": 54.74,
-        "fin": 54.78
-       },
-       {
-        "t": "always",
-        "ini": 54.88,
-        "fin": 55.16
-       },
-       {
-        "t": "get",
-        "ini": 55.2,
-        "fin": 55.32
-       },
-       {
-        "t": "up",
-        "ini": 55.36,
-        "fin": 55.48
-       },
-       {
-        "t": "early",
-        "ini": 55.52,
-        "fin": 55.9
-       },
-       {
-        "t": "—",
-        "ini": 55.9,
-        "fin": 55.9
-       },
-       {
-        "t": "my",
-        "ini": 56.0,
-        "fin": 56.08
-       },
-       {
-        "t": "cat",
-        "ini": 56.14,
-        "fin": 56.4
-       },
-       {
-        "t": "never",
-        "ini": 56.46,
-        "fin": 56.74
-       },
-       {
-        "t": "does!",
-        "ini": 56.8,
-        "fin": 57.16
-       }
-      ],
-      "trad": "Yo siempre me levanto temprano — ¡mi gato nunca lo hace!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "I take a shower every day — he washes with his tongue!",
-      "ini": 57.32,
-      "fin": 59.68,
-      "palabras": [
-       {
-        "t": "I",
-        "ini": 57.32,
-        "fin": 57.36
-       },
-       {
-        "t": "take",
-        "ini": 57.42,
-        "fin": 57.6
+        "t": "beats",
+        "ini": 34.28,
+        "fin": 34.48
        },
        {
         "t": "a",
-        "ini": 57.64,
-        "fin": 57.68
+        "ini": 34.48,
+        "fin": 34.75
        },
        {
-        "t": "shower",
-        "ini": 57.72,
-        "fin": 58.04
+        "t": "hundred",
+        "ini": 34.75,
+        "fin": 35.03
        },
        {
-        "t": "every",
-        "ini": 58.14,
-        "fin": 58.34
+        "t": "thousand",
+        "ini": 35.03,
+        "fin": 35.3
        },
        {
-        "t": "day",
-        "ini": 58.42,
-        "fin": 58.54
+        "t": "times",
+        "ini": 35.3,
+        "fin": 35.6
+       },
+       {
+        "t": "a",
+        "ini": 35.66,
+        "fin": 35.72
+       },
+       {
+        "t": "day!",
+        "ini": 35.82,
+        "fin": 36.2
+       }
+      ],
+      "trad": "mi corazón nunca descansa — ¡late cien mil veces al día!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Tostón snores on my pillow like a little motor — wow,",
+      "ini": 36.2,
+      "fin": 41.52,
+      "palabras": [
+       {
+        "t": "Tostón",
+        "ini": 36.2,
+        "fin": 37.26
+       },
+       {
+        "t": "snores",
+        "ini": 37.26,
+        "fin": 37.82
+       },
+       {
+        "t": "on",
+        "ini": 37.96,
+        "fin": 38.14
+       },
+       {
+        "t": "my",
+        "ini": 38.22,
+        "fin": 38.46
+       },
+       {
+        "t": "pillow",
+        "ini": 38.56,
+        "fin": 39.1
+       },
+       {
+        "t": "like",
+        "ini": 39.2,
+        "fin": 39.38
+       },
+       {
+        "t": "a",
+        "ini": 39.42,
+        "fin": 39.46
+       },
+       {
+        "t": "little",
+        "ini": 39.52,
+        "fin": 39.76
+       },
+       {
+        "t": "motor",
+        "ini": 39.82,
+        "fin": 40.18
        },
        {
         "t": "—",
-        "ini": 58.56,
-        "fin": 58.56
+        "ini": 40.18,
+        "fin": 41.16
+       },
+       {
+        "t": "wow,",
+        "ini": 41.16,
+        "fin": 41.52
+       }
+      ],
+      "trad": "Tostón ronca en mi almohada como un motorcito — ¡uau,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "he sleeps more than half the day — that's normal for a cat, meow!",
+      "ini": 41.8,
+      "fin": 46.78,
+      "palabras": [
+       {
+        "t": "he",
+        "ini": 41.8,
+        "fin": 41.98
+       },
+       {
+        "t": "sleeps",
+        "ini": 42.06,
+        "fin": 42.38
+       },
+       {
+        "t": "more",
+        "ini": 42.46,
+        "fin": 42.7
+       },
+       {
+        "t": "than",
+        "ini": 42.76,
+        "fin": 43.0
+       },
+       {
+        "t": "half",
+        "ini": 43.1,
+        "fin": 43.36
+       },
+       {
+        "t": "the",
+        "ini": 43.42,
+        "fin": 43.52
+       },
+       {
+        "t": "day",
+        "ini": 43.62,
+        "fin": 43.98
+       },
+       {
+        "t": "—",
+        "ini": 43.98,
+        "fin": 44.08
+       },
+       {
+        "t": "that's",
+        "ini": 44.08,
+        "fin": 44.34
+       },
+       {
+        "t": "normal",
+        "ini": 44.4,
+        "fin": 44.68
+       },
+       {
+        "t": "for",
+        "ini": 44.74,
+        "fin": 44.86
+       },
+       {
+        "t": "a",
+        "ini": 44.94,
+        "fin": 44.98
+       },
+       {
+        "t": "cat,",
+        "ini": 45.06,
+        "fin": 45.46
+       },
+       {
+        "t": "meow!",
+        "ini": 46.32,
+        "fin": 46.78
+       }
+      ],
+      "trad": "duerme más de la mitad del día — ¡eso es normal para un gato, miau!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Always, sometimes, never — who does what? Let's see!",
+      "ini": 47.1,
+      "fin": 51.86,
+      "palabras": [
+       {
+        "t": "Always,",
+        "ini": 47.1,
+        "fin": 47.94
+       },
+       {
+        "t": "sometimes,",
+        "ini": 48.32,
+        "fin": 48.94
+       },
+       {
+        "t": "never",
+        "ini": 49.0,
+        "fin": 49.56
+       },
+       {
+        "t": "—",
+        "ini": 49.56,
+        "fin": 49.96
+       },
+       {
+        "t": "who",
+        "ini": 49.96,
+        "fin": 50.18
+       },
+       {
+        "t": "does",
+        "ini": 50.28,
+        "fin": 50.64
+       },
+       {
+        "t": "what?",
+        "ini": 50.94,
+        "fin": 51.18
+       },
+       {
+        "t": "Let's",
+        "ini": 51.26,
+        "fin": 51.5
+       },
+       {
+        "t": "see!",
+        "ini": 51.6,
+        "fin": 51.86
+       }
+      ],
+      "trad": "Siempre, a veces, nunca — ¿quién hace qué? ¡A ver!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "I always blink without thinking — he sleeps half the day!",
+      "ini": 52.08,
+      "fin": 57.24,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 52.08,
+        "fin": 52.18
+       },
+       {
+        "t": "always",
+        "ini": 52.32,
+        "fin": 53.16
+       },
+       {
+        "t": "blink",
+        "ini": 53.52,
+        "fin": 53.7
+       },
+       {
+        "t": "without",
+        "ini": 53.74,
+        "fin": 54.1
+       },
+       {
+        "t": "thinking",
+        "ini": 54.18,
+        "fin": 54.98
+       },
+       {
+        "t": "—",
+        "ini": 54.98,
+        "fin": 55.98
        },
        {
         "t": "he",
-        "ini": 58.6,
+        "ini": 55.98,
+        "fin": 56.06
+       },
+       {
+        "t": "sleeps",
+        "ini": 56.14,
+        "fin": 56.42
+       },
+       {
+        "t": "half",
+        "ini": 56.46,
+        "fin": 56.64
+       },
+       {
+        "t": "the",
+        "ini": 56.68,
+        "fin": 56.74
+       },
+       {
+        "t": "day!",
+        "ini": 56.84,
+        "fin": 57.24
+       }
+      ],
+      "trad": "Yo siempre parpadeo sin pensarlo — ¡él duerme la mitad del día!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "He almost always lands on his feet… and sometimes on his bottom!",
+      "ini": 57.3,
+      "fin": 61.96,
+      "palabras": [
+       {
+        "t": "He",
+        "ini": 57.3,
+        "fin": 57.4
+       },
+       {
+        "t": "almost",
+        "ini": 57.54,
+        "fin": 58.02
+       },
+       {
+        "t": "always",
+        "ini": 58.22,
         "fin": 58.7
        },
        {
-        "t": "washes",
+        "t": "lands",
         "ini": 58.76,
         "fin": 59.06
        },
        {
-        "t": "with",
-        "ini": 59.1,
-        "fin": 59.22
+        "t": "on",
+        "ini": 59.14,
+        "fin": 59.24
        },
        {
         "t": "his",
-        "ini": 59.26,
-        "fin": 59.36
+        "ini": 59.28,
+        "fin": 59.42
        },
        {
-        "t": "tongue!",
-        "ini": 59.42,
-        "fin": 59.68
+        "t": "feet…",
+        "ini": 59.48,
+        "fin": 59.84
+       },
+       {
+        "t": "and",
+        "ini": 59.9,
+        "fin": 59.98
+       },
+       {
+        "t": "sometimes",
+        "ini": 60.08,
+        "fin": 60.7
+       },
+       {
+        "t": "on",
+        "ini": 60.84,
+        "fin": 61.02
+       },
+       {
+        "t": "his",
+        "ini": 61.08,
+        "fin": 61.28
+       },
+       {
+        "t": "bottom!",
+        "ini": 61.34,
+        "fin": 61.96
        }
       ],
-      "trad": "Me ducho todos los días — ¡él se lava con la lengua!"
+      "trad": "Casi siempre cae de pie… ¡y a veces, de culete!"
      },
      {
       "seccion": "Chorus",
       "texto": "Always, sometimes, never — my cat and me!",
-      "ini": 60.1,
-      "fin": 62.28,
+      "ini": 62.74,
+      "fin": 67.64,
       "palabras": [
        {
         "t": "Always,",
-        "ini": 60.1,
-        "fin": 60.34
+        "ini": 62.74,
+        "fin": 63.56
        },
        {
         "t": "sometimes,",
-        "ini": 60.38,
-        "fin": 60.78
+        "ini": 63.96,
+        "fin": 64.56
        },
        {
         "t": "never",
-        "ini": 60.86,
-        "fin": 61.12
+        "ini": 64.64,
+        "fin": 65.2
        },
        {
         "t": "—",
-        "ini": 61.14,
-        "fin": 61.14
+        "ini": 65.2,
+        "fin": 65.6
        },
        {
         "t": "my",
-        "ini": 61.2,
-        "fin": 61.3
+        "ini": 65.6,
+        "fin": 65.84
        },
        {
         "t": "cat",
-        "ini": 61.36,
-        "fin": 61.6
+        "ini": 65.92,
+        "fin": 66.2
        },
        {
         "t": "and",
-        "ini": 61.72,
-        "fin": 61.92
+        "ini": 66.96,
+        "fin": 67.18
        },
        {
         "t": "me!",
-        "ini": 62.02,
-        "fin": 62.28
+        "ini": 67.22,
+        "fin": 67.64
        }
       ],
       "trad": "Siempre, a veces, nunca — ¡mi gato y yo!"
      },
      {
       "seccion": "Verse 2",
-      "texto": "On Mondays I go to school, on Tuesdays I swim in the pool,",
-      "ini": 70.32,
-      "fin": 73.02,
-      "palabras": [
-       {
-        "t": "On",
-        "ini": 70.32,
-        "fin": 70.42
-       },
-       {
-        "t": "Mondays",
-        "ini": 70.48,
-        "fin": 70.82
-       },
-       {
-        "t": "I",
-        "ini": 70.9,
-        "fin": 70.94
-       },
-       {
-        "t": "go",
-        "ini": 71.0,
-        "fin": 71.08
-       },
-       {
-        "t": "to",
-        "ini": 71.12,
-        "fin": 71.2
-       },
-       {
-        "t": "school,",
-        "ini": 71.28,
-        "fin": 71.54
-       },
-       {
-        "t": "on",
-        "ini": 71.62,
-        "fin": 71.74
-       },
-       {
-        "t": "Tuesdays",
-        "ini": 71.78,
-        "fin": 72.2
-       },
-       {
-        "t": "I",
-        "ini": 72.26,
-        "fin": 72.34
-       },
-       {
-        "t": "swim",
-        "ini": 72.36,
-        "fin": 72.5
-       },
-       {
-        "t": "in",
-        "ini": 72.54,
-        "fin": 72.6
-       },
-       {
-        "t": "the",
-        "ini": 72.64,
-        "fin": 72.72
-       },
-       {
-        "t": "pool,",
-        "ini": 72.78,
-        "fin": 73.02
-       }
-      ],
-      "trad": "Los lunes voy al cole, los martes nado en la piscina,"
-     },
-     {
-      "seccion": "Verse 2",
-      "texto": "on Thursdays I play soccer — never late, not one day, that's my rule!",
-      "ini": 73.48,
-      "fin": 78.02,
-      "palabras": [
-       {
-        "t": "on",
-        "ini": 73.48,
-        "fin": 73.62
-       },
-       {
-        "t": "Thursdays",
-        "ini": 73.7,
-        "fin": 74.36
-       },
-       {
-        "t": "I",
-        "ini": 74.74,
-        "fin": 74.8
-       },
-       {
-        "t": "play",
-        "ini": 74.82,
-        "fin": 74.98
-       },
-       {
-        "t": "soccer",
-        "ini": 75.08,
-        "fin": 75.46
-       },
-       {
-        "t": "—",
-        "ini": 75.64,
-        "fin": 75.64
-       },
-       {
-        "t": "never",
-        "ini": 75.74,
-        "fin": 75.94
-       },
-       {
-        "t": "late,",
-        "ini": 76.02,
-        "fin": 76.16
-       },
-       {
-        "t": "not",
-        "ini": 76.24,
-        "fin": 76.42
-       },
-       {
-        "t": "one",
-        "ini": 76.46,
-        "fin": 76.6
-       },
-       {
-        "t": "day,",
-        "ini": 76.7,
-        "fin": 76.9
-       },
-       {
-        "t": "that's",
-        "ini": 77.18,
-        "fin": 77.4
-       },
-       {
-        "t": "my",
-        "ini": 77.46,
-        "fin": 77.68
-       },
-       {
-        "t": "rule!",
-        "ini": 77.74,
-        "fin": 78.02
-       }
-      ],
-      "trad": "los jueves juego al fútbol: nunca llego tarde, ni un solo día, ¡es mi norma!"
-     },
-     {
-      "seccion": "Verse 2",
-      "texto": "And Tostón? On Mondays he sleeps, on Tuesdays he sleeps — how boring!",
-      "ini": 78.48,
-      "fin": 83.46,
-      "palabras": [
-       {
-        "t": "And",
-        "ini": 78.48,
-        "fin": 78.58
-       },
-       {
-        "t": "Tostón?",
-        "ini": 78.66,
-        "fin": 79.24
-       },
-       {
-        "t": "On",
-        "ini": 79.48,
-        "fin": 79.58
-       },
-       {
-        "t": "Mondays",
-        "ini": 79.66,
-        "fin": 80.04
-       },
-       {
-        "t": "he",
-        "ini": 80.06,
-        "fin": 80.18
-       },
-       {
-        "t": "sleeps,",
-        "ini": 80.28,
-        "fin": 80.6
-       },
-       {
-        "t": "on",
-        "ini": 80.8,
-        "fin": 80.86
-       },
-       {
-        "t": "Tuesdays",
-        "ini": 80.96,
-        "fin": 81.4
-       },
-       {
-        "t": "he",
-        "ini": 81.44,
-        "fin": 81.52
-       },
-       {
-        "t": "sleeps",
-        "ini": 81.64,
-        "fin": 82.04
-       },
-       {
-        "t": "—",
-        "ini": 82.08,
-        "fin": 82.08
-       },
-       {
-        "t": "how",
-        "ini": 82.12,
-        "fin": 82.46
-       },
-       {
-        "t": "boring!",
-        "ini": 82.68,
-        "fin": 83.46
-       }
-      ],
-      "trad": "¿Y Tostón? Los lunes duerme, los martes duerme — ¡qué aburrido!"
-     },
-     {
-      "seccion": "Verse 2",
-      "texto": "and on Sunday, surprise, surprise — he eats my muffin in the morning!",
-      "ini": 83.7,
-      "fin": 87.32,
-      "palabras": [
-       {
-        "t": "and",
-        "ini": 83.7,
-        "fin": 83.84
-       },
-       {
-        "t": "on",
-        "ini": 83.9,
-        "fin": 84.02
-       },
-       {
-        "t": "Sunday,",
-        "ini": 84.18,
-        "fin": 84.58
-       },
-       {
-        "t": "surprise,",
-        "ini": 84.68,
-        "fin": 85.1
-       },
-       {
-        "t": "surprise",
-        "ini": 85.14,
-        "fin": 85.6
-       },
-       {
-        "t": "—",
-        "ini": 85.64,
-        "fin": 85.64
-       },
-       {
-        "t": "he",
-        "ini": 85.68,
-        "fin": 85.74
-       },
-       {
-        "t": "eats",
-        "ini": 85.78,
-        "fin": 85.94
-       },
-       {
-        "t": "my",
-        "ini": 85.98,
-        "fin": 86.08
-       },
-       {
-        "t": "muffin",
-        "ini": 86.12,
-        "fin": 86.44
-       },
-       {
-        "t": "in",
-        "ini": 86.48,
-        "fin": 86.58
-       },
-       {
-        "t": "the",
-        "ini": 86.62,
-        "fin": 86.7
-       },
-       {
-        "t": "morning!",
-        "ini": 86.78,
-        "fin": 87.32
-       }
-      ],
-      "trad": "y el domingo, ¡sorpresa, sorpresa!, se come mi magdalena por la mañana."
-     },
-     {
-      "seccion": "Bridge",
-      "texto": "«Always» means every day, «never» means not one day,",
-      "ini": 94.09,
-      "fin": 98.68,
-      "palabras": [
-       {
-        "t": "«Always»",
-        "ini": 94.09,
-        "fin": 94.54
-       },
-       {
-        "t": "means",
-        "ini": 94.64,
-        "fin": 94.98
-       },
-       {
-        "t": "every",
-        "ini": 95.32,
-        "fin": 95.68
-       },
-       {
-        "t": "day,",
-        "ini": 95.78,
-        "fin": 96.12
-       },
-       {
-        "t": "«never»",
-        "ini": 96.12,
-        "fin": 97.08
-       },
-       {
-        "t": "means",
-        "ini": 97.18,
-        "fin": 97.48
-       },
-       {
-        "t": "not",
-        "ini": 97.56,
-        "fin": 97.74
-       },
-       {
-        "t": "one",
-        "ini": 97.92,
-        "fin": 98.26
-       },
-       {
-        "t": "day,",
-        "ini": 98.36,
-        "fin": 98.68
-       }
-      ],
-      "trad": "«Siempre» significa todos los días, «nunca» significa ni un solo día,"
-     },
-     {
-      "seccion": "Bridge",
-      "texto": "«sometimes» means now and then — like when Tostón wants to play!",
-      "ini": 98.74,
-      "fin": 103.94,
-      "palabras": [
-       {
-        "t": "«sometimes»",
-        "ini": 98.74,
-        "fin": 99.76
-       },
-       {
-        "t": "means",
-        "ini": 99.86,
-        "fin": 100.18
-       },
-       {
-        "t": "now",
-        "ini": 100.5,
-        "fin": 100.76
-       },
-       {
-        "t": "and",
-        "ini": 100.82,
-        "fin": 100.98
-       },
-       {
-        "t": "then",
-        "ini": 101.02,
-        "fin": 101.38
-       },
-       {
-        "t": "—",
-        "ini": 101.38,
-        "fin": 101.38
-       },
-       {
-        "t": "like",
-        "ini": 101.78,
-        "fin": 102.04
-       },
-       {
-        "t": "when",
-        "ini": 102.1,
-        "fin": 102.34
-       },
-       {
-        "t": "Tostón",
-        "ini": 102.4,
-        "fin": 103.0
-       },
-       {
-        "t": "wants",
-        "ini": 103.1,
-        "fin": 103.36
-       },
-       {
-        "t": "to",
-        "ini": 103.4,
-        "fin": 103.5
-       },
-       {
-        "t": "play!",
-        "ini": 103.56,
-        "fin": 103.94
-       }
-      ],
-      "trad": "«a veces» significa de vez en cuando — ¡como cuando Tostón quiere jugar!"
-     },
-     {
-      "seccion": "Bridge",
-      "texto": "I get up, he gets up… and what do you do?",
-      "ini": 104.5,
-      "fin": 109.34,
-      "palabras": [
-       {
-        "t": "I",
-        "ini": 104.5,
-        "fin": 104.64
-       },
-       {
-        "t": "get",
-        "ini": 104.76,
-        "fin": 104.92
-       },
-       {
-        "t": "up,",
-        "ini": 105.0,
-        "fin": 105.14
-       },
-       {
-        "t": "he",
-        "ini": 105.72,
-        "fin": 105.92
-       },
-       {
-        "t": "gets",
-        "ini": 106.04,
-        "fin": 106.34
-       },
-       {
-        "t": "up…",
-        "ini": 106.5,
-        "fin": 106.64
-       },
-       {
-        "t": "and",
-        "ini": 108.14,
-        "fin": 108.26
-       },
-       {
-        "t": "what",
-        "ini": 108.32,
-        "fin": 108.46
-       },
-       {
-        "t": "do",
-        "ini": 108.5,
-        "fin": 108.56
-       },
-       {
-        "t": "you",
-        "ini": 108.68,
-        "fin": 108.88
-       },
-       {
-        "t": "do?",
-        "ini": 109.0,
-        "fin": 109.34
-       }
-      ],
-      "trad": "Yo me levanto, él se levanta… ¿y tú qué haces?"
-     },
-     {
-      "seccion": "Verse 3",
-      "texto": "At night I put on my pajamas and I get into bed,",
-      "ini": 124.98,
-      "fin": 129.42,
+      "texto": "At breakfast — swoosh! — Tostón steals my bun, how rude!",
+      "ini": 68.26,
+      "fin": 73.54,
       "palabras": [
        {
         "t": "At",
-        "ini": 124.98,
-        "fin": 125.18
+        "ini": 68.26,
+        "fin": 68.46
        },
        {
-        "t": "night",
-        "ini": 125.26,
-        "fin": 125.54
-       },
-       {
-        "t": "I",
-        "ini": 125.66,
-        "fin": 125.76
-       },
-       {
-        "t": "put",
-        "ini": 125.88,
-        "fin": 126.08
-       },
-       {
-        "t": "on",
-        "ini": 126.12,
-        "fin": 126.2
-       },
-       {
-        "t": "my",
-        "ini": 126.26,
-        "fin": 126.4
-       },
-       {
-        "t": "pajamas",
-        "ini": 126.42,
-        "fin": 127.16
-       },
-       {
-        "t": "and",
-        "ini": 127.72,
-        "fin": 127.88
-       },
-       {
-        "t": "I",
-        "ini": 128.06,
-        "fin": 128.14
-       },
-       {
-        "t": "get",
-        "ini": 128.2,
-        "fin": 128.4
-       },
-       {
-        "t": "into",
-        "ini": 128.48,
-        "fin": 128.92
-       },
-       {
-        "t": "bed,",
-        "ini": 129.04,
-        "fin": 129.42
-       }
-      ],
-      "trad": "Por la noche me pongo el pijama y me meto en la cama,"
-     },
-     {
-      "seccion": "Verse 3",
-      "texto": "and Tostón, who always sleeps… wakes up and wants to play instead!",
-      "ini": 130.32,
-      "fin": 135.56,
-      "palabras": [
-       {
-        "t": "and",
-        "ini": 130.32,
-        "fin": 130.42
-       },
-       {
-        "t": "Tostón,",
-        "ini": 130.48,
-        "fin": 131.2
-       },
-       {
-        "t": "who",
-        "ini": 131.64,
-        "fin": 131.74
-       },
-       {
-        "t": "always",
-        "ini": 131.86,
-        "fin": 132.2
-       },
-       {
-        "t": "sleeps…",
-        "ini": 132.28,
-        "fin": 132.66
-       },
-       {
-        "t": "wakes",
-        "ini": 132.78,
-        "fin": 133.04
-       },
-       {
-        "t": "up",
-        "ini": 133.18,
-        "fin": 133.36
-       },
-       {
-        "t": "and",
-        "ini": 133.9,
-        "fin": 134.0
-       },
-       {
-        "t": "wants",
-        "ini": 134.04,
-        "fin": 134.22
-       },
-       {
-        "t": "to",
-        "ini": 134.26,
-        "fin": 134.34
-       },
-       {
-        "t": "play",
-        "ini": 134.4,
-        "fin": 134.72
-       },
-       {
-        "t": "instead!",
-        "ini": 134.82,
-        "fin": 135.56
-       }
-      ],
-      "trad": "y Tostón, que siempre duerme… ¡se despierta y quiere jugar!"
-     },
-     {
-      "seccion": "Final Chorus",
-      "texto": "Always, sometimes, never — tell me, how about you?",
-      "ini": 146.22,
-      "fin": 148.58,
-      "palabras": [
-       {
-        "t": "Always,",
-        "ini": 146.22,
-        "fin": 146.72
-       },
-       {
-        "t": "sometimes,",
-        "ini": 146.8,
-        "fin": 147.38
-       },
-       {
-        "t": "never",
-        "ini": 147.46,
-        "fin": 147.7
+        "t": "breakfast",
+        "ini": 68.52,
+        "fin": 69.2
        },
        {
         "t": "—",
-        "ini": 147.72,
-        "fin": 147.72
+        "ini": 69.2,
+        "fin": 69.82
        },
        {
-        "t": "tell",
-        "ini": 147.78,
-        "fin": 147.92
+        "t": "swoosh!",
+        "ini": 69.82,
+        "fin": 70.44
        },
        {
-        "t": "me,",
-        "ini": 147.96,
-        "fin": 148.02
+        "t": "—",
+        "ini": 70.44,
+        "fin": 71.24
+       },
+       {
+        "t": "Tostón",
+        "ini": 71.24,
+        "fin": 72.04
+       },
+       {
+        "t": "steals",
+        "ini": 72.04,
+        "fin": 72.28
+       },
+       {
+        "t": "my",
+        "ini": 72.3,
+        "fin": 72.4
+       },
+       {
+        "t": "bun,",
+        "ini": 72.48,
+        "fin": 72.68
        },
        {
         "t": "how",
-        "ini": 148.08,
-        "fin": 148.2
+        "ini": 72.78,
+        "fin": 73.02
        },
        {
-        "t": "about",
-        "ini": 148.24,
-        "fin": 148.42
-       },
-       {
-        "t": "you?",
-        "ini": 148.48,
-        "fin": 148.58
+        "t": "rude!",
+        "ini": 73.14,
+        "fin": 73.54
        }
       ],
-      "trad": "Siempre, a veces, nunca — dime, ¿y tú?"
+      "trad": "En el desayuno — ¡zas! — Tostón roba mi bollo, ¡qué maleducado!"
      },
      {
-      "seccion": "Final Chorus",
-      "texto": "I always get up early — my cat never does!",
-      "ini": 148.66,
-      "fin": 151.04,
+      "seccion": "Verse 2",
+      "texto": "but he never tastes the sugar — cats can't taste sweet food!",
+      "ini": 74.08,
+      "fin": 77.46,
       "palabras": [
        {
-        "t": "I",
-        "ini": 148.66,
-        "fin": 148.7
-       },
-       {
-        "t": "always",
-        "ini": 148.76,
-        "fin": 149.02
-       },
-       {
-        "t": "get",
-        "ini": 149.08,
-        "fin": 149.22
-       },
-       {
-        "t": "up",
-        "ini": 149.26,
-        "fin": 149.36
-       },
-       {
-        "t": "early",
-        "ini": 149.4,
-        "fin": 149.68
-       },
-       {
-        "t": "—",
-        "ini": 149.8,
-        "fin": 149.8
-       },
-       {
-        "t": "my",
-        "ini": 149.92,
-        "fin": 150.0
-       },
-       {
-        "t": "cat",
-        "ini": 150.06,
-        "fin": 150.3
-       },
-       {
-        "t": "never",
-        "ini": 150.36,
-        "fin": 150.64
-       },
-       {
-        "t": "does!",
-        "ini": 150.72,
-        "fin": 151.04
-       }
-      ],
-      "trad": "Yo siempre me levanto temprano — ¡mi gato nunca lo hace!"
-     },
-     {
-      "seccion": "Final Chorus",
-      "texto": "I take a shower every day — he washes with his tongue!",
-      "ini": 151.24,
-      "fin": 153.58,
-      "palabras": [
-       {
-        "t": "I",
-        "ini": 151.24,
-        "fin": 151.28
-       },
-       {
-        "t": "take",
-        "ini": 151.34,
-        "fin": 151.52
-       },
-       {
-        "t": "a",
-        "ini": 151.56,
-        "fin": 151.6
-       },
-       {
-        "t": "shower",
-        "ini": 151.64,
-        "fin": 151.96
-       },
-       {
-        "t": "every",
-        "ini": 152.06,
-        "fin": 152.26
-       },
-       {
-        "t": "day",
-        "ini": 152.34,
-        "fin": 152.46
-       },
-       {
-        "t": "—",
-        "ini": 152.5,
-        "fin": 152.5
+        "t": "but",
+        "ini": 74.08,
+        "fin": 74.24
        },
        {
         "t": "he",
-        "ini": 152.52,
-        "fin": 152.62
+        "ini": 74.28,
+        "fin": 74.34
+       },
+       {
+        "t": "never",
+        "ini": 74.42,
+        "fin": 74.64
+       },
+       {
+        "t": "tastes",
+        "ini": 74.72,
+        "fin": 74.9
+       },
+       {
+        "t": "the",
+        "ini": 74.94,
+        "fin": 75.0
+       },
+       {
+        "t": "sugar",
+        "ini": 75.08,
+        "fin": 75.42
+       },
+       {
+        "t": "—",
+        "ini": 75.42,
+        "fin": 75.72
+       },
+       {
+        "t": "cats",
+        "ini": 75.72,
+        "fin": 75.98
+       },
+       {
+        "t": "can't",
+        "ini": 76.04,
+        "fin": 76.26
+       },
+       {
+        "t": "taste",
+        "ini": 76.36,
+        "fin": 76.58
+       },
+       {
+        "t": "sweet",
+        "ini": 76.64,
+        "fin": 76.92
+       },
+       {
+        "t": "food!",
+        "ini": 77.02,
+        "fin": 77.46
+       }
+      ],
+      "trad": "pero nunca nota el azúcar: ¡los gatos no notan el sabor dulce!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "He washes with his tongue — it has tiny hooks, just like a comb,",
+      "ini": 78.0,
+      "fin": 83.34,
+      "palabras": [
+       {
+        "t": "He",
+        "ini": 78.0,
+        "fin": 78.22
        },
        {
         "t": "washes",
-        "ini": 152.66,
-        "fin": 152.98
+        "ini": 78.32,
+        "fin": 78.9
        },
        {
         "t": "with",
-        "ini": 153.02,
-        "fin": 153.14
+        "ini": 78.98,
+        "fin": 79.2
        },
        {
         "t": "his",
-        "ini": 153.16,
-        "fin": 153.26
+        "ini": 79.26,
+        "fin": 79.52
        },
        {
-        "t": "tongue!",
-        "ini": 153.32,
-        "fin": 153.58
+        "t": "tongue",
+        "ini": 79.62,
+        "fin": 80.04
+       },
+       {
+        "t": "—",
+        "ini": 80.04,
+        "fin": 80.46
+       },
+       {
+        "t": "it",
+        "ini": 80.46,
+        "fin": 80.54
+       },
+       {
+        "t": "has",
+        "ini": 80.58,
+        "fin": 80.82
+       },
+       {
+        "t": "tiny",
+        "ini": 80.9,
+        "fin": 81.26
+       },
+       {
+        "t": "hooks,",
+        "ini": 81.32,
+        "fin": 81.72
+       },
+       {
+        "t": "just",
+        "ini": 82.24,
+        "fin": 82.48
+       },
+       {
+        "t": "like",
+        "ini": 82.54,
+        "fin": 82.7
+       },
+       {
+        "t": "a",
+        "ini": 82.76,
+        "fin": 82.8
+       },
+       {
+        "t": "comb,",
+        "ini": 82.9,
+        "fin": 83.34
        }
       ],
-      "trad": "Me ducho todos los días — ¡él se lava con la lengua!"
+      "trad": "Se lava con la lengua — tiene ganchitos diminutos, como un peine,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "and sometimes he brings me a present — my sock! — all the way home!",
+      "ini": 83.68,
+      "fin": 88.6,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 83.68,
+        "fin": 83.78
+       },
+       {
+        "t": "sometimes",
+        "ini": 83.86,
+        "fin": 84.64
+       },
+       {
+        "t": "he",
+        "ini": 84.68,
+        "fin": 84.78
+       },
+       {
+        "t": "brings",
+        "ini": 84.86,
+        "fin": 85.16
+       },
+       {
+        "t": "me",
+        "ini": 85.2,
+        "fin": 85.32
+       },
+       {
+        "t": "a",
+        "ini": 85.38,
+        "fin": 85.42
+       },
+       {
+        "t": "present",
+        "ini": 85.5,
+        "fin": 85.9
+       },
+       {
+        "t": "—",
+        "ini": 85.9,
+        "fin": 86.44
+       },
+       {
+        "t": "my",
+        "ini": 86.44,
+        "fin": 86.66
+       },
+       {
+        "t": "sock!",
+        "ini": 86.74,
+        "fin": 87.12
+       },
+       {
+        "t": "—",
+        "ini": 87.12,
+        "fin": 87.5
+       },
+       {
+        "t": "all",
+        "ini": 87.5,
+        "fin": 87.62
+       },
+       {
+        "t": "the",
+        "ini": 87.66,
+        "fin": 87.72
+       },
+       {
+        "t": "way",
+        "ini": 87.78,
+        "fin": 88.02
+       },
+       {
+        "t": "home!",
+        "ini": 88.12,
+        "fin": 88.6
+       }
+      ],
+      "trad": "y a veces me trae un regalo — ¡mi calcetín! — ¡hasta casa!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "They say cats have nine lives… no way! He's got just one, like you,",
+      "ini": 89.04,
+      "fin": 94.38,
+      "palabras": [
+       {
+        "t": "They",
+        "ini": 89.04,
+        "fin": 89.16
+       },
+       {
+        "t": "say",
+        "ini": 89.24,
+        "fin": 89.4
+       },
+       {
+        "t": "cats",
+        "ini": 89.48,
+        "fin": 89.76
+       },
+       {
+        "t": "have",
+        "ini": 89.8,
+        "fin": 89.98
+       },
+       {
+        "t": "nine",
+        "ini": 90.08,
+        "fin": 90.48
+       },
+       {
+        "t": "lives…",
+        "ini": 90.56,
+        "fin": 91.16
+       },
+       {
+        "t": "no",
+        "ini": 91.44,
+        "fin": 91.68
+       },
+       {
+        "t": "way!",
+        "ini": 91.74,
+        "fin": 92.16
+       },
+       {
+        "t": "He's",
+        "ini": 92.52,
+        "fin": 92.68
+       },
+       {
+        "t": "got",
+        "ini": 92.7,
+        "fin": 92.86
+       },
+       {
+        "t": "just",
+        "ini": 92.94,
+        "fin": 93.18
+       },
+       {
+        "t": "one,",
+        "ini": 93.26,
+        "fin": 93.58
+       },
+       {
+        "t": "like",
+        "ini": 93.66,
+        "fin": 93.92
+       },
+       {
+        "t": "you,",
+        "ini": 94.02,
+        "fin": 94.38
+       }
+      ],
+      "trad": "Dicen que los gatos tienen nueve vidas… ¡qué va! Solo tiene una, como tú,"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "(in Spanish they say seven! Who's right? Neither one — it's true!)",
+      "ini": 95.08,
+      "fin": 98.94,
+      "palabras": [
+       {
+        "t": "(in",
+        "ini": 95.08,
+        "fin": 95.18
+       },
+       {
+        "t": "Spanish",
+        "ini": 95.22,
+        "fin": 95.54
+       },
+       {
+        "t": "they",
+        "ini": 95.62,
+        "fin": 95.72
+       },
+       {
+        "t": "say",
+        "ini": 95.78,
+        "fin": 95.96
+       },
+       {
+        "t": "seven!",
+        "ini": 96.04,
+        "fin": 96.42
+       },
+       {
+        "t": "Who's",
+        "ini": 96.52,
+        "fin": 96.84
+       },
+       {
+        "t": "right?",
+        "ini": 96.94,
+        "fin": 97.18
+       },
+       {
+        "t": "Neither",
+        "ini": 97.52,
+        "fin": 97.82
+       },
+       {
+        "t": "one",
+        "ini": 97.96,
+        "fin": 98.16
+       },
+       {
+        "t": "—",
+        "ini": 98.16,
+        "fin": 98.26
+       },
+       {
+        "t": "it's",
+        "ini": 98.24,
+        "fin": 98.46
+       },
+       {
+        "t": "true!)",
+        "ini": 98.54,
+        "fin": 98.94
+       }
+      ],
+      "trad": "(¡en español dicen siete! ¿Quién tiene razón? ¡Ninguno — es verdad!)"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "so «almost always» isn't «always»: Tostón takes a tumble now and then too!",
+      "ini": 99.38,
+      "fin": 104.1,
+      "palabras": [
+       {
+        "t": "so",
+        "ini": 99.38,
+        "fin": 99.5
+       },
+       {
+        "t": "«almost",
+        "ini": 99.56,
+        "fin": 99.88
+       },
+       {
+        "t": "always»",
+        "ini": 100.0,
+        "fin": 100.44
+       },
+       {
+        "t": "isn't",
+        "ini": 100.54,
+        "fin": 100.76
+       },
+       {
+        "t": "«always»:",
+        "ini": 100.86,
+        "fin": 101.3
+       },
+       {
+        "t": "Tostón",
+        "ini": 101.3,
+        "fin": 102.12
+       },
+       {
+        "t": "takes",
+        "ini": 102.12,
+        "fin": 102.3
+       },
+       {
+        "t": "a",
+        "ini": 102.36,
+        "fin": 102.4
+       },
+       {
+        "t": "tumble",
+        "ini": 102.46,
+        "fin": 102.88
+       },
+       {
+        "t": "now",
+        "ini": 103.1,
+        "fin": 103.26
+       },
+       {
+        "t": "and",
+        "ini": 103.3,
+        "fin": 103.42
+       },
+       {
+        "t": "then",
+        "ini": 103.44,
+        "fin": 103.62
+       },
+       {
+        "t": "too!",
+        "ini": 103.76,
+        "fin": 104.1
+       }
+      ],
+      "trad": "así que «casi siempre» no es «siempre»: ¡Tostón también se cae de vez en cuando!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "At night I put on my pajamas and switch off the bedside light,",
+      "ini": 130.86,
+      "fin": 134.68,
+      "palabras": [
+       {
+        "t": "At",
+        "ini": 130.86,
+        "fin": 131.06
+       },
+       {
+        "t": "night",
+        "ini": 131.16,
+        "fin": 131.42
+       },
+       {
+        "t": "I",
+        "ini": 131.64,
+        "fin": 131.68
+       },
+       {
+        "t": "put",
+        "ini": 131.78,
+        "fin": 131.92
+       },
+       {
+        "t": "on",
+        "ini": 131.98,
+        "fin": 132.06
+       },
+       {
+        "t": "my",
+        "ini": 132.12,
+        "fin": 132.24
+       },
+       {
+        "t": "pajamas",
+        "ini": 132.3,
+        "fin": 132.84
+       },
+       {
+        "t": "and",
+        "ini": 132.86,
+        "fin": 132.96
+       },
+       {
+        "t": "switch",
+        "ini": 133.04,
+        "fin": 133.28
+       },
+       {
+        "t": "off",
+        "ini": 133.36,
+        "fin": 133.54
+       },
+       {
+        "t": "the",
+        "ini": 133.58,
+        "fin": 133.68
+       },
+       {
+        "t": "bedside",
+        "ini": 133.74,
+        "fin": 134.34
+       },
+       {
+        "t": "light,",
+        "ini": 134.42,
+        "fin": 134.68
+       }
+      ],
+      "trad": "Por la noche me pongo el pijama y apago la luz de la mesilla,"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "and Tostón, who slept all day… wakes up and wants to play all night!",
+      "ini": 135.4,
+      "fin": 140.64,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 135.4,
+        "fin": 135.56
+       },
+       {
+        "t": "Tostón,",
+        "ini": 135.56,
+        "fin": 136.8
+       },
+       {
+        "t": "who",
+        "ini": 136.8,
+        "fin": 136.9
+       },
+       {
+        "t": "slept",
+        "ini": 136.96,
+        "fin": 137.28
+       },
+       {
+        "t": "all",
+        "ini": 137.4,
+        "fin": 137.58
+       },
+       {
+        "t": "day…",
+        "ini": 137.66,
+        "fin": 137.84
+       },
+       {
+        "t": "wakes",
+        "ini": 137.98,
+        "fin": 138.3
+       },
+       {
+        "t": "up",
+        "ini": 138.42,
+        "fin": 138.58
+       },
+       {
+        "t": "and",
+        "ini": 138.7,
+        "fin": 138.88
+       },
+       {
+        "t": "wants",
+        "ini": 138.98,
+        "fin": 139.24
+       },
+       {
+        "t": "to",
+        "ini": 139.28,
+        "fin": 139.52
+       },
+       {
+        "t": "play",
+        "ini": 139.56,
+        "fin": 139.92
+       },
+       {
+        "t": "all",
+        "ini": 140.02,
+        "fin": 140.2
+       },
+       {
+        "t": "night!",
+        "ini": 140.28,
+        "fin": 140.64
+       }
+      ],
+      "trad": "y Tostón, que durmió todo el día… ¡se despierta y quiere jugar toda la noche!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Always, sometimes, never — who does what? Let's see!",
+      "ini": 141.32,
+      "fin": 145.88,
+      "palabras": [
+       {
+        "t": "Always,",
+        "ini": 141.32,
+        "fin": 142.06
+       },
+       {
+        "t": "sometimes,",
+        "ini": 142.22,
+        "fin": 143.24
+       },
+       {
+        "t": "never",
+        "ini": 143.58,
+        "fin": 144.12
+       },
+       {
+        "t": "—",
+        "ini": 144.12,
+        "fin": 144.22
+       },
+       {
+        "t": "who",
+        "ini": 144.22,
+        "fin": 144.38
+       },
+       {
+        "t": "does",
+        "ini": 144.52,
+        "fin": 144.78
+       },
+       {
+        "t": "what?",
+        "ini": 144.86,
+        "fin": 145.06
+       },
+       {
+        "t": "Let's",
+        "ini": 145.16,
+        "fin": 145.46
+       },
+       {
+        "t": "see!",
+        "ini": 145.52,
+        "fin": 145.88
+       }
+      ],
+      "trad": "Siempre, a veces, nunca — ¿quién hace qué? ¡A ver!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "I always blink without thinking — he sleeps half the day!",
+      "ini": 146.36,
+      "fin": 151.12,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 146.36,
+        "fin": 146.44
+       },
+       {
+        "t": "always",
+        "ini": 146.56,
+        "fin": 147.3
+       },
+       {
+        "t": "blink",
+        "ini": 147.38,
+        "fin": 147.6
+       },
+       {
+        "t": "without",
+        "ini": 147.62,
+        "fin": 148.22
+       },
+       {
+        "t": "thinking",
+        "ini": 148.74,
+        "fin": 149.44
+       },
+       {
+        "t": "—",
+        "ini": 149.44,
+        "fin": 149.88
+       },
+       {
+        "t": "he",
+        "ini": 149.88,
+        "fin": 149.96
+       },
+       {
+        "t": "sleeps",
+        "ini": 150.04,
+        "fin": 150.3
+       },
+       {
+        "t": "half",
+        "ini": 150.34,
+        "fin": 150.52
+       },
+       {
+        "t": "the",
+        "ini": 150.56,
+        "fin": 150.66
+       },
+       {
+        "t": "day!",
+        "ini": 150.72,
+        "fin": 151.12
+       }
+      ],
+      "trad": "Yo siempre parpadeo sin pensarlo — ¡él duerme la mitad del día!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "He almost always lands on his feet… and sometimes on his bottom!",
+      "ini": 151.54,
+      "fin": 156.52,
+      "palabras": [
+       {
+        "t": "He",
+        "ini": 151.54,
+        "fin": 151.64
+       },
+       {
+        "t": "almost",
+        "ini": 151.72,
+        "fin": 152.02
+       },
+       {
+        "t": "always",
+        "ini": 152.14,
+        "fin": 152.58
+       },
+       {
+        "t": "lands",
+        "ini": 152.62,
+        "fin": 152.84
+       },
+       {
+        "t": "on",
+        "ini": 152.88,
+        "fin": 152.98
+       },
+       {
+        "t": "his",
+        "ini": 153.02,
+        "fin": 153.44
+       },
+       {
+        "t": "feet…",
+        "ini": 153.96,
+        "fin": 154.42
+       },
+       {
+        "t": "and",
+        "ini": 154.94,
+        "fin": 155.06
+       },
+       {
+        "t": "sometimes",
+        "ini": 155.12,
+        "fin": 155.6
+       },
+       {
+        "t": "on",
+        "ini": 155.66,
+        "fin": 155.76
+       },
+       {
+        "t": "his",
+        "ini": 155.78,
+        "fin": 155.88
+       },
+       {
+        "t": "bottom!",
+        "ini": 155.94,
+        "fin": 156.52
+       }
+      ],
+      "trad": "Casi siempre cae de pie… ¡y a veces, de culete!"
      },
      {
       "seccion": "Final Chorus",
       "texto": "Always, sometimes, never — my cat and me!",
-      "ini": 154.0,
-      "fin": 156.2,
+      "ini": 156.96,
+      "fin": 161.5,
       "palabras": [
        {
         "t": "Always,",
-        "ini": 154.0,
-        "fin": 154.24
+        "ini": 156.96,
+        "fin": 157.72
        },
        {
         "t": "sometimes,",
-        "ini": 154.3,
-        "fin": 154.68
+        "ini": 157.86,
+        "fin": 158.88
        },
        {
         "t": "never",
-        "ini": 154.78,
-        "fin": 155.04
+        "ini": 159.22,
+        "fin": 159.78
        },
        {
         "t": "—",
-        "ini": 155.06,
-        "fin": 155.06
+        "ini": 159.78,
+        "fin": 160.18
        },
        {
         "t": "my",
-        "ini": 155.12,
-        "fin": 155.22
+        "ini": 160.18,
+        "fin": 160.42
        },
        {
         "t": "cat",
-        "ini": 155.28,
-        "fin": 155.5
+        "ini": 160.5,
+        "fin": 160.76
        },
        {
         "t": "and",
-        "ini": 155.64,
-        "fin": 155.86
+        "ini": 160.88,
+        "fin": 161.06
        },
        {
         "t": "me!",
-        "ini": 155.96,
-        "fin": 156.2
+        "ini": 161.16,
+        "fin": 161.5
        }
       ],
       "trad": "Siempre, a veces, nunca — ¡mi gato y yo!"
@@ -66058,1440 +66163,1525 @@
     "lineas": [
      {
       "seccion": "Chorus",
-      "texto": "Siempre, a veces, nunca… ¿y tú cuándo lo haces?",
-      "ini": 5.54,
-      "fin": 10.54,
+      "texto": "¡Siempre, a veces, nunca! ¿Quién hace qué? ¡A ver!",
+      "ini": 5.86,
+      "fin": 10.44,
       "palabras": [
        {
-        "t": "Siempre,",
-        "ini": 5.54,
-        "fin": 6.16
+        "t": "¡Siempre,",
+        "ini": 5.86,
+        "fin": 6.36
        },
        {
         "t": "a",
-        "ini": 6.42,
+        "ini": 6.44,
         "fin": 6.5
        },
        {
         "t": "veces,",
         "ini": 6.56,
-        "fin": 7.12
+        "fin": 6.98
        },
        {
-        "t": "nunca…",
-        "ini": 7.22,
-        "fin": 7.82
+        "t": "nunca!",
+        "ini": 7.06,
+        "fin": 7.68
        },
        {
-        "t": "¿y",
-        "ini": 7.82,
-        "fin": 9.08
+        "t": "¿Quién",
+        "ini": 7.68,
+        "fin": 9.16
        },
        {
-        "t": "tú",
-        "ini": 9.14,
-        "fin": 9.24
+        "t": "hace",
+        "ini": 9.18,
+        "fin": 9.44
        },
        {
-        "t": "cuándo",
-        "ini": 9.3,
-        "fin": 9.6
-       },
-       {
-        "t": "lo",
-        "ini": 9.64,
+        "t": "qué?",
+        "ini": 9.52,
         "fin": 9.78
        },
        {
-        "t": "haces?",
-        "ini": 9.82,
-        "fin": 10.54
+        "t": "¡A",
+        "ini": 10.0,
+        "fin": 10.06
+       },
+       {
+        "t": "ver!",
+        "ini": 10.14,
+        "fin": 10.44
        }
       ],
-      "trad": "Always, sometimes, never… and you, when do you do it?"
+      "trad": "Always, sometimes, never! Who does what? Let's see!"
      },
      {
       "seccion": "Chorus",
-      "texto": "Yo siempre madrugo… ¡mi gato nunca madruga!",
-      "ini": 11.42,
-      "fin": 15.64,
+      "texto": "Yo siempre parpadeo sin pensar… ¡y él duerme medio día!",
+      "ini": 10.92,
+      "fin": 16.0,
       "palabras": [
        {
         "t": "Yo",
-        "ini": 11.42,
-        "fin": 11.6
+        "ini": 10.92,
+        "fin": 11.04
        },
        {
         "t": "siempre",
-        "ini": 11.74,
-        "fin": 12.22
+        "ini": 11.12,
+        "fin": 11.54
        },
        {
-        "t": "madrugo…",
-        "ini": 12.26,
-        "fin": 12.98
+        "t": "parpadeo",
+        "ini": 11.78,
+        "fin": 12.56
        },
        {
-        "t": "¡mi",
-        "ini": 13.58,
-        "fin": 13.68
+        "t": "sin",
+        "ini": 12.72,
+        "fin": 12.9
        },
        {
-        "t": "gato",
-        "ini": 13.74,
-        "fin": 14.24
-       },
-       {
-        "t": "nunca",
-        "ini": 14.38,
-        "fin": 14.78
-       },
-       {
-        "t": "madruga!",
-        "ini": 14.86,
-        "fin": 15.64
-       }
-      ],
-      "trad": "I always get up early… my cat never gets up early!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "Yo me ducho cada día… ¡y él se lava con la lengua!",
-      "ini": 16.64,
-      "fin": 20.82,
-      "palabras": [
-       {
-        "t": "Yo",
-        "ini": 16.64,
-        "fin": 16.78
-       },
-       {
-        "t": "me",
-        "ini": 16.82,
-        "fin": 16.94
-       },
-       {
-        "t": "ducho",
-        "ini": 16.98,
-        "fin": 17.26
-       },
-       {
-        "t": "cada",
-        "ini": 17.3,
-        "fin": 17.6
-       },
-       {
-        "t": "día…",
-        "ini": 17.66,
-        "fin": 18.22
+        "t": "pensar…",
+        "ini": 12.94,
+        "fin": 13.6
        },
        {
         "t": "¡y",
-        "ini": 19.2,
-        "fin": 19.26
+        "ini": 14.18,
+        "fin": 14.2
        },
        {
         "t": "él",
-        "ini": 19.3,
-        "fin": 19.4
+        "ini": 14.24,
+        "fin": 14.32
        },
        {
-        "t": "se",
-        "ini": 19.44,
-        "fin": 19.54
+        "t": "duerme",
+        "ini": 14.34,
+        "fin": 14.64
        },
        {
-        "t": "lava",
-        "ini": 19.58,
-        "fin": 19.82
+        "t": "medio",
+        "ini": 14.64,
+        "fin": 15.32
        },
        {
-        "t": "con",
-        "ini": 19.88,
+        "t": "día!",
+        "ini": 15.32,
+        "fin": 16.0
+       }
+      ],
+      "trad": "I always blink without thinking… and he sleeps half the day!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Casi siempre cae de pie… ¡y a veces, de culete!",
+      "ini": 16.0,
+      "fin": 20.86,
+      "palabras": [
+       {
+        "t": "Casi",
+        "ini": 16.0,
+        "fin": 16.28
+       },
+       {
+        "t": "siempre",
+        "ini": 16.36,
+        "fin": 16.86
+       },
+       {
+        "t": "cae",
+        "ini": 17.0,
+        "fin": 17.26
+       },
+       {
+        "t": "de",
+        "ini": 17.3,
+        "fin": 17.38
+       },
+       {
+        "t": "pie…",
+        "ini": 17.46,
+        "fin": 17.8
+       },
+       {
+        "t": "¡y",
+        "ini": 19.4,
+        "fin": 19.44
+       },
+       {
+        "t": "a",
+        "ini": 19.48,
+        "fin": 19.56
+       },
+       {
+        "t": "veces,",
+        "ini": 19.6,
         "fin": 20.04
        },
        {
-        "t": "la",
-        "ini": 20.08,
+        "t": "de",
+        "ini": 20.06,
         "fin": 20.16
        },
        {
-        "t": "lengua!",
+        "t": "culete!",
         "ini": 20.22,
-        "fin": 20.82
+        "fin": 20.86
        }
       ],
-      "trad": "I shower every day… and he washes with his tongue!"
+      "trad": "He almost always lands on his feet… and sometimes on his bottom!"
      },
      {
       "seccion": "Chorus",
       "texto": "¡Siempre, a veces, nunca… mi gato y yo!",
-      "ini": 21.2,
-      "fin": 25.1,
+      "ini": 21.52,
+      "fin": 25.74,
       "palabras": [
        {
         "t": "¡Siempre,",
-        "ini": 21.2,
-        "fin": 21.78
+        "ini": 21.52,
+        "fin": 21.98
        },
        {
         "t": "a",
-        "ini": 22.06,
-        "fin": 22.14
+        "ini": 22.08,
+        "fin": 22.16
        },
        {
         "t": "veces,",
         "ini": 22.22,
-        "fin": 22.76
+        "fin": 22.64
        },
        {
         "t": "nunca…",
-        "ini": 22.86,
-        "fin": 23.42
+        "ini": 22.72,
+        "fin": 23.36
        },
        {
         "t": "mi",
-        "ini": 24.02,
-        "fin": 24.12
+        "ini": 24.66,
+        "fin": 24.76
        },
        {
         "t": "gato",
-        "ini": 24.18,
-        "fin": 24.62
+        "ini": 24.84,
+        "fin": 25.2
        },
        {
         "t": "y",
-        "ini": 24.66,
-        "fin": 24.72
+        "ini": 25.28,
+        "fin": 25.32
        },
        {
         "t": "yo!",
-        "ini": 24.84,
-        "fin": 25.1
+        "ini": 25.34,
+        "fin": 25.74
        }
       ],
       "trad": "Always, sometimes, never… my cat and I!"
      },
      {
       "seccion": "Verse 1",
-      "texto": "Son las siete, ¡riiing!, me levanto de la cama ya,",
-      "ini": 27.06,
-      "fin": 31.3,
+      "texto": "Riiing, son las siete: me levanto de un salto, ¡buenos días!",
+      "ini": 27.29,
+      "fin": 31.22,
       "palabras": [
        {
-        "t": "Son",
-        "ini": 27.06,
-        "fin": 27.22
+        "t": "Riiing,",
+        "ini": 27.29,
+        "fin": 27.74
+       },
+       {
+        "t": "son",
+        "ini": 27.74,
+        "fin": 27.86
        },
        {
         "t": "las",
-        "ini": 27.28,
-        "fin": 27.4
+        "ini": 27.9,
+        "fin": 28.04
        },
        {
-        "t": "siete,",
-        "ini": 27.5,
-        "fin": 27.94
-       },
-       {
-        "t": "¡riiing!,",
-        "ini": 27.94,
-        "fin": 29.72
+        "t": "siete:",
+        "ini": 28.12,
+        "fin": 28.46
        },
        {
         "t": "me",
-        "ini": 29.72,
-        "fin": 29.86
+        "ini": 28.54,
+        "fin": 28.62
        },
        {
         "t": "levanto",
-        "ini": 29.9,
-        "fin": 30.32
+        "ini": 28.64,
+        "fin": 29.1
        },
        {
         "t": "de",
-        "ini": 30.38,
-        "fin": 30.48
+        "ini": 29.18,
+        "fin": 29.22
        },
        {
-        "t": "la",
-        "ini": 30.52,
-        "fin": 30.58
+        "t": "un",
+        "ini": 29.26,
+        "fin": 29.34
        },
        {
-        "t": "cama",
-        "ini": 30.66,
-        "fin": 30.96
+        "t": "salto,",
+        "ini": 29.42,
+        "fin": 29.92
        },
        {
-        "t": "ya,",
-        "ini": 31.02,
-        "fin": 31.3
+        "t": "¡buenos",
+        "ini": 30.32,
+        "fin": 30.64
+       },
+       {
+        "t": "días!",
+        "ini": 30.7,
+        "fin": 31.22
        }
       ],
-      "trad": "It's seven — riiing! — I get out of bed right away,"
+      "trad": "Riiing, it's seven o'clock: I jump out of bed — good morning!"
      },
      {
       "seccion": "Verse 1",
-      "texto": "me lavo los dientes, me visto y desayuno pan.",
-      "ini": 32.5,
-      "fin": 36.68,
+      "texto": "mi corazón nunca descansa: ¡late cien mil veces al día!",
+      "ini": 32.18,
+      "fin": 36.36,
       "palabras": [
        {
-        "t": "me",
-        "ini": 32.5,
-        "fin": 32.6
+        "t": "mi",
+        "ini": 32.18,
+        "fin": 32.28
        },
        {
-        "t": "lavo",
-        "ini": 32.64,
-        "fin": 32.92
+        "t": "corazón",
+        "ini": 32.34,
+        "fin": 32.8
        },
-       {
-        "t": "los",
-        "ini": 32.94,
-        "fin": 33.2
-       },
-       {
-        "t": "dientes,",
-        "ini": 33.26,
-        "fin": 34.06
-       },
-       {
-        "t": "me",
-        "ini": 35.14,
-        "fin": 35.24
-       },
-       {
-        "t": "visto",
-        "ini": 35.28,
-        "fin": 35.52
-       },
-       {
-        "t": "y",
-        "ini": 35.54,
-        "fin": 35.58
-       },
-       {
-        "t": "desayuno",
-        "ini": 35.62,
-        "fin": 36.16
-       },
-       {
-        "t": "pan.",
-        "ini": 36.24,
-        "fin": 36.68
-       }
-      ],
-      "trad": "I brush my teeth, I get dressed and have bread for breakfast."
-     },
-     {
-      "seccion": "Verse 1",
-      "texto": "Mi gato Tostón siempre duerme hasta las diez,",
-      "ini": 37.72,
-      "fin": 41.6,
-      "palabras": [
-       {
-        "t": "Mi",
-        "ini": 37.72,
-        "fin": 37.82
-       },
-       {
-        "t": "gato",
-        "ini": 37.88,
-        "fin": 38.14
-       },
-       {
-        "t": "Tostón",
-        "ini": 38.22,
-        "fin": 39.12
-       },
-       {
-        "t": "siempre",
-        "ini": 40.12,
-        "fin": 40.42
-       },
-       {
-        "t": "duerme",
-        "ini": 40.44,
-        "fin": 40.68
-       },
-       {
-        "t": "hasta",
-        "ini": 40.7,
-        "fin": 40.92
-       },
-       {
-        "t": "las",
-        "ini": 40.96,
-        "fin": 41.1
-       },
-       {
-        "t": "diez,",
-        "ini": 41.18,
-        "fin": 41.6
-       }
-      ],
-      "trad": "My cat Tostón always sleeps until ten,"
-     },
-     {
-      "seccion": "Verse 1",
-      "texto": "nunca hace los deberes… ¡y a veces duerme otra vez!",
-      "ini": 42.76,
-      "fin": 46.64,
-      "palabras": [
        {
         "t": "nunca",
-        "ini": 42.76,
-        "fin": 43.06
+        "ini": 32.82,
+        "fin": 33.1
        },
        {
-        "t": "hace",
-        "ini": 43.12,
-        "fin": 43.34
+        "t": "descansa:",
+        "ini": 33.14,
+        "fin": 33.9
        },
        {
-        "t": "los",
-        "ini": 43.38,
-        "fin": 43.54
+        "t": "¡late",
+        "ini": 34.76,
+        "fin": 35.0
        },
        {
-        "t": "deberes…",
-        "ini": 43.58,
-        "fin": 44.52
+        "t": "cien",
+        "ini": 35.06,
+        "fin": 35.2
        },
        {
-        "t": "¡y",
-        "ini": 45.2,
-        "fin": 45.22
-       },
-       {
-        "t": "a",
-        "ini": 45.26,
-        "fin": 45.32
+        "t": "mil",
+        "ini": 35.24,
+        "fin": 35.36
        },
        {
         "t": "veces",
-        "ini": 45.34,
-        "fin": 45.64
+        "ini": 35.4,
+        "fin": 35.7
        },
        {
-        "t": "duerme",
-        "ini": 45.68,
-        "fin": 46.0
+        "t": "al",
+        "ini": 35.76,
+        "fin": 35.88
        },
        {
-        "t": "otra",
-        "ini": 46.06,
-        "fin": 46.32
-       },
-       {
-        "t": "vez!",
-        "ini": 46.38,
-        "fin": 46.64
+        "t": "día!",
+        "ini": 35.92,
+        "fin": 36.36
        }
       ],
-      "trad": "he never does his homework… and sometimes he sleeps again!"
+      "trad": "My heart never rests: it beats a hundred thousand times a day!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Tostón ronca en mi almohada como un motor… ¡qué animal!",
+      "ini": 37.34,
+      "fin": 41.72,
+      "palabras": [
+       {
+        "t": "Tostón",
+        "ini": 37.34,
+        "fin": 37.74
+       },
+       {
+        "t": "ronca",
+        "ini": 37.82,
+        "fin": 38.18
+       },
+       {
+        "t": "en",
+        "ini": 38.22,
+        "fin": 38.26
+       },
+       {
+        "t": "mi",
+        "ini": 38.3,
+        "fin": 38.36
+       },
+       {
+        "t": "almohada",
+        "ini": 38.4,
+        "fin": 38.8
+       },
+       {
+        "t": "como",
+        "ini": 38.88,
+        "fin": 39.12
+       },
+       {
+        "t": "un",
+        "ini": 39.28,
+        "fin": 39.4
+       },
+       {
+        "t": "motor…",
+        "ini": 39.46,
+        "fin": 40.1
+       },
+       {
+        "t": "¡qué",
+        "ini": 40.74,
+        "fin": 40.84
+       },
+       {
+        "t": "animal!",
+        "ini": 40.9,
+        "fin": 41.72
+       }
+      ],
+      "trad": "Tostón snores on my pillow like a motor… what an animal!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "duerme más de medio día: ¡es un gato, es lo normal!",
+      "ini": 42.68,
+      "fin": 46.78,
+      "palabras": [
+       {
+        "t": "duerme",
+        "ini": 42.68,
+        "fin": 43.0
+       },
+       {
+        "t": "más",
+        "ini": 43.06,
+        "fin": 43.22
+       },
+       {
+        "t": "de",
+        "ini": 43.26,
+        "fin": 43.34
+       },
+       {
+        "t": "medio",
+        "ini": 43.34,
+        "fin": 44.03
+       },
+       {
+        "t": "día:",
+        "ini": 44.03,
+        "fin": 44.72
+       },
+       {
+        "t": "¡es",
+        "ini": 44.72,
+        "fin": 44.84
+       },
+       {
+        "t": "un",
+        "ini": 44.92,
+        "fin": 44.98
+       },
+       {
+        "t": "gato,",
+        "ini": 45.06,
+        "fin": 45.44
+       },
+       {
+        "t": "es",
+        "ini": 45.86,
+        "fin": 45.96
+       },
+       {
+        "t": "lo",
+        "ini": 46.0,
+        "fin": 46.1
+       },
+       {
+        "t": "normal!",
+        "ini": 46.16,
+        "fin": 46.78
+       }
+      ],
+      "trad": "He sleeps more than half the day: he's a cat, it's normal!"
      },
      {
       "seccion": "Chorus",
-      "texto": "Siempre, a veces, nunca… ¿y tú cuándo lo haces?",
-      "ini": 47.32,
-      "fin": 52.26,
+      "texto": "¡Siempre, a veces, nunca! ¿Quién hace qué? ¡A ver!",
+      "ini": 47.62,
+      "fin": 52.18,
       "palabras": [
        {
-        "t": "Siempre,",
-        "ini": 47.32,
-        "fin": 47.88
+        "t": "¡Siempre,",
+        "ini": 47.62,
+        "fin": 48.1
        },
        {
         "t": "a",
         "ini": 48.18,
-        "fin": 48.22
+        "fin": 48.26
        },
        {
         "t": "veces,",
-        "ini": 48.3,
-        "fin": 48.86
+        "ini": 48.32,
+        "fin": 48.74
        },
        {
-        "t": "nunca…",
-        "ini": 48.96,
+        "t": "nunca!",
+        "ini": 48.82,
         "fin": 49.56
        },
        {
-        "t": "¿y",
+        "t": "¿Quién",
         "ini": 49.56,
-        "fin": 50.82
+        "fin": 50.9
        },
        {
-        "t": "tú",
-        "ini": 50.88,
-        "fin": 50.98
+        "t": "hace",
+        "ini": 50.92,
+        "fin": 51.18
        },
        {
-        "t": "cuándo",
-        "ini": 51.04,
-        "fin": 51.34
+        "t": "qué?",
+        "ini": 51.24,
+        "fin": 51.68
        },
        {
-        "t": "lo",
-        "ini": 51.38,
-        "fin": 51.52
+        "t": "¡A",
+        "ini": 51.74,
+        "fin": 51.84
        },
        {
-        "t": "haces?",
-        "ini": 51.58,
-        "fin": 52.26
+        "t": "ver!",
+        "ini": 51.88,
+        "fin": 52.18
        }
       ],
-      "trad": "Always, sometimes, never… and you, when do you do it?"
+      "trad": "Always, sometimes, never! Who does what? Let's see!"
      },
      {
       "seccion": "Chorus",
-      "texto": "Yo siempre madrugo… ¡mi gato nunca madruga!",
-      "ini": 53.18,
-      "fin": 57.38,
+      "texto": "Yo siempre parpadeo sin pensar… ¡y él duerme medio día!",
+      "ini": 52.66,
+      "fin": 57.76,
       "palabras": [
        {
         "t": "Yo",
-        "ini": 53.18,
-        "fin": 53.34
+        "ini": 52.66,
+        "fin": 52.78
        },
        {
         "t": "siempre",
-        "ini": 53.5,
-        "fin": 53.96
+        "ini": 52.86,
+        "fin": 53.36
        },
        {
-        "t": "madrugo…",
-        "ini": 54.0,
+        "t": "parpadeo",
+        "ini": 53.52,
+        "fin": 54.36
+       },
+       {
+        "t": "sin",
+        "ini": 54.46,
         "fin": 54.64
        },
        {
-        "t": "¡mi",
-        "ini": 55.32,
-        "fin": 55.42
-       },
-       {
-        "t": "gato",
-        "ini": 55.48,
-        "fin": 56.0
-       },
-       {
-        "t": "nunca",
-        "ini": 56.12,
-        "fin": 56.56
-       },
-       {
-        "t": "madruga!",
-        "ini": 56.6,
-        "fin": 57.38
-       }
-      ],
-      "trad": "I always get up early… my cat never gets up early!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "Yo me ducho cada día… ¡y él se lava con la lengua!",
-      "ini": 58.38,
-      "fin": 62.6,
-      "palabras": [
-       {
-        "t": "Yo",
-        "ini": 58.38,
-        "fin": 58.52
-       },
-       {
-        "t": "me",
-        "ini": 58.58,
-        "fin": 58.68
-       },
-       {
-        "t": "ducho",
-        "ini": 58.72,
-        "fin": 59.0
-       },
-       {
-        "t": "cada",
-        "ini": 59.04,
-        "fin": 59.34
-       },
-       {
-        "t": "día…",
-        "ini": 59.4,
-        "fin": 59.94
+        "t": "pensar…",
+        "ini": 54.7,
+        "fin": 55.36
        },
        {
         "t": "¡y",
-        "ini": 60.94,
-        "fin": 61.0
+        "ini": 55.9,
+        "fin": 55.94
        },
        {
         "t": "él",
-        "ini": 61.04,
-        "fin": 61.14
+        "ini": 55.98,
+        "fin": 56.06
        },
        {
-        "t": "se",
-        "ini": 61.18,
+        "t": "duerme",
+        "ini": 56.08,
+        "fin": 56.4
+       },
+       {
+        "t": "medio",
+        "ini": 56.4,
+        "fin": 57.08
+       },
+       {
+        "t": "día!",
+        "ini": 57.08,
+        "fin": 57.76
+       }
+      ],
+      "trad": "I always blink without thinking… and he sleeps half the day!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Casi siempre cae de pie… ¡y a veces, de culete!",
+      "ini": 57.76,
+      "fin": 62.6,
+      "palabras": [
+       {
+        "t": "Casi",
+        "ini": 57.76,
+        "fin": 58.02
+       },
+       {
+        "t": "siempre",
+        "ini": 58.12,
+        "fin": 58.5
+       },
+       {
+        "t": "cae",
+        "ini": 58.74,
+        "fin": 59.0
+       },
+       {
+        "t": "de",
+        "ini": 59.04,
+        "fin": 59.14
+       },
+       {
+        "t": "pie…",
+        "ini": 59.2,
+        "fin": 59.56
+       },
+       {
+        "t": "¡y",
+        "ini": 61.14,
+        "fin": 61.18
+       },
+       {
+        "t": "a",
+        "ini": 61.24,
         "fin": 61.28
        },
        {
-        "t": "lava",
-        "ini": 61.32,
-        "fin": 61.58
+        "t": "veces,",
+        "ini": 61.34,
+        "fin": 61.76
        },
        {
-        "t": "con",
-        "ini": 61.64,
-        "fin": 61.78
-       },
-       {
-        "t": "la",
-        "ini": 61.82,
+        "t": "de",
+        "ini": 61.8,
         "fin": 61.92
        },
        {
-        "t": "lengua!",
-        "ini": 61.96,
+        "t": "culete!",
+        "ini": 62.0,
         "fin": 62.6
        }
       ],
-      "trad": "I shower every day… and he washes with his tongue!"
+      "trad": "He almost always lands on his feet… and sometimes on his bottom!"
      },
      {
       "seccion": "Chorus",
       "texto": "¡Siempre, a veces, nunca… mi gato y yo!",
-      "ini": 62.94,
-      "fin": 66.86,
+      "ini": 63.26,
+      "fin": 67.5,
       "palabras": [
        {
         "t": "¡Siempre,",
-        "ini": 62.94,
-        "fin": 63.52
+        "ini": 63.26,
+        "fin": 63.78
        },
        {
         "t": "a",
-        "ini": 63.82,
-        "fin": 63.9
+        "ini": 63.84,
+        "fin": 63.92
        },
        {
         "t": "veces,",
-        "ini": 63.96,
-        "fin": 64.5
+        "ini": 63.98,
+        "fin": 64.38
        },
        {
         "t": "nunca…",
-        "ini": 64.62,
-        "fin": 65.14
+        "ini": 64.46,
+        "fin": 65.2
        },
        {
         "t": "mi",
-        "ini": 65.78,
-        "fin": 65.86
+        "ini": 66.42,
+        "fin": 66.52
        },
        {
         "t": "gato",
-        "ini": 65.94,
-        "fin": 66.36
+        "ini": 66.58,
+        "fin": 66.92
        },
        {
         "t": "y",
-        "ini": 66.4,
-        "fin": 66.46
+        "ini": 66.96,
+        "fin": 67.0
        },
        {
         "t": "yo!",
-        "ini": 66.56,
-        "fin": 66.86
+        "ini": 67.08,
+        "fin": 67.5
        }
       ],
       "trad": "Always, sometimes, never… my cat and I!"
      },
      {
       "seccion": "Verse 2",
-      "texto": "Los lunes voy al cole y los martes nado en la piscina,",
-      "ini": 69.02,
-      "fin": 71.82,
+      "texto": "En el desayuno, ¡zas!, Tostón me roba el bollo, ¡qué morro!",
+      "ini": 68.56,
+      "fin": 73.04,
       "palabras": [
        {
-        "t": "Los",
-        "ini": 69.02,
-        "fin": 69.12
+        "t": "En",
+        "ini": 68.56,
+        "fin": 68.64
        },
        {
-        "t": "lunes",
-        "ini": 69.2,
-        "fin": 69.46
+        "t": "el",
+        "ini": 68.68,
+        "fin": 68.78
        },
        {
-        "t": "voy",
-        "ini": 69.5,
-        "fin": 69.64
+        "t": "desayuno,",
+        "ini": 68.82,
+        "fin": 69.54
        },
        {
-        "t": "al",
-        "ini": 69.7,
-        "fin": 69.78
-       },
-       {
-        "t": "cole",
-        "ini": 69.84,
+        "t": "¡zas!,",
+        "ini": 69.74,
         "fin": 70.12
        },
        {
-        "t": "y",
-        "ini": 70.18,
-        "fin": 70.26
-       },
-       {
-        "t": "los",
+        "t": "Tostón",
         "ini": 70.3,
-        "fin": 70.42
+        "fin": 70.62
        },
        {
-        "t": "martes",
-        "ini": 70.48,
-        "fin": 70.76
+        "t": "me",
+        "ini": 70.66,
+        "fin": 70.74
        },
        {
-        "t": "nado",
-        "ini": 70.82,
-        "fin": 71.0
+        "t": "roba",
+        "ini": 70.8,
+        "fin": 70.98
        },
        {
-        "t": "en",
+        "t": "el",
         "ini": 71.02,
-        "fin": 71.06
+        "fin": 71.08
        },
        {
-        "t": "la",
-        "ini": 71.12,
-        "fin": 71.2
+        "t": "bollo,",
+        "ini": 71.18,
+        "fin": 71.74
        },
        {
-        "t": "piscina,",
-        "ini": 71.26,
-        "fin": 71.82
+        "t": "¡qué",
+        "ini": 72.06,
+        "fin": 72.32
+       },
+       {
+        "t": "morro!",
+        "ini": 72.4,
+        "fin": 73.04
        }
       ],
-      "trad": "On Mondays I go to school and on Tuesdays I swim in the pool,"
+      "trad": "At breakfast — swoosh! — Tostón steals my bun, the cheeky thing!"
      },
      {
       "seccion": "Verse 2",
-      "texto": "los jueves juego al fútbol y nunca llego tarde, ¡ni un día!",
-      "ini": 74.2,
-      "fin": 78.08,
+      "texto": "Nunca nota lo dulce: ¡su lengua no lo siente, qué loco!",
+      "ini": 73.4,
+      "fin": 78.26,
       "palabras": [
        {
-        "t": "los",
-        "ini": 74.2,
+        "t": "Nunca",
+        "ini": 73.4,
+        "fin": 73.68
+       },
+       {
+        "t": "nota",
+        "ini": 73.74,
+        "fin": 74.02
+       },
+       {
+        "t": "lo",
+        "ini": 74.1,
         "fin": 74.32
        },
        {
-        "t": "jueves",
-        "ini": 74.38,
-        "fin": 74.66
+        "t": "dulce:",
+        "ini": 74.4,
+        "fin": 74.98
        },
        {
-        "t": "juego",
-        "ini": 74.72,
-        "fin": 74.9
+        "t": "¡su",
+        "ini": 75.54,
+        "fin": 75.64
        },
        {
-        "t": "al",
-        "ini": 74.94,
-        "fin": 75.0
-       },
-       {
-        "t": "fútbol",
-        "ini": 75.1,
-        "fin": 75.54
-       },
-       {
-        "t": "y",
-        "ini": 75.58,
-        "fin": 75.62
-       },
-       {
-        "t": "nunca",
+        "t": "lengua",
         "ini": 75.68,
         "fin": 75.96
        },
        {
-        "t": "llego",
-        "ini": 76.0,
-        "fin": 76.3
-       },
-       {
-        "t": "tarde,",
-        "ini": 76.36,
-        "fin": 76.92
-       },
-       {
-        "t": "¡ni",
-        "ini": 76.92,
-        "fin": 77.4
-       },
-       {
-        "t": "un",
-        "ini": 77.48,
-        "fin": 77.58
-       },
-       {
-        "t": "día!",
-        "ini": 77.66,
-        "fin": 78.08
-       }
-      ],
-      "trad": "on Thursdays I play soccer and I'm never late, not even one day!"
-     },
-     {
-      "seccion": "Verse 2",
-      "texto": "¿Y Tostón? Los lunes duerme, los martes duerme… ¡qué rollo!",
-      "ini": 79.32,
-      "fin": 82.7,
-      "palabras": [
-       {
-        "t": "¿Y",
-        "ini": 79.32,
-        "fin": 79.36
-       },
-       {
-        "t": "Tostón?",
-        "ini": 79.44,
-        "fin": 79.74
-       },
-       {
-        "t": "Los",
-        "ini": 79.78,
-        "fin": 79.88
-       },
-       {
-        "t": "lunes",
-        "ini": 79.92,
-        "fin": 80.2
-       },
-       {
-        "t": "duerme,",
-        "ini": 80.26,
-        "fin": 80.72
-       },
-       {
-        "t": "los",
-        "ini": 81.06,
-        "fin": 81.16
-       },
-       {
-        "t": "martes",
-        "ini": 81.24,
-        "fin": 81.52
-       },
-       {
-        "t": "duerme…",
-        "ini": 81.58,
-        "fin": 81.96
-       },
-       {
-        "t": "¡qué",
-        "ini": 82.02,
-        "fin": 82.18
-       },
-       {
-        "t": "rollo!",
-        "ini": 82.24,
-        "fin": 82.7
-       }
-      ],
-      "trad": "And Tostón? On Mondays he sleeps, on Tuesdays he sleeps… how boring!"
-     },
-     {
-      "seccion": "Verse 2",
-      "texto": "y el domingo, por sorpresa… ¡se come mi bollo!",
-      "ini": 84.46,
-      "fin": 88.38,
-      "palabras": [
-       {
-        "t": "y",
-        "ini": 84.46,
-        "fin": 84.5
-       },
-       {
-        "t": "el",
-        "ini": 84.56,
-        "fin": 84.64
-       },
-       {
-        "t": "domingo,",
-        "ini": 84.68,
-        "fin": 85.04
-       },
-       {
-        "t": "por",
-        "ini": 85.12,
-        "fin": 85.24
-       },
-       {
-        "t": "sorpresa…",
-        "ini": 85.3,
-        "fin": 86.06
-       },
-       {
-        "t": "¡se",
-        "ini": 87.26,
-        "fin": 87.34
-       },
-       {
-        "t": "come",
-        "ini": 87.44,
-        "fin": 87.72
-       },
-       {
-        "t": "mi",
-        "ini": 87.76,
-        "fin": 87.88
-       },
-       {
-        "t": "bollo!",
-        "ini": 87.92,
-        "fin": 88.38
-       }
-      ],
-      "trad": "and on Sunday, out of the blue… he eats my bun!"
-     },
-     {
-      "seccion": "Bridge",
-      "texto": "Siempre es todos los días; nunca es ni un solo día,",
-      "ini": 89.1,
-      "fin": 92.94,
-      "palabras": [
-       {
-        "t": "Siempre",
-        "ini": 89.1,
-        "fin": 89.38
-       },
-       {
-        "t": "es",
-        "ini": 89.44,
-        "fin": 89.52
-       },
-       {
-        "t": "todos",
-        "ini": 89.58,
-        "fin": 89.84
-       },
-       {
-        "t": "los",
-        "ini": 89.86,
-        "fin": 90.0
-       },
-       {
-        "t": "días;",
-        "ini": 90.06,
-        "fin": 90.52
-       },
-       {
-        "t": "nunca",
-        "ini": 91.7,
-        "fin": 91.98
-       },
-       {
-        "t": "es",
-        "ini": 92.02,
-        "fin": 92.12
-       },
-       {
-        "t": "ni",
-        "ini": 92.16,
-        "fin": 92.22
-       },
-       {
-        "t": "un",
-        "ini": 92.24,
-        "fin": 92.34
-       },
-       {
-        "t": "solo",
-        "ini": 92.38,
-        "fin": 92.6
-       },
-       {
-        "t": "día,",
-        "ini": 92.66,
-        "fin": 92.94
-       }
-      ],
-      "trad": "Always is every day; never is not even one day,"
-     },
-     {
-      "seccion": "Bridge",
-      "texto": "a veces es de vez en cuando… ¡como cuando Tostón juega!",
-      "ini": 94.16,
-      "fin": 98.4,
-      "palabras": [
-       {
-        "t": "a",
-        "ini": 94.16,
-        "fin": 94.22
-       },
-       {
-        "t": "veces",
-        "ini": 94.26,
-        "fin": 94.6
-       },
-       {
-        "t": "es",
-        "ini": 94.66,
-        "fin": 94.78
-       },
-       {
-        "t": "de",
-        "ini": 94.8,
-        "fin": 94.86
-       },
-       {
-        "t": "vez",
-        "ini": 94.9,
-        "fin": 95.04
-       },
-       {
-        "t": "en",
-        "ini": 95.08,
-        "fin": 95.16
-       },
-       {
-        "t": "cuando…",
-        "ini": 95.24,
-        "fin": 95.66
-       },
-       {
-        "t": "¡como",
-        "ini": 95.66,
-        "fin": 97.12
-       },
-       {
-        "t": "cuando",
-        "ini": 97.16,
-        "fin": 97.44
-       },
-       {
-        "t": "Tostón",
-        "ini": 97.5,
-        "fin": 97.82
-       },
-       {
-        "t": "juega!",
-        "ini": 97.9,
-        "fin": 98.4
-       }
-      ],
-      "trad": "Sometimes is once in a while… like when Tostón plays!"
-     },
-     {
-      "seccion": "Bridge",
-      "texto": "Yo me levanto, él se levanta… ¿y tú qué haces?",
-      "ini": 100.08,
-      "fin": 109.48,
-      "palabras": [
-       {
-        "t": "Yo",
-        "ini": 100.08,
-        "fin": 100.18
-       },
-       {
-        "t": "me",
-        "ini": 100.22,
-        "fin": 100.3
-       },
-       {
-        "t": "levanto,",
-        "ini": 100.34,
-        "fin": 100.86
-       },
-       {
-        "t": "él",
-        "ini": 102.52,
-        "fin": 102.7
-       },
-       {
-        "t": "se",
-        "ini": 102.82,
-        "fin": 102.94
-       },
-       {
-        "t": "levanta…",
-        "ini": 102.98,
-        "fin": 103.58
-       },
-       {
-        "t": "¿y",
-        "ini": 103.7,
-        "fin": 108.2
-       },
-       {
-        "t": "tú",
-        "ini": 108.3,
-        "fin": 108.44
-       },
-       {
-        "t": "qué",
-        "ini": 108.5,
-        "fin": 108.68
-       },
-       {
-        "t": "haces?",
-        "ini": 108.72,
-        "fin": 109.48
-       }
-      ],
-      "trad": "I get up, he gets up… and you, what do you do?"
-     },
-     {
-      "seccion": "Verse 3",
-      "texto": "Por la noche me pongo el pijama y me meto en la cama,",
-      "ini": 130.82,
-      "fin": 135.0,
-      "palabras": [
-       {
-        "t": "Por",
-        "ini": 130.82,
-        "fin": 130.96
-       },
-       {
-        "t": "la",
-        "ini": 131.02,
-        "fin": 131.08
-       },
-       {
-        "t": "noche",
-        "ini": 131.18,
-        "fin": 131.56
-       },
-       {
-        "t": "me",
-        "ini": 131.62,
-        "fin": 131.74
-       },
-       {
-        "t": "pongo",
-        "ini": 131.8,
-        "fin": 132.1
-       },
-       {
-        "t": "el",
-        "ini": 132.14,
-        "fin": 132.2
-       },
-       {
-        "t": "pijama",
-        "ini": 132.28,
-        "fin": 133.02
-       },
-       {
-        "t": "y",
-        "ini": 133.44,
-        "fin": 133.5
-       },
-       {
-        "t": "me",
-        "ini": 133.58,
-        "fin": 133.68
-       },
-       {
-        "t": "meto",
-        "ini": 133.74,
-        "fin": 134.02
-       },
-       {
-        "t": "en",
-        "ini": 134.08,
-        "fin": 134.18
-       },
-       {
-        "t": "la",
-        "ini": 134.24,
-        "fin": 134.32
-       },
-       {
-        "t": "cama,",
-        "ini": 134.42,
-        "fin": 135.0
-       }
-      ],
-      "trad": "At night I put on my pajamas and I get into bed,"
-     },
-     {
-      "seccion": "Verse 3",
-      "texto": "y Tostón, que siempre duerme… ¡se despierta y quiere jugar!",
-      "ini": 136.04,
-      "fin": 140.82,
-      "palabras": [
-       {
-        "t": "y",
-        "ini": 136.04,
-        "fin": 136.1
-       },
-       {
-        "t": "Tostón,",
-        "ini": 136.16,
-        "fin": 136.72
-       },
-       {
-        "t": "que",
-        "ini": 137.18,
-        "fin": 137.26
-       },
-       {
-        "t": "siempre",
-        "ini": 137.34,
-        "fin": 137.62
-       },
-       {
-        "t": "duerme…",
-        "ini": 137.7,
-        "fin": 138.24
-       },
-       {
-        "t": "¡se",
-        "ini": 138.62,
-        "fin": 138.72
-       },
-       {
-        "t": "despierta",
-        "ini": 138.78,
-        "fin": 139.4
-       },
-       {
-        "t": "y",
-        "ini": 139.46,
-        "fin": 139.5
-       },
-       {
-        "t": "quiere",
-        "ini": 139.62,
-        "fin": 140.02
-       },
-       {
-        "t": "jugar!",
-        "ini": 140.12,
-        "fin": 140.82
-       }
-      ],
-      "trad": "and Tostón, who always sleeps… wakes up and wants to play!"
-     },
-     {
-      "seccion": "Final Chorus",
-      "texto": "Siempre, a veces, nunca… ¿y tú cuándo lo haces?",
-      "ini": 141.24,
-      "fin": 146.36,
-      "palabras": [
-       {
-        "t": "Siempre,",
-        "ini": 141.24,
-        "fin": 142.14
-       },
-       {
-        "t": "a",
-        "ini": 142.58,
-        "fin": 142.66
-       },
-       {
-        "t": "veces,",
-        "ini": 142.76,
-        "fin": 143.44
-       },
-       {
-        "t": "nunca…",
-        "ini": 143.56,
-        "fin": 144.12
-       },
-       {
-        "t": "¿y",
-        "ini": 144.22,
-        "fin": 144.78
-       },
-       {
-        "t": "tú",
-        "ini": 144.84,
-        "fin": 144.96
-       },
-       {
-        "t": "cuándo",
-        "ini": 145.0,
-        "fin": 145.3
+        "t": "no",
+        "ini": 76.02,
+        "fin": 76.12
        },
        {
         "t": "lo",
-        "ini": 145.36,
-        "fin": 145.5
+        "ini": 76.16,
+        "fin": 76.26
        },
        {
-        "t": "haces?",
-        "ini": 145.56,
-        "fin": 146.36
+        "t": "siente,",
+        "ini": 76.38,
+        "fin": 76.96
+       },
+       {
+        "t": "qué",
+        "ini": 77.28,
+        "fin": 77.42
+       },
+       {
+        "t": "loco!",
+        "ini": 77.62,
+        "fin": 78.26
        }
       ],
-      "trad": "Always, sometimes, never… and you, when do you do it?"
+      "trad": "He never tastes sweetness: his tongue can't feel it — how crazy!"
      },
      {
-      "seccion": "Final Chorus",
-      "texto": "Yo siempre madrugo… ¡mi gato nunca madruga!",
-      "ini": 147.08,
-      "fin": 151.3,
+      "seccion": "Verse 2",
+      "texto": "Se lava con la lengua, que tiene ganchitos como un peine,",
+      "ini": 78.78,
+      "fin": 82.18,
       "palabras": [
        {
-        "t": "Yo",
-        "ini": 147.08,
-        "fin": 147.26
-       },
-       {
-        "t": "siempre",
-        "ini": 147.4,
-        "fin": 147.86
-       },
-       {
-        "t": "madrugo…",
-        "ini": 147.94,
-        "fin": 148.7
-       },
-       {
-        "t": "¡mi",
-        "ini": 149.72,
-        "fin": 149.84
-       },
-       {
-        "t": "gato",
-        "ini": 149.88,
-        "fin": 150.18
-       },
-       {
-        "t": "nunca",
-        "ini": 150.22,
-        "fin": 150.52
-       },
-       {
-        "t": "madruga!",
-        "ini": 150.56,
-        "fin": 151.3
-       }
-      ],
-      "trad": "I always get up early… my cat never gets up early!"
-     },
-     {
-      "seccion": "Final Chorus",
-      "texto": "Yo me ducho cada día… ¡y él se lava con la lengua!",
-      "ini": 152.3,
-      "fin": 156.52,
-      "palabras": [
-       {
-        "t": "Yo",
-        "ini": 152.3,
-        "fin": 152.44
-       },
-       {
-        "t": "me",
-        "ini": 152.5,
-        "fin": 152.62
-       },
-       {
-        "t": "ducho",
-        "ini": 152.68,
-        "fin": 153.18
-       },
-       {
-        "t": "cada",
-        "ini": 153.32,
-        "fin": 153.9
-       },
-       {
-        "t": "día…",
-        "ini": 154.0,
-        "fin": 154.56
-       },
-       {
-        "t": "¡y",
-        "ini": 154.88,
-        "fin": 154.92
-       },
-       {
-        "t": "él",
-        "ini": 154.96,
-        "fin": 155.06
-       },
-       {
-        "t": "se",
-        "ini": 155.12,
-        "fin": 155.22
+        "t": "Se",
+        "ini": 78.78,
+        "fin": 78.88
        },
        {
         "t": "lava",
-        "ini": 155.28,
-        "fin": 155.54
+        "ini": 78.94,
+        "fin": 79.2
        },
        {
         "t": "con",
-        "ini": 155.6,
-        "fin": 155.74
+        "ini": 79.24,
+        "fin": 79.38
        },
        {
         "t": "la",
-        "ini": 155.8,
-        "fin": 155.88
+        "ini": 79.42,
+        "fin": 79.54
        },
        {
-        "t": "lengua!",
-        "ini": 155.96,
-        "fin": 156.52
+        "t": "lengua,",
+        "ini": 79.6,
+        "fin": 80.04
+       },
+       {
+        "t": "que",
+        "ini": 80.26,
+        "fin": 80.38
+       },
+       {
+        "t": "tiene",
+        "ini": 80.44,
+        "fin": 80.66
+       },
+       {
+        "t": "ganchitos",
+        "ini": 80.7,
+        "fin": 81.2
+       },
+       {
+        "t": "como",
+        "ini": 81.26,
+        "fin": 81.42
+       },
+       {
+        "t": "un",
+        "ini": 81.46,
+        "fin": 81.52
+       },
+       {
+        "t": "peine,",
+        "ini": 81.62,
+        "fin": 82.18
        }
       ],
-      "trad": "I shower every day… and he washes with his tongue!"
+      "trad": "He washes with his tongue, which has little hooks like a comb,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "a veces me trae un regalo: ¡mi calcetín, qué detalle!",
+      "ini": 84.06,
+      "fin": 88.68,
+      "palabras": [
+       {
+        "t": "a",
+        "ini": 84.06,
+        "fin": 84.1
+       },
+       {
+        "t": "veces",
+        "ini": 84.18,
+        "fin": 84.6
+       },
+       {
+        "t": "me",
+        "ini": 84.64,
+        "fin": 84.76
+       },
+       {
+        "t": "trae",
+        "ini": 84.82,
+        "fin": 85.08
+       },
+       {
+        "t": "un",
+        "ini": 85.16,
+        "fin": 85.24
+       },
+       {
+        "t": "regalo:",
+        "ini": 85.34,
+        "fin": 86.02
+       },
+       {
+        "t": "¡mi",
+        "ini": 86.3,
+        "fin": 86.38
+       },
+       {
+        "t": "calcetín,",
+        "ini": 86.44,
+        "fin": 87.08
+       },
+       {
+        "t": "qué",
+        "ini": 87.72,
+        "fin": 87.88
+       },
+       {
+        "t": "detalle!",
+        "ini": 87.92,
+        "fin": 88.68
+       }
+      ],
+      "trad": "sometimes he brings me a present: my sock — how thoughtful!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Dicen que los gatos tienen siete vidas… ¡qué va! Tiene una, como tú,",
+      "ini": 89.06,
+      "fin": 93.6,
+      "palabras": [
+       {
+        "t": "Dicen",
+        "ini": 89.06,
+        "fin": 89.34
+       },
+       {
+        "t": "que",
+        "ini": 89.38,
+        "fin": 89.48
+       },
+       {
+        "t": "los",
+        "ini": 89.52,
+        "fin": 89.66
+       },
+       {
+        "t": "gatos",
+        "ini": 89.7,
+        "fin": 89.98
+       },
+       {
+        "t": "tienen",
+        "ini": 90.04,
+        "fin": 90.3
+       },
+       {
+        "t": "siete",
+        "ini": 90.38,
+        "fin": 90.64
+       },
+       {
+        "t": "vidas…",
+        "ini": 90.72,
+        "fin": 91.24
+       },
+       {
+        "t": "¡qué",
+        "ini": 91.62,
+        "fin": 91.78
+       },
+       {
+        "t": "va!",
+        "ini": 91.84,
+        "fin": 91.96
+       },
+       {
+        "t": "Tiene",
+        "ini": 92.32,
+        "fin": 92.6
+       },
+       {
+        "t": "una,",
+        "ini": 92.76,
+        "fin": 92.94
+       },
+       {
+        "t": "como",
+        "ini": 93.0,
+        "fin": 93.24
+       },
+       {
+        "t": "tú,",
+        "ini": 93.32,
+        "fin": 93.6
+       }
+      ],
+      "trad": "They say cats have seven lives… no way! He has one, like you,"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "(¡en inglés dicen que nueve! ¿Quién acierta? ¡Ninguno de los dos!)",
+      "ini": 93.68,
+      "fin": 99.0,
+      "palabras": [
+       {
+        "t": "(¡en",
+        "ini": 93.68,
+        "fin": 93.78
+       },
+       {
+        "t": "inglés",
+        "ini": 93.82,
+        "fin": 94.22
+       },
+       {
+        "t": "dicen",
+        "ini": 94.28,
+        "fin": 94.7
+       },
+       {
+        "t": "que",
+        "ini": 94.76,
+        "fin": 94.9
+       },
+       {
+        "t": "nueve!",
+        "ini": 95.14,
+        "fin": 95.56
+       },
+       {
+        "t": "¿Quién",
+        "ini": 95.86,
+        "fin": 96.66
+       },
+       {
+        "t": "acierta?",
+        "ini": 96.7,
+        "fin": 97.16
+       },
+       {
+        "t": "¡Ninguno",
+        "ini": 97.7,
+        "fin": 98.14
+       },
+       {
+        "t": "de",
+        "ini": 98.2,
+        "fin": 98.28
+       },
+       {
+        "t": "los",
+        "ini": 98.32,
+        "fin": 98.46
+       },
+       {
+        "t": "dos!)",
+        "ini": 98.54,
+        "fin": 99.0
+       }
+      ],
+      "trad": "(in English they say nine! Who's right? Neither of them!)"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "por eso «casi siempre» no es «siempre»: ¡Tostón también se da algún porrazo!",
+      "ini": 99.66,
+      "fin": 104.34,
+      "palabras": [
+       {
+        "t": "por",
+        "ini": 99.66,
+        "fin": 99.78
+       },
+       {
+        "t": "eso",
+        "ini": 99.86,
+        "fin": 100.08
+       },
+       {
+        "t": "«casi",
+        "ini": 100.12,
+        "fin": 100.4
+       },
+       {
+        "t": "siempre»",
+        "ini": 100.48,
+        "fin": 100.88
+       },
+       {
+        "t": "no",
+        "ini": 100.96,
+        "fin": 101.02
+       },
+       {
+        "t": "es",
+        "ini": 101.06,
+        "fin": 101.16
+       },
+       {
+        "t": "«siempre»:",
+        "ini": 101.22,
+        "fin": 101.68
+       },
+       {
+        "t": "¡Tostón",
+        "ini": 102.08,
+        "fin": 102.5
+       },
+       {
+        "t": "también",
+        "ini": 102.58,
+        "fin": 102.86
+       },
+       {
+        "t": "se",
+        "ini": 102.92,
+        "fin": 103.02
+       },
+       {
+        "t": "da",
+        "ini": 103.06,
+        "fin": 103.14
+       },
+       {
+        "t": "algún",
+        "ini": 103.18,
+        "fin": 103.52
+       },
+       {
+        "t": "porrazo!",
+        "ini": 103.56,
+        "fin": 104.34
+       }
+      ],
+      "trad": "that's why «almost always» is not «always»: Tostón also takes some tumbles!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Por la noche me pongo el pijama y apago la luz de la mesilla,",
+      "ini": 125.56,
+      "fin": 129.74,
+      "palabras": [
+       {
+        "t": "Por",
+        "ini": 125.56,
+        "fin": 125.72
+       },
+       {
+        "t": "la",
+        "ini": 125.76,
+        "fin": 125.86
+       },
+       {
+        "t": "noche",
+        "ini": 125.94,
+        "fin": 126.32
+       },
+       {
+        "t": "me",
+        "ini": 126.38,
+        "fin": 126.46
+       },
+       {
+        "t": "pongo",
+        "ini": 126.58,
+        "fin": 126.84
+       },
+       {
+        "t": "el",
+        "ini": 126.88,
+        "fin": 126.94
+       },
+       {
+        "t": "pijama",
+        "ini": 127.06,
+        "fin": 127.62
+       },
+       {
+        "t": "y",
+        "ini": 127.68,
+        "fin": 127.74
+       },
+       {
+        "t": "apago",
+        "ini": 127.78,
+        "fin": 128.3
+       },
+       {
+        "t": "la",
+        "ini": 128.38,
+        "fin": 128.46
+       },
+       {
+        "t": "luz",
+        "ini": 128.52,
+        "fin": 128.68
+       },
+       {
+        "t": "de",
+        "ini": 128.72,
+        "fin": 128.8
+       },
+       {
+        "t": "la",
+        "ini": 128.86,
+        "fin": 128.92
+       },
+       {
+        "t": "mesilla,",
+        "ini": 129.0,
+        "fin": 129.74
+       }
+      ],
+      "trad": "At night I put on my pajamas and turn off the nightstand light,"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "y Tostón, que ha dormido todo el día… ¡se despierta y quiere jugar!",
+      "ini": 130.8,
+      "fin": 135.42,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 130.8,
+        "fin": 130.84
+       },
+       {
+        "t": "Tostón,",
+        "ini": 130.92,
+        "fin": 131.3
+       },
+       {
+        "t": "que",
+        "ini": 131.38,
+        "fin": 131.44
+       },
+       {
+        "t": "ha",
+        "ini": 131.48,
+        "fin": 131.54
+       },
+       {
+        "t": "dormido",
+        "ini": 131.58,
+        "fin": 132.04
+       },
+       {
+        "t": "todo",
+        "ini": 132.1,
+        "fin": 132.32
+       },
+       {
+        "t": "el",
+        "ini": 132.36,
+        "fin": 132.46
+       },
+       {
+        "t": "día…",
+        "ini": 132.54,
+        "fin": 132.96
+       },
+       {
+        "t": "¡se",
+        "ini": 133.4,
+        "fin": 133.52
+       },
+       {
+        "t": "despierta",
+        "ini": 133.56,
+        "fin": 134.24
+       },
+       {
+        "t": "y",
+        "ini": 134.24,
+        "fin": 134.52
+       },
+       {
+        "t": "quiere",
+        "ini": 134.52,
+        "fin": 134.8
+       },
+       {
+        "t": "jugar!",
+        "ini": 134.88,
+        "fin": 135.42
+       }
+      ],
+      "trad": "and Tostón, who has slept all day… wakes up and wants to play!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Siempre, a veces, nunca! ¿Quién hace qué? ¡A ver!",
+      "ini": 146.06,
+      "fin": 152.04,
+      "palabras": [
+       {
+        "t": "¡Siempre,",
+        "ini": 146.06,
+        "fin": 146.66
+       },
+       {
+        "t": "a",
+        "ini": 147.26,
+        "fin": 147.36
+       },
+       {
+        "t": "veces,",
+        "ini": 147.44,
+        "fin": 148.16
+       },
+       {
+        "t": "nunca!",
+        "ini": 148.7,
+        "fin": 149.34
+       },
+       {
+        "t": "¿Quién",
+        "ini": 149.34,
+        "fin": 150.04
+       },
+       {
+        "t": "hace",
+        "ini": 150.1,
+        "fin": 150.42
+       },
+       {
+        "t": "qué?",
+        "ini": 150.5,
+        "fin": 150.8
+       },
+       {
+        "t": "¡A",
+        "ini": 151.62,
+        "fin": 151.62
+       },
+       {
+        "t": "ver!",
+        "ini": 151.64,
+        "fin": 152.04
+       }
+      ],
+      "trad": "Always, sometimes, never! Who does what? Let's see!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Yo siempre parpadeo sin pensar… ¡y él duerme medio día!",
+      "ini": 152.44,
+      "fin": 156.22,
+      "palabras": [
+       {
+        "t": "Yo",
+        "ini": 152.44,
+        "fin": 152.56
+       },
+       {
+        "t": "siempre",
+        "ini": 152.6,
+        "fin": 153.18
+       },
+       {
+        "t": "parpadeo",
+        "ini": 153.58,
+        "fin": 154.2
+       },
+       {
+        "t": "sin",
+        "ini": 154.28,
+        "fin": 154.4
+       },
+       {
+        "t": "pensar…",
+        "ini": 154.44,
+        "fin": 154.9
+       },
+       {
+        "t": "¡y",
+        "ini": 155.06,
+        "fin": 155.1
+       },
+       {
+        "t": "él",
+        "ini": 155.14,
+        "fin": 155.2
+       },
+       {
+        "t": "duerme",
+        "ini": 155.24,
+        "fin": 155.52
+       },
+       {
+        "t": "medio",
+        "ini": 155.52,
+        "fin": 155.87
+       },
+       {
+        "t": "día!",
+        "ini": 155.87,
+        "fin": 156.22
+       }
+      ],
+      "trad": "I always blink without thinking… and he sleeps half the day!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Casi siempre cae de pie… ¡y a veces, de culete!",
+      "ini": 156.22,
+      "fin": 160.66,
+      "palabras": [
+       {
+        "t": "Casi",
+        "ini": 156.22,
+        "fin": 156.48
+       },
+       {
+        "t": "siempre",
+        "ini": 156.56,
+        "fin": 157.08
+       },
+       {
+        "t": "cae",
+        "ini": 157.68,
+        "fin": 157.96
+       },
+       {
+        "t": "de",
+        "ini": 158.0,
+        "fin": 158.08
+       },
+       {
+        "t": "pie…",
+        "ini": 158.2,
+        "fin": 158.44
+       },
+       {
+        "t": "¡y",
+        "ini": 158.96,
+        "fin": 159.0
+       },
+       {
+        "t": "a",
+        "ini": 159.06,
+        "fin": 159.1
+       },
+       {
+        "t": "veces,",
+        "ini": 159.16,
+        "fin": 159.62
+       },
+       {
+        "t": "de",
+        "ini": 159.8,
+        "fin": 159.9
+       },
+       {
+        "t": "culete!",
+        "ini": 159.98,
+        "fin": 160.66
+       }
+      ],
+      "trad": "He almost always lands on his feet… and sometimes on his bottom!"
      },
      {
       "seccion": "Final Chorus",
       "texto": "¡Siempre, a veces, nunca… mi gato y yo!",
-      "ini": 156.9,
-      "fin": 161.42,
+      "ini": 160.74,
+      "fin": 163.32,
       "palabras": [
        {
         "t": "¡Siempre,",
-        "ini": 156.9,
-        "fin": 157.78
+        "ini": 160.74,
+        "fin": 161.02
        },
        {
         "t": "a",
-        "ini": 158.14,
-        "fin": 158.32
+        "ini": 161.08,
+        "fin": 161.2
        },
        {
         "t": "veces,",
-        "ini": 158.38,
-        "fin": 159.08
+        "ini": 161.26,
+        "fin": 161.4
        },
        {
         "t": "nunca…",
-        "ini": 159.2,
-        "fin": 159.7
+        "ini": 161.44,
+        "fin": 161.72
        },
        {
         "t": "mi",
-        "ini": 160.3,
-        "fin": 160.4
+        "ini": 161.72,
+        "fin": 162.12
        },
        {
         "t": "gato",
-        "ini": 160.46,
-        "fin": 160.8
+        "ini": 162.12,
+        "fin": 162.52
        },
        {
         "t": "y",
-        "ini": 160.84,
-        "fin": 160.9
+        "ini": 162.52,
+        "fin": 162.92
        },
        {
         "t": "yo!",
-        "ini": 161.0,
-        "fin": 161.42
+        "ini": 162.92,
+        "fin": 163.32
        }
       ],
       "trad": "Always, sometimes, never… my cat and I!"
@@ -67501,45 +67691,45 @@
    },
    "preguntas": [
     {
-     "en": "What does Tostón do on Mondays and Tuesdays?",
+     "en": "Why doesn't Tostón taste the sweet bun?",
      "en_op": [
-      "He sleeps",
-      "He swims in the pool",
-      "He plays soccer"
+      "Because cats can't taste sweet things",
+      "Because he's asleep",
+      "Because the bun is salty"
      ],
-     "es": "¿Qué hace Tostón los lunes y los martes?",
+     "es": "¿Por qué Tostón no nota lo dulce del bollo?",
      "es_op": [
-      "Duerme",
-      "Nada en la piscina",
-      "Juega al fútbol"
+      "Porque los gatos no saborean lo dulce",
+      "Porque está dormido",
+      "Porque el bollo es salado"
      ]
     },
     {
-     "en": "«I get up, he ___ up.»",
+     "en": "How much does a cat sleep?",
      "en_op": [
-      "gets",
-      "get",
-      "getting"
+      "More than half the day",
+      "One hour",
+      "It never sleeps"
      ],
-     "es": "«Yo me levanto, él ___.»",
+     "es": "¿Cuánto duerme un gato?",
      "es_op": [
-      "se levanta",
-      "me levanto",
-      "te levantas"
+      "Más de medio día",
+      "Una hora",
+      "Nunca duerme"
      ]
     },
     {
-     "en": "What does Tostón do at night?",
+     "en": "Does Tostón always land on his feet?",
      "en_op": [
-      "He wakes up and wants to play",
-      "He puts on his pajamas",
-      "He does his homework"
+      "Almost always, but not always",
+      "Always, every single time",
+      "Never"
      ],
-     "es": "¿Qué hace Tostón por la noche?",
+     "es": "¿Tostón cae siempre de pie?",
      "es_op": [
-      "Se despierta y quiere jugar",
-      "Se pone el pijama",
-      "Hace los deberes"
+      "Casi siempre, pero no siempre",
+      "Siempre, todas las veces",
+      "Nunca"
      ]
     }
    ]
