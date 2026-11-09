@@ -61069,1787 +61069,1835 @@
    "id": "18-un-heroe-tiene-que",
    "titulo_en": "A Hero Has To!",
    "titulo_es": "¡Un héroe tiene que!",
-   "ensena_en": "rules and obligations with must, mustn't, have to and don't have to (and the difference between «mustn't» and «don't have to»)",
-   "ensena_es": "la obligación con tener que, hay que y deber (tienes que, hay que, no debes, no tienes que) y la diferencia entre «no debes» y «no tienes que»",
+   "ensena_en": "have to / don't have to and must / mustn't inside a funny story (you don't have to save the world; you mustn't fly in class; a hero doesn't have to fly, but has to be brave enough to tell the truth), and the difference between «mustn't» and «don't have to»",
+   "ensena_es": "tener que / no tener que y deber / no deber dentro de una historia con gracia (no tenéis que salvar el mundo; no debéis volar en clase; un héroe no tiene que volar, pero tiene que ser valiente para decir la verdad), y la diferencia entre «no debo» y «no tengo que»",
    "en": {
     "lineas": [
      {
       "seccion": "Verse 1",
-      "texto": "First day at Hero School, I've got a cape and a mask,",
-      "ini": 9.74,
-      "fin": 12.18,
+      "texto": "First day at Hero School — I've got a cape and a mask,",
+      "ini": 9.72,
+      "fin": 12.12,
       "palabras": [
        {
         "t": "First",
-        "ini": 9.74,
-        "fin": 9.96
+        "ini": 9.72,
+        "fin": 9.94
        },
        {
         "t": "day",
-        "ini": 10.06,
+        "ini": 10.02,
         "fin": 10.18
        },
        {
         "t": "at",
         "ini": 10.22,
-        "fin": 10.32
+        "fin": 10.3
        },
        {
         "t": "Hero",
-        "ini": 10.36,
-        "fin": 10.58
+        "ini": 10.34,
+        "fin": 10.54
        },
        {
-        "t": "School,",
-        "ini": 10.64,
+        "t": "School",
+        "ini": 10.62,
+        "fin": 10.82
+       },
+       {
+        "t": "—",
+        "ini": 10.84,
         "fin": 10.84
        },
        {
         "t": "I've",
-        "ini": 10.9,
-        "fin": 10.98
+        "ini": 10.88,
+        "fin": 10.96
        },
        {
         "t": "got",
-        "ini": 11.02,
-        "fin": 11.14
+        "ini": 11.0,
+        "fin": 11.12
        },
        {
         "t": "a",
         "ini": 11.18,
-        "fin": 11.26
+        "fin": 11.24
        },
        {
         "t": "cape",
-        "ini": 11.32,
-        "fin": 11.54
+        "ini": 11.3,
+        "fin": 11.48
        },
        {
         "t": "and",
-        "ini": 11.56,
-        "fin": 11.62
+        "ini": 11.52,
+        "fin": 11.58
        },
        {
         "t": "a",
-        "ini": 11.66,
-        "fin": 11.76
+        "ini": 11.62,
+        "fin": 11.66
        },
        {
         "t": "mask,",
-        "ini": 11.8,
-        "fin": 12.18
+        "ini": 11.78,
+        "fin": 12.12
        }
       ],
-      "trad": "Primer día en la Escuela de Héroes, tengo una capa y una máscara,"
+      "trad": "Primer día en la Escuela de Héroes — tengo una capa y una máscara,"
      },
      {
       "seccion": "Verse 1",
-      "texto": "the teacher's Madame Lightning, and she gives me my first task:",
-      "ini": 12.42,
-      "fin": 14.8,
+      "texto": "and Madame Lightning gives us our most important task:",
+      "ini": 12.4,
+      "fin": 14.74,
       "palabras": [
        {
-        "t": "the",
-        "ini": 12.42,
+        "t": "and",
+        "ini": 12.4,
         "fin": 12.5
        },
        {
-        "t": "teacher's",
+        "t": "Madame",
         "ini": 12.56,
-        "fin": 12.84
+        "fin": 12.8
        },
        {
-        "t": "Madame",
-        "ini": 12.88,
+        "t": "Lightning",
+        "ini": 12.86,
         "fin": 13.12
        },
        {
-        "t": "Lightning,",
-        "ini": 13.18,
-        "fin": 13.48
-       },
-       {
-        "t": "and",
-        "ini": 13.52,
-        "fin": 13.6
-       },
-       {
-        "t": "she",
-        "ini": 13.64,
-        "fin": 13.72
-       },
-       {
         "t": "gives",
-        "ini": 13.8,
-        "fin": 13.94
+        "ini": 13.22,
+        "fin": 13.44
        },
        {
-        "t": "me",
-        "ini": 13.98,
-        "fin": 14.06
+        "t": "us",
+        "ini": 13.5,
+        "fin": 13.62
        },
        {
-        "t": "my",
-        "ini": 14.12,
-        "fin": 14.24
+        "t": "our",
+        "ini": 13.64,
+        "fin": 13.74
        },
        {
-        "t": "first",
-        "ini": 14.26,
-        "fin": 14.42
+        "t": "most",
+        "ini": 13.78,
+        "fin": 13.96
+       },
+       {
+        "t": "important",
+        "ini": 14.0,
+        "fin": 14.36
        },
        {
         "t": "task:",
-        "ini": 14.48,
-        "fin": 14.8
+        "ini": 14.44,
+        "fin": 14.74
        }
       ],
-      "trad": "la maestra es Madame Relámpago, y me da mi primera tarea:"
+      "trad": "y Madame Rayo nos da nuestra misión más importante:"
      },
      {
       "seccion": "Verse 1",
-      "texto": "«You have to make your bed before you save the town,»",
-      "ini": 14.92,
-      "fin": 17.06,
+      "texto": "«You don't have to save the world — just look after Bubbles, our fish,»",
+      "ini": 14.76,
+      "fin": 17.18,
       "palabras": [
        {
         "t": "«You",
-        "ini": 14.92,
-        "fin": 15.02
+        "ini": 14.76,
+        "fin": 14.84
+       },
+       {
+        "t": "don't",
+        "ini": 14.86,
+        "fin": 15.0
        },
        {
         "t": "have",
         "ini": 15.06,
-        "fin": 15.22
+        "fin": 15.18
        },
        {
         "t": "to",
-        "ini": 15.24,
-        "fin": 15.32
-       },
-       {
-        "t": "make",
-        "ini": 15.36,
-        "fin": 15.52
-       },
-       {
-        "t": "your",
-        "ini": 15.54,
-        "fin": 15.62
-       },
-       {
-        "t": "bed",
-        "ini": 15.68,
-        "fin": 15.84
-       },
-       {
-        "t": "before",
-        "ini": 15.88,
-        "fin": 16.12
-       },
-       {
-        "t": "you",
-        "ini": 16.16,
-        "fin": 16.26
+        "ini": 15.2,
+        "fin": 15.3
        },
        {
         "t": "save",
-        "ini": 16.34,
-        "fin": 16.56
+        "ini": 15.34,
+        "fin": 15.5
        },
        {
         "t": "the",
-        "ini": 16.62,
-        "fin": 16.74
+        "ini": 15.52,
+        "fin": 15.62
        },
        {
-        "t": "town,»",
-        "ini": 16.8,
-        "fin": 17.06
+        "t": "world",
+        "ini": 15.66,
+        "fin": 15.82
+       },
+       {
+        "t": "—",
+        "ini": 15.84,
+        "fin": 15.84
+       },
+       {
+        "t": "just",
+        "ini": 15.88,
+        "fin": 15.96
+       },
+       {
+        "t": "look",
+        "ini": 16.0,
+        "fin": 16.12
+       },
+       {
+        "t": "after",
+        "ini": 16.18,
+        "fin": 16.34
+       },
+       {
+        "t": "Bubbles,",
+        "ini": 16.44,
+        "fin": 16.72
+       },
+       {
+        "t": "our",
+        "ini": 16.76,
+        "fin": 16.86
+       },
+       {
+        "t": "fish,»",
+        "ini": 16.94,
+        "fin": 17.18
        }
       ],
-      "trad": "«Tienes que hacer tu cama antes de salvar la ciudad,»"
+      "trad": "«No tenéis que salvar el mundo: solo cuidar de Burbuja, nuestro pez»,"
      },
      {
       "seccion": "Verse 1",
-      "texto": "«you mustn't fly in the kitchen, and you have to calm down!»",
-      "ini": 17.12,
-      "fin": 19.96,
+      "texto": "«and you mustn't fly in class!» — and Lía's flying… swish!",
+      "ini": 17.2,
+      "fin": 19.82,
       "palabras": [
        {
-        "t": "«you",
-        "ini": 17.12,
-        "fin": 17.2
+        "t": "«and",
+        "ini": 17.2,
+        "fin": 17.34
+       },
+       {
+        "t": "you",
+        "ini": 17.38,
+        "fin": 17.46
        },
        {
         "t": "mustn't",
-        "ini": 17.24,
-        "fin": 17.5
+        "ini": 17.5,
+        "fin": 17.78
        },
        {
         "t": "fly",
-        "ini": 17.58,
-        "fin": 17.88
+        "ini": 17.82,
+        "fin": 17.98
        },
        {
         "t": "in",
-        "ini": 17.92,
-        "fin": 18.0
+        "ini": 18.0,
+        "fin": 18.1
        },
        {
-        "t": "the",
-        "ini": 18.04,
-        "fin": 18.12
+        "t": "class!»",
+        "ini": 18.12,
+        "fin": 18.44
        },
        {
-        "t": "kitchen,",
-        "ini": 18.18,
-        "fin": 18.48
-       },
-       {
-        "t": "and",
-        "ini": 18.52,
+        "t": "—",
+        "ini": 18.62,
         "fin": 18.62
        },
        {
-        "t": "you",
-        "ini": 18.68,
-        "fin": 18.76
+        "t": "and",
+        "ini": 18.64,
+        "fin": 18.72
        },
        {
-        "t": "have",
-        "ini": 18.82,
-        "fin": 18.96
+        "t": "Lía's",
+        "ini": 18.78,
+        "fin": 19.02
        },
        {
-        "t": "to",
-        "ini": 19.0,
-        "fin": 19.08
+        "t": "flying…",
+        "ini": 19.08,
+        "fin": 19.3
        },
        {
-        "t": "calm",
-        "ini": 19.14,
-        "fin": 19.36
-       },
-       {
-        "t": "down!»",
-        "ini": 19.48,
-        "fin": 19.96
+        "t": "swish!",
+        "ini": 19.42,
+        "fin": 19.82
        }
       ],
-      "trad": "«no debes volar en la cocina, y tienes que calmarte!»"
+      "trad": "«¡y no debéis volar en clase!»… y Lía ya está volando, ¡fiuuu!"
      },
      {
       "seccion": "Chorus",
-      "texto": "You have to, you have to — yes, a hero has to!",
-      "ini": 29.3,
-      "fin": 32.02,
+      "texto": "What does a hero have to do? Fly? Be the strongest one?",
+      "ini": 28.32,
+      "fin": 32.2,
       "palabras": [
        {
-        "t": "You",
-        "ini": 29.3,
-        "fin": 29.36
+        "t": "What",
+        "ini": 28.32,
+        "fin": 28.44
        },
        {
-        "t": "have",
-        "ini": 29.44,
-        "fin": 29.68
-       },
-       {
-        "t": "to,",
-        "ini": 29.72,
-        "fin": 29.82
-       },
-       {
-        "t": "you",
-        "ini": 29.92,
-        "fin": 30.0
-       },
-       {
-        "t": "have",
-        "ini": 30.06,
-        "fin": 30.32
-       },
-       {
-        "t": "to",
-        "ini": 30.36,
-        "fin": 30.5
-       },
-       {
-        "t": "—",
-        "ini": 30.56,
-        "fin": 30.56
-       },
-       {
-        "t": "yes,",
-        "ini": 30.98,
-        "fin": 31.12
+        "t": "does",
+        "ini": 28.48,
+        "fin": 28.64
        },
        {
         "t": "a",
-        "ini": 31.22,
-        "fin": 31.24
+        "ini": 28.7,
+        "fin": 28.74
        },
        {
         "t": "hero",
-        "ini": 31.3,
-        "fin": 31.56
-       },
-       {
-        "t": "has",
-        "ini": 31.66,
-        "fin": 31.88
-       },
-       {
-        "t": "to!",
-        "ini": 31.92,
-        "fin": 32.02
-       }
-      ],
-      "trad": "Tienes que, tienes que — sí, un héroe tiene que!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "You must be kind, you mustn't lie, and you have to say «thank you»!",
-      "ini": 32.12,
-      "fin": 34.82,
-      "palabras": [
-       {
-        "t": "You",
-        "ini": 32.12,
-        "fin": 32.18
-       },
-       {
-        "t": "must",
-        "ini": 32.22,
-        "fin": 32.38
-       },
-       {
-        "t": "be",
-        "ini": 32.42,
-        "fin": 32.5
-       },
-       {
-        "t": "kind,",
-        "ini": 32.54,
-        "fin": 32.68
-       },
-       {
-        "t": "you",
-        "ini": 32.76,
-        "fin": 32.82
-       },
-       {
-        "t": "mustn't",
-        "ini": 32.86,
-        "fin": 33.14
-       },
-       {
-        "t": "lie,",
-        "ini": 33.22,
-        "fin": 33.48
-       },
-       {
-        "t": "and",
-        "ini": 33.54,
-        "fin": 33.64
-       },
-       {
-        "t": "you",
-        "ini": 33.68,
-        "fin": 33.74
+        "ini": 28.8,
+        "fin": 29.3
        },
        {
         "t": "have",
-        "ini": 33.8,
-        "fin": 33.94
+        "ini": 29.42,
+        "fin": 29.68
        },
        {
         "t": "to",
-        "ini": 33.98,
-        "fin": 34.08
+        "ini": 29.72,
+        "fin": 29.86
        },
        {
-        "t": "say",
-        "ini": 34.14,
-        "fin": 34.28
+        "t": "do?",
+        "ini": 29.92,
+        "fin": 30.2
        },
        {
-        "t": "«thank",
-        "ini": 34.38,
-        "fin": 34.7
+        "t": "Fly?",
+        "ini": 30.6,
+        "fin": 30.9
        },
        {
-        "t": "you»!",
-        "ini": 34.78,
-        "fin": 34.82
-       }
-      ],
-      "trad": "Tienes que ser amable, no debes mentir, y tienes que decir «¡gracias!»!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "— Do I have to? — Yes, you do! — Do I have to? — Yes, it's true!",
-      "ini": 34.82,
-      "fin": 39.88,
-      "palabras": [
-       {
-        "t": "—",
-        "ini": 34.82,
-        "fin": 34.82
-       },
-       {
-        "t": "Do",
-        "ini": 34.82,
-        "fin": 34.88
-       },
-       {
-        "t": "I",
-        "ini": 34.96,
-        "fin": 35.0
-       },
-       {
-        "t": "have",
-        "ini": 35.06,
-        "fin": 35.32
-       },
-       {
-        "t": "to?",
-        "ini": 35.38,
-        "fin": 35.62
-       },
-       {
-        "t": "—",
-        "ini": 35.62,
-        "fin": 35.62
-       },
-       {
-        "t": "Yes,",
-        "ini": 36.0,
-        "fin": 36.54
-       },
-       {
-        "t": "you",
-        "ini": 36.66,
-        "fin": 36.78
-       },
-       {
-        "t": "do!",
-        "ini": 36.96,
-        "fin": 37.18
-       },
-       {
-        "t": "—",
-        "ini": 37.24,
-        "fin": 37.24
-       },
-       {
-        "t": "Do",
-        "ini": 37.26,
-        "fin": 37.34
-       },
-       {
-        "t": "I",
-        "ini": 37.44,
-        "fin": 37.48
-       },
-       {
-        "t": "have",
-        "ini": 37.56,
-        "fin": 37.82
-       },
-       {
-        "t": "to?",
-        "ini": 37.88,
-        "fin": 38.08
-       },
-       {
-        "t": "—",
-        "ini": 38.12,
-        "fin": 38.12
-       },
-       {
-        "t": "Yes,",
-        "ini": 38.5,
-        "fin": 38.74
-       },
-       {
-        "t": "it's",
-        "ini": 39.18,
-        "fin": 39.38
-       },
-       {
-        "t": "true!",
-        "ini": 39.42,
-        "fin": 39.88
-       }
-      ],
-      "trad": "—¿Tengo que? —¡Sí, tienes que! —¿Tengo que? —¡Sí, es verdad!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "Tell the truth and they'll trust you… together we go far!",
-      "ini": 41.56,
-      "fin": 44.84,
-      "palabras": [
-       {
-        "t": "Tell",
-        "ini": 41.56,
-        "fin": 41.74
+        "t": "Be",
+        "ini": 30.98,
+        "fin": 31.08
        },
        {
         "t": "the",
-        "ini": 41.78,
-        "fin": 41.86
+        "ini": 31.12,
+        "fin": 31.2
        },
        {
-        "t": "truth",
-        "ini": 41.88,
-        "fin": 42.12
+        "t": "strongest",
+        "ini": 31.26,
+        "fin": 31.72
        },
        {
-        "t": "and",
-        "ini": 42.14,
-        "fin": 42.24
+        "t": "one?",
+        "ini": 31.82,
+        "fin": 32.2
+       }
+      ],
+      "trad": "¿Qué tiene que hacer un héroe? ¿Volar? ¿Ser el más fuerte?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "No, a hero doesn't have to fly or be the strongest one!",
+      "ini": 32.54,
+      "fin": 37.14,
+      "palabras": [
+       {
+        "t": "No,",
+        "ini": 32.54,
+        "fin": 32.78
        },
        {
-        "t": "they'll",
-        "ini": 42.26,
-        "fin": 42.46
+        "t": "a",
+        "ini": 33.7,
+        "fin": 33.74
+       },
+       {
+        "t": "hero",
+        "ini": 33.8,
+        "fin": 34.04
+       },
+       {
+        "t": "doesn't",
+        "ini": 34.1,
+        "fin": 34.4
+       },
+       {
+        "t": "have",
+        "ini": 34.46,
+        "fin": 34.66
+       },
+       {
+        "t": "to",
+        "ini": 34.7,
+        "fin": 34.84
+       },
+       {
+        "t": "fly",
+        "ini": 34.88,
+        "fin": 35.4
+       },
+       {
+        "t": "or",
+        "ini": 35.84,
+        "fin": 35.94
+       },
+       {
+        "t": "be",
+        "ini": 35.98,
+        "fin": 36.1
+       },
+       {
+        "t": "the",
+        "ini": 36.14,
+        "fin": 36.2
+       },
+       {
+        "t": "strongest",
+        "ini": 36.26,
+        "fin": 36.72
+       },
+       {
+        "t": "one!",
+        "ini": 36.8,
+        "fin": 37.14
+       }
+      ],
+      "trad": "¡No, un héroe no tiene que volar ni ser el más fuerte!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "A hero has to be brave enough… to tell the truth!",
+      "ini": 37.4,
+      "fin": 40.46,
+      "palabras": [
+       {
+        "t": "A",
+        "ini": 37.4,
+        "fin": 37.46
+       },
+       {
+        "t": "hero",
+        "ini": 37.56,
+        "fin": 38.04
+       },
+       {
+        "t": "has",
+        "ini": 38.14,
+        "fin": 38.32
+       },
+       {
+        "t": "to",
+        "ini": 38.36,
+        "fin": 38.44
+       },
+       {
+        "t": "be",
+        "ini": 38.5,
+        "fin": 38.64
+       },
+       {
+        "t": "brave",
+        "ini": 38.76,
+        "fin": 39.1
+       },
+       {
+        "t": "enough…",
+        "ini": 39.14,
+        "fin": 39.54
+       },
+       {
+        "t": "to",
+        "ini": 39.56,
+        "fin": 39.66
+       },
+       {
+        "t": "tell",
+        "ini": 39.72,
+        "fin": 39.86
+       },
+       {
+        "t": "the",
+        "ini": 39.9,
+        "fin": 39.96
+       },
+       {
+        "t": "truth!",
+        "ini": 40.04,
+        "fin": 40.46
+       }
+      ],
+      "trad": "Un héroe tiene que ser lo bastante valiente… ¡para decir la verdad!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "If you tell the truth, they trust you… together we go far!",
+      "ini": 41.0,
+      "fin": 44.96,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 41.0,
+        "fin": 41.08
+       },
+       {
+        "t": "you",
+        "ini": 41.12,
+        "fin": 41.2
+       },
+       {
+        "t": "tell",
+        "ini": 41.3,
+        "fin": 41.54
+       },
+       {
+        "t": "the",
+        "ini": 41.6,
+        "fin": 41.7
+       },
+       {
+        "t": "truth,",
+        "ini": 41.76,
+        "fin": 42.0
+       },
+       {
+        "t": "they",
+        "ini": 42.1,
+        "fin": 42.26
        },
        {
         "t": "trust",
-        "ini": 42.5,
-        "fin": 42.88
+        "ini": 42.36,
+        "fin": 42.72
        },
        {
         "t": "you…",
-        "ini": 42.94,
+        "ini": 42.78,
         "fin": 43.08
        },
        {
         "t": "together",
-        "ini": 43.66,
-        "fin": 44.06
+        "ini": 43.62,
+        "fin": 44.04
        },
        {
         "t": "we",
         "ini": 44.1,
-        "fin": 44.2
+        "fin": 44.24
        },
        {
         "t": "go",
-        "ini": 44.24,
-        "fin": 44.38
+        "ini": 44.28,
+        "fin": 44.42
        },
        {
         "t": "far!",
-        "ini": 44.5,
-        "fin": 44.84
+        "ini": 44.58,
+        "fin": 44.96
        }
       ],
-      "trad": "Di la verdad y confiarán en ti… ¡juntos llegamos lejos!"
+      "trad": "Si dices la verdad, confían en ti… ¡juntos llegamos lejos!"
      },
      {
       "seccion": "Verse 2",
-      "texto": "Captain Storm has to see the dentist — open wide and say «ah»!",
-      "ini": 45.34,
-      "fin": 48.32,
+      "texto": "To show off my super strength, I lift the desk up high… uh-oh!",
+      "ini": 45.2,
+      "fin": 49.58,
       "palabras": [
        {
-        "t": "Captain",
-        "ini": 45.34,
-        "fin": 45.6
+        "t": "To",
+        "ini": 45.2,
+        "fin": 45.3
        },
        {
-        "t": "Storm",
-        "ini": 45.7,
-        "fin": 45.96
+        "t": "show",
+        "ini": 45.36,
+        "fin": 45.64
        },
        {
-        "t": "has",
-        "ini": 46.0,
+        "t": "off",
+        "ini": 45.72,
+        "fin": 45.92
+       },
+       {
+        "t": "my",
+        "ini": 45.98,
         "fin": 46.12
        },
        {
-        "t": "to",
-        "ini": 46.16,
-        "fin": 46.24
+        "t": "super",
+        "ini": 46.22,
+        "fin": 46.56
        },
        {
-        "t": "see",
-        "ini": 46.3,
-        "fin": 46.44
+        "t": "strength,",
+        "ini": 46.74,
+        "fin": 47.06
+       },
+       {
+        "t": "I",
+        "ini": 47.14,
+        "fin": 47.18
+       },
+       {
+        "t": "lift",
+        "ini": 47.22,
+        "fin": 47.36
        },
        {
         "t": "the",
-        "ini": 46.48,
-        "fin": 46.54
-       },
-       {
-        "t": "dentist",
-        "ini": 46.64,
-        "fin": 47.02
-       },
-       {
-        "t": "—",
-        "ini": 47.22,
-        "fin": 47.22
-       },
-       {
-        "t": "open",
-        "ini": 47.28,
+        "ini": 47.4,
         "fin": 47.5
        },
        {
-        "t": "wide",
-        "ini": 47.56,
-        "fin": 47.72
+        "t": "desk",
+        "ini": 47.54,
+        "fin": 47.86
        },
        {
-        "t": "and",
-        "ini": 47.74,
-        "fin": 47.8
+        "t": "up",
+        "ini": 47.94,
+        "fin": 48.08
        },
        {
-        "t": "say",
-        "ini": 47.9,
-        "fin": 48.1
-       },
-       {
-        "t": "«ah»!",
+        "t": "high…",
         "ini": 48.12,
-        "fin": 48.32
+        "fin": 48.56
+       },
+       {
+        "t": "uh-oh!",
+        "ini": 49.12,
+        "fin": 49.58
        }
       ],
-      "trad": "Capitán Tormenta tiene que ir al dentista — ¡abre bien y di «ah»!"
+      "trad": "Para lucir mi superfuerza, levanto la mesa bien alto… ¡uy, uy!"
      },
      {
       "seccion": "Verse 2",
-      "texto": "Super Cat must look after her fish — and mustn't eat it, ha!",
+      "texto": "plop! goes the fishbowl… and Bubbles lands safe in a glass — whoa!",
       "ini": 50.34,
-      "fin": 54.1,
+      "fin": 54.94,
       "palabras": [
        {
-        "t": "Super",
+        "t": "plop!",
         "ini": 50.34,
         "fin": 50.58
        },
        {
-        "t": "Cat",
+        "t": "goes",
         "ini": 50.68,
-        "fin": 50.9
-       },
-       {
-        "t": "must",
-        "ini": 50.96,
-        "fin": 51.1
-       },
-       {
-        "t": "look",
-        "ini": 51.14,
-        "fin": 51.28
-       },
-       {
-        "t": "after",
-        "ini": 51.36,
-        "fin": 51.56
-       },
-       {
-        "t": "her",
-        "ini": 51.6,
-        "fin": 51.68
-       },
-       {
-        "t": "fish",
-        "ini": 51.8,
-        "fin": 52.06
-       },
-       {
-        "t": "—",
-        "ini": 52.08,
-        "fin": 52.08
-       },
-       {
-        "t": "and",
-        "ini": 52.12,
-        "fin": 52.18
-       },
-       {
-        "t": "mustn't",
-        "ini": 52.24,
-        "fin": 52.54
-       },
-       {
-        "t": "eat",
-        "ini": 52.6,
-        "fin": 52.74
-       },
-       {
-        "t": "it,",
-        "ini": 52.8,
-        "fin": 52.9
-       },
-       {
-        "t": "ha!",
-        "ini": 53.76,
-        "fin": 54.1
-       }
-      ],
-      "trad": "Súper Gata tiene que cuidar a su pez — y no debe comérselo, ¡ja!"
-     },
-     {
-      "seccion": "Verse 2",
-      "texto": "— And what do I have to do? — Your homework, every day,",
-      "ini": 54.4,
-      "fin": 59.06,
-      "palabras": [
-       {
-        "t": "—",
-        "ini": 54.4,
-        "fin": 54.4
-       },
-       {
-        "t": "And",
-        "ini": 55.26,
-        "fin": 55.36
-       },
-       {
-        "t": "what",
-        "ini": 55.4,
-        "fin": 55.5
-       },
-       {
-        "t": "do",
-        "ini": 55.54,
-        "fin": 55.62
-       },
-       {
-        "t": "I",
-        "ini": 55.76,
-        "fin": 55.82
-       },
-       {
-        "t": "have",
-        "ini": 55.86,
-        "fin": 55.98
-       },
-       {
-        "t": "to",
-        "ini": 56.02,
-        "fin": 56.14
-       },
-       {
-        "t": "do?",
-        "ini": 56.2,
-        "fin": 56.4
-       },
-       {
-        "t": "—",
-        "ini": 56.4,
-        "fin": 56.4
-       },
-       {
-        "t": "Your",
-        "ini": 57.42,
-        "fin": 57.5
-       },
-       {
-        "t": "homework,",
-        "ini": 57.58,
-        "fin": 58.12
-       },
-       {
-        "t": "every",
-        "ini": 58.52,
-        "fin": 58.72
-       },
-       {
-        "t": "day,",
-        "ini": 58.84,
-        "fin": 59.06
-       }
-      ],
-      "trad": "—¿Y qué tengo que hacer? —Tus deberes, todos los días,"
-     },
-     {
-      "seccion": "Verse 2",
-      "texto": "'cause a hero has to learn — and copying's not fair!",
-      "ini": 59.06,
-      "fin": 63.58,
-      "palabras": [
-       {
-        "t": "'cause",
-        "ini": 59.06,
-        "fin": 59.88
-       },
-       {
-        "t": "a",
-        "ini": 59.96,
-        "fin": 59.98
-       },
-       {
-        "t": "hero",
-        "ini": 60.04,
-        "fin": 60.3
-       },
-       {
-        "t": "has",
-        "ini": 60.34,
-        "fin": 60.5
-       },
-       {
-        "t": "to",
-        "ini": 60.54,
-        "fin": 60.62
-       },
-       {
-        "t": "learn",
-        "ini": 60.72,
-        "fin": 61.06
-       },
-       {
-        "t": "—",
-        "ini": 61.06,
-        "fin": 61.06
-       },
-       {
-        "t": "and",
-        "ini": 62.08,
-        "fin": 62.14
-       },
-       {
-        "t": "copying's",
-        "ini": 62.22,
-        "fin": 62.82
-       },
-       {
-        "t": "not",
-        "ini": 62.86,
-        "fin": 63.08
-       },
-       {
-        "t": "fair!",
-        "ini": 63.18,
-        "fin": 63.58
-       }
-      ],
-      "trad": "porque un héroe tiene que aprender — ¡y copiar no es justo!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "You have to, you have to — yes, a hero has to!",
-      "ini": 66.94,
-      "fin": 68.14,
-      "palabras": [
-       {
-        "t": "You",
-        "ini": 66.94,
-        "fin": 67.0
-       },
-       {
-        "t": "have",
-        "ini": 67.04,
-        "fin": 67.04
-       },
-       {
-        "t": "to,",
-        "ini": 67.04,
-        "fin": 67.04
-       },
-       {
-        "t": "you",
-        "ini": 67.04,
-        "fin": 67.04
-       },
-       {
-        "t": "have",
-        "ini": 67.04,
-        "fin": 67.04
-       },
-       {
-        "t": "to",
-        "ini": 67.04,
-        "fin": 67.04
-       },
-       {
-        "t": "—",
-        "ini": 67.04,
-        "fin": 67.04
-       },
-       {
-        "t": "yes,",
-        "ini": 67.04,
-        "fin": 67.08
-       },
-       {
-        "t": "a",
-        "ini": 67.18,
-        "fin": 67.2
-       },
-       {
-        "t": "hero",
-        "ini": 67.42,
-        "fin": 67.78
-       },
-       {
-        "t": "has",
-        "ini": 67.8,
-        "fin": 67.96
-       },
-       {
-        "t": "to!",
-        "ini": 68.06,
-        "fin": 68.14
-       }
-      ],
-      "trad": "Tienes que, tienes que — sí, un héroe tiene que!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "You must be kind, you mustn't lie, and you have to say «thank you»!",
-      "ini": 72.12,
-      "fin": 74.84,
-      "palabras": [
-       {
-        "t": "You",
-        "ini": 72.12,
-        "fin": 72.16
-       },
-       {
-        "t": "must",
-        "ini": 72.22,
-        "fin": 72.38
-       },
-       {
-        "t": "be",
-        "ini": 72.42,
-        "fin": 72.5
-       },
-       {
-        "t": "kind,",
-        "ini": 72.54,
-        "fin": 72.7
-       },
-       {
-        "t": "you",
-        "ini": 72.76,
-        "fin": 72.82
-       },
-       {
-        "t": "mustn't",
-        "ini": 72.86,
-        "fin": 73.14
-       },
-       {
-        "t": "lie,",
-        "ini": 73.2,
-        "fin": 73.46
-       },
-       {
-        "t": "and",
-        "ini": 73.54,
-        "fin": 73.62
-       },
-       {
-        "t": "you",
-        "ini": 73.66,
-        "fin": 73.74
-       },
-       {
-        "t": "have",
-        "ini": 73.8,
-        "fin": 73.94
-       },
-       {
-        "t": "to",
-        "ini": 73.98,
-        "fin": 74.08
-       },
-       {
-        "t": "say",
-        "ini": 74.14,
-        "fin": 74.28
-       },
-       {
-        "t": "«thank",
-        "ini": 74.38,
-        "fin": 74.7
-       },
-       {
-        "t": "you»!",
-        "ini": 74.76,
-        "fin": 74.84
-       }
-      ],
-      "trad": "Tienes que ser amable, no debes mentir, y tienes que decir «¡gracias!»!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "— Do I have to? — Yes, you do! — Do I have to? — Yes, it's true!",
-      "ini": 74.84,
-      "fin": 79.88,
-      "palabras": [
-       {
-        "t": "—",
-        "ini": 74.84,
-        "fin": 74.84
-       },
-       {
-        "t": "Do",
-        "ini": 74.88,
-        "fin": 74.92
-       },
-       {
-        "t": "I",
-        "ini": 74.96,
-        "fin": 74.98
-       },
-       {
-        "t": "have",
-        "ini": 75.06,
-        "fin": 75.32
-       },
-       {
-        "t": "to?",
-        "ini": 75.38,
-        "fin": 75.62
-       },
-       {
-        "t": "—",
-        "ini": 75.62,
-        "fin": 75.62
-       },
-       {
-        "t": "Yes,",
-        "ini": 76.0,
-        "fin": 76.14
-       },
-       {
-        "t": "you",
-        "ini": 76.64,
-        "fin": 76.78
-       },
-       {
-        "t": "do!",
-        "ini": 76.88,
-        "fin": 77.18
-       },
-       {
-        "t": "—",
-        "ini": 77.18,
-        "fin": 77.18
-       },
-       {
-        "t": "Do",
-        "ini": 77.24,
-        "fin": 77.34
-       },
-       {
-        "t": "I",
-        "ini": 77.44,
-        "fin": 77.46
-       },
-       {
-        "t": "have",
-        "ini": 77.56,
-        "fin": 77.76
-       },
-       {
-        "t": "to?",
-        "ini": 77.88,
-        "fin": 78.12
-       },
-       {
-        "t": "—",
-        "ini": 78.12,
-        "fin": 78.12
-       },
-       {
-        "t": "Yes,",
-        "ini": 78.46,
-        "fin": 78.74
-       },
-       {
-        "t": "it's",
-        "ini": 79.2,
-        "fin": 79.36
-       },
-       {
-        "t": "true!",
-        "ini": 79.38,
-        "fin": 79.88
-       }
-      ],
-      "trad": "—¿Tengo que? —¡Sí, tienes que! —¿Tengo que? —¡Sí, es verdad!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "Tell the truth and they'll trust you… together we go far!",
-      "ini": 81.6,
-      "fin": 84.86,
-      "palabras": [
-       {
-        "t": "Tell",
-        "ini": 81.6,
-        "fin": 81.74
+        "fin": 50.94
        },
        {
         "t": "the",
-        "ini": 81.78,
-        "fin": 81.86
+        "ini": 50.98,
+        "fin": 51.08
        },
        {
-        "t": "truth",
-        "ini": 81.92,
-        "fin": 82.1
+        "t": "fishbowl…",
+        "ini": 51.16,
+        "fin": 51.74
        },
        {
         "t": "and",
-        "ini": 82.14,
-        "fin": 82.22
+        "ini": 51.78,
+        "fin": 51.84
        },
        {
-        "t": "they'll",
-        "ini": 82.26,
-        "fin": 82.44
+        "t": "Bubbles",
+        "ini": 51.9,
+        "fin": 52.2
+       },
+       {
+        "t": "lands",
+        "ini": 52.26,
+        "fin": 52.48
+       },
+       {
+        "t": "safe",
+        "ini": 52.54,
+        "fin": 52.84
+       },
+       {
+        "t": "in",
+        "ini": 52.9,
+        "fin": 52.98
+       },
+       {
+        "t": "a",
+        "ini": 53.02,
+        "fin": 53.08
+       },
+       {
+        "t": "glass",
+        "ini": 53.12,
+        "fin": 53.62
+       },
+       {
+        "t": "—",
+        "ini": 53.7,
+        "fin": 53.7
+       },
+       {
+        "t": "whoa!",
+        "ini": 54.38,
+        "fin": 54.94
+       }
+      ],
+      "trad": "¡plof!, hace la pecera… y Burbuja cae a salvo en un vaso, ¡uau!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "In comes Madame Lightning: «Who did this?» — should I say it was the cat?",
+      "ini": 55.12,
+      "fin": 58.44,
+      "palabras": [
+       {
+        "t": "In",
+        "ini": 55.12,
+        "fin": 55.22
+       },
+       {
+        "t": "comes",
+        "ini": 55.34,
+        "fin": 55.62
+       },
+       {
+        "t": "Madame",
+        "ini": 55.7,
+        "fin": 56.08
+       },
+       {
+        "t": "Lightning:",
+        "ini": 56.18,
+        "fin": 56.52
+       },
+       {
+        "t": "«Who",
+        "ini": 56.56,
+        "fin": 56.7
+       },
+       {
+        "t": "did",
+        "ini": 56.74,
+        "fin": 56.88
+       },
+       {
+        "t": "this?»",
+        "ini": 56.96,
+        "fin": 57.14
+       },
+       {
+        "t": "—",
+        "ini": 57.18,
+        "fin": 57.18
+       },
+       {
+        "t": "should",
+        "ini": 57.2,
+        "fin": 57.36
+       },
+       {
+        "t": "I",
+        "ini": 57.4,
+        "fin": 57.48
+       },
+       {
+        "t": "say",
+        "ini": 57.54,
+        "fin": 57.68
+       },
+       {
+        "t": "it",
+        "ini": 57.72,
+        "fin": 57.8
+       },
+       {
+        "t": "was",
+        "ini": 57.86,
+        "fin": 57.98
+       },
+       {
+        "t": "the",
+        "ini": 58.02,
+        "fin": 58.1
+       },
+       {
+        "t": "cat?",
+        "ini": 58.18,
+        "fin": 58.44
+       }
+      ],
+      "trad": "Entra Madame Rayo: «¿Quién ha sido?»… ¿digo que fue el gato?"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "and the cat just stares at me… oh, what a face! Oh no, not that!",
+      "ini": 59.74,
+      "fin": 64.06,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 59.74,
+        "fin": 59.84
+       },
+       {
+        "t": "the",
+        "ini": 59.88,
+        "fin": 59.98
+       },
+       {
+        "t": "cat",
+        "ini": 60.06,
+        "fin": 60.28
+       },
+       {
+        "t": "just",
+        "ini": 60.36,
+        "fin": 60.52
+       },
+       {
+        "t": "stares",
+        "ini": 60.62,
+        "fin": 60.98
+       },
+       {
+        "t": "at",
+        "ini": 61.02,
+        "fin": 61.12
+       },
+       {
+        "t": "me…",
+        "ini": 61.18,
+        "fin": 61.34
+       },
+       {
+        "t": "oh,",
+        "ini": 62.08,
+        "fin": 62.18
+       },
+       {
+        "t": "what",
+        "ini": 62.22,
+        "fin": 62.32
+       },
+       {
+        "t": "a",
+        "ini": 62.36,
+        "fin": 62.48
+       },
+       {
+        "t": "face!",
+        "ini": 62.52,
+        "fin": 62.88
+       },
+       {
+        "t": "Oh",
+        "ini": 63.04,
+        "fin": 63.12
+       },
+       {
+        "t": "no,",
+        "ini": 63.2,
+        "fin": 63.34
+       },
+       {
+        "t": "not",
+        "ini": 63.48,
+        "fin": 63.74
+       },
+       {
+        "t": "that!",
+        "ini": 63.8,
+        "fin": 64.06
+       }
+      ],
+      "trad": "y el gato me mira fijamente… ¡qué cara! ¡Oh no, eso no!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "What does a hero have to do? Fly? Be the strongest one?",
+      "ini": 65.82,
+      "fin": 69.7,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 65.82,
+        "fin": 65.94
+       },
+       {
+        "t": "does",
+        "ini": 65.98,
+        "fin": 66.14
+       },
+       {
+        "t": "a",
+        "ini": 66.22,
+        "fin": 66.26
+       },
+       {
+        "t": "hero",
+        "ini": 66.32,
+        "fin": 66.8
+       },
+       {
+        "t": "have",
+        "ini": 66.94,
+        "fin": 67.16
+       },
+       {
+        "t": "to",
+        "ini": 67.22,
+        "fin": 67.36
+       },
+       {
+        "t": "do?",
+        "ini": 67.4,
+        "fin": 67.72
+       },
+       {
+        "t": "Fly?",
+        "ini": 68.1,
+        "fin": 68.4
+       },
+       {
+        "t": "Be",
+        "ini": 68.48,
+        "fin": 68.58
+       },
+       {
+        "t": "the",
+        "ini": 68.62,
+        "fin": 68.7
+       },
+       {
+        "t": "strongest",
+        "ini": 68.74,
+        "fin": 69.22
+       },
+       {
+        "t": "one?",
+        "ini": 69.34,
+        "fin": 69.7
+       }
+      ],
+      "trad": "¿Qué tiene que hacer un héroe? ¿Volar? ¿Ser el más fuerte?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "No, a hero doesn't have to fly or be the strongest one!",
+      "ini": 70.02,
+      "fin": 74.66,
+      "palabras": [
+       {
+        "t": "No,",
+        "ini": 70.02,
+        "fin": 70.24
+       },
+       {
+        "t": "a",
+        "ini": 71.2,
+        "fin": 71.24
+       },
+       {
+        "t": "hero",
+        "ini": 71.3,
+        "fin": 71.54
+       },
+       {
+        "t": "doesn't",
+        "ini": 71.6,
+        "fin": 71.92
+       },
+       {
+        "t": "have",
+        "ini": 71.96,
+        "fin": 72.16
+       },
+       {
+        "t": "to",
+        "ini": 72.2,
+        "fin": 72.34
+       },
+       {
+        "t": "fly",
+        "ini": 72.38,
+        "fin": 72.88
+       },
+       {
+        "t": "or",
+        "ini": 73.34,
+        "fin": 73.42
+       },
+       {
+        "t": "be",
+        "ini": 73.48,
+        "fin": 73.6
+       },
+       {
+        "t": "the",
+        "ini": 73.64,
+        "fin": 73.7
+       },
+       {
+        "t": "strongest",
+        "ini": 73.76,
+        "fin": 74.22
+       },
+       {
+        "t": "one!",
+        "ini": 74.3,
+        "fin": 74.66
+       }
+      ],
+      "trad": "¡No, un héroe no tiene que volar ni ser el más fuerte!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "A hero has to be brave enough… to tell the truth!",
+      "ini": 74.9,
+      "fin": 80.88,
+      "palabras": [
+       {
+        "t": "A",
+        "ini": 74.9,
+        "fin": 74.96
+       },
+       {
+        "t": "hero",
+        "ini": 75.06,
+        "fin": 75.54
+       },
+       {
+        "t": "has",
+        "ini": 75.64,
+        "fin": 75.82
+       },
+       {
+        "t": "to",
+        "ini": 75.86,
+        "fin": 75.94
+       },
+       {
+        "t": "be",
+        "ini": 76.0,
+        "fin": 76.08
+       },
+       {
+        "t": "brave",
+        "ini": 76.26,
+        "fin": 76.6
+       },
+       {
+        "t": "enough…",
+        "ini": 76.64,
+        "fin": 77.0
+       },
+       {
+        "t": "to",
+        "ini": 77.06,
+        "fin": 77.06
+       },
+       {
+        "t": "tell",
+        "ini": 77.54,
+        "fin": 77.58
+       },
+       {
+        "t": "the",
+        "ini": 77.64,
+        "fin": 78.82
+       },
+       {
+        "t": "truth!",
+        "ini": 79.12,
+        "fin": 80.88
+       }
+      ],
+      "trad": "Un héroe tiene que ser lo bastante valiente… ¡para decir la verdad!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "If you tell the truth, they trust you… together we go far!",
+      "ini": 81.0,
+      "fin": 84.98,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 81.0,
+        "fin": 81.1
+       },
+       {
+        "t": "you",
+        "ini": 81.14,
+        "fin": 81.22
+       },
+       {
+        "t": "tell",
+        "ini": 81.3,
+        "fin": 81.56
+       },
+       {
+        "t": "the",
+        "ini": 81.6,
+        "fin": 81.68
+       },
+       {
+        "t": "truth,",
+        "ini": 81.76,
+        "fin": 82.0
+       },
+       {
+        "t": "they",
+        "ini": 82.1,
+        "fin": 82.24
        },
        {
         "t": "trust",
-        "ini": 82.48,
-        "fin": 82.86
+        "ini": 82.36,
+        "fin": 82.72
        },
        {
         "t": "you…",
-        "ini": 82.94,
-        "fin": 83.08
+        "ini": 82.78,
+        "fin": 83.1
        },
        {
         "t": "together",
-        "ini": 83.66,
-        "fin": 84.02
+        "ini": 83.62,
+        "fin": 84.04
        },
        {
         "t": "we",
         "ini": 84.1,
-        "fin": 84.18
+        "fin": 84.24
        },
        {
         "t": "go",
-        "ini": 84.24,
-        "fin": 84.34
+        "ini": 84.28,
+        "fin": 84.42
        },
        {
         "t": "far!",
-        "ini": 84.5,
-        "fin": 84.86
+        "ini": 84.58,
+        "fin": 84.98
        }
       ],
-      "trad": "Di la verdad y confiarán en ti… ¡juntos llegamos lejos!"
+      "trad": "Si dices la verdad, confían en ti… ¡juntos llegamos lejos!"
      },
      {
       "seccion": "Bridge",
-      "texto": "«Mustn't» means «don't you dare!», «don't have to» means «you decide»,",
-      "ini": 84.88,
-      "fin": 89.7,
+      "texto": "«Mustn't» means «don't you dare»: I mustn't blame the cat,",
+      "ini": 84.98,
+      "fin": 89.06,
       "palabras": [
        {
         "t": "«Mustn't»",
-        "ini": 84.88,
-        "fin": 85.7
+        "ini": 84.98,
+        "fin": 85.74
        },
        {
         "t": "means",
-        "ini": 86.0,
-        "fin": 86.22
+        "ini": 85.86,
+        "fin": 86.08
        },
        {
         "t": "«don't",
-        "ini": 86.3,
-        "fin": 86.56
+        "ini": 86.14,
+        "fin": 86.4
        },
        {
         "t": "you",
-        "ini": 86.62,
-        "fin": 86.7
+        "ini": 86.5,
+        "fin": 86.62
        },
        {
-        "t": "dare!»,",
-        "ini": 86.82,
-        "fin": 87.12
+        "t": "dare»:",
+        "ini": 86.76,
+        "fin": 87.06
        },
        {
-        "t": "«don't",
-        "ini": 87.24,
-        "fin": 87.5
+        "t": "I",
+        "ini": 87.7,
+        "fin": 87.74
        },
        {
-        "t": "have",
-        "ini": 87.58,
-        "fin": 87.82
+        "t": "mustn't",
+        "ini": 87.88,
+        "fin": 88.26
        },
        {
-        "t": "to»",
-        "ini": 87.9,
-        "fin": 88.06
+        "t": "blame",
+        "ini": 88.34,
+        "fin": 88.58
        },
        {
-        "t": "means",
-        "ini": 88.5,
+        "t": "the",
+        "ini": 88.64,
         "fin": 88.74
        },
        {
-        "t": "«you",
+        "t": "cat,",
         "ini": 88.82,
-        "fin": 89.0
-       },
-       {
-        "t": "decide»,",
-        "ini": 89.08,
-        "fin": 89.7
+        "fin": 89.06
        }
       ],
-      "trad": "«No debes» significa «¡ni se te ocurra!», «no tienes que» significa «tú decides»,"
+      "trad": "«Mustn't» significa «ni se te ocurra»: no debo culpar al gato,"
      },
      {
       "seccion": "Bridge",
-      "texto": "you don't have to eat it all, but you have to try one bite!",
-      "ini": 90.4,
-      "fin": 94.1,
+      "texto": "and «don't have to» means «no need»: I don't have to be perfect, and that's that!",
+      "ini": 89.88,
+      "fin": 94.7,
       "palabras": [
        {
-        "t": "you",
-        "ini": 90.4,
-        "fin": 90.48
+        "t": "and",
+        "ini": 89.88,
+        "fin": 89.96
        },
        {
-        "t": "don't",
-        "ini": 90.52,
-        "fin": 90.7
+        "t": "«don't",
+        "ini": 90.0,
+        "fin": 90.3
        },
        {
         "t": "have",
-        "ini": 90.98,
-        "fin": 91.14
+        "ini": 90.36,
+        "fin": 90.58
        },
        {
-        "t": "to",
-        "ini": 91.18,
-        "fin": 91.26
+        "t": "to»",
+        "ini": 90.62,
+        "fin": 90.78
        },
        {
-        "t": "eat",
-        "ini": 91.34,
-        "fin": 91.48
+        "t": "means",
+        "ini": 90.88,
+        "fin": 91.12
        },
        {
-        "t": "it",
+        "t": "«no",
+        "ini": 91.22,
+        "fin": 91.42
+       },
+       {
+        "t": "need»:",
         "ini": 91.52,
-        "fin": 91.6
+        "fin": 91.76
        },
        {
-        "t": "all,",
-        "ini": 91.7,
-        "fin": 91.88
+        "t": "I",
+        "ini": 92.26,
+        "fin": 92.3
        },
        {
-        "t": "but",
-        "ini": 92.22,
-        "fin": 92.36
-       },
-       {
-        "t": "you",
-        "ini": 92.42,
-        "fin": 92.5
+        "t": "don't",
+        "ini": 92.32,
+        "fin": 92.46
        },
        {
         "t": "have",
         "ini": 92.54,
-        "fin": 92.68
+        "fin": 92.7
        },
        {
         "t": "to",
-        "ini": 92.72,
-        "fin": 92.78
+        "ini": 92.74,
+        "fin": 92.82
        },
        {
-        "t": "try",
+        "t": "be",
         "ini": 92.86,
-        "fin": 93.14
+        "fin": 92.92
        },
        {
-        "t": "one",
-        "ini": 93.54,
-        "fin": 93.7
+        "t": "perfect,",
+        "ini": 93.1,
+        "fin": 93.56
        },
        {
-        "t": "bite!",
-        "ini": 93.82,
-        "fin": 94.1
+        "t": "and",
+        "ini": 93.94,
+        "fin": 94.04
+       },
+       {
+        "t": "that's",
+        "ini": 94.12,
+        "fin": 94.38
+       },
+       {
+        "t": "that!",
+        "ini": 94.44,
+        "fin": 94.7
        }
       ],
-      "trad": "no tienes que comértelo todo, pero tienes que probar un bocado!"
+      "trad": "y «don't have to» significa «no hace falta»: no tengo que ser perfecto, ¡y punto!"
      },
      {
       "seccion": "Verse 3",
-      "texto": "At the end of the day, Madame Lightning gives me a gold star:",
-      "ini": 115.38,
-      "fin": 119.26,
+      "texto": "I take a deep breath and say: «It was me… and I'm really sorry.»",
+      "ini": 105.22,
+      "fin": 109.86,
       "palabras": [
        {
-        "t": "At",
-        "ini": 115.38,
-        "fin": 115.5
+        "t": "I",
+        "ini": 105.22,
+        "fin": 105.28
        },
        {
-        "t": "the",
-        "ini": 115.54,
-        "fin": 115.62
+        "t": "take",
+        "ini": 105.34,
+        "fin": 105.5
        },
        {
-        "t": "end",
-        "ini": 115.7,
-        "fin": 115.86
+        "t": "a",
+        "ini": 105.56,
+        "fin": 105.62
        },
        {
-        "t": "of",
-        "ini": 115.9,
-        "fin": 115.94
+        "t": "deep",
+        "ini": 105.68,
+        "fin": 105.9
        },
        {
-        "t": "the",
-        "ini": 115.98,
-        "fin": 116.06
+        "t": "breath",
+        "ini": 105.94,
+        "fin": 106.12
        },
        {
-        "t": "day,",
-        "ini": 116.18,
-        "fin": 116.44
+        "t": "and",
+        "ini": 106.16,
+        "fin": 106.26
        },
+       {
+        "t": "say:",
+        "ini": 106.34,
+        "fin": 106.56
+       },
+       {
+        "t": "«It",
+        "ini": 106.56,
+        "fin": 107.32
+       },
+       {
+        "t": "was",
+        "ini": 107.38,
+        "fin": 107.5
+       },
+       {
+        "t": "me…",
+        "ini": 107.58,
+        "fin": 107.78
+       },
+       {
+        "t": "and",
+        "ini": 108.5,
+        "fin": 108.6
+       },
+       {
+        "t": "I'm",
+        "ini": 108.66,
+        "fin": 108.76
+       },
+       {
+        "t": "really",
+        "ini": 108.82,
+        "fin": 109.06
+       },
+       {
+        "t": "sorry.»",
+        "ini": 109.26,
+        "fin": 109.86
+       }
+      ],
+      "trad": "Respiro hondo y digo: «He sido yo… y lo siento mucho.»"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Madame Lightning smiles: «That's the coolest superpower — don't worry!»",
+      "ini": 110.36,
+      "fin": 114.94,
+      "palabras": [
        {
         "t": "Madame",
-        "ini": 117.22,
-        "fin": 117.48
+        "ini": 110.36,
+        "fin": 110.62
        },
        {
         "t": "Lightning",
-        "ini": 117.54,
-        "fin": 117.8
+        "ini": 110.68,
+        "fin": 111.0
        },
        {
-        "t": "gives",
-        "ini": 117.9,
-        "fin": 118.12
+        "t": "smiles:",
+        "ini": 111.12,
+        "fin": 111.74
        },
        {
-        "t": "me",
-        "ini": 118.2,
-        "fin": 118.3
+        "t": "«That's",
+        "ini": 111.74,
+        "fin": 112.38
        },
        {
-        "t": "a",
-        "ini": 118.36,
-        "fin": 118.44
+        "t": "the",
+        "ini": 112.4,
+        "fin": 112.48
        },
        {
-        "t": "gold",
-        "ini": 118.48,
-        "fin": 118.7
+        "t": "coolest",
+        "ini": 112.54,
+        "fin": 112.8
        },
        {
-        "t": "star:",
-        "ini": 118.84,
-        "fin": 119.26
-       }
-      ],
-      "trad": "Al final del día, Madame Relámpago me da una estrella de oro:"
-     },
-     {
-      "seccion": "Verse 3",
-      "texto": "«You don't have to fly to be a hero — you just have to be who you are!»",
-      "ini": 119.26,
-      "fin": 124.22,
-      "palabras": [
-       {
-        "t": "«You",
-        "ini": 119.26,
-        "fin": 120.16
-       },
-       {
-        "t": "don't",
-        "ini": 120.2,
-        "fin": 120.32
-       },
-       {
-        "t": "have",
-        "ini": 120.36,
-        "fin": 120.48
-       },
-       {
-        "t": "to",
-        "ini": 120.52,
-        "fin": 120.62
-       },
-       {
-        "t": "fly",
-        "ini": 120.68,
-        "fin": 120.84
-       },
-       {
-        "t": "to",
-        "ini": 120.88,
-        "fin": 120.98
-       },
-       {
-        "t": "be",
-        "ini": 121.02,
-        "fin": 121.12
-       },
-       {
-        "t": "a",
-        "ini": 121.2,
-        "fin": 121.24
-       },
-       {
-        "t": "hero",
-        "ini": 121.3,
-        "fin": 121.68
+        "t": "superpower",
+        "ini": 112.86,
+        "fin": 113.44
        },
        {
         "t": "—",
-        "ini": 121.88,
-        "fin": 121.88
+        "ini": 113.44,
+        "fin": 113.44
        },
        {
-        "t": "you",
-        "ini": 121.96,
-        "fin": 122.04
+        "t": "don't",
+        "ini": 114.1,
+        "fin": 114.36
        },
        {
-        "t": "just",
-        "ini": 122.1,
-        "fin": 122.2
-       },
-       {
-        "t": "have",
-        "ini": 122.24,
-        "fin": 122.36
-       },
-       {
-        "t": "to",
-        "ini": 122.4,
-        "fin": 122.5
-       },
-       {
-        "t": "be",
-        "ini": 122.58,
-        "fin": 122.82
-       },
-       {
-        "t": "who",
-        "ini": 123.16,
-        "fin": 123.36
-       },
-       {
-        "t": "you",
-        "ini": 123.5,
-        "fin": 123.66
-       },
-       {
-        "t": "are!»",
-        "ini": 123.9,
-        "fin": 124.22
+        "t": "worry!»",
+        "ini": 114.42,
+        "fin": 114.94
        }
       ],
-      "trad": "«No tienes que volar para ser un héroe — solo tienes que ser quien eres!»"
+      "trad": "Madame Rayo sonríe: «¡Ese es el superpoder más guay! No te preocupes»."
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "I clean it all up by myself — and Bubbles gets a brand-new bowl,",
+      "ini": 115.22,
+      "fin": 119.06,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 115.22,
+        "fin": 115.28
+       },
+       {
+        "t": "clean",
+        "ini": 115.34,
+        "fin": 115.54
+       },
+       {
+        "t": "it",
+        "ini": 115.58,
+        "fin": 115.66
+       },
+       {
+        "t": "all",
+        "ini": 115.74,
+        "fin": 115.86
+       },
+       {
+        "t": "up",
+        "ini": 115.94,
+        "fin": 116.06
+       },
+       {
+        "t": "by",
+        "ini": 116.16,
+        "fin": 116.38
+       },
+       {
+        "t": "myself",
+        "ini": 116.46,
+        "fin": 117.12
+       },
+       {
+        "t": "—",
+        "ini": 117.36,
+        "fin": 117.36
+       },
+       {
+        "t": "and",
+        "ini": 117.38,
+        "fin": 117.46
+       },
+       {
+        "t": "Bubbles",
+        "ini": 117.56,
+        "fin": 117.82
+       },
+       {
+        "t": "gets",
+        "ini": 117.86,
+        "fin": 118.0
+       },
+       {
+        "t": "a",
+        "ini": 118.06,
+        "fin": 118.12
+       },
+       {
+        "t": "brand-new",
+        "ini": 118.18,
+        "fin": 118.62
+       },
+       {
+        "t": "bowl,",
+        "ini": 118.8,
+        "fin": 119.06
+       }
+      ],
+      "trad": "Lo recojo todo yo solo… y Burbuja estrena pecera,"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "and the cat gets a gold star too… for not eating the fish at all!",
+      "ini": 119.76,
+      "fin": 124.18,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 119.76,
+        "fin": 119.86
+       },
+       {
+        "t": "the",
+        "ini": 119.9,
+        "fin": 119.98
+       },
+       {
+        "t": "cat",
+        "ini": 120.06,
+        "fin": 120.26
+       },
+       {
+        "t": "gets",
+        "ini": 120.34,
+        "fin": 120.5
+       },
+       {
+        "t": "a",
+        "ini": 120.56,
+        "fin": 120.62
+       },
+       {
+        "t": "gold",
+        "ini": 120.68,
+        "fin": 120.88
+       },
+       {
+        "t": "star",
+        "ini": 120.96,
+        "fin": 121.22
+       },
+       {
+        "t": "too…",
+        "ini": 121.32,
+        "fin": 121.56
+       },
+       {
+        "t": "for",
+        "ini": 122.08,
+        "fin": 122.18
+       },
+       {
+        "t": "not",
+        "ini": 122.24,
+        "fin": 122.48
+       },
+       {
+        "t": "eating",
+        "ini": 122.58,
+        "fin": 122.94
+       },
+       {
+        "t": "the",
+        "ini": 123.0,
+        "fin": 123.08
+       },
+       {
+        "t": "fish",
+        "ini": 123.14,
+        "fin": 123.34
+       },
+       {
+        "t": "at",
+        "ini": 123.5,
+        "fin": 123.64
+       },
+       {
+        "t": "all!",
+        "ini": 123.72,
+        "fin": 124.18
+       }
+      ],
+      "trad": "y el gato también se lleva una estrella dorada… ¡por no comerse al pez!"
      },
      {
       "seccion": "Final Chorus",
-      "texto": "You have to, you have to — yes, a hero has to!",
-      "ini": 126.68,
-      "fin": 130.9,
+      "texto": "What does a hero have to do? Fly? Be the strongest one?",
+      "ini": 125.84,
+      "fin": 129.68,
       "palabras": [
        {
-        "t": "You",
-        "ini": 126.68,
+        "t": "What",
+        "ini": 125.84,
+        "fin": 125.94
+       },
+       {
+        "t": "does",
+        "ini": 125.98,
+        "fin": 126.14
+       },
+       {
+        "t": "a",
+        "ini": 126.22,
+        "fin": 126.26
+       },
+       {
+        "t": "hero",
+        "ini": 126.32,
         "fin": 126.82
        },
        {
         "t": "have",
-        "ini": 126.92,
-        "fin": 127.18
+        "ini": 126.94,
+        "fin": 127.16
        },
        {
-        "t": "to,",
-        "ini": 127.24,
+        "t": "to",
+        "ini": 127.22,
         "fin": 127.34
        },
        {
-        "t": "you",
-        "ini": 127.38,
-        "fin": 127.48
+        "t": "do?",
+        "ini": 127.42,
+        "fin": 127.72
        },
        {
-        "t": "have",
-        "ini": 127.56,
-        "fin": 127.98
-       },
-       {
-        "t": "to",
-        "ini": 128.04,
+        "t": "Fly?",
+        "ini": 128.12,
         "fin": 128.4
        },
        {
-        "t": "—",
-        "ini": 128.4,
-        "fin": 128.4
-       },
-       {
-        "t": "yes,",
-        "ini": 129.4,
-        "fin": 129.58
-       },
-       {
-        "t": "a",
-        "ini": 129.64,
-        "fin": 129.7
-       },
-       {
-        "t": "hero",
-        "ini": 129.74,
-        "fin": 130.0
-       },
-       {
-        "t": "has",
-        "ini": 130.08,
-        "fin": 130.48
-       },
-       {
-        "t": "to!",
-        "ini": 130.56,
-        "fin": 130.9
-       }
-      ],
-      "trad": "Tienes que, tienes que — sí, un héroe tiene que!"
-     },
-     {
-      "seccion": "Final Chorus",
-      "texto": "You must be kind, you mustn't lie, and you have to say «thank you»!",
-      "ini": 132.12,
-      "fin": 134.84,
-      "palabras": [
-       {
-        "t": "You",
-        "ini": 132.12,
-        "fin": 132.18
-       },
-       {
-        "t": "must",
-        "ini": 132.22,
-        "fin": 132.38
-       },
-       {
-        "t": "be",
-        "ini": 132.42,
-        "fin": 132.5
-       },
-       {
-        "t": "kind,",
-        "ini": 132.56,
-        "fin": 132.7
-       },
-       {
-        "t": "you",
-        "ini": 132.76,
-        "fin": 132.82
-       },
-       {
-        "t": "mustn't",
-        "ini": 132.86,
-        "fin": 133.14
-       },
-       {
-        "t": "lie,",
-        "ini": 133.22,
-        "fin": 133.46
-       },
-       {
-        "t": "and",
-        "ini": 133.54,
-        "fin": 133.62
-       },
-       {
-        "t": "you",
-        "ini": 133.66,
-        "fin": 133.74
-       },
-       {
-        "t": "have",
-        "ini": 133.78,
-        "fin": 133.94
-       },
-       {
-        "t": "to",
-        "ini": 133.98,
-        "fin": 134.08
-       },
-       {
-        "t": "say",
-        "ini": 134.14,
-        "fin": 134.28
-       },
-       {
-        "t": "«thank",
-        "ini": 134.38,
-        "fin": 134.7
-       },
-       {
-        "t": "you»!",
-        "ini": 134.76,
-        "fin": 134.84
-       }
-      ],
-      "trad": "Tienes que ser amable, no debes mentir, y tienes que decir «¡gracias!»!"
-     },
-     {
-      "seccion": "Final Chorus",
-      "texto": "— Do I have to? — Yes, you do! — Do I have to? — Yes, it's true!",
-      "ini": 134.84,
-      "fin": 139.7,
-      "palabras": [
-       {
-        "t": "—",
-        "ini": 134.84,
-        "fin": 134.84
-       },
-       {
-        "t": "Do",
-        "ini": 134.86,
-        "fin": 134.88
-       },
-       {
-        "t": "I",
-        "ini": 134.96,
-        "fin": 135.0
-       },
-       {
-        "t": "have",
-        "ini": 135.08,
-        "fin": 135.32
-       },
-       {
-        "t": "to?",
-        "ini": 135.38,
-        "fin": 135.58
-       },
-       {
-        "t": "—",
-        "ini": 135.62,
-        "fin": 135.62
-       },
-       {
-        "t": "Yes,",
-        "ini": 136.0,
-        "fin": 136.52
-       },
-       {
-        "t": "you",
-        "ini": 136.66,
-        "fin": 136.8
-       },
-       {
-        "t": "do!",
-        "ini": 136.96,
-        "fin": 137.16
-       },
-       {
-        "t": "—",
-        "ini": 137.18,
-        "fin": 137.18
-       },
-       {
-        "t": "Do",
-        "ini": 137.24,
-        "fin": 137.34
-       },
-       {
-        "t": "I",
-        "ini": 137.44,
-        "fin": 137.48
-       },
-       {
-        "t": "have",
-        "ini": 137.56,
-        "fin": 137.8
-       },
-       {
-        "t": "to?",
-        "ini": 137.88,
-        "fin": 138.12
-       },
-       {
-        "t": "—",
-        "ini": 138.12,
-        "fin": 138.12
-       },
-       {
-        "t": "Yes,",
-        "ini": 138.52,
-        "fin": 138.76
-       },
-       {
-        "t": "it's",
-        "ini": 139.16,
-        "fin": 139.34
-       },
-       {
-        "t": "true!",
-        "ini": 139.38,
-        "fin": 139.7
-       }
-      ],
-      "trad": "—¿Tengo que? —¡Sí, tienes que! —¿Tengo que? —¡Sí, es verdad!"
-     },
-     {
-      "seccion": "Final Chorus",
-      "texto": "Tell the truth and they'll trust you… together we go far!",
-      "ini": 141.62,
-      "fin": 144.88,
-      "palabras": [
-       {
-        "t": "Tell",
-        "ini": 141.62,
-        "fin": 141.74
+        "t": "Be",
+        "ini": 128.48,
+        "fin": 128.58
        },
        {
         "t": "the",
-        "ini": 141.78,
-        "fin": 141.86
+        "ini": 128.62,
+        "fin": 128.7
        },
        {
-        "t": "truth",
-        "ini": 141.9,
-        "fin": 142.1
+        "t": "strongest",
+        "ini": 128.76,
+        "fin": 129.24
        },
        {
-        "t": "and",
-        "ini": 142.14,
-        "fin": 142.24
+        "t": "one?",
+        "ini": 129.36,
+        "fin": 129.68
+       }
+      ],
+      "trad": "¿Qué tiene que hacer un héroe? ¿Volar? ¿Ser el más fuerte?"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "No, a hero doesn't have to fly or be the strongest one!",
+      "ini": 130.06,
+      "fin": 134.64,
+      "palabras": [
+       {
+        "t": "No,",
+        "ini": 130.06,
+        "fin": 131.12
        },
        {
-        "t": "they'll",
-        "ini": 142.26,
-        "fin": 142.44
+        "t": "a",
+        "ini": 131.2,
+        "fin": 131.24
+       },
+       {
+        "t": "hero",
+        "ini": 131.3,
+        "fin": 131.56
+       },
+       {
+        "t": "doesn't",
+        "ini": 131.62,
+        "fin": 131.92
+       },
+       {
+        "t": "have",
+        "ini": 131.96,
+        "fin": 132.16
+       },
+       {
+        "t": "to",
+        "ini": 132.2,
+        "fin": 132.3
+       },
+       {
+        "t": "fly",
+        "ini": 132.38,
+        "fin": 132.9
+       },
+       {
+        "t": "or",
+        "ini": 133.34,
+        "fin": 133.44
+       },
+       {
+        "t": "be",
+        "ini": 133.48,
+        "fin": 133.6
+       },
+       {
+        "t": "the",
+        "ini": 133.64,
+        "fin": 133.7
+       },
+       {
+        "t": "strongest",
+        "ini": 133.76,
+        "fin": 134.24
+       },
+       {
+        "t": "one!",
+        "ini": 134.36,
+        "fin": 134.64
+       }
+      ],
+      "trad": "¡No, un héroe no tiene que volar ni ser el más fuerte!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "A hero has to be brave enough… to tell the truth!",
+      "ini": 134.92,
+      "fin": 138.94,
+      "palabras": [
+       {
+        "t": "A",
+        "ini": 134.92,
+        "fin": 134.98
+       },
+       {
+        "t": "hero",
+        "ini": 135.06,
+        "fin": 135.56
+       },
+       {
+        "t": "has",
+        "ini": 136.28,
+        "fin": 136.44
+       },
+       {
+        "t": "to",
+        "ini": 136.48,
+        "fin": 136.56
+       },
+       {
+        "t": "be",
+        "ini": 136.62,
+        "fin": 136.76
+       },
+       {
+        "t": "brave",
+        "ini": 136.92,
+        "fin": 137.22
+       },
+       {
+        "t": "enough…",
+        "ini": 137.26,
+        "fin": 137.68
+       },
+       {
+        "t": "to",
+        "ini": 138.0,
+        "fin": 138.08
+       },
+       {
+        "t": "tell",
+        "ini": 138.16,
+        "fin": 138.42
+       },
+       {
+        "t": "the",
+        "ini": 138.48,
+        "fin": 138.54
+       },
+       {
+        "t": "truth!",
+        "ini": 138.62,
+        "fin": 138.94
+       }
+      ],
+      "trad": "Un héroe tiene que ser lo bastante valiente… ¡para decir la verdad!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "If you tell the truth, they trust you… together we go far!",
+      "ini": 141.0,
+      "fin": 145.0,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 141.0,
+        "fin": 141.1
+       },
+       {
+        "t": "you",
+        "ini": 141.14,
+        "fin": 141.22
+       },
+       {
+        "t": "tell",
+        "ini": 141.3,
+        "fin": 141.56
+       },
+       {
+        "t": "the",
+        "ini": 141.6,
+        "fin": 141.68
+       },
+       {
+        "t": "truth,",
+        "ini": 141.76,
+        "fin": 142.02
+       },
+       {
+        "t": "they",
+        "ini": 142.1,
+        "fin": 142.28
        },
        {
         "t": "trust",
-        "ini": 142.54,
-        "fin": 142.88
+        "ini": 142.38,
+        "fin": 142.72
        },
        {
         "t": "you…",
-        "ini": 142.94,
-        "fin": 143.08
+        "ini": 142.8,
+        "fin": 143.1
        },
        {
         "t": "together",
@@ -62858,21 +62906,21 @@
        },
        {
         "t": "we",
-        "ini": 144.1,
-        "fin": 144.18
+        "ini": 144.12,
+        "fin": 144.24
        },
        {
         "t": "go",
-        "ini": 144.24,
-        "fin": 144.34
+        "ini": 144.3,
+        "fin": 144.42
        },
        {
         "t": "far!",
-        "ini": 144.5,
-        "fin": 144.88
+        "ini": 144.6,
+        "fin": 145.0
        }
       ],
-      "trad": "Di la verdad y confiarán en ti… ¡juntos llegamos lejos!"
+      "trad": "Si dices la verdad, confían en ti… ¡juntos llegamos lejos!"
      }
     ],
     "duracion": 155.04
@@ -62881,1048 +62929,1068 @@
     "lineas": [
      {
       "seccion": "Verse 1",
-      "texto": "Primer día en la Escuela de Héroes, tengo capa y antifaz,",
-      "ini": 9.72,
-      "fin": 12.4,
+      "texto": "Primer día en la Escuela de Héroes: llevo capa y antifaz,",
+      "ini": 5.32,
+      "fin": 9.82,
       "palabras": [
        {
         "t": "Primer",
-        "ini": 9.72,
-        "fin": 10.0
+        "ini": 5.32,
+        "fin": 5.62
        },
        {
         "t": "día",
-        "ini": 10.06,
-        "fin": 10.26
+        "ini": 5.7,
+        "fin": 5.96
        },
        {
         "t": "en",
-        "ini": 10.3,
-        "fin": 10.32
+        "ini": 6.0,
+        "fin": 6.06
        },
        {
         "t": "la",
-        "ini": 10.34,
-        "fin": 10.4
+        "ini": 6.1,
+        "fin": 6.14
        },
        {
         "t": "Escuela",
-        "ini": 10.44,
-        "fin": 10.78
+        "ini": 6.18,
+        "fin": 6.68
        },
        {
         "t": "de",
-        "ini": 10.82,
-        "fin": 10.9
+        "ini": 6.74,
+        "fin": 6.82
        },
        {
-        "t": "Héroes,",
-        "ini": 10.98,
-        "fin": 11.26
+        "t": "Héroes:",
+        "ini": 6.92,
+        "fin": 7.48
        },
        {
-        "t": "tengo",
-        "ini": 11.34,
-        "fin": 11.54
+        "t": "llevo",
+        "ini": 8.44,
+        "fin": 8.74
        },
        {
         "t": "capa",
-        "ini": 11.62,
-        "fin": 11.86
+        "ini": 8.78,
+        "fin": 9.04
        },
        {
         "t": "y",
-        "ini": 11.88,
-        "fin": 11.94
+        "ini": 9.06,
+        "fin": 9.1
        },
        {
         "t": "antifaz,",
-        "ini": 11.98,
-        "fin": 12.4
+        "ini": 9.16,
+        "fin": 9.82
        }
       ],
-      "trad": "First day at the School of Heroes, I have a cape and a mask,"
+      "trad": "First day at Hero School: I'm wearing a cape and a mask,"
      },
      {
       "seccion": "Verse 1",
-      "texto": "la profe es Madame Rayo y me pone la primera tarea:",
-      "ini": 12.44,
-      "fin": 14.96,
+      "texto": "y Madame Rayo nos da la misión más importante… ¡ya verás!",
+      "ini": 10.24,
+      "fin": 15.14,
       "palabras": [
        {
-        "t": "la",
-        "ini": 12.44,
-        "fin": 12.5
-       },
-       {
-        "t": "profe",
-        "ini": 12.56,
-        "fin": 12.76
-       },
-       {
-        "t": "es",
-        "ini": 12.76,
-        "fin": 12.84
+        "t": "y",
+        "ini": 10.24,
+        "fin": 10.3
        },
        {
         "t": "Madame",
-        "ini": 12.84,
-        "fin": 13.18
+        "ini": 10.34,
+        "fin": 10.62
        },
        {
         "t": "Rayo",
-        "ini": 13.18,
-        "fin": 13.48
+        "ini": 10.7,
+        "fin": 11.04
        },
        {
-        "t": "y",
-        "ini": 13.54,
-        "fin": 13.6
+        "t": "nos",
+        "ini": 11.1,
+        "fin": 11.22
        },
        {
-        "t": "me",
-        "ini": 13.64,
-        "fin": 13.76
-       },
-       {
-        "t": "pone",
-        "ini": 13.8,
-        "fin": 14.04
+        "t": "da",
+        "ini": 11.3,
+        "fin": 11.5
        },
        {
         "t": "la",
-        "ini": 14.08,
-        "fin": 14.16
+        "ini": 11.58,
+        "fin": 11.64
        },
        {
-        "t": "primera",
-        "ini": 14.16,
-        "fin": 14.56
+        "t": "misión",
+        "ini": 11.72,
+        "fin": 12.04
        },
        {
-        "t": "tarea:",
-        "ini": 14.56,
-        "fin": 14.96
+        "t": "más",
+        "ini": 12.08,
+        "fin": 12.22
+       },
+       {
+        "t": "importante…",
+        "ini": 12.28,
+        "fin": 13.02
+       },
+       {
+        "t": "¡ya",
+        "ini": 13.02,
+        "fin": 14.54
+       },
+       {
+        "t": "verás!",
+        "ini": 14.6,
+        "fin": 15.14
        }
       ],
-      "trad": "the teacher is Madame Rayo and she gives me the first task:"
+      "trad": "and Madame Lightning gives us the most important mission… you'll see!"
      },
      {
       "seccion": "Verse 1",
-      "texto": "«Tienes que hacer la cama antes de salvar la ciudad»,",
-      "ini": 15.24,
-      "fin": 17.36,
+      "texto": "—No tenéis que salvar el mundo… ¡solo cuidar de Burbuja, el pez!",
+      "ini": 15.3,
+      "fin": 19.84,
       "palabras": [
        {
-        "t": "«Tienes",
-        "ini": 15.24,
-        "fin": 15.46
+        "t": "—No",
+        "ini": 15.3,
+        "fin": 15.42
        },
        {
-        "t": "que",
+        "t": "tenéis",
         "ini": 15.5,
-        "fin": 15.54
-       },
-       {
-        "t": "hacer",
-        "ini": 15.58,
-        "fin": 15.8
-       },
-       {
-        "t": "la",
-        "ini": 15.84,
         "fin": 15.9
        },
        {
-        "t": "cama",
-        "ini": 15.98,
-        "fin": 16.18
-       },
-       {
-        "t": "antes",
-        "ini": 16.2,
-        "fin": 16.42
-       },
-       {
-        "t": "de",
-        "ini": 16.46,
-        "fin": 16.54
+        "t": "que",
+        "ini": 15.96,
+        "fin": 16.06
        },
        {
         "t": "salvar",
-        "ini": 16.6,
-        "fin": 16.88
+        "ini": 16.12,
+        "fin": 16.5
        },
        {
-        "t": "la",
-        "ini": 16.92,
-        "fin": 17.0
+        "t": "el",
+        "ini": 16.56,
+        "fin": 16.66
        },
        {
-        "t": "ciudad»,",
-        "ini": 17.06,
-        "fin": 17.36
+        "t": "mundo…",
+        "ini": 16.76,
+        "fin": 17.28
+       },
+       {
+        "t": "¡solo",
+        "ini": 17.34,
+        "fin": 17.92
+       },
+       {
+        "t": "cuidar",
+        "ini": 18.0,
+        "fin": 18.38
+       },
+       {
+        "t": "de",
+        "ini": 18.46,
+        "fin": 18.54
+       },
+       {
+        "t": "Burbuja,",
+        "ini": 18.6,
+        "fin": 19.16
+       },
+       {
+        "t": "el",
+        "ini": 19.22,
+        "fin": 19.3
+       },
+       {
+        "t": "pez!",
+        "ini": 19.44,
+        "fin": 19.84
        }
       ],
-      "trad": "\"You have to make the bed before saving the city\","
+      "trad": "«You don't have to save the world… just look after Bubbles, the fish!»"
      },
      {
       "seccion": "Verse 1",
-      "texto": "«no debes volar en la cocina, ¡y tienes que calmarte ya!»",
-      "ini": 17.42,
-      "fin": 20.0,
+      "texto": "—¡Y no debéis volar en clase! —dice… y Lía ya vuela otra vez.",
+      "ini": 19.84,
+      "fin": 24.76,
       "palabras": [
        {
-        "t": "«no",
-        "ini": 17.42,
-        "fin": 17.5
-       },
-       {
-        "t": "debes",
-        "ini": 17.54,
-        "fin": 17.82
-       },
-       {
-        "t": "volar",
-        "ini": 17.88,
-        "fin": 18.1
-       },
-       {
-        "t": "en",
-        "ini": 18.12,
-        "fin": 18.2
-       },
-       {
-        "t": "la",
-        "ini": 18.22,
-        "fin": 18.32
-       },
-       {
-        "t": "cocina,",
-        "ini": 18.34,
-        "fin": 18.68
-       },
-       {
-        "t": "¡y",
-        "ini": 18.7,
-        "fin": 18.76
-       },
-       {
-        "t": "tienes",
-        "ini": 18.8,
-        "fin": 19.08
-       },
-       {
-        "t": "que",
-        "ini": 19.12,
-        "fin": 19.22
-       },
-       {
-        "t": "calmarte",
-        "ini": 19.26,
-        "fin": 19.68
-       },
-       {
-        "t": "ya!»",
-        "ini": 19.76,
-        "fin": 20.0
-       }
-      ],
-      "trad": "\"you mustn’t fly in the kitchen, and you have to calm down now!\""
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "Tienes que, tienes que… ¡un héroe también tiene que!",
-      "ini": 29.7,
-      "fin": 32.04,
-      "palabras": [
-       {
-        "t": "Tienes",
-        "ini": 29.7,
-        "fin": 29.98
-       },
-       {
-        "t": "que,",
-        "ini": 30.06,
-        "fin": 30.22
-       },
-       {
-        "t": "tienes",
-        "ini": 30.34,
-        "fin": 30.6
-       },
-       {
-        "t": "que…",
-        "ini": 30.68,
-        "fin": 30.88
-       },
-       {
-        "t": "¡un",
-        "ini": 30.92,
-        "fin": 30.98
-       },
-       {
-        "t": "héroe",
-        "ini": 31.02,
-        "fin": 31.26
-       },
-       {
-        "t": "también",
-        "ini": 31.3,
-        "fin": 31.56
-       },
-       {
-        "t": "tiene",
-        "ini": 31.6,
-        "fin": 31.82
-       },
-       {
-        "t": "que!",
-        "ini": 31.94,
-        "fin": 32.04
-       }
-      ],
-      "trad": "You have to, you have to… a hero also has to!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "Hay que ser amable, no debes mentir, ¡y tienes que dar las gracias!",
-      "ini": 32.06,
-      "fin": 35.0,
-      "palabras": [
-       {
-        "t": "Hay",
-        "ini": 32.06,
-        "fin": 32.12
-       },
-       {
-        "t": "que",
-        "ini": 32.12,
-        "fin": 32.14
-       },
-       {
-        "t": "ser",
-        "ini": 32.22,
-        "fin": 32.36
-       },
-       {
-        "t": "amable,",
-        "ini": 32.42,
-        "fin": 32.8
+        "t": "—¡Y",
+        "ini": 19.84,
+        "fin": 20.3
        },
        {
         "t": "no",
-        "ini": 32.88,
-        "fin": 32.96
+        "ini": 20.34,
+        "fin": 20.46
        },
        {
-        "t": "debes",
-        "ini": 33.02,
-        "fin": 33.28
+        "t": "debéis",
+        "ini": 20.5,
+        "fin": 20.9
        },
        {
-        "t": "mentir,",
-        "ini": 33.34,
-        "fin": 33.6
+        "t": "volar",
+        "ini": 20.98,
+        "fin": 21.28
        },
        {
-        "t": "¡y",
-        "ini": 33.6,
-        "fin": 33.6
+        "t": "en",
+        "ini": 21.34,
+        "fin": 21.44
        },
        {
-        "t": "tienes",
-        "ini": 33.62,
-        "fin": 33.9
+        "t": "clase!",
+        "ini": 21.56,
+        "fin": 22.04
        },
        {
-        "t": "que",
-        "ini": 33.96,
-        "fin": 34.06
+        "t": "—dice…",
+        "ini": 22.2,
+        "fin": 22.62
        },
        {
-        "t": "dar",
-        "ini": 34.1,
-        "fin": 34.22
+        "t": "y",
+        "ini": 23.04,
+        "fin": 23.1
        },
        {
-        "t": "las",
-        "ini": 34.26,
-        "fin": 34.38
+        "t": "Lía",
+        "ini": 23.18,
+        "fin": 23.52
        },
        {
-        "t": "gracias!",
-        "ini": 34.44,
-        "fin": 35.0
+        "t": "ya",
+        "ini": 23.64,
+        "fin": 23.72
+       },
+       {
+        "t": "vuela",
+        "ini": 23.78,
+        "fin": 24.08
+       },
+       {
+        "t": "otra",
+        "ini": 24.14,
+        "fin": 24.38
+       },
+       {
+        "t": "vez.",
+        "ini": 24.44,
+        "fin": 24.76
        }
       ],
-      "trad": "You have to be kind, you mustn’t lie, and you have to say thank you!"
+      "trad": "«And you mustn't fly in class!», she says… and Lía is already flying again."
      },
      {
       "seccion": "Chorus",
-      "texto": "—¿Tengo que hacerlo? —¡Pues sí! —¿Tengo que hacerlo? —¡Que sí, que sí!",
-      "ini": 35.2,
-      "fin": 40.38,
+      "texto": "¿Qué tiene que hacer un héroe? ¿Volar? ¿Ser el más fuerte?",
+      "ini": 25.3,
+      "fin": 29.86,
       "palabras": [
        {
-        "t": "—¿Tengo",
-        "ini": 35.2,
-        "fin": 35.4
+        "t": "¿Qué",
+        "ini": 25.3,
+        "fin": 25.52
+       },
+       {
+        "t": "tiene",
+        "ini": 25.62,
+        "fin": 26.12
        },
        {
         "t": "que",
-        "ini": 35.48,
-        "fin": 35.52
+        "ini": 26.26,
+        "fin": 26.32
        },
        {
-        "t": "hacerlo?",
-        "ini": 35.56,
-        "fin": 36.12
+        "t": "hacer",
+        "ini": 26.38,
+        "fin": 26.78
        },
        {
-        "t": "—¡Pues",
-        "ini": 36.6,
-        "fin": 36.84
+        "t": "un",
+        "ini": 26.82,
+        "fin": 26.92
        },
        {
-        "t": "sí!",
-        "ini": 36.96,
-        "fin": 37.2
+        "t": "héroe?",
+        "ini": 26.94,
+        "fin": 27.48
        },
        {
-        "t": "—¿Tengo",
-        "ini": 37.38,
-        "fin": 37.92
+        "t": "¿Volar?",
+        "ini": 27.58,
+        "fin": 28.44
        },
        {
-        "t": "que",
-        "ini": 37.98,
-        "fin": 38.04
+        "t": "¿Ser",
+        "ini": 28.58,
+        "fin": 28.8
        },
        {
-        "t": "hacerlo?",
-        "ini": 38.06,
-        "fin": 38.62
+        "t": "el",
+        "ini": 28.84,
+        "fin": 29.0
        },
        {
-        "t": "—¡Que",
-        "ini": 39.1,
-        "fin": 39.24
+        "t": "más",
+        "ini": 29.08,
+        "fin": 29.32
        },
        {
-        "t": "sí,",
-        "ini": 39.44,
-        "fin": 39.64
-       },
-       {
-        "t": "que",
-        "ini": 39.74,
-        "fin": 39.88
-       },
-       {
-        "t": "sí!",
-        "ini": 40.08,
-        "fin": 40.38
+        "t": "fuerte?",
+        "ini": 29.38,
+        "fin": 29.86
        }
       ],
-      "trad": "Do I have to do it? —Well yes! —Do I have to do it? —Yes, yes!"
+      "trad": "What does a hero have to do? Fly? Be the strongest?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡No tiene que volar… no tiene que ser el más fuerte!",
+      "ini": 29.94,
+      "fin": 34.94,
+      "palabras": [
+       {
+        "t": "¡No",
+        "ini": 29.94,
+        "fin": 30.52
+       },
+       {
+        "t": "tiene",
+        "ini": 30.64,
+        "fin": 31.44
+       },
+       {
+        "t": "que",
+        "ini": 31.56,
+        "fin": 31.72
+       },
+       {
+        "t": "volar…",
+        "ini": 31.76,
+        "fin": 32.2
+       },
+       {
+        "t": "no",
+        "ini": 33.0,
+        "fin": 33.08
+       },
+       {
+        "t": "tiene",
+        "ini": 33.16,
+        "fin": 33.4
+       },
+       {
+        "t": "que",
+        "ini": 33.46,
+        "fin": 33.58
+       },
+       {
+        "t": "ser",
+        "ini": 33.64,
+        "fin": 33.8
+       },
+       {
+        "t": "el",
+        "ini": 33.86,
+        "fin": 34.0
+       },
+       {
+        "t": "más",
+        "ini": 34.08,
+        "fin": 34.32
+       },
+       {
+        "t": "fuerte!",
+        "ini": 34.42,
+        "fin": 34.94
+       }
+      ],
+      "trad": "A hero doesn't have to fly… doesn't have to be the strongest!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Un héroe tiene que ser valiente… ¡para decir la verdad!",
+      "ini": 35.44,
+      "fin": 39.66,
+      "palabras": [
+       {
+        "t": "Un",
+        "ini": 35.44,
+        "fin": 35.68
+       },
+       {
+        "t": "héroe",
+        "ini": 35.7,
+        "fin": 36.56
+       },
+       {
+        "t": "tiene",
+        "ini": 36.74,
+        "fin": 36.98
+       },
+       {
+        "t": "que",
+        "ini": 37.04,
+        "fin": 37.14
+       },
+       {
+        "t": "ser",
+        "ini": 37.18,
+        "fin": 37.34
+       },
+       {
+        "t": "valiente…",
+        "ini": 37.38,
+        "fin": 38.02
+       },
+       {
+        "t": "¡para",
+        "ini": 38.02,
+        "fin": 38.58
+       },
+       {
+        "t": "decir",
+        "ini": 38.62,
+        "fin": 39.02
+       },
+       {
+        "t": "la",
+        "ini": 39.08,
+        "fin": 39.18
+       },
+       {
+        "t": "verdad!",
+        "ini": 39.26,
+        "fin": 39.66
+       }
+      ],
+      "trad": "A hero has to be brave… to tell the truth!"
      },
      {
       "seccion": "Chorus",
       "texto": "Si dices la verdad, confían en ti… ¡y juntos llegamos lejos!",
-      "ini": 41.14,
-      "fin": 44.98,
+      "ini": 40.22,
+      "fin": 45.0,
       "palabras": [
        {
         "t": "Si",
-        "ini": 41.14,
-        "fin": 41.24
+        "ini": 40.22,
+        "fin": 40.32
        },
        {
         "t": "dices",
-        "ini": 41.3,
-        "fin": 41.58
+        "ini": 40.36,
+        "fin": 40.66
        },
        {
         "t": "la",
-        "ini": 41.62,
-        "fin": 41.72
+        "ini": 40.7,
+        "fin": 40.82
        },
        {
         "t": "verdad,",
-        "ini": 41.76,
-        "fin": 42.02
+        "ini": 40.88,
+        "fin": 41.4
        },
        {
         "t": "confían",
-        "ini": 42.1,
-        "fin": 42.42
+        "ini": 41.48,
+        "fin": 42.14
        },
        {
         "t": "en",
-        "ini": 42.44,
-        "fin": 42.5
+        "ini": 42.18,
+        "fin": 42.3
        },
        {
         "t": "ti…",
-        "ini": 42.6,
-        "fin": 42.78
+        "ini": 42.42,
+        "fin": 42.7
        },
        {
         "t": "¡y",
-        "ini": 43.46,
-        "fin": 43.54
+        "ini": 42.7,
+        "fin": 43.4
        },
        {
         "t": "juntos",
-        "ini": 43.6,
+        "ini": 43.48,
         "fin": 43.92
        },
        {
         "t": "llegamos",
-        "ini": 43.94,
-        "fin": 44.44
+        "ini": 43.96,
+        "fin": 44.38
        },
        {
         "t": "lejos!",
-        "ini": 44.5,
-        "fin": 44.98
+        "ini": 44.46,
+        "fin": 45.0
        }
       ],
       "trad": "If you tell the truth, they trust you… and together we go far!"
      },
      {
       "seccion": "Verse 2",
-      "texto": "Capitán Tormenta tiene que ir al dentista: abre bien… ¡di «aaa»!",
-      "ini": 45.06,
-      "fin": 50.06,
+      "texto": "Para lucir mi superfuerza, levanto la mesa… ¡uy, uy, uy!",
+      "ini": 45.24,
+      "fin": 49.16,
       "palabras": [
        {
-        "t": "Capitán",
-        "ini": 45.06,
-        "fin": 45.48
+        "t": "Para",
+        "ini": 45.24,
+        "fin": 45.42
        },
        {
-        "t": "Tormenta",
-        "ini": 45.52,
-        "fin": 45.94
+        "t": "lucir",
+        "ini": 45.48,
+        "fin": 45.78
        },
        {
-        "t": "tiene",
-        "ini": 46.02,
-        "fin": 46.3
+        "t": "mi",
+        "ini": 45.82,
+        "fin": 45.88
        },
        {
-        "t": "que",
-        "ini": 46.46,
-        "fin": 46.52
+        "t": "superfuerza,",
+        "ini": 45.96,
+        "fin": 46.68
        },
        {
-        "t": "ir",
-        "ini": 46.54,
-        "fin": 46.6
-       },
-       {
-        "t": "al",
-        "ini": 46.66,
-        "fin": 46.74
-       },
-       {
-        "t": "dentista:",
+        "t": "levanto",
         "ini": 46.78,
-        "fin": 47.38
+        "fin": 47.3
        },
        {
-        "t": "abre",
-        "ini": 48.56,
-        "fin": 48.76
+        "t": "la",
+        "ini": 47.36,
+        "fin": 47.46
        },
        {
-        "t": "bien…",
-        "ini": 48.82,
-        "fin": 49.1
+        "t": "mesa…",
+        "ini": 47.54,
+        "fin": 48.0
        },
        {
-        "t": "¡di",
-        "ini": 49.12,
-        "fin": 49.28
+        "t": "¡uy,",
+        "ini": 48.14,
+        "fin": 48.36
        },
        {
-        "t": "«aaa»!",
-        "ini": 49.28,
-        "fin": 50.06
+        "t": "uy,",
+        "ini": 48.52,
+        "fin": 48.68
+       },
+       {
+        "t": "uy!",
+        "ini": 48.84,
+        "fin": 49.16
        }
       ],
-      "trad": "Captain Tormenta has to go to the dentist: open wide… say \"aaa\"!"
+      "trad": "To show off my super strength, I lift the desk… oh, oh, oh!"
      },
      {
       "seccion": "Verse 2",
-      "texto": "Supergata debe cuidar su pez… ¡y no comérselo, ja!",
-      "ini": 50.06,
+      "texto": "¡plof!, se cae la pecera… ¡y Burbuja, al vaso de agua: fiuuu!",
+      "ini": 49.16,
       "fin": 54.88,
       "palabras": [
        {
-        "t": "Supergata",
-        "ini": 50.06,
-        "fin": 50.62
+        "t": "¡plof!,",
+        "ini": 49.16,
+        "fin": 50.32
        },
        {
-        "t": "debe",
-        "ini": 50.88,
-        "fin": 51.08
+        "t": "se",
+        "ini": 50.5,
+        "fin": 50.58
        },
        {
-        "t": "cuidar",
+        "t": "cae",
+        "ini": 50.68,
+        "fin": 50.9
+       },
+       {
+        "t": "la",
+        "ini": 50.94,
+        "fin": 51.02
+       },
+       {
+        "t": "pecera…",
         "ini": 51.12,
-        "fin": 51.4
-       },
-       {
-        "t": "su",
-        "ini": 51.46,
         "fin": 51.56
        },
        {
-        "t": "pez…",
-        "ini": 51.64,
-        "fin": 52.08
-       },
-       {
         "t": "¡y",
-        "ini": 52.14,
-        "fin": 52.18
+        "ini": 51.62,
+        "fin": 51.72
        },
        {
-        "t": "no",
-        "ini": 52.22,
-        "fin": 52.36
+        "t": "Burbuja,",
+        "ini": 51.74,
+        "fin": 52.32
        },
        {
-        "t": "comérselo,",
-        "ini": 52.4,
-        "fin": 53.14
+        "t": "al",
+        "ini": 52.42,
+        "fin": 52.48
        },
        {
-        "t": "ja!",
-        "ini": 54.7,
-        "fin": 54.88
-       }
-      ],
-      "trad": "Supergata must take care of her fish… and not eat it, ja!"
-     },
-     {
-      "seccion": "Verse 2",
-      "texto": "—¿Y yo qué tengo que hacer? —Tus deberes, cada día,",
-      "ini": 55.0,
-      "fin": 59.88,
-      "palabras": [
-       {
-        "t": "—¿Y",
-        "ini": 55.0,
-        "fin": 55.94
-       },
-       {
-        "t": "yo",
-        "ini": 56.0,
-        "fin": 56.1
-       },
-       {
-        "t": "qué",
-        "ini": 56.14,
-        "fin": 56.24
-       },
-       {
-        "t": "tengo",
-        "ini": 56.32,
-        "fin": 56.54
-       },
-       {
-        "t": "que",
-        "ini": 56.6,
-        "fin": 56.66
-       },
-       {
-        "t": "hacer?",
-        "ini": 56.68,
-        "fin": 57.08
-       },
-       {
-        "t": "—Tus",
-        "ini": 58.48,
-        "fin": 58.62
-       },
-       {
-        "t": "deberes,",
-        "ini": 58.66,
-        "fin": 59.06
-       },
-       {
-        "t": "cada",
-        "ini": 59.12,
-        "fin": 59.38
-       },
-       {
-        "t": "día,",
-        "ini": 59.46,
-        "fin": 59.88
-       }
-      ],
-      "trad": "And what do I have to do? —Your homework, every day,"
-     },
-     {
-      "seccion": "Verse 2",
-      "texto": "que un héroe tiene que aprender… ¡y copiar no es de fiar!",
-      "ini": 61.09,
-      "fin": 64.8,
-      "palabras": [
-       {
-        "t": "que",
-        "ini": 61.09,
-        "fin": 61.54
-       },
-       {
-        "t": "un",
-        "ini": 61.54,
-        "fin": 61.62
-       },
-       {
-        "t": "héroe",
-        "ini": 61.64,
-        "fin": 61.88
-       },
-       {
-        "t": "tiene",
-        "ini": 61.94,
-        "fin": 62.18
-       },
-       {
-        "t": "que",
-        "ini": 62.22,
-        "fin": 62.26
-       },
-       {
-        "t": "aprender…",
-        "ini": 62.32,
-        "fin": 62.9
-       },
-       {
-        "t": "¡y",
-        "ini": 63.52,
-        "fin": 63.6
-       },
-       {
-        "t": "copiar",
-        "ini": 63.64,
-        "fin": 63.94
-       },
-       {
-        "t": "no",
-        "ini": 63.98,
-        "fin": 64.02
-       },
-       {
-        "t": "es",
-        "ini": 64.08,
-        "fin": 64.1
+        "t": "vaso",
+        "ini": 52.56,
+        "fin": 52.94
        },
        {
         "t": "de",
-        "ini": 64.14,
-        "fin": 64.24
+        "ini": 53.0,
+        "fin": 53.12
        },
        {
-        "t": "fiar!",
-        "ini": 64.32,
-        "fin": 64.8
+        "t": "agua:",
+        "ini": 53.26,
+        "fin": 53.62
+       },
+       {
+        "t": "fiuuu!",
+        "ini": 54.38,
+        "fin": 54.88
        }
       ],
-      "trad": "'cause a hero has to learn… and copying can't be trusted!"
+      "trad": "Plop! The fishbowl falls… and Bubbles goes into a glass of water — phew!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Entra la profe: «¿Quién ha sido?»… ¿y si digo que fue el gato?",
+      "ini": 55.2,
+      "fin": 57.98,
+      "palabras": [
+       {
+        "t": "Entra",
+        "ini": 55.2,
+        "fin": 55.44
+       },
+       {
+        "t": "la",
+        "ini": 55.5,
+        "fin": 55.58
+       },
+       {
+        "t": "profe:",
+        "ini": 55.64,
+        "fin": 55.9
+       },
+       {
+        "t": "«¿Quién",
+        "ini": 55.96,
+        "fin": 56.12
+       },
+       {
+        "t": "ha",
+        "ini": 56.14,
+        "fin": 56.2
+       },
+       {
+        "t": "sido?»…",
+        "ini": 56.32,
+        "fin": 56.56
+       },
+       {
+        "t": "¿y",
+        "ini": 56.62,
+        "fin": 56.68
+       },
+       {
+        "t": "si",
+        "ini": 56.76,
+        "fin": 56.86
+       },
+       {
+        "t": "digo",
+        "ini": 56.92,
+        "fin": 57.12
+       },
+       {
+        "t": "que",
+        "ini": 57.2,
+        "fin": 57.32
+       },
+       {
+        "t": "fue",
+        "ini": 57.36,
+        "fin": 57.44
+       },
+       {
+        "t": "el",
+        "ini": 57.48,
+        "fin": 57.52
+       },
+       {
+        "t": "gato?",
+        "ini": 57.6,
+        "fin": 57.98
+       }
+      ],
+      "trad": "The teacher comes in: «Who did it?»… what if I say it was the cat?"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "y el gato me mira fijo… ¡qué cara! ¡Qué mal rato!",
+      "ini": 60.18,
+      "fin": 64.28,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 60.18,
+        "fin": 60.22
+       },
+       {
+        "t": "el",
+        "ini": 60.26,
+        "fin": 60.32
+       },
+       {
+        "t": "gato",
+        "ini": 60.4,
+        "fin": 60.74
+       },
+       {
+        "t": "me",
+        "ini": 60.82,
+        "fin": 60.92
+       },
+       {
+        "t": "mira",
+        "ini": 60.96,
+        "fin": 61.18
+       },
+       {
+        "t": "fijo…",
+        "ini": 61.32,
+        "fin": 61.76
+       },
+       {
+        "t": "¡qué",
+        "ini": 61.76,
+        "fin": 62.38
+       },
+       {
+        "t": "cara!",
+        "ini": 62.54,
+        "fin": 63.02
+       },
+       {
+        "t": "¡Qué",
+        "ini": 63.12,
+        "fin": 63.34
+       },
+       {
+        "t": "mal",
+        "ini": 63.42,
+        "fin": 63.64
+       },
+       {
+        "t": "rato!",
+        "ini": 63.8,
+        "fin": 64.28
+       }
+      ],
+      "trad": "and the cat stares right at me… what a face! How awkward!"
      },
      {
       "seccion": "Chorus",
-      "texto": "Tienes que, tienes que… ¡un héroe también tiene que!",
-      "ini": 65.34,
-      "fin": 69.88,
+      "texto": "¿Qué tiene que hacer un héroe? ¿Volar? ¿Ser el más fuerte?",
+      "ini": 64.28,
+      "fin": 69.94,
       "palabras": [
        {
-        "t": "Tienes",
-        "ini": 65.34,
-        "fin": 65.62
-       },
-       {
-        "t": "que,",
-        "ini": 65.7,
-        "fin": 65.92
-       },
-       {
-        "t": "tienes",
-        "ini": 66.6,
-        "fin": 66.88
-       },
-       {
-        "t": "que…",
-        "ini": 66.96,
-        "fin": 67.2
-       },
-       {
-        "t": "¡un",
-        "ini": 67.2,
-        "fin": 67.83
-       },
-       {
-        "t": "héroe",
-        "ini": 67.83,
-        "fin": 68.47
-       },
-       {
-        "t": "también",
-        "ini": 68.47,
-        "fin": 69.1
+        "t": "¿Qué",
+        "ini": 64.28,
+        "fin": 65.52
        },
        {
         "t": "tiene",
-        "ini": 69.1,
-        "fin": 69.38
-       },
-       {
-        "t": "que!",
-        "ini": 69.46,
-        "fin": 69.88
-       }
-      ],
-      "trad": "You have to, you have to… a hero also has to!"
-     },
-     {
-      "seccion": "Chorus",
-      "texto": "Hay que ser amable, no debes mentir, ¡y tienes que dar las gracias!",
-      "ini": 71.86,
-      "fin": 75.08,
-      "palabras": [
-       {
-        "t": "Hay",
-        "ini": 71.86,
-        "fin": 72.02
+        "ini": 65.62,
+        "fin": 66.14
        },
        {
         "t": "que",
-        "ini": 72.06,
-        "fin": 72.16
+        "ini": 66.26,
+        "fin": 66.32
        },
        {
-        "t": "ser",
-        "ini": 72.22,
-        "fin": 72.38
+        "t": "hacer",
+        "ini": 66.36,
+        "fin": 66.78
        },
        {
-        "t": "amable,",
-        "ini": 72.44,
-        "fin": 72.8
+        "t": "un",
+        "ini": 66.82,
+        "fin": 66.92
+       },
+       {
+        "t": "héroe?",
+        "ini": 66.94,
+        "fin": 67.48
+       },
+       {
+        "t": "¿Volar?",
+        "ini": 67.62,
+        "fin": 68.44
+       },
+       {
+        "t": "¿Ser",
+        "ini": 68.58,
+        "fin": 68.78
+       },
+       {
+        "t": "el",
+        "ini": 68.84,
+        "fin": 69.0
+       },
+       {
+        "t": "más",
+        "ini": 69.08,
+        "fin": 69.3
+       },
+       {
+        "t": "fuerte?",
+        "ini": 69.42,
+        "fin": 69.94
+       }
+      ],
+      "trad": "What does a hero have to do? Fly? Be the strongest?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡No tiene que volar… no tiene que ser el más fuerte!",
+      "ini": 69.94,
+      "fin": 74.88,
+      "palabras": [
+       {
+        "t": "¡No",
+        "ini": 69.94,
+        "fin": 70.52
+       },
+       {
+        "t": "tiene",
+        "ini": 70.64,
+        "fin": 71.44
+       },
+       {
+        "t": "que",
+        "ini": 71.56,
+        "fin": 71.72
+       },
+       {
+        "t": "volar…",
+        "ini": 71.76,
+        "fin": 72.62
        },
        {
         "t": "no",
-        "ini": 72.86,
-        "fin": 72.98
-       },
-       {
-        "t": "debes",
         "ini": 73.02,
-        "fin": 73.28
+        "fin": 73.08
        },
        {
-        "t": "mentir,",
-        "ini": 73.34,
-        "fin": 73.56
-       },
-       {
-        "t": "¡y",
-        "ini": 73.58,
-        "fin": 73.66
-       },
-       {
-        "t": "tienes",
-        "ini": 73.66,
-        "fin": 73.92
+        "t": "tiene",
+        "ini": 73.16,
+        "fin": 73.4
        },
        {
         "t": "que",
-        "ini": 73.96,
-        "fin": 74.04
+        "ini": 73.46,
+        "fin": 73.6
        },
        {
-        "t": "dar",
+        "t": "ser",
+        "ini": 73.62,
+        "fin": 73.8
+       },
+       {
+        "t": "el",
+        "ini": 73.86,
+        "fin": 74.02
+       },
+       {
+        "t": "más",
         "ini": 74.08,
-        "fin": 74.22
+        "fin": 74.32
        },
        {
-        "t": "las",
-        "ini": 74.26,
-        "fin": 74.38
-       },
-       {
-        "t": "gracias!",
-        "ini": 74.44,
-        "fin": 75.08
+        "t": "fuerte!",
+        "ini": 74.42,
+        "fin": 74.88
        }
       ],
-      "trad": "You have to be kind, you mustn’t lie, and you have to say thank you!"
+      "trad": "A hero doesn't have to fly… doesn't have to be the strongest!"
      },
      {
       "seccion": "Chorus",
-      "texto": "—¿Tengo que hacerlo? —¡Pues sí! —¿Tengo que hacerlo? —¡Que sí, que sí!",
-      "ini": 75.18,
-      "fin": 80.4,
+      "texto": "Un héroe tiene que ser valiente… ¡para decir la verdad!",
+      "ini": 75.38,
+      "fin": 79.76,
       "palabras": [
        {
-        "t": "—¿Tengo",
-        "ini": 75.18,
-        "fin": 75.4
+        "t": "Un",
+        "ini": 75.38,
+        "fin": 75.66
+       },
+       {
+        "t": "héroe",
+        "ini": 75.68,
+        "fin": 76.56
+       },
+       {
+        "t": "tiene",
+        "ini": 76.74,
+        "fin": 76.98
        },
        {
         "t": "que",
-        "ini": 75.48,
-        "fin": 75.54
+        "ini": 77.04,
+        "fin": 77.14
        },
        {
-        "t": "hacerlo?",
-        "ini": 75.56,
-        "fin": 76.12
+        "t": "ser",
+        "ini": 77.2,
+        "fin": 77.34
        },
        {
-        "t": "—¡Pues",
-        "ini": 76.6,
-        "fin": 76.86
-       },
-       {
-        "t": "sí!",
-        "ini": 76.96,
-        "fin": 77.2
-       },
-       {
-        "t": "—¿Tengo",
+        "t": "valiente…",
         "ini": 77.38,
-        "fin": 77.92
-       },
-       {
-        "t": "que",
-        "ini": 77.98,
         "fin": 78.04
        },
        {
-        "t": "hacerlo?",
-        "ini": 78.06,
-        "fin": 78.62
+        "t": "¡para",
+        "ini": 78.32,
+        "fin": 78.58
        },
        {
-        "t": "—¡Que",
+        "t": "decir",
+        "ini": 78.62,
+        "fin": 79.02
+       },
+       {
+        "t": "la",
         "ini": 79.08,
-        "fin": 79.26
+        "fin": 79.18
        },
        {
-        "t": "sí,",
-        "ini": 79.44,
-        "fin": 79.66
-       },
-       {
-        "t": "que",
-        "ini": 79.74,
-        "fin": 79.96
-       },
-       {
-        "t": "sí!",
-        "ini": 80.08,
-        "fin": 80.4
+        "t": "verdad!",
+        "ini": 79.26,
+        "fin": 79.76
        }
       ],
-      "trad": "Do I have to do it? —Well yes! —Do I have to do it? —Yes, yes!"
+      "trad": "A hero has to be brave… to tell the truth!"
      },
      {
       "seccion": "Chorus",
       "texto": "Si dices la verdad, confían en ti… ¡y juntos llegamos lejos!",
-      "ini": 81.14,
-      "fin": 85.0,
+      "ini": 80.2,
+      "fin": 85.1,
       "palabras": [
        {
         "t": "Si",
-        "ini": 81.14,
-        "fin": 81.26
+        "ini": 80.2,
+        "fin": 80.3
        },
        {
         "t": "dices",
-        "ini": 81.3,
-        "fin": 81.58
+        "ini": 80.36,
+        "fin": 80.64
        },
        {
         "t": "la",
-        "ini": 81.62,
-        "fin": 81.72
+        "ini": 80.7,
+        "fin": 80.84
        },
        {
         "t": "verdad,",
-        "ini": 81.76,
-        "fin": 82.02
+        "ini": 80.88,
+        "fin": 81.4
        },
        {
         "t": "confían",
-        "ini": 82.1,
-        "fin": 82.42
+        "ini": 81.48,
+        "fin": 82.14
        },
        {
         "t": "en",
-        "ini": 82.44,
-        "fin": 82.5
+        "ini": 82.18,
+        "fin": 82.32
        },
        {
         "t": "ti…",
-        "ini": 82.6,
-        "fin": 82.82
+        "ini": 82.42,
+        "fin": 82.7
        },
        {
         "t": "¡y",
-        "ini": 83.46,
-        "fin": 83.52
+        "ini": 82.7,
+        "fin": 83.4
        },
        {
         "t": "juntos",
-        "ini": 83.6,
-        "fin": 83.94
+        "ini": 83.48,
+        "fin": 83.92
        },
        {
         "t": "llegamos",
-        "ini": 83.96,
-        "fin": 84.44
+        "ini": 83.94,
+        "fin": 84.38
        },
        {
         "t": "lejos!",
-        "ini": 84.5,
-        "fin": 85.0
+        "ini": 84.46,
+        "fin": 85.1
        }
       ],
       "trad": "If you tell the truth, they trust you… and together we go far!"
      },
      {
       "seccion": "Bridge",
-      "texto": "«No debes» es «¡ni se te ocurra!»; «no tienes que» es «tú decides»,",
-      "ini": 85.54,
-      "fin": 89.9,
+      "texto": "«No debo» es «¡ni se me ocurra!»: no debo echarle la culpa al gato,",
+      "ini": 85.34,
+      "fin": 89.82,
       "palabras": [
        {
         "t": "«No",
-        "ini": 85.54,
-        "fin": 85.62
+        "ini": 85.34,
+        "fin": 85.54
        },
        {
-        "t": "debes»",
-        "ini": 85.72,
-        "fin": 86.22
+        "t": "debo»",
+        "ini": 85.64,
+        "fin": 85.92
        },
        {
         "t": "es",
-        "ini": 86.34,
-        "fin": 86.44
+        "ini": 86.42,
+        "fin": 86.42
        },
        {
         "t": "«¡ni",
-        "ini": 86.48,
-        "fin": 86.56
+        "ini": 86.42,
+        "fin": 86.52
        },
        {
         "t": "se",
@@ -63930,507 +63998,620 @@
         "fin": 86.7
        },
        {
-        "t": "te",
+        "t": "me",
         "ini": 86.74,
         "fin": 86.8
        },
        {
-        "t": "ocurra!»;",
+        "t": "ocurra!»:",
         "ini": 86.84,
         "fin": 87.38
        },
        {
-        "t": "«no",
+        "t": "no",
         "ini": 88.02,
-        "fin": 88.08
+        "fin": 88.1
        },
        {
-        "t": "tienes",
-        "ini": 88.18,
-        "fin": 88.7
+        "t": "debo",
+        "ini": 88.2,
+        "fin": 88.44
        },
        {
-        "t": "que»",
-        "ini": 88.8,
-        "fin": 88.92
+        "t": "echarle",
+        "ini": 88.48,
+        "fin": 88.9
        },
        {
-        "t": "es",
-        "ini": 88.92,
-        "fin": 89.1
+        "t": "la",
+        "ini": 88.94,
+        "fin": 89.0
        },
        {
-        "t": "«tú",
+        "t": "culpa",
         "ini": 89.1,
-        "fin": 89.2
+        "fin": 89.32
        },
        {
-        "t": "decides»,",
-        "ini": 89.24,
-        "fin": 89.9
+        "t": "al",
+        "ini": 89.36,
+        "fin": 89.42
+       },
+       {
+        "t": "gato,",
+        "ini": 89.5,
+        "fin": 89.82
        }
       ],
-      "trad": "\"You must not\" is \"don’t even think about it!\"; \"you don’t have to\" is \"you decide\","
+      "trad": "«I mustn't» is «don't even think about it!»: I mustn't blame the cat,"
      },
      {
       "seccion": "Bridge",
-      "texto": "no tienes que comértelo todo, pero tienes que probar un bocado.",
-      "ini": 90.54,
-      "fin": 94.84,
+      "texto": "y «no tengo que» es «no me hace falta»: ¡no tengo que ser perfecto!",
+      "ini": 89.94,
+      "fin": 94.96,
       "palabras": [
        {
-        "t": "no",
-        "ini": 90.54,
-        "fin": 90.6
+        "t": "y",
+        "ini": 89.94,
+        "fin": 90.0
        },
        {
-        "t": "tienes",
-        "ini": 90.7,
-        "fin": 91.1
+        "t": "«no",
+        "ini": 90.0,
+        "fin": 90.52
        },
        {
-        "t": "que",
-        "ini": 91.16,
-        "fin": 91.26
+        "t": "tengo",
+        "ini": 90.66,
+        "fin": 90.8
        },
        {
-        "t": "comértelo",
-        "ini": 91.32,
-        "fin": 91.82
+        "t": "que»",
+        "ini": 90.8,
+        "fin": 90.8
        },
        {
-        "t": "todo,",
-        "ini": 91.94,
-        "fin": 92.2
+        "t": "es",
+        "ini": 91.4,
+        "fin": 91.42
        },
        {
-        "t": "pero",
-        "ini": 92.86,
-        "fin": 93.06
-       },
-       {
-        "t": "tienes",
-        "ini": 93.16,
-        "fin": 93.42
-       },
-       {
-        "t": "que",
-        "ini": 93.48,
-        "fin": 93.6
-       },
-       {
-        "t": "probar",
-        "ini": 93.64,
-        "fin": 94.1
-       },
-       {
-        "t": "un",
-        "ini": 94.14,
-        "fin": 94.22
-       },
-       {
-        "t": "bocado.",
-        "ini": 94.26,
-        "fin": 94.84
-       }
-      ],
-      "trad": "you don’t have to eat it all, but you have to try a bite."
-     },
-     {
-      "seccion": "Verse 3",
-      "texto": "Al final del día, Madame Rayo me da una estrella dorada:",
-      "ini": 115.02,
-      "fin": 118.62,
-      "palabras": [
-       {
-        "t": "Al",
-        "ini": 115.02,
-        "fin": 115.14
-       },
-       {
-        "t": "final",
-        "ini": 115.22,
-        "fin": 115.48
-       },
-       {
-        "t": "del",
-        "ini": 115.52,
-        "fin": 115.62
-       },
-       {
-        "t": "día,",
-        "ini": 115.68,
-        "fin": 115.88
-       },
-       {
-        "t": "Madame",
-        "ini": 115.88,
-        "fin": 116.32
-       },
-       {
-        "t": "Rayo",
-        "ini": 116.32,
-        "fin": 116.64
+        "t": "«no",
+        "ini": 91.42,
+        "fin": 91.52
        },
        {
         "t": "me",
-        "ini": 116.76,
-        "fin": 116.86
+        "ini": 91.56,
+        "fin": 91.64
        },
        {
-        "t": "da",
-        "ini": 116.92,
-        "fin": 117.08
+        "t": "hace",
+        "ini": 91.66,
+        "fin": 91.86
        },
        {
-        "t": "una",
-        "ini": 117.14,
-        "fin": 117.32
+        "t": "falta»:",
+        "ini": 91.94,
+        "fin": 92.38
        },
        {
-        "t": "estrella",
-        "ini": 117.36,
-        "fin": 117.92
+        "t": "¡no",
+        "ini": 92.38,
+        "fin": 93.08
        },
        {
-        "t": "dorada:",
-        "ini": 118.02,
-        "fin": 118.62
+        "t": "tengo",
+        "ini": 93.18,
+        "fin": 93.54
+       },
+       {
+        "t": "que",
+        "ini": 93.6,
+        "fin": 93.72
+       },
+       {
+        "t": "ser",
+        "ini": 93.8,
+        "fin": 93.98
+       },
+       {
+        "t": "perfecto!",
+        "ini": 94.1,
+        "fin": 94.96
        }
       ],
-      "trad": "At the end of the day, Madame Rayo gives me a golden star:"
+      "trad": "and «I don't have to» is «I don't need to»: I don't have to be perfect!"
      },
      {
       "seccion": "Verse 3",
-      "texto": "«No tienes que volar para ser un héroe: solo tienes que ser tú».",
-      "ini": 119.88,
-      "fin": 123.44,
+      "texto": "Respiro hondo y lo digo: «He sido yo… lo siento fatal».",
+      "ini": 105.18,
+      "fin": 109.04,
       "palabras": [
        {
-        "t": "«No",
-        "ini": 119.88,
-        "fin": 120.0
+        "t": "Respiro",
+        "ini": 105.18,
+        "fin": 105.62
        },
        {
-        "t": "tienes",
-        "ini": 120.04,
-        "fin": 120.3
+        "t": "hondo",
+        "ini": 105.66,
+        "fin": 105.98
        },
        {
-        "t": "que",
-        "ini": 120.38,
-        "fin": 120.48
+        "t": "y",
+        "ini": 106.02,
+        "fin": 106.08
        },
        {
-        "t": "volar",
-        "ini": 120.52,
-        "fin": 120.88
+        "t": "lo",
+        "ini": 106.14,
+        "fin": 106.22
        },
        {
-        "t": "para",
-        "ini": 121.0,
-        "fin": 121.22
+        "t": "digo:",
+        "ini": 106.3,
+        "fin": 106.56
        },
        {
-        "t": "ser",
-        "ini": 121.3,
-        "fin": 121.44
+        "t": "«He",
+        "ini": 106.74,
+        "fin": 106.86
        },
        {
-        "t": "un",
-        "ini": 121.5,
-        "fin": 121.58
+        "t": "sido",
+        "ini": 106.92,
+        "fin": 107.16
        },
        {
-        "t": "héroe:",
-        "ini": 121.6,
-        "fin": 121.96
+        "t": "yo…",
+        "ini": 107.24,
+        "fin": 107.44
        },
        {
-        "t": "solo",
-        "ini": 122.22,
-        "fin": 122.44
+        "t": "lo",
+        "ini": 107.84,
+        "fin": 107.94
        },
        {
-        "t": "tienes",
-        "ini": 122.52,
-        "fin": 122.8
+        "t": "siento",
+        "ini": 108.1,
+        "fin": 108.44
        },
        {
-        "t": "que",
-        "ini": 122.84,
-        "fin": 122.94
-       },
-       {
-        "t": "ser",
-        "ini": 123.0,
-        "fin": 123.14
-       },
-       {
-        "t": "tú».",
-        "ini": 123.22,
-        "fin": 123.44
+        "t": "fatal».",
+        "ini": 108.58,
+        "fin": 109.04
        }
       ],
-      "trad": "\"You don’t have to fly to be a hero: you just have to be you.\""
+      "trad": "I take a deep breath and I say: «It was me… I feel terrible»."
      },
      {
-      "seccion": "Final Chorus",
-      "texto": "Tienes que, tienes que… ¡un héroe también tiene que!",
-      "ini": 125.34,
-      "fin": 129.88,
+      "seccion": "Verse 3",
+      "texto": "La profe sonríe: «¡Ese es el superpoder más genial!».",
+      "ini": 110.34,
+      "fin": 114.26,
       "palabras": [
        {
-        "t": "Tienes",
-        "ini": 125.34,
-        "fin": 125.62
+        "t": "La",
+        "ini": 110.34,
+        "fin": 110.42
        },
        {
-        "t": "que,",
-        "ini": 125.7,
-        "fin": 125.94
+        "t": "profe",
+        "ini": 110.5,
+        "fin": 110.82
        },
        {
-        "t": "tienes",
-        "ini": 126.6,
-        "fin": 126.88
+        "t": "sonríe:",
+        "ini": 110.94,
+        "fin": 111.42
        },
        {
-        "t": "que…",
-        "ini": 126.96,
-        "fin": 127.2
+        "t": "«¡Ese",
+        "ini": 111.42,
+        "fin": 112.0
        },
        {
-        "t": "¡un",
-        "ini": 127.2,
-        "fin": 127.83
+        "t": "es",
+        "ini": 112.02,
+        "fin": 112.16
        },
        {
-        "t": "héroe",
-        "ini": 127.83,
-        "fin": 128.47
+        "t": "el",
+        "ini": 112.24,
+        "fin": 112.32
        },
        {
-        "t": "también",
-        "ini": 128.47,
-        "fin": 129.1
+        "t": "superpoder",
+        "ini": 112.42,
+        "fin": 113.26
        },
        {
-        "t": "tiene",
-        "ini": 129.1,
-        "fin": 129.34
+        "t": "más",
+        "ini": 113.36,
+        "fin": 113.56
        },
        {
-        "t": "que!",
-        "ini": 129.46,
-        "fin": 129.88
+        "t": "genial!».",
+        "ini": 113.64,
+        "fin": 114.26
        }
       ],
-      "trad": "You have to, you have to… a hero also has to!"
+      "trad": "The teacher smiles: «That's the coolest superpower!»."
      },
      {
-      "seccion": "Final Chorus",
-      "texto": "Hay que ser amable, no debes mentir, ¡y tienes que dar las gracias!",
-      "ini": 131.88,
-      "fin": 135.0,
+      "seccion": "Verse 3",
+      "texto": "Lo recojo yo solito… ¡y Burbuja estrena pecera!",
+      "ini": 115.34,
+      "fin": 119.2,
       "palabras": [
        {
-        "t": "Hay",
-        "ini": 131.88,
-        "fin": 132.0
+        "t": "Lo",
+        "ini": 115.34,
+        "fin": 115.42
        },
        {
-        "t": "que",
-        "ini": 132.06,
-        "fin": 132.16
+        "t": "recojo",
+        "ini": 115.5,
+        "fin": 115.9
        },
        {
-        "t": "ser",
-        "ini": 132.22,
-        "fin": 132.38
+        "t": "yo",
+        "ini": 115.96,
+        "fin": 116.08
        },
        {
-        "t": "amable,",
-        "ini": 132.44,
-        "fin": 132.8
-       },
-       {
-        "t": "no",
-        "ini": 132.88,
-        "fin": 132.96
-       },
-       {
-        "t": "debes",
-        "ini": 133.02,
-        "fin": 133.3
-       },
-       {
-        "t": "mentir,",
-        "ini": 133.34,
-        "fin": 133.54
+        "t": "solito…",
+        "ini": 116.14,
+        "fin": 116.64
        },
        {
         "t": "¡y",
-        "ini": 133.68,
-        "fin": 133.68
+        "ini": 116.66,
+        "fin": 117.3
        },
        {
-        "t": "tienes",
-        "ini": 133.68,
-        "fin": 133.9
+        "t": "Burbuja",
+        "ini": 117.36,
+        "fin": 117.94
        },
        {
-        "t": "que",
-        "ini": 133.96,
-        "fin": 134.04
+        "t": "estrena",
+        "ini": 117.98,
+        "fin": 118.46
        },
        {
-        "t": "dar",
-        "ini": 134.08,
-        "fin": 134.22
-       },
-       {
-        "t": "las",
-        "ini": 134.26,
-        "fin": 134.38
-       },
-       {
-        "t": "gracias!",
-        "ini": 134.44,
-        "fin": 135.0
+        "t": "pecera!",
+        "ini": 118.6,
+        "fin": 119.2
        }
       ],
-      "trad": "You have to be kind, you mustn’t lie, and you have to say thank you!"
+      "trad": "I clean it up all by myself… and Bubbles gets a new fishbowl!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "y el gato… ¡también se lleva una estrella, por no comerse al pez!",
+      "ini": 119.88,
+      "fin": 124.26,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 119.88,
+        "fin": 119.9
+       },
+       {
+        "t": "el",
+        "ini": 119.94,
+        "fin": 120.0
+       },
+       {
+        "t": "gato…",
+        "ini": 120.08,
+        "fin": 120.38
+       },
+       {
+        "t": "¡también",
+        "ini": 120.5,
+        "fin": 120.74
+       },
+       {
+        "t": "se",
+        "ini": 120.8,
+        "fin": 120.86
+       },
+       {
+        "t": "lleva",
+        "ini": 120.9,
+        "fin": 121.02
+       },
+       {
+        "t": "una",
+        "ini": 121.06,
+        "fin": 121.14
+       },
+       {
+        "t": "estrella,",
+        "ini": 121.18,
+        "fin": 121.7
+       },
+       {
+        "t": "por",
+        "ini": 122.24,
+        "fin": 122.44
+       },
+       {
+        "t": "no",
+        "ini": 122.56,
+        "fin": 122.7
+       },
+       {
+        "t": "comerse",
+        "ini": 122.88,
+        "fin": 123.52
+       },
+       {
+        "t": "al",
+        "ini": 123.58,
+        "fin": 123.7
+       },
+       {
+        "t": "pez!",
+        "ini": 123.82,
+        "fin": 124.26
+       }
+      ],
+      "trad": "and the cat… also gets a star, for not eating the fish!"
      },
      {
       "seccion": "Final Chorus",
-      "texto": "—¿Tengo que hacerlo? —¡Pues sí! —¿Tengo que hacerlo? —¡Que sí, que sí!",
-      "ini": 135.18,
-      "fin": 140.0,
+      "texto": "¿Qué tiene que hacer un héroe? ¿Volar? ¿Ser el más fuerte?",
+      "ini": 124.38,
+      "fin": 129.86,
       "palabras": [
        {
-        "t": "—¿Tengo",
-        "ini": 135.18,
-        "fin": 135.42
+        "t": "¿Qué",
+        "ini": 124.38,
+        "fin": 125.56
+       },
+       {
+        "t": "tiene",
+        "ini": 125.64,
+        "fin": 126.14
        },
        {
         "t": "que",
-        "ini": 135.48,
-        "fin": 135.52
+        "ini": 126.26,
+        "fin": 126.34
        },
        {
-        "t": "hacerlo?",
-        "ini": 135.54,
-        "fin": 136.12
+        "t": "hacer",
+        "ini": 126.38,
+        "fin": 126.8
        },
        {
-        "t": "—¡Pues",
-        "ini": 136.6,
-        "fin": 136.86
+        "t": "un",
+        "ini": 126.84,
+        "fin": 126.92
        },
        {
-        "t": "sí!",
-        "ini": 136.96,
-        "fin": 137.2
+        "t": "héroe?",
+        "ini": 126.94,
+        "fin": 127.48
        },
        {
-        "t": "—¿Tengo",
-        "ini": 137.68,
-        "fin": 137.92
+        "t": "¿Volar?",
+        "ini": 127.58,
+        "fin": 128.44
        },
        {
-        "t": "que",
-        "ini": 137.98,
-        "fin": 138.04
+        "t": "¿Ser",
+        "ini": 128.58,
+        "fin": 128.8
        },
        {
-        "t": "hacerlo?",
-        "ini": 138.06,
-        "fin": 138.62
+        "t": "el",
+        "ini": 128.88,
+        "fin": 129.0
        },
        {
-        "t": "—¡Que",
-        "ini": 139.08,
-        "fin": 139.24
+        "t": "más",
+        "ini": 129.08,
+        "fin": 129.3
        },
        {
-        "t": "sí,",
-        "ini": 139.44,
-        "fin": 139.7
-       },
-       {
-        "t": "que",
-        "ini": 139.7,
-        "fin": 139.9
-       },
-       {
-        "t": "sí!",
-        "ini": 139.9,
-        "fin": 140.0
+        "t": "fuerte?",
+        "ini": 129.42,
+        "fin": 129.86
        }
       ],
-      "trad": "Do I have to do it? —Well yes! —Do I have to do it? —Yes, yes!"
+      "trad": "What does a hero have to do? Fly? Be the strongest?"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡No tiene que volar… no tiene que ser el más fuerte!",
+      "ini": 129.94,
+      "fin": 134.96,
+      "palabras": [
+       {
+        "t": "¡No",
+        "ini": 129.94,
+        "fin": 130.54
+       },
+       {
+        "t": "tiene",
+        "ini": 130.66,
+        "fin": 131.48
+       },
+       {
+        "t": "que",
+        "ini": 131.58,
+        "fin": 131.72
+       },
+       {
+        "t": "volar…",
+        "ini": 131.78,
+        "fin": 132.2
+       },
+       {
+        "t": "no",
+        "ini": 133.02,
+        "fin": 133.12
+       },
+       {
+        "t": "tiene",
+        "ini": 133.18,
+        "fin": 133.4
+       },
+       {
+        "t": "que",
+        "ini": 133.46,
+        "fin": 133.56
+       },
+       {
+        "t": "ser",
+        "ini": 133.66,
+        "fin": 133.8
+       },
+       {
+        "t": "el",
+        "ini": 133.88,
+        "fin": 134.02
+       },
+       {
+        "t": "más",
+        "ini": 134.08,
+        "fin": 134.32
+       },
+       {
+        "t": "fuerte!",
+        "ini": 134.42,
+        "fin": 134.96
+       }
+      ],
+      "trad": "A hero doesn't have to fly… doesn't have to be the strongest!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Un héroe tiene que ser valiente… ¡para decir la verdad!",
+      "ini": 135.46,
+      "fin": 139.7,
+      "palabras": [
+       {
+        "t": "Un",
+        "ini": 135.46,
+        "fin": 135.68
+       },
+       {
+        "t": "héroe",
+        "ini": 135.68,
+        "fin": 136.44
+       },
+       {
+        "t": "tiene",
+        "ini": 136.74,
+        "fin": 136.98
+       },
+       {
+        "t": "que",
+        "ini": 137.04,
+        "fin": 137.14
+       },
+       {
+        "t": "ser",
+        "ini": 137.2,
+        "fin": 137.34
+       },
+       {
+        "t": "valiente…",
+        "ini": 137.38,
+        "fin": 138.0
+       },
+       {
+        "t": "¡para",
+        "ini": 138.32,
+        "fin": 138.56
+       },
+       {
+        "t": "decir",
+        "ini": 138.64,
+        "fin": 139.02
+       },
+       {
+        "t": "la",
+        "ini": 139.1,
+        "fin": 139.2
+       },
+       {
+        "t": "verdad!",
+        "ini": 139.26,
+        "fin": 139.7
+       }
+      ],
+      "trad": "A hero has to be brave… to tell the truth!"
      },
      {
       "seccion": "Final Chorus",
       "texto": "Si dices la verdad, confían en ti… ¡y juntos llegamos lejos!",
-      "ini": 141.16,
-      "fin": 145.0,
+      "ini": 140.2,
+      "fin": 145.12,
       "palabras": [
        {
         "t": "Si",
-        "ini": 141.16,
-        "fin": 141.26
+        "ini": 140.2,
+        "fin": 140.3
        },
        {
         "t": "dices",
-        "ini": 141.3,
-        "fin": 141.56
+        "ini": 140.36,
+        "fin": 140.64
        },
        {
         "t": "la",
-        "ini": 141.62,
-        "fin": 141.7
+        "ini": 140.7,
+        "fin": 140.82
        },
        {
         "t": "verdad,",
-        "ini": 141.76,
-        "fin": 142.02
+        "ini": 140.9,
+        "fin": 141.4
        },
        {
         "t": "confían",
-        "ini": 142.1,
-        "fin": 142.42
+        "ini": 141.48,
+        "fin": 142.14
        },
        {
         "t": "en",
-        "ini": 142.44,
-        "fin": 142.56
+        "ini": 142.18,
+        "fin": 142.32
        },
        {
         "t": "ti…",
-        "ini": 142.6,
-        "fin": 142.82
+        "ini": 142.42,
+        "fin": 142.66
        },
        {
         "t": "¡y",
-        "ini": 143.46,
-        "fin": 143.54
+        "ini": 142.66,
+        "fin": 143.42
        },
        {
         "t": "juntos",
-        "ini": 143.6,
-        "fin": 143.92
+        "ini": 143.5,
+        "fin": 143.94
        },
        {
         "t": "llegamos",
-        "ini": 143.96,
-        "fin": 144.44
+        "ini": 143.94,
+        "fin": 144.38
        },
        {
         "t": "lejos!",
-        "ini": 144.5,
-        "fin": 145.0
+        "ini": 144.46,
+        "fin": 145.12
        }
       ],
       "trad": "If you tell the truth, they trust you… and together we go far!"
@@ -64440,45 +64621,45 @@
    },
    "preguntas": [
     {
-     "en": "What does the boy have to do before he saves the town?",
+     "en": "What does Madame Lightning say the kids don't have to do?",
      "en_op": [
-      "Make his bed",
-      "Fly in the kitchen",
-      "See the dentist"
+      "Save the world",
+      "Look after Bubbles",
+      "Come to class"
      ],
-     "es": "¿Qué tiene que hacer el niño antes de salvar la ciudad?",
+     "es": "¿Qué dice Madame Rayo que no tienen que hacer?",
      "es_op": [
-      "Hacer la cama",
-      "Volar en la cocina",
-      "Ir al dentista"
+      "Salvar el mundo",
+      "Cuidar de Burbuja",
+      "Venir a clase"
      ]
     },
     {
-     "en": "Super Cat must look after her fish, but she ___ eat it.",
+     "en": "Why does the fishbowl fall?",
      "en_op": [
-      "mustn't",
-      "has to",
-      "must"
+      "Because the boy lifts the desk to show off",
+      "Because the cat pushes it",
+      "Because Lía flies into it"
      ],
-     "es": "Supergata debe cuidar su pez, pero ___ comérselo.",
+     "es": "¿Por qué se cae la pecera?",
      "es_op": [
-      "no debe",
-      "tiene que",
-      "debe"
+      "Porque el niño levanta la mesa para lucirse",
+      "Porque el gato la empuja",
+      "Porque Lía choca con ella volando"
      ]
     },
     {
-     "en": "What don't you have to do to be a hero?",
+     "en": "What does the boy do after the accident?",
      "en_op": [
-      "Fly",
-      "Be kind",
-      "Say «thank you»"
+      "He tells the truth and cleans it all up himself",
+      "He says it was the cat",
+      "He flies away"
      ],
-     "es": "¿Qué no tienes que hacer para ser un héroe?",
+     "es": "¿Qué hace el niño después del accidente?",
      "es_op": [
-      "Volar",
-      "Ser amable",
-      "Dar las gracias"
+      "Dice la verdad y lo recoge él solo",
+      "Dice que fue el gato",
+      "Se va volando"
      ]
     }
    ]
