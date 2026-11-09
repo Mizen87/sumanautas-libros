@@ -57269,6 +57269,7159 @@
      ]
     }
    ]
+  },
+  {
+   "id": "17-si-llueve",
+   "titulo_en": "If It Rains, I'll Jump!",
+   "titulo_es": "¡Si llueve, saltaré!",
+   "ensena_en": "the first conditional (If it rains, I'll… / If it's sunny, we'll…) and the weather (rain, sun, snow, wind, clouds)",
+   "ensena_es": "el condicional con «si» + futuro (si llueve, saltaré… / si hace sol, iremos…) y el tiempo (llueve, hace sol, nieva, hace viento, está nublado)",
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "If it rains, what will you do? — I'll jump in every puddle!",
+      "ini": 0.1,
+      "fin": 4.18,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 0.1,
+        "fin": 0.28
+       },
+       {
+        "t": "it",
+        "ini": 0.36,
+        "fin": 0.5
+       },
+       {
+        "t": "rains,",
+        "ini": 0.58,
+        "fin": 1.04
+       },
+       {
+        "t": "what",
+        "ini": 1.22,
+        "fin": 1.36
+       },
+       {
+        "t": "will",
+        "ini": 1.38,
+        "fin": 1.48
+       },
+       {
+        "t": "you",
+        "ini": 1.56,
+        "fin": 1.7
+       },
+       {
+        "t": "do?",
+        "ini": 1.8,
+        "fin": 2.06
+       },
+       {
+        "t": "—",
+        "ini": 2.24,
+        "fin": 2.24
+       },
+       {
+        "t": "I'll",
+        "ini": 2.28,
+        "fin": 2.38
+       },
+       {
+        "t": "jump",
+        "ini": 2.44,
+        "fin": 2.7
+       },
+       {
+        "t": "in",
+        "ini": 2.8,
+        "fin": 3.0
+       },
+       {
+        "t": "every",
+        "ini": 3.12,
+        "fin": 3.46
+       },
+       {
+        "t": "puddle!",
+        "ini": 3.6,
+        "fin": 4.18
+       }
+      ],
+      "trad": "Si llueve, ¿qué harás? —¡Saltaré en cada charco!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "If it snows, what will you do? — I'll make a snowman and give him a cuddle!",
+      "ini": 4.88,
+      "fin": 9.44,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 4.88,
+        "fin": 5.08
+       },
+       {
+        "t": "it",
+        "ini": 5.14,
+        "fin": 5.26
+       },
+       {
+        "t": "snows,",
+        "ini": 5.38,
+        "fin": 5.84
+       },
+       {
+        "t": "what",
+        "ini": 6.0,
+        "fin": 6.14
+       },
+       {
+        "t": "will",
+        "ini": 6.18,
+        "fin": 6.26
+       },
+       {
+        "t": "you",
+        "ini": 6.36,
+        "fin": 6.46
+       },
+       {
+        "t": "do?",
+        "ini": 6.64,
+        "fin": 6.86
+       },
+       {
+        "t": "—",
+        "ini": 6.86,
+        "fin": 6.86
+       },
+       {
+        "t": "I'll",
+        "ini": 7.3,
+        "fin": 7.46
+       },
+       {
+        "t": "make",
+        "ini": 7.5,
+        "fin": 7.64
+       },
+       {
+        "t": "a",
+        "ini": 7.68,
+        "fin": 7.74
+       },
+       {
+        "t": "snowman",
+        "ini": 7.78,
+        "fin": 8.26
+       },
+       {
+        "t": "and",
+        "ini": 8.28,
+        "fin": 8.38
+       },
+       {
+        "t": "give",
+        "ini": 8.44,
+        "fin": 8.68
+       },
+       {
+        "t": "him",
+        "ini": 8.7,
+        "fin": 8.84
+       },
+       {
+        "t": "a",
+        "ini": 8.9,
+        "fin": 8.96
+       },
+       {
+        "t": "cuddle!",
+        "ini": 9.0,
+        "fin": 9.44
+       }
+      ],
+      "trad": "Si nieva, ¿qué harás? —¡Haré un muñeco de nieve y le daré un abrazo!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "If, if, if… then I will, I will!",
+      "ini": 9.72,
+      "fin": 13.56,
+      "palabras": [
+       {
+        "t": "If,",
+        "ini": 9.72,
+        "fin": 9.9
+       },
+       {
+        "t": "if,",
+        "ini": 10.34,
+        "fin": 10.5
+       },
+       {
+        "t": "if…",
+        "ini": 10.9,
+        "fin": 11.1
+       },
+       {
+        "t": "then",
+        "ini": 11.88,
+        "fin": 12.02
+       },
+       {
+        "t": "I",
+        "ini": 12.12,
+        "fin": 12.28
+       },
+       {
+        "t": "will,",
+        "ini": 12.34,
+        "fin": 12.6
+       },
+       {
+        "t": "I",
+        "ini": 13.1,
+        "fin": 13.12
+       },
+       {
+        "t": "will!",
+        "ini": 13.24,
+        "fin": 13.56
+       }
+      ],
+      "trad": "Si, si, si… ¡pues lo haré, lo haré!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Rain or sun, we'll have fun — you will, and I will!",
+      "ini": 14.44,
+      "fin": 18.44,
+      "palabras": [
+       {
+        "t": "Rain",
+        "ini": 14.44,
+        "fin": 14.72
+       },
+       {
+        "t": "or",
+        "ini": 14.76,
+        "fin": 14.86
+       },
+       {
+        "t": "sun,",
+        "ini": 15.0,
+        "fin": 15.36
+       },
+       {
+        "t": "we'll",
+        "ini": 15.6,
+        "fin": 15.86
+       },
+       {
+        "t": "have",
+        "ini": 15.94,
+        "fin": 16.16
+       },
+       {
+        "t": "fun",
+        "ini": 16.24,
+        "fin": 16.64
+       },
+       {
+        "t": "—",
+        "ini": 16.78,
+        "fin": 16.78
+       },
+       {
+        "t": "you",
+        "ini": 16.88,
+        "fin": 17.02
+       },
+       {
+        "t": "will,",
+        "ini": 17.12,
+        "fin": 17.38
+       },
+       {
+        "t": "and",
+        "ini": 17.46,
+        "fin": 17.7
+       },
+       {
+        "t": "I",
+        "ini": 17.84,
+        "fin": 17.92
+       },
+       {
+        "t": "will!",
+        "ini": 18.0,
+        "fin": 18.44
+       }
+      ],
+      "trad": "Con lluvia o con sol, lo pasaremos bien: ¡tú también y yo también!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Pepe the parrot's on TV, he's the weatherman in town,",
+      "ini": 19.96,
+      "fin": 23.2,
+      "palabras": [
+       {
+        "t": "Pepe",
+        "ini": 19.96,
+        "fin": 20.22
+       },
+       {
+        "t": "the",
+        "ini": 20.26,
+        "fin": 20.36
+       },
+       {
+        "t": "parrot's",
+        "ini": 20.4,
+        "fin": 20.74
+       },
+       {
+        "t": "on",
+        "ini": 20.8,
+        "fin": 20.92
+       },
+       {
+        "t": "TV,",
+        "ini": 21.0,
+        "fin": 21.5
+       },
+       {
+        "t": "he's",
+        "ini": 21.88,
+        "fin": 22.04
+       },
+       {
+        "t": "the",
+        "ini": 22.08,
+        "fin": 22.16
+       },
+       {
+        "t": "weatherman",
+        "ini": 22.2,
+        "fin": 22.64
+       },
+       {
+        "t": "in",
+        "ini": 22.68,
+        "fin": 22.78
+       },
+       {
+        "t": "town,",
+        "ini": 22.84,
+        "fin": 23.2
+       }
+      ],
+      "trad": "El loro Pepe sale en la tele, es el hombre del tiempo del pueblo,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "he says, «If the wind blows hard tonight, the apples will fall down!»",
+      "ini": 24.62,
+      "fin": 28.04,
+      "palabras": [
+       {
+        "t": "he",
+        "ini": 24.62,
+        "fin": 24.7
+       },
+       {
+        "t": "says,",
+        "ini": 24.76,
+        "fin": 24.88
+       },
+       {
+        "t": "«If",
+        "ini": 24.9,
+        "fin": 25.04
+       },
+       {
+        "t": "the",
+        "ini": 25.08,
+        "fin": 25.14
+       },
+       {
+        "t": "wind",
+        "ini": 25.2,
+        "fin": 25.4
+       },
+       {
+        "t": "blows",
+        "ini": 25.46,
+        "fin": 25.74
+       },
+       {
+        "t": "hard",
+        "ini": 25.78,
+        "fin": 25.94
+       },
+       {
+        "t": "tonight,",
+        "ini": 26.0,
+        "fin": 26.32
+       },
+       {
+        "t": "the",
+        "ini": 26.56,
+        "fin": 26.68
+       },
+       {
+        "t": "apples",
+        "ini": 26.74,
+        "fin": 26.98
+       },
+       {
+        "t": "will",
+        "ini": 27.02,
+        "fin": 27.16
+       },
+       {
+        "t": "fall",
+        "ini": 27.3,
+        "fin": 27.54
+       },
+       {
+        "t": "down!»",
+        "ini": 27.62,
+        "fin": 28.04
+       }
+      ],
+      "trad": "dice: «¡Si el viento sopla fuerte esta noche, se caerán las manzanas!»"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "«If it's cloudy in the morning, you will need a big umbrella,»",
+      "ini": 29.35,
+      "fin": 32.84,
+      "palabras": [
+       {
+        "t": "«If",
+        "ini": 29.35,
+        "fin": 29.8
+       },
+       {
+        "t": "it's",
+        "ini": 29.84,
+        "fin": 29.94
+       },
+       {
+        "t": "cloudy",
+        "ini": 29.98,
+        "fin": 30.3
+       },
+       {
+        "t": "in",
+        "ini": 30.36,
+        "fin": 30.44
+       },
+       {
+        "t": "the",
+        "ini": 30.48,
+        "fin": 30.56
+       },
+       {
+        "t": "morning,",
+        "ini": 30.62,
+        "fin": 31.1
+       },
+       {
+        "t": "you",
+        "ini": 31.22,
+        "fin": 31.3
+       },
+       {
+        "t": "will",
+        "ini": 31.34,
+        "fin": 31.46
+       },
+       {
+        "t": "need",
+        "ini": 31.5,
+        "fin": 31.64
+       },
+       {
+        "t": "a",
+        "ini": 31.7,
+        "fin": 31.74
+       },
+       {
+        "t": "big",
+        "ini": 31.82,
+        "fin": 32.1
+       },
+       {
+        "t": "umbrella,»",
+        "ini": 32.18,
+        "fin": 32.84
+       }
+      ],
+      "trad": "«Si está nublado por la mañana, necesitarás un paraguas grande,»"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "«and if it's hot, I'll eat ice cream — with cheese and with vanilla!»",
+      "ini": 34.36,
+      "fin": 37.72,
+      "palabras": [
+       {
+        "t": "«and",
+        "ini": 34.36,
+        "fin": 34.5
+       },
+       {
+        "t": "if",
+        "ini": 34.56,
+        "fin": 34.62
+       },
+       {
+        "t": "it's",
+        "ini": 34.66,
+        "fin": 34.78
+       },
+       {
+        "t": "hot,",
+        "ini": 34.8,
+        "fin": 35.0
+       },
+       {
+        "t": "I'll",
+        "ini": 35.1,
+        "fin": 35.26
+       },
+       {
+        "t": "eat",
+        "ini": 35.3,
+        "fin": 35.4
+       },
+       {
+        "t": "ice",
+        "ini": 35.48,
+        "fin": 35.64
+       },
+       {
+        "t": "cream",
+        "ini": 35.68,
+        "fin": 35.94
+       },
+       {
+        "t": "—",
+        "ini": 35.94,
+        "fin": 35.94
+       },
+       {
+        "t": "with",
+        "ini": 36.16,
+        "fin": 36.26
+       },
+       {
+        "t": "cheese",
+        "ini": 36.3,
+        "fin": 36.48
+       },
+       {
+        "t": "and",
+        "ini": 36.5,
+        "fin": 36.6
+       },
+       {
+        "t": "with",
+        "ini": 36.64,
+        "fin": 36.78
+       },
+       {
+        "t": "vanilla!»",
+        "ini": 36.9,
+        "fin": 37.72
+       }
+      ],
+      "trad": "«y si hace calor, comeré helado… ¡de queso y de vainilla!»"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "If it rains, what will you do? — I'll jump in every puddle!",
+      "ini": 39.7,
+      "fin": 43.78,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 39.7,
+        "fin": 39.9
+       },
+       {
+        "t": "it",
+        "ini": 39.96,
+        "fin": 40.12
+       },
+       {
+        "t": "rains,",
+        "ini": 40.18,
+        "fin": 40.64
+       },
+       {
+        "t": "what",
+        "ini": 40.8,
+        "fin": 40.94
+       },
+       {
+        "t": "will",
+        "ini": 40.98,
+        "fin": 41.06
+       },
+       {
+        "t": "you",
+        "ini": 41.14,
+        "fin": 41.24
+       },
+       {
+        "t": "do?",
+        "ini": 41.38,
+        "fin": 41.66
+       },
+       {
+        "t": "—",
+        "ini": 41.84,
+        "fin": 41.84
+       },
+       {
+        "t": "I'll",
+        "ini": 41.86,
+        "fin": 41.96
+       },
+       {
+        "t": "jump",
+        "ini": 42.02,
+        "fin": 42.3
+       },
+       {
+        "t": "in",
+        "ini": 42.4,
+        "fin": 42.6
+       },
+       {
+        "t": "every",
+        "ini": 42.72,
+        "fin": 43.04
+       },
+       {
+        "t": "puddle!",
+        "ini": 43.2,
+        "fin": 43.78
+       }
+      ],
+      "trad": "Si llueve, ¿qué harás? —¡Saltaré en cada charco!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "If it snows, what will you do? — I'll make a snowman and give him a cuddle!",
+      "ini": 44.5,
+      "fin": 49.1,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 44.5,
+        "fin": 44.68
+       },
+       {
+        "t": "it",
+        "ini": 44.76,
+        "fin": 44.9
+       },
+       {
+        "t": "snows,",
+        "ini": 44.98,
+        "fin": 45.42
+       },
+       {
+        "t": "what",
+        "ini": 45.6,
+        "fin": 45.76
+       },
+       {
+        "t": "will",
+        "ini": 45.8,
+        "fin": 45.84
+       },
+       {
+        "t": "you",
+        "ini": 45.96,
+        "fin": 46.04
+       },
+       {
+        "t": "do?",
+        "ini": 46.24,
+        "fin": 46.5
+       },
+       {
+        "t": "—",
+        "ini": 46.5,
+        "fin": 46.5
+       },
+       {
+        "t": "I'll",
+        "ini": 46.9,
+        "fin": 47.04
+       },
+       {
+        "t": "make",
+        "ini": 47.1,
+        "fin": 47.22
+       },
+       {
+        "t": "a",
+        "ini": 47.28,
+        "fin": 47.32
+       },
+       {
+        "t": "snowman",
+        "ini": 47.38,
+        "fin": 47.86
+       },
+       {
+        "t": "and",
+        "ini": 47.9,
+        "fin": 47.96
+       },
+       {
+        "t": "give",
+        "ini": 48.04,
+        "fin": 48.28
+       },
+       {
+        "t": "him",
+        "ini": 48.34,
+        "fin": 48.44
+       },
+       {
+        "t": "a",
+        "ini": 48.5,
+        "fin": 48.58
+       },
+       {
+        "t": "cuddle!",
+        "ini": 48.6,
+        "fin": 49.1
+       }
+      ],
+      "trad": "Si nieva, ¿qué harás? —¡Haré un muñeco de nieve y le daré un abrazo!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "If, if, if… then I will, I will!",
+      "ini": 49.32,
+      "fin": 53.2,
+      "palabras": [
+       {
+        "t": "If,",
+        "ini": 49.32,
+        "fin": 49.5
+       },
+       {
+        "t": "if,",
+        "ini": 49.92,
+        "fin": 50.1
+       },
+       {
+        "t": "if…",
+        "ini": 50.5,
+        "fin": 50.7
+       },
+       {
+        "t": "then",
+        "ini": 51.48,
+        "fin": 51.62
+       },
+       {
+        "t": "I",
+        "ini": 51.74,
+        "fin": 51.84
+       },
+       {
+        "t": "will,",
+        "ini": 51.94,
+        "fin": 52.2
+       },
+       {
+        "t": "I",
+        "ini": 52.6,
+        "fin": 52.72
+       },
+       {
+        "t": "will!",
+        "ini": 52.84,
+        "fin": 53.2
+       }
+      ],
+      "trad": "Si, si, si… ¡pues lo haré, lo haré!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Rain or sun, we'll have fun — you will, and I will!",
+      "ini": 54.0,
+      "fin": 57.4,
+      "palabras": [
+       {
+        "t": "Rain",
+        "ini": 54.0,
+        "fin": 54.32
+       },
+       {
+        "t": "or",
+        "ini": 54.36,
+        "fin": 54.46
+       },
+       {
+        "t": "sun,",
+        "ini": 54.6,
+        "fin": 54.9
+       },
+       {
+        "t": "we'll",
+        "ini": 55.2,
+        "fin": 55.46
+       },
+       {
+        "t": "have",
+        "ini": 55.54,
+        "fin": 55.78
+       },
+       {
+        "t": "fun",
+        "ini": 55.84,
+        "fin": 56.08
+       },
+       {
+        "t": "—",
+        "ini": 56.1,
+        "fin": 56.1
+       },
+       {
+        "t": "you",
+        "ini": 56.18,
+        "fin": 56.32
+       },
+       {
+        "t": "will,",
+        "ini": 56.44,
+        "fin": 56.68
+       },
+       {
+        "t": "and",
+        "ini": 56.74,
+        "fin": 56.86
+       },
+       {
+        "t": "I",
+        "ini": 56.94,
+        "fin": 57.0
+       },
+       {
+        "t": "will!",
+        "ini": 57.06,
+        "fin": 57.4
+       }
+      ],
+      "trad": "Con lluvia o con sol, lo pasaremos bien: ¡tú también y yo también!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "If Pepe's right, we'll have a picnic way up on the hill,",
+      "ini": 57.96,
+      "fin": 61.36,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 57.96,
+        "fin": 58.1
+       },
+       {
+        "t": "Pepe's",
+        "ini": 58.18,
+        "fin": 58.62
+       },
+       {
+        "t": "right,",
+        "ini": 58.7,
+        "fin": 58.98
+       },
+       {
+        "t": "we'll",
+        "ini": 59.1,
+        "fin": 59.36
+       },
+       {
+        "t": "have",
+        "ini": 59.42,
+        "fin": 59.68
+       },
+       {
+        "t": "a",
+        "ini": 59.74,
+        "fin": 59.82
+       },
+       {
+        "t": "picnic",
+        "ini": 59.86,
+        "fin": 60.28
+       },
+       {
+        "t": "way",
+        "ini": 60.32,
+        "fin": 60.44
+       },
+       {
+        "t": "up",
+        "ini": 60.5,
+        "fin": 60.62
+       },
+       {
+        "t": "on",
+        "ini": 60.72,
+        "fin": 60.88
+       },
+       {
+        "t": "the",
+        "ini": 60.92,
+        "fin": 60.98
+       },
+       {
+        "t": "hill,",
+        "ini": 61.08,
+        "fin": 61.36
+       }
+      ],
+      "trad": "Si Pepe tiene razón, haremos un pícnic en lo alto de la colina,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "if Pepe's wrong, we'll wear our boots and raincoats — yes, we will!",
+      "ini": 62.78,
+      "fin": 66.3,
+      "palabras": [
+       {
+        "t": "if",
+        "ini": 62.78,
+        "fin": 62.92
+       },
+       {
+        "t": "Pepe's",
+        "ini": 62.98,
+        "fin": 63.42
+       },
+       {
+        "t": "wrong,",
+        "ini": 63.46,
+        "fin": 63.7
+       },
+       {
+        "t": "we'll",
+        "ini": 63.78,
+        "fin": 63.88
+       },
+       {
+        "t": "wear",
+        "ini": 63.92,
+        "fin": 64.06
+       },
+       {
+        "t": "our",
+        "ini": 64.1,
+        "fin": 64.18
+       },
+       {
+        "t": "boots",
+        "ini": 64.2,
+        "fin": 64.48
+       },
+       {
+        "t": "and",
+        "ini": 64.52,
+        "fin": 64.64
+       },
+       {
+        "t": "raincoats",
+        "ini": 64.7,
+        "fin": 65.34
+       },
+       {
+        "t": "—",
+        "ini": 65.38,
+        "fin": 65.38
+       },
+       {
+        "t": "yes,",
+        "ini": 65.42,
+        "fin": 65.64
+       },
+       {
+        "t": "we",
+        "ini": 65.76,
+        "fin": 65.9
+       },
+       {
+        "t": "will!",
+        "ini": 66.0,
+        "fin": 66.3
+       }
+      ],
+      "trad": "si Pepe se equivoca, nos pondremos las botas y los chubasqueros… ¡claro que sí!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "If Grandma comes, she'll bake a cake, and if the dog gets in…",
+      "ini": 67.58,
+      "fin": 71.18,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 67.58,
+        "fin": 67.68
+       },
+       {
+        "t": "Grandma",
+        "ini": 67.76,
+        "fin": 68.1
+       },
+       {
+        "t": "comes,",
+        "ini": 68.26,
+        "fin": 68.52
+       },
+       {
+        "t": "she'll",
+        "ini": 68.68,
+        "fin": 68.88
+       },
+       {
+        "t": "bake",
+        "ini": 69.02,
+        "fin": 69.28
+       },
+       {
+        "t": "a",
+        "ini": 69.36,
+        "fin": 69.42
+       },
+       {
+        "t": "cake,",
+        "ini": 69.48,
+        "fin": 69.76
+       },
+       {
+        "t": "and",
+        "ini": 69.8,
+        "fin": 69.9
+       },
+       {
+        "t": "if",
+        "ini": 69.96,
+        "fin": 70.04
+       },
+       {
+        "t": "the",
+        "ini": 70.08,
+        "fin": 70.18
+       },
+       {
+        "t": "dog",
+        "ini": 70.2,
+        "fin": 70.46
+       },
+       {
+        "t": "gets",
+        "ini": 70.54,
+        "fin": 70.8
+       },
+       {
+        "t": "in…",
+        "ini": 70.92,
+        "fin": 71.18
+       }
+      ],
+      "trad": "Si viene la abuela, hará un bizcocho, y si entra el perro…"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "he'll eat the cake, the sandwiches… and then he'll grin!",
+      "ini": 72.3,
+      "fin": 76.0,
+      "palabras": [
+       {
+        "t": "he'll",
+        "ini": 72.3,
+        "fin": 72.6
+       },
+       {
+        "t": "eat",
+        "ini": 72.66,
+        "fin": 72.86
+       },
+       {
+        "t": "the",
+        "ini": 72.9,
+        "fin": 73.0
+       },
+       {
+        "t": "cake,",
+        "ini": 73.06,
+        "fin": 73.34
+       },
+       {
+        "t": "the",
+        "ini": 73.5,
+        "fin": 73.62
+       },
+       {
+        "t": "sandwiches…",
+        "ini": 73.78,
+        "fin": 74.68
+       },
+       {
+        "t": "and",
+        "ini": 74.74,
+        "fin": 74.96
+       },
+       {
+        "t": "then",
+        "ini": 75.04,
+        "fin": 75.22
+       },
+       {
+        "t": "he'll",
+        "ini": 75.3,
+        "fin": 75.52
+       },
+       {
+        "t": "grin!",
+        "ini": 75.6,
+        "fin": 76.0
+       }
+      ],
+      "trad": "¡se comerá el bizcocho, los bocadillos… y luego sonreirá!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "And now, the weather: if you smile, the sun will come out soon,",
+      "ini": 77.74,
+      "fin": 85.8,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 77.74,
+        "fin": 77.9
+       },
+       {
+        "t": "now,",
+        "ini": 78.04,
+        "fin": 78.5
+       },
+       {
+        "t": "the",
+        "ini": 78.64,
+        "fin": 78.86
+       },
+       {
+        "t": "weather:",
+        "ini": 79.22,
+        "fin": 80.26
+       },
+       {
+        "t": "if",
+        "ini": 80.5,
+        "fin": 80.92
+       },
+       {
+        "t": "you",
+        "ini": 81.08,
+        "fin": 81.36
+       },
+       {
+        "t": "smile,",
+        "ini": 81.54,
+        "fin": 82.14
+       },
+       {
+        "t": "the",
+        "ini": 82.5,
+        "fin": 82.64
+       },
+       {
+        "t": "sun",
+        "ini": 82.78,
+        "fin": 83.24
+       },
+       {
+        "t": "will",
+        "ini": 83.4,
+        "fin": 83.82
+       },
+       {
+        "t": "come",
+        "ini": 84.0,
+        "fin": 84.48
+       },
+       {
+        "t": "out",
+        "ini": 84.7,
+        "fin": 85.02
+       },
+       {
+        "t": "soon,",
+        "ini": 85.18,
+        "fin": 85.8
+       }
+      ],
+      "trad": "Y ahora, el tiempo: si sonríes, el sol saldrá pronto,"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "and if you sing this song with me, we'll dance under the moon!",
+      "ini": 87.36,
+      "fin": 95.54,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 87.36,
+        "fin": 87.6
+       },
+       {
+        "t": "if",
+        "ini": 87.82,
+        "fin": 88.16
+       },
+       {
+        "t": "you",
+        "ini": 88.3,
+        "fin": 88.58
+       },
+       {
+        "t": "sing",
+        "ini": 88.78,
+        "fin": 89.34
+       },
+       {
+        "t": "this",
+        "ini": 89.4,
+        "fin": 89.88
+       },
+       {
+        "t": "song",
+        "ini": 90.0,
+        "fin": 90.56
+       },
+       {
+        "t": "with",
+        "ini": 90.64,
+        "fin": 91.12
+       },
+       {
+        "t": "me,",
+        "ini": 91.2,
+        "fin": 91.6
+       },
+       {
+        "t": "we'll",
+        "ini": 92.12,
+        "fin": 92.32
+       },
+       {
+        "t": "dance",
+        "ini": 92.4,
+        "fin": 93.0
+       },
+       {
+        "t": "under",
+        "ini": 93.14,
+        "fin": 94.14
+       },
+       {
+        "t": "the",
+        "ini": 94.24,
+        "fin": 94.42
+       },
+       {
+        "t": "moon!",
+        "ini": 94.54,
+        "fin": 95.54
+       }
+      ],
+      "trad": "y si cantas esta canción conmigo, ¡bailaremos bajo la luna!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "If it rains, what will you do? — I'll jump in every puddle!",
+      "ini": 97.28,
+      "fin": 101.38,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 97.28,
+        "fin": 97.48
+       },
+       {
+        "t": "it",
+        "ini": 97.56,
+        "fin": 97.7
+       },
+       {
+        "t": "rains,",
+        "ini": 97.78,
+        "fin": 98.24
+       },
+       {
+        "t": "what",
+        "ini": 98.42,
+        "fin": 98.54
+       },
+       {
+        "t": "will",
+        "ini": 98.58,
+        "fin": 98.64
+       },
+       {
+        "t": "you",
+        "ini": 98.76,
+        "fin": 98.88
+       },
+       {
+        "t": "do?",
+        "ini": 98.98,
+        "fin": 99.28
+       },
+       {
+        "t": "—",
+        "ini": 99.44,
+        "fin": 99.44
+       },
+       {
+        "t": "I'll",
+        "ini": 99.48,
+        "fin": 99.58
+       },
+       {
+        "t": "jump",
+        "ini": 99.62,
+        "fin": 99.9
+       },
+       {
+        "t": "in",
+        "ini": 100.0,
+        "fin": 100.24
+       },
+       {
+        "t": "every",
+        "ini": 100.34,
+        "fin": 100.64
+       },
+       {
+        "t": "puddle!",
+        "ini": 100.8,
+        "fin": 101.38
+       }
+      ],
+      "trad": "Si llueve, ¿qué harás? —¡Saltaré en cada charco!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "If it snows, what will you do? — I'll make a snowman and give him a cuddle!",
+      "ini": 102.1,
+      "fin": 106.7,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 102.1,
+        "fin": 102.28
+       },
+       {
+        "t": "it",
+        "ini": 102.34,
+        "fin": 102.44
+       },
+       {
+        "t": "snows,",
+        "ini": 102.58,
+        "fin": 103.04
+       },
+       {
+        "t": "what",
+        "ini": 103.22,
+        "fin": 103.34
+       },
+       {
+        "t": "will",
+        "ini": 103.38,
+        "fin": 103.46
+       },
+       {
+        "t": "you",
+        "ini": 103.54,
+        "fin": 103.66
+       },
+       {
+        "t": "do?",
+        "ini": 103.78,
+        "fin": 104.08
+       },
+       {
+        "t": "—",
+        "ini": 104.08,
+        "fin": 104.08
+       },
+       {
+        "t": "I'll",
+        "ini": 104.5,
+        "fin": 104.64
+       },
+       {
+        "t": "make",
+        "ini": 104.7,
+        "fin": 104.82
+       },
+       {
+        "t": "a",
+        "ini": 104.88,
+        "fin": 104.92
+       },
+       {
+        "t": "snowman",
+        "ini": 104.98,
+        "fin": 105.48
+       },
+       {
+        "t": "and",
+        "ini": 105.5,
+        "fin": 105.58
+       },
+       {
+        "t": "give",
+        "ini": 105.66,
+        "fin": 105.9
+       },
+       {
+        "t": "him",
+        "ini": 105.94,
+        "fin": 106.04
+       },
+       {
+        "t": "a",
+        "ini": 106.12,
+        "fin": 106.18
+       },
+       {
+        "t": "cuddle!",
+        "ini": 106.22,
+        "fin": 106.7
+       }
+      ],
+      "trad": "Si nieva, ¿qué harás? —¡Haré un muñeco de nieve y le daré un abrazo!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "If, if, if… then I will, I will!",
+      "ini": 106.94,
+      "fin": 110.84,
+      "palabras": [
+       {
+        "t": "If,",
+        "ini": 106.94,
+        "fin": 107.1
+       },
+       {
+        "t": "if,",
+        "ini": 107.52,
+        "fin": 107.7
+       },
+       {
+        "t": "if…",
+        "ini": 108.12,
+        "fin": 108.3
+       },
+       {
+        "t": "then",
+        "ini": 109.1,
+        "fin": 109.22
+       },
+       {
+        "t": "I",
+        "ini": 109.36,
+        "fin": 109.44
+       },
+       {
+        "t": "will,",
+        "ini": 109.54,
+        "fin": 109.8
+       },
+       {
+        "t": "I",
+        "ini": 110.3,
+        "fin": 110.32
+       },
+       {
+        "t": "will!",
+        "ini": 110.42,
+        "fin": 110.84
+       }
+      ],
+      "trad": "Si, si, si… ¡pues lo haré, lo haré!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Rain or sun, we'll have fun — you will, and I will!",
+      "ini": 111.6,
+      "fin": 114.98,
+      "palabras": [
+       {
+        "t": "Rain",
+        "ini": 111.6,
+        "fin": 111.94
+       },
+       {
+        "t": "or",
+        "ini": 111.96,
+        "fin": 112.06
+       },
+       {
+        "t": "sun,",
+        "ini": 112.2,
+        "fin": 112.5
+       },
+       {
+        "t": "we'll",
+        "ini": 112.84,
+        "fin": 113.06
+       },
+       {
+        "t": "have",
+        "ini": 113.14,
+        "fin": 113.36
+       },
+       {
+        "t": "fun",
+        "ini": 113.44,
+        "fin": 113.66
+       },
+       {
+        "t": "—",
+        "ini": 113.74,
+        "fin": 113.74
+       },
+       {
+        "t": "you",
+        "ini": 113.8,
+        "fin": 113.94
+       },
+       {
+        "t": "will,",
+        "ini": 114.04,
+        "fin": 114.28
+       },
+       {
+        "t": "and",
+        "ini": 114.34,
+        "fin": 114.46
+       },
+       {
+        "t": "I",
+        "ini": 114.56,
+        "fin": 114.6
+       },
+       {
+        "t": "will!",
+        "ini": 114.68,
+        "fin": 114.98
+       }
+      ],
+      "trad": "Con lluvia o con sol, lo pasaremos bien: ¡tú también y yo también!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "On Sunday morning, guess what? It's raining, and it's sunny too!",
+      "ini": 115.52,
+      "fin": 123.76,
+      "palabras": [
+       {
+        "t": "On",
+        "ini": 115.52,
+        "fin": 115.66
+       },
+       {
+        "t": "Sunday",
+        "ini": 115.8,
+        "fin": 116.3
+       },
+       {
+        "t": "morning,",
+        "ini": 116.4,
+        "fin": 116.98
+       },
+       {
+        "t": "guess",
+        "ini": 118.5,
+        "fin": 118.76
+       },
+       {
+        "t": "what?",
+        "ini": 118.84,
+        "fin": 119.18
+       },
+       {
+        "t": "It's",
+        "ini": 120.34,
+        "fin": 120.56
+       },
+       {
+        "t": "raining,",
+        "ini": 120.66,
+        "fin": 121.2
+       },
+       {
+        "t": "and",
+        "ini": 121.88,
+        "fin": 122.1
+       },
+       {
+        "t": "it's",
+        "ini": 122.16,
+        "fin": 122.34
+       },
+       {
+        "t": "sunny",
+        "ini": 122.44,
+        "fin": 123.1
+       },
+       {
+        "t": "too!",
+        "ini": 123.3,
+        "fin": 123.76
+       }
+      ],
+      "trad": "El domingo por la mañana, ¿sabes qué? ¡Llueve y también hace sol!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "If there's rain and sun together, there'll be a rainbow — look, it's true!",
+      "ini": 125.48,
+      "fin": 133.72,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 125.48,
+        "fin": 125.64
+       },
+       {
+        "t": "there's",
+        "ini": 125.7,
+        "fin": 125.98
+       },
+       {
+        "t": "rain",
+        "ini": 126.06,
+        "fin": 126.56
+       },
+       {
+        "t": "and",
+        "ini": 126.66,
+        "fin": 127.02
+       },
+       {
+        "t": "sun",
+        "ini": 127.24,
+        "fin": 127.64
+       },
+       {
+        "t": "together,",
+        "ini": 127.84,
+        "fin": 128.98
+       },
+       {
+        "t": "there'll",
+        "ini": 129.94,
+        "fin": 130.2
+       },
+       {
+        "t": "be",
+        "ini": 130.26,
+        "fin": 130.44
+       },
+       {
+        "t": "a",
+        "ini": 130.58,
+        "fin": 130.62
+       },
+       {
+        "t": "rainbow",
+        "ini": 130.72,
+        "fin": 131.52
+       },
+       {
+        "t": "—",
+        "ini": 131.52,
+        "fin": 131.52
+       },
+       {
+        "t": "look,",
+        "ini": 132.04,
+        "fin": 132.3
+       },
+       {
+        "t": "it's",
+        "ini": 132.74,
+        "fin": 133.12
+       },
+       {
+        "t": "true!",
+        "ini": 133.18,
+        "fin": 133.72
+       }
+      ],
+      "trad": "Si hay lluvia y sol a la vez, saldrá un arcoíris… ¡mira, es verdad!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "If it rains, what will you do? — I'll jump in every puddle!",
+      "ini": 135.72,
+      "fin": 139.78,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 135.72,
+        "fin": 135.88
+       },
+       {
+        "t": "it",
+        "ini": 135.98,
+        "fin": 136.1
+       },
+       {
+        "t": "rains,",
+        "ini": 136.24,
+        "fin": 136.66
+       },
+       {
+        "t": "what",
+        "ini": 136.8,
+        "fin": 136.96
+       },
+       {
+        "t": "will",
+        "ini": 136.98,
+        "fin": 137.04
+       },
+       {
+        "t": "you",
+        "ini": 137.16,
+        "fin": 137.3
+       },
+       {
+        "t": "do?",
+        "ini": 137.44,
+        "fin": 137.68
+       },
+       {
+        "t": "—",
+        "ini": 137.84,
+        "fin": 137.84
+       },
+       {
+        "t": "I'll",
+        "ini": 137.86,
+        "fin": 137.96
+       },
+       {
+        "t": "jump",
+        "ini": 138.02,
+        "fin": 138.3
+       },
+       {
+        "t": "in",
+        "ini": 138.42,
+        "fin": 138.64
+       },
+       {
+        "t": "every",
+        "ini": 138.74,
+        "fin": 139.06
+       },
+       {
+        "t": "puddle!",
+        "ini": 139.2,
+        "fin": 139.78
+       }
+      ],
+      "trad": "Si llueve, ¿qué harás? —¡Saltaré en cada charco!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "If it snows, what will you do? — I'll make a snowman and give him a cuddle!",
+      "ini": 140.5,
+      "fin": 145.1,
+      "palabras": [
+       {
+        "t": "If",
+        "ini": 140.5,
+        "fin": 140.68
+       },
+       {
+        "t": "it",
+        "ini": 140.76,
+        "fin": 140.86
+       },
+       {
+        "t": "snows,",
+        "ini": 140.98,
+        "fin": 141.5
+       },
+       {
+        "t": "what",
+        "ini": 141.64,
+        "fin": 141.74
+       },
+       {
+        "t": "will",
+        "ini": 141.78,
+        "fin": 141.88
+       },
+       {
+        "t": "you",
+        "ini": 141.94,
+        "fin": 142.06
+       },
+       {
+        "t": "do?",
+        "ini": 142.24,
+        "fin": 142.48
+       },
+       {
+        "t": "—",
+        "ini": 142.48,
+        "fin": 142.48
+       },
+       {
+        "t": "I'll",
+        "ini": 142.9,
+        "fin": 143.04
+       },
+       {
+        "t": "make",
+        "ini": 143.1,
+        "fin": 143.22
+       },
+       {
+        "t": "a",
+        "ini": 143.28,
+        "fin": 143.32
+       },
+       {
+        "t": "snowman",
+        "ini": 143.38,
+        "fin": 143.88
+       },
+       {
+        "t": "and",
+        "ini": 143.9,
+        "fin": 143.98
+       },
+       {
+        "t": "give",
+        "ini": 144.06,
+        "fin": 144.3
+       },
+       {
+        "t": "him",
+        "ini": 144.34,
+        "fin": 144.46
+       },
+       {
+        "t": "a",
+        "ini": 144.52,
+        "fin": 144.58
+       },
+       {
+        "t": "cuddle!",
+        "ini": 144.64,
+        "fin": 145.1
+       }
+      ],
+      "trad": "Si nieva, ¿qué harás? —¡Haré un muñeco de nieve y le daré un abrazo!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "If, if, if… then I will, I will!",
+      "ini": 145.32,
+      "fin": 149.22,
+      "palabras": [
+       {
+        "t": "If,",
+        "ini": 145.32,
+        "fin": 145.5
+       },
+       {
+        "t": "if,",
+        "ini": 145.92,
+        "fin": 146.1
+       },
+       {
+        "t": "if…",
+        "ini": 146.52,
+        "fin": 146.7
+       },
+       {
+        "t": "then",
+        "ini": 147.48,
+        "fin": 147.64
+       },
+       {
+        "t": "I",
+        "ini": 147.8,
+        "fin": 147.84
+       },
+       {
+        "t": "will,",
+        "ini": 147.9,
+        "fin": 148.2
+       },
+       {
+        "t": "I",
+        "ini": 148.64,
+        "fin": 148.7
+       },
+       {
+        "t": "will!",
+        "ini": 148.84,
+        "fin": 149.22
+       }
+      ],
+      "trad": "Si, si, si… ¡pues lo haré, lo haré!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Rain or sun, we'll have fun — you will, and I will!",
+      "ini": 150.04,
+      "fin": 153.38,
+      "palabras": [
+       {
+        "t": "Rain",
+        "ini": 150.04,
+        "fin": 150.34
+       },
+       {
+        "t": "or",
+        "ini": 150.38,
+        "fin": 150.46
+       },
+       {
+        "t": "sun,",
+        "ini": 150.6,
+        "fin": 150.9
+       },
+       {
+        "t": "we'll",
+        "ini": 151.24,
+        "fin": 151.46
+       },
+       {
+        "t": "have",
+        "ini": 151.54,
+        "fin": 151.76
+       },
+       {
+        "t": "fun",
+        "ini": 151.84,
+        "fin": 152.08
+       },
+       {
+        "t": "—",
+        "ini": 152.14,
+        "fin": 152.14
+       },
+       {
+        "t": "you",
+        "ini": 152.2,
+        "fin": 152.32
+       },
+       {
+        "t": "will,",
+        "ini": 152.44,
+        "fin": 152.7
+       },
+       {
+        "t": "and",
+        "ini": 152.76,
+        "fin": 152.88
+       },
+       {
+        "t": "I",
+        "ini": 152.96,
+        "fin": 153.0
+       },
+       {
+        "t": "will!",
+        "ini": 153.06,
+        "fin": 153.38
+       }
+      ],
+      "trad": "Con lluvia o con sol, lo pasaremos bien: ¡tú también y yo también!"
+     }
+    ],
+    "duracion": 163.22
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "Si llueve, ¿qué harás? —¡Saltaré en cada charco!",
+      "ini": 0.28,
+      "fin": 4.72,
+      "palabras": [
+       {
+        "t": "Si",
+        "ini": 0.28,
+        "fin": 0.5
+       },
+       {
+        "t": "llueve,",
+        "ini": 0.58,
+        "fin": 1.34
+       },
+       {
+        "t": "¿qué",
+        "ini": 1.44,
+        "fin": 1.58
+       },
+       {
+        "t": "harás?",
+        "ini": 1.62,
+        "fin": 2.34
+       },
+       {
+        "t": "—¡Saltaré",
+        "ini": 2.34,
+        "fin": 3.18
+       },
+       {
+        "t": "en",
+        "ini": 3.34,
+        "fin": 3.5
+       },
+       {
+        "t": "cada",
+        "ini": 3.6,
+        "fin": 4.04
+       },
+       {
+        "t": "charco!",
+        "ini": 4.16,
+        "fin": 4.72
+       }
+      ],
+      "trad": "If it rains, what will you do? —I'll jump in every puddle!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Si nieva, ¿qué harás? —¡Haré un muñeco y le daré un abrazo!",
+      "ini": 5.1,
+      "fin": 9.5,
+      "palabras": [
+       {
+        "t": "Si",
+        "ini": 5.1,
+        "fin": 5.32
+       },
+       {
+        "t": "nieva,",
+        "ini": 5.4,
+        "fin": 6.14
+       },
+       {
+        "t": "¿qué",
+        "ini": 6.24,
+        "fin": 6.36
+       },
+       {
+        "t": "harás?",
+        "ini": 6.4,
+        "fin": 7.04
+       },
+       {
+        "t": "—¡Haré",
+        "ini": 7.04,
+        "fin": 7.54
+       },
+       {
+        "t": "un",
+        "ini": 7.58,
+        "fin": 7.62
+       },
+       {
+        "t": "muñeco",
+        "ini": 7.66,
+        "fin": 8.0
+       },
+       {
+        "t": "y",
+        "ini": 8.06,
+        "fin": 8.1
+       },
+       {
+        "t": "le",
+        "ini": 8.12,
+        "fin": 8.22
+       },
+       {
+        "t": "daré",
+        "ini": 8.24,
+        "fin": 8.56
+       },
+       {
+        "t": "un",
+        "ini": 8.62,
+        "fin": 8.7
+       },
+       {
+        "t": "abrazo!",
+        "ini": 8.8,
+        "fin": 9.5
+       }
+      ],
+      "trad": "If it snows, what will you do? —I'll make a snowman and give him a hug!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Si, si, si… ¡pues lo haré, lo haré!",
+      "ini": 9.9,
+      "fin": 14.06,
+      "palabras": [
+       {
+        "t": "Si,",
+        "ini": 9.9,
+        "fin": 10.04
+       },
+       {
+        "t": "si,",
+        "ini": 10.2,
+        "fin": 10.46
+       },
+       {
+        "t": "si…",
+        "ini": 11.08,
+        "fin": 11.4
+       },
+       {
+        "t": "¡pues",
+        "ini": 11.68,
+        "fin": 12.54
+       },
+       {
+        "t": "lo",
+        "ini": 12.64,
+        "fin": 12.86
+       },
+       {
+        "t": "haré,",
+        "ini": 12.94,
+        "fin": 13.4
+       },
+       {
+        "t": "lo",
+        "ini": 13.48,
+        "fin": 13.58
+       },
+       {
+        "t": "haré!",
+        "ini": 13.62,
+        "fin": 14.06
+       }
+      ],
+      "trad": "If, if, if… well, I will, I will!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Con lluvia o con sol, lo pasaremos bien… ¡tú y yo también!",
+      "ini": 14.68,
+      "fin": 18.98,
+      "palabras": [
+       {
+        "t": "Con",
+        "ini": 14.68,
+        "fin": 14.94
+       },
+       {
+        "t": "lluvia",
+        "ini": 15.0,
+        "fin": 15.74
+       },
+       {
+        "t": "o",
+        "ini": 15.78,
+        "fin": 15.8
+       },
+       {
+        "t": "con",
+        "ini": 15.9,
+        "fin": 16.08
+       },
+       {
+        "t": "sol,",
+        "ini": 16.2,
+        "fin": 16.46
+       },
+       {
+        "t": "lo",
+        "ini": 16.66,
+        "fin": 16.74
+       },
+       {
+        "t": "pasaremos",
+        "ini": 16.8,
+        "fin": 17.36
+       },
+       {
+        "t": "bien…",
+        "ini": 17.44,
+        "fin": 17.62
+       },
+       {
+        "t": "¡tú",
+        "ini": 17.68,
+        "fin": 17.78
+       },
+       {
+        "t": "y",
+        "ini": 17.84,
+        "fin": 17.94
+       },
+       {
+        "t": "yo",
+        "ini": 18.04,
+        "fin": 18.18
+       },
+       {
+        "t": "también!",
+        "ini": 18.3,
+        "fin": 18.98
+       }
+      ],
+      "trad": "Rain or sun, we'll have a great time… you and me too!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "El loro Pepe sale en la tele, es el hombre del tiempo del lugar,",
+      "ini": 19.4,
+      "fin": 24.0,
+      "palabras": [
+       {
+        "t": "El",
+        "ini": 19.4,
+        "fin": 19.46
+       },
+       {
+        "t": "loro",
+        "ini": 19.5,
+        "fin": 19.72
+       },
+       {
+        "t": "Pepe",
+        "ini": 19.82,
+        "fin": 20.24
+       },
+       {
+        "t": "sale",
+        "ini": 20.4,
+        "fin": 20.7
+       },
+       {
+        "t": "en",
+        "ini": 20.74,
+        "fin": 20.8
+       },
+       {
+        "t": "la",
+        "ini": 20.86,
+        "fin": 20.94
+       },
+       {
+        "t": "tele,",
+        "ini": 21.06,
+        "fin": 21.44
+       },
+       {
+        "t": "es",
+        "ini": 21.94,
+        "fin": 22.06
+       },
+       {
+        "t": "el",
+        "ini": 22.12,
+        "fin": 22.24
+       },
+       {
+        "t": "hombre",
+        "ini": 22.26,
+        "fin": 22.6
+       },
+       {
+        "t": "del",
+        "ini": 22.64,
+        "fin": 22.76
+       },
+       {
+        "t": "tiempo",
+        "ini": 22.84,
+        "fin": 23.24
+       },
+       {
+        "t": "del",
+        "ini": 23.3,
+        "fin": 23.5
+       },
+       {
+        "t": "lugar,",
+        "ini": 23.56,
+        "fin": 24.0
+       }
+      ],
+      "trad": "Pepe the parrot is on TV, he's the local weatherman,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "dice: «Si sopla mucho el viento esta noche, las manzanas se caerán».",
+      "ini": 24.3,
+      "fin": 28.78,
+      "palabras": [
+       {
+        "t": "dice:",
+        "ini": 24.3,
+        "fin": 24.52
+       },
+       {
+        "t": "«Si",
+        "ini": 24.58,
+        "fin": 24.7
+       },
+       {
+        "t": "sopla",
+        "ini": 24.8,
+        "fin": 25.14
+       },
+       {
+        "t": "mucho",
+        "ini": 25.24,
+        "fin": 25.5
+       },
+       {
+        "t": "el",
+        "ini": 25.56,
+        "fin": 25.62
+       },
+       {
+        "t": "viento",
+        "ini": 25.68,
+        "fin": 26.04
+       },
+       {
+        "t": "esta",
+        "ini": 26.08,
+        "fin": 26.38
+       },
+       {
+        "t": "noche,",
+        "ini": 26.44,
+        "fin": 26.78
+       },
+       {
+        "t": "las",
+        "ini": 26.9,
+        "fin": 27.1
+       },
+       {
+        "t": "manzanas",
+        "ini": 27.2,
+        "fin": 27.82
+       },
+       {
+        "t": "se",
+        "ini": 27.88,
+        "fin": 27.98
+       },
+       {
+        "t": "caerán».",
+        "ini": 28.08,
+        "fin": 28.78
+       }
+      ],
+      "trad": "he says: «If the wind blows hard tonight, the apples will fall.»"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "«Si mañana está nublado, necesitarás un paraguas grande»,",
+      "ini": 28.94,
+      "fin": 33.44,
+      "palabras": [
+       {
+        "t": "«Si",
+        "ini": 28.94,
+        "fin": 29.14
+       },
+       {
+        "t": "mañana",
+        "ini": 29.24,
+        "fin": 29.78
+       },
+       {
+        "t": "está",
+        "ini": 29.82,
+        "fin": 30.26
+       },
+       {
+        "t": "nublado,",
+        "ini": 30.34,
+        "fin": 31.04
+       },
+       {
+        "t": "necesitarás",
+        "ini": 31.4,
+        "fin": 32.4
+       },
+       {
+        "t": "un",
+        "ini": 32.46,
+        "fin": 32.54
+       },
+       {
+        "t": "paraguas",
+        "ini": 32.56,
+        "fin": 32.96
+       },
+       {
+        "t": "grande»,",
+        "ini": 33.0,
+        "fin": 33.44
+       }
+      ],
+      "trad": "\"If it's cloudy tomorrow, you'll need a big umbrella,\""
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "«y si hace calor, comeré helado… ¡de queso y de vainilla!»",
+      "ini": 33.78,
+      "fin": 38.08,
+      "palabras": [
+       {
+        "t": "«y",
+        "ini": 33.78,
+        "fin": 33.9
+       },
+       {
+        "t": "si",
+        "ini": 33.96,
+        "fin": 34.06
+       },
+       {
+        "t": "hace",
+        "ini": 34.08,
+        "fin": 34.32
+       },
+       {
+        "t": "calor,",
+        "ini": 34.36,
+        "fin": 34.7
+       },
+       {
+        "t": "comeré",
+        "ini": 34.8,
+        "fin": 35.32
+       },
+       {
+        "t": "helado…",
+        "ini": 35.34,
+        "fin": 35.84
+       },
+       {
+        "t": "¡de",
+        "ini": 35.84,
+        "fin": 36.24
+       },
+       {
+        "t": "queso",
+        "ini": 36.28,
+        "fin": 36.52
+       },
+       {
+        "t": "y",
+        "ini": 36.54,
+        "fin": 36.58
+       },
+       {
+        "t": "de",
+        "ini": 36.64,
+        "fin": 36.84
+       },
+       {
+        "t": "vainilla!»",
+        "ini": 36.9,
+        "fin": 38.08
+       }
+      ],
+      "trad": "\"and if it's hot, I'll eat cheese and vanilla ice cream!\""
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Si llueve, ¿qué harás? —¡Saltaré en cada charco!",
+      "ini": 38.68,
+      "fin": 43.12,
+      "palabras": [
+       {
+        "t": "Si",
+        "ini": 38.68,
+        "fin": 38.94
+       },
+       {
+        "t": "llueve,",
+        "ini": 39.0,
+        "fin": 39.76
+       },
+       {
+        "t": "¿qué",
+        "ini": 39.84,
+        "fin": 39.96
+       },
+       {
+        "t": "harás?",
+        "ini": 40.02,
+        "fin": 40.74
+       },
+       {
+        "t": "—¡Saltaré",
+        "ini": 40.74,
+        "fin": 41.56
+       },
+       {
+        "t": "en",
+        "ini": 41.7,
+        "fin": 41.92
+       },
+       {
+        "t": "cada",
+        "ini": 42.0,
+        "fin": 42.44
+       },
+       {
+        "t": "charco!",
+        "ini": 42.56,
+        "fin": 43.12
+       }
+      ],
+      "trad": "If it rains, what will you do? —I'll jump in every puddle!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Si nieva, ¿qué harás? —¡Haré un muñeco y le daré un abrazo!",
+      "ini": 43.5,
+      "fin": 47.86,
+      "palabras": [
+       {
+        "t": "Si",
+        "ini": 43.5,
+        "fin": 43.74
+       },
+       {
+        "t": "nieva,",
+        "ini": 43.8,
+        "fin": 44.56
+       },
+       {
+        "t": "¿qué",
+        "ini": 44.64,
+        "fin": 44.76
+       },
+       {
+        "t": "harás?",
+        "ini": 44.84,
+        "fin": 45.46
+       },
+       {
+        "t": "—¡Haré",
+        "ini": 45.46,
+        "fin": 45.94
+       },
+       {
+        "t": "un",
+        "ini": 46.0,
+        "fin": 46.04
+       },
+       {
+        "t": "muñeco",
+        "ini": 46.06,
+        "fin": 46.4
+       },
+       {
+        "t": "y",
+        "ini": 46.44,
+        "fin": 46.5
+       },
+       {
+        "t": "le",
+        "ini": 46.5,
+        "fin": 46.6
+       },
+       {
+        "t": "daré",
+        "ini": 46.64,
+        "fin": 46.94
+       },
+       {
+        "t": "un",
+        "ini": 47.02,
+        "fin": 47.1
+       },
+       {
+        "t": "abrazo!",
+        "ini": 47.2,
+        "fin": 47.86
+       }
+      ],
+      "trad": "If it snows, what will you do? —I'll make a snowman and give him a hug!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Si, si, si… ¡pues lo haré, lo haré!",
+      "ini": 48.3,
+      "fin": 52.46,
+      "palabras": [
+       {
+        "t": "Si,",
+        "ini": 48.3,
+        "fin": 48.44
+       },
+       {
+        "t": "si,",
+        "ini": 48.6,
+        "fin": 48.86
+       },
+       {
+        "t": "si…",
+        "ini": 49.5,
+        "fin": 49.74
+       },
+       {
+        "t": "¡pues",
+        "ini": 49.74,
+        "fin": 50.94
+       },
+       {
+        "t": "lo",
+        "ini": 51.0,
+        "fin": 51.26
+       },
+       {
+        "t": "haré,",
+        "ini": 51.34,
+        "fin": 51.8
+       },
+       {
+        "t": "lo",
+        "ini": 51.9,
+        "fin": 51.98
+       },
+       {
+        "t": "haré!",
+        "ini": 52.02,
+        "fin": 52.46
+       }
+      ],
+      "trad": "If, if, if… well, I will, I will!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Con lluvia o con sol, lo pasaremos bien… ¡tú y yo también!",
+      "ini": 53.1,
+      "fin": 57.28,
+      "palabras": [
+       {
+        "t": "Con",
+        "ini": 53.1,
+        "fin": 53.32
+       },
+       {
+        "t": "lluvia",
+        "ini": 53.4,
+        "fin": 54.14
+       },
+       {
+        "t": "o",
+        "ini": 54.18,
+        "fin": 54.22
+       },
+       {
+        "t": "con",
+        "ini": 54.3,
+        "fin": 54.48
+       },
+       {
+        "t": "sol,",
+        "ini": 54.58,
+        "fin": 54.72
+       },
+       {
+        "t": "lo",
+        "ini": 54.76,
+        "fin": 54.82
+       },
+       {
+        "t": "pasaremos",
+        "ini": 54.88,
+        "fin": 55.74
+       },
+       {
+        "t": "bien…",
+        "ini": 55.8,
+        "fin": 56.02
+       },
+       {
+        "t": "¡tú",
+        "ini": 56.08,
+        "fin": 56.2
+       },
+       {
+        "t": "y",
+        "ini": 56.24,
+        "fin": 56.34
+       },
+       {
+        "t": "yo",
+        "ini": 56.44,
+        "fin": 56.58
+       },
+       {
+        "t": "también!",
+        "ini": 56.7,
+        "fin": 57.28
+       }
+      ],
+      "trad": "Rain or sun, we'll have a great time… you and me too!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Si Pepe acierta, haremos un pícnic en lo alto de la colina,",
+      "ini": 57.88,
+      "fin": 62.3,
+      "palabras": [
+       {
+        "t": "Si",
+        "ini": 57.88,
+        "fin": 58.02
+       },
+       {
+        "t": "Pepe",
+        "ini": 58.18,
+        "fin": 58.6
+       },
+       {
+        "t": "acierta,",
+        "ini": 58.64,
+        "fin": 59.22
+       },
+       {
+        "t": "haremos",
+        "ini": 59.36,
+        "fin": 59.86
+       },
+       {
+        "t": "un",
+        "ini": 59.9,
+        "fin": 60.0
+       },
+       {
+        "t": "pícnic",
+        "ini": 60.04,
+        "fin": 60.46
+       },
+       {
+        "t": "en",
+        "ini": 60.5,
+        "fin": 60.58
+       },
+       {
+        "t": "lo",
+        "ini": 60.62,
+        "fin": 60.7
+       },
+       {
+        "t": "alto",
+        "ini": 60.74,
+        "fin": 61.02
+       },
+       {
+        "t": "de",
+        "ini": 61.08,
+        "fin": 61.18
+       },
+       {
+        "t": "la",
+        "ini": 61.24,
+        "fin": 61.34
+       },
+       {
+        "t": "colina,",
+        "ini": 61.5,
+        "fin": 62.3
+       }
+      ],
+      "trad": "If Pepe is right, we'll have a picnic at the top of the hill,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "si Pepe falla, llevaremos botas y chubasquero, ¡claro que sí!",
+      "ini": 62.7,
+      "fin": 67.38,
+      "palabras": [
+       {
+        "t": "si",
+        "ini": 62.7,
+        "fin": 62.86
+       },
+       {
+        "t": "Pepe",
+        "ini": 63.0,
+        "fin": 63.52
+       },
+       {
+        "t": "falla,",
+        "ini": 63.62,
+        "fin": 63.94
+       },
+       {
+        "t": "llevaremos",
+        "ini": 64.04,
+        "fin": 64.78
+       },
+       {
+        "t": "botas",
+        "ini": 64.82,
+        "fin": 65.22
+       },
+       {
+        "t": "y",
+        "ini": 65.26,
+        "fin": 65.32
+       },
+       {
+        "t": "chubasquero,",
+        "ini": 65.4,
+        "fin": 66.28
+       },
+       {
+        "t": "¡claro",
+        "ini": 66.42,
+        "fin": 66.82
+       },
+       {
+        "t": "que",
+        "ini": 66.92,
+        "fin": 67.04
+       },
+       {
+        "t": "sí!",
+        "ini": 67.2,
+        "fin": 67.38
+       }
+      ],
+      "trad": "if Pepe's wrong, we'll wear boots and raincoats — of course we will!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Si viene la abuela, hará un bizcocho, y si entra el perro…",
+      "ini": 67.5,
+      "fin": 71.9,
+      "palabras": [
+       {
+        "t": "Si",
+        "ini": 67.5,
+        "fin": 67.74
+       },
+       {
+        "t": "viene",
+        "ini": 67.8,
+        "fin": 68.1
+       },
+       {
+        "t": "la",
+        "ini": 68.26,
+        "fin": 68.34
+       },
+       {
+        "t": "abuela,",
+        "ini": 68.4,
+        "fin": 68.78
+       },
+       {
+        "t": "hará",
+        "ini": 68.86,
+        "fin": 69.72
+       },
+       {
+        "t": "un",
+        "ini": 69.76,
+        "fin": 69.86
+       },
+       {
+        "t": "bizcocho,",
+        "ini": 69.9,
+        "fin": 70.56
+       },
+       {
+        "t": "y",
+        "ini": 70.64,
+        "fin": 70.68
+       },
+       {
+        "t": "si",
+        "ini": 70.78,
+        "fin": 70.88
+       },
+       {
+        "t": "entra",
+        "ini": 70.92,
+        "fin": 71.18
+       },
+       {
+        "t": "el",
+        "ini": 71.22,
+        "fin": 71.3
+       },
+       {
+        "t": "perro…",
+        "ini": 71.42,
+        "fin": 71.9
+       }
+      ],
+      "trad": "If Grandma comes, she'll bake a cake, and if the dog gets in…"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "¡se comerá el bizcocho, los bocadillos… y luego sonreirá!",
+      "ini": 71.9,
+      "fin": 76.46,
+      "palabras": [
+       {
+        "t": "¡se",
+        "ini": 71.9,
+        "fin": 72.44
+       },
+       {
+        "t": "comerá",
+        "ini": 72.6,
+        "fin": 73.1
+       },
+       {
+        "t": "el",
+        "ini": 73.14,
+        "fin": 73.2
+       },
+       {
+        "t": "bizcocho,",
+        "ini": 73.24,
+        "fin": 73.88
+       },
+       {
+        "t": "los",
+        "ini": 73.94,
+        "fin": 74.06
+       },
+       {
+        "t": "bocadillos…",
+        "ini": 74.1,
+        "fin": 74.86
+       },
+       {
+        "t": "y",
+        "ini": 74.9,
+        "fin": 74.96
+       },
+       {
+        "t": "luego",
+        "ini": 75.0,
+        "fin": 75.44
+       },
+       {
+        "t": "sonreirá!",
+        "ini": 75.6,
+        "fin": 76.46
+       }
+      ],
+      "trad": "he'll eat the cake, the sandwiches… and then he'll smile!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Y ahora, el tiempo: si sonríes, pronto saldrá el sol,",
+      "ini": 77.08,
+      "fin": 81.36,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 77.08,
+        "fin": 77.14
+       },
+       {
+        "t": "ahora,",
+        "ini": 77.22,
+        "fin": 77.78
+       },
+       {
+        "t": "el",
+        "ini": 77.82,
+        "fin": 77.9
+       },
+       {
+        "t": "tiempo:",
+        "ini": 78.0,
+        "fin": 78.42
+       },
+       {
+        "t": "si",
+        "ini": 78.6,
+        "fin": 78.72
+       },
+       {
+        "t": "sonríes,",
+        "ini": 78.88,
+        "fin": 79.7
+       },
+       {
+        "t": "pronto",
+        "ini": 79.8,
+        "fin": 80.22
+       },
+       {
+        "t": "saldrá",
+        "ini": 80.38,
+        "fin": 80.78
+       },
+       {
+        "t": "el",
+        "ini": 80.82,
+        "fin": 80.88
+       },
+       {
+        "t": "sol,",
+        "ini": 81.0,
+        "fin": 81.36
+       }
+      ],
+      "trad": "And now, the weather: if you smile, the sun will come out soon,"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "¡y si cantas esta canción conmigo, bailaremos bajo la luna!",
+      "ini": 81.36,
+      "fin": 87.28,
+      "palabras": [
+       {
+        "t": "¡y",
+        "ini": 81.36,
+        "fin": 81.9
+       },
+       {
+        "t": "si",
+        "ini": 82.02,
+        "fin": 82.12
+       },
+       {
+        "t": "cantas",
+        "ini": 82.2,
+        "fin": 82.62
+       },
+       {
+        "t": "esta",
+        "ini": 82.66,
+        "fin": 82.9
+       },
+       {
+        "t": "canción",
+        "ini": 82.96,
+        "fin": 83.48
+       },
+       {
+        "t": "conmigo,",
+        "ini": 83.58,
+        "fin": 84.36
+       },
+       {
+        "t": "bailaremos",
+        "ini": 84.78,
+        "fin": 85.6
+       },
+       {
+        "t": "bajo",
+        "ini": 85.66,
+        "fin": 86.04
+       },
+       {
+        "t": "la",
+        "ini": 86.1,
+        "fin": 86.24
+       },
+       {
+        "t": "luna!",
+        "ini": 86.4,
+        "fin": 87.28
+       }
+      ],
+      "trad": "and if you sing this song with me, we'll dance under the moon!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Si llueve, ¿qué harás? —¡Saltaré en cada charco!",
+      "ini": 96.3,
+      "fin": 100.72,
+      "palabras": [
+       {
+        "t": "Si",
+        "ini": 96.3,
+        "fin": 96.54
+       },
+       {
+        "t": "llueve,",
+        "ini": 96.6,
+        "fin": 97.34
+       },
+       {
+        "t": "¿qué",
+        "ini": 97.44,
+        "fin": 97.56
+       },
+       {
+        "t": "harás?",
+        "ini": 97.58,
+        "fin": 98.3
+       },
+       {
+        "t": "—¡Saltaré",
+        "ini": 98.3,
+        "fin": 99.16
+       },
+       {
+        "t": "en",
+        "ini": 99.34,
+        "fin": 99.5
+       },
+       {
+        "t": "cada",
+        "ini": 99.6,
+        "fin": 100.04
+       },
+       {
+        "t": "charco!",
+        "ini": 100.16,
+        "fin": 100.72
+       }
+      ],
+      "trad": "If it rains, what will you do? —I'll jump in every puddle!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Si nieva, ¿qué harás? —¡Haré un muñeco y le daré un abrazo!",
+      "ini": 101.1,
+      "fin": 105.52,
+      "palabras": [
+       {
+        "t": "Si",
+        "ini": 101.1,
+        "fin": 101.34
+       },
+       {
+        "t": "nieva,",
+        "ini": 101.4,
+        "fin": 102.16
+       },
+       {
+        "t": "¿qué",
+        "ini": 102.26,
+        "fin": 102.38
+       },
+       {
+        "t": "harás?",
+        "ini": 102.42,
+        "fin": 103.12
+       },
+       {
+        "t": "—¡Haré",
+        "ini": 103.12,
+        "fin": 103.54
+       },
+       {
+        "t": "un",
+        "ini": 103.58,
+        "fin": 103.64
+       },
+       {
+        "t": "muñeco",
+        "ini": 103.66,
+        "fin": 104.0
+       },
+       {
+        "t": "y",
+        "ini": 104.06,
+        "fin": 104.1
+       },
+       {
+        "t": "le",
+        "ini": 104.12,
+        "fin": 104.22
+       },
+       {
+        "t": "daré",
+        "ini": 104.26,
+        "fin": 104.56
+       },
+       {
+        "t": "un",
+        "ini": 104.62,
+        "fin": 104.7
+       },
+       {
+        "t": "abrazo!",
+        "ini": 104.8,
+        "fin": 105.52
+       }
+      ],
+      "trad": "If it snows, what will you do? —I'll make a snowman and give him a hug!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Si, si, si… ¡pues lo haré, lo haré!",
+      "ini": 105.9,
+      "fin": 110.08,
+      "palabras": [
+       {
+        "t": "Si,",
+        "ini": 105.9,
+        "fin": 106.06
+       },
+       {
+        "t": "si,",
+        "ini": 106.2,
+        "fin": 106.44
+       },
+       {
+        "t": "si…",
+        "ini": 107.1,
+        "fin": 107.36
+       },
+       {
+        "t": "¡pues",
+        "ini": 107.38,
+        "fin": 108.54
+       },
+       {
+        "t": "lo",
+        "ini": 108.62,
+        "fin": 108.88
+       },
+       {
+        "t": "haré,",
+        "ini": 108.94,
+        "fin": 109.38
+       },
+       {
+        "t": "lo",
+        "ini": 109.48,
+        "fin": 109.58
+       },
+       {
+        "t": "haré!",
+        "ini": 109.64,
+        "fin": 110.08
+       }
+      ],
+      "trad": "If, if, if… well, I will, I will!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Con lluvia o con sol, lo pasaremos bien… ¡tú y yo también!",
+      "ini": 110.7,
+      "fin": 114.98,
+      "palabras": [
+       {
+        "t": "Con",
+        "ini": 110.7,
+        "fin": 110.94
+       },
+       {
+        "t": "lluvia",
+        "ini": 111.0,
+        "fin": 111.74
+       },
+       {
+        "t": "o",
+        "ini": 111.78,
+        "fin": 111.82
+       },
+       {
+        "t": "con",
+        "ini": 111.9,
+        "fin": 112.1
+       },
+       {
+        "t": "sol,",
+        "ini": 112.18,
+        "fin": 112.32
+       },
+       {
+        "t": "lo",
+        "ini": 112.36,
+        "fin": 112.42
+       },
+       {
+        "t": "pasaremos",
+        "ini": 112.48,
+        "fin": 113.32
+       },
+       {
+        "t": "bien…",
+        "ini": 113.4,
+        "fin": 113.64
+       },
+       {
+        "t": "¡tú",
+        "ini": 113.68,
+        "fin": 113.78
+       },
+       {
+        "t": "y",
+        "ini": 113.94,
+        "fin": 113.96
+       },
+       {
+        "t": "yo",
+        "ini": 114.06,
+        "fin": 114.18
+       },
+       {
+        "t": "también!",
+        "ini": 114.32,
+        "fin": 114.98
+       }
+      ],
+      "trad": "Rain or sun, we'll have a great time… you and me too!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "El domingo por la mañana, ¿sabes qué? ¡Llueve y hace sol a la vez!",
+      "ini": 115.56,
+      "fin": 123.9,
+      "palabras": [
+       {
+        "t": "El",
+        "ini": 115.56,
+        "fin": 115.74
+       },
+       {
+        "t": "domingo",
+        "ini": 115.82,
+        "fin": 116.84
+       },
+       {
+        "t": "por",
+        "ini": 117.02,
+        "fin": 117.24
+       },
+       {
+        "t": "la",
+        "ini": 117.3,
+        "fin": 117.38
+       },
+       {
+        "t": "mañana,",
+        "ini": 117.46,
+        "fin": 118.02
+       },
+       {
+        "t": "¿sabes",
+        "ini": 118.14,
+        "fin": 118.74
+       },
+       {
+        "t": "qué?",
+        "ini": 118.84,
+        "fin": 119.16
+       },
+       {
+        "t": "¡Llueve",
+        "ini": 119.16,
+        "fin": 120.9
+       },
+       {
+        "t": "y",
+        "ini": 121.04,
+        "fin": 121.2
+       },
+       {
+        "t": "hace",
+        "ini": 121.26,
+        "fin": 121.78
+       },
+       {
+        "t": "sol",
+        "ini": 122.44,
+        "fin": 123.0
+       },
+       {
+        "t": "a",
+        "ini": 123.1,
+        "fin": 123.22
+       },
+       {
+        "t": "la",
+        "ini": 123.34,
+        "fin": 123.54
+       },
+       {
+        "t": "vez!",
+        "ini": 123.6,
+        "fin": 123.9
+       }
+      ],
+      "trad": "On Sunday morning, guess what? It's raining and sunny at the same time!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Si hay lluvia y sol a la vez, saldrá un arcoíris… ¡míralo, es verdad!",
+      "ini": 125.08,
+      "fin": 133.5,
+      "palabras": [
+       {
+        "t": "Si",
+        "ini": 125.08,
+        "fin": 125.18
+       },
+       {
+        "t": "hay",
+        "ini": 125.2,
+        "fin": 125.92
+       },
+       {
+        "t": "lluvia",
+        "ini": 125.98,
+        "fin": 126.6
+       },
+       {
+        "t": "y",
+        "ini": 126.7,
+        "fin": 127.0
+       },
+       {
+        "t": "sol",
+        "ini": 127.24,
+        "fin": 127.74
+       },
+       {
+        "t": "a",
+        "ini": 127.86,
+        "fin": 128.0
+       },
+       {
+        "t": "la",
+        "ini": 128.12,
+        "fin": 128.34
+       },
+       {
+        "t": "vez,",
+        "ini": 128.44,
+        "fin": 128.8
+       },
+       {
+        "t": "saldrá",
+        "ini": 129.9,
+        "fin": 130.36
+       },
+       {
+        "t": "un",
+        "ini": 130.42,
+        "fin": 130.5
+       },
+       {
+        "t": "arcoíris…",
+        "ini": 130.56,
+        "fin": 131.52
+       },
+       {
+        "t": "¡míralo,",
+        "ini": 131.52,
+        "fin": 132.7
+       },
+       {
+        "t": "es",
+        "ini": 132.76,
+        "fin": 132.88
+       },
+       {
+        "t": "verdad!",
+        "ini": 132.94,
+        "fin": 133.5
+       }
+      ],
+      "trad": "If there's rain and sun at the same time, a rainbow will come out… look, it's true!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Si llueve, ¿qué harás? —¡Saltaré en cada charco!",
+      "ini": 134.72,
+      "fin": 139.12,
+      "palabras": [
+       {
+        "t": "Si",
+        "ini": 134.72,
+        "fin": 134.94
+       },
+       {
+        "t": "llueve,",
+        "ini": 135.0,
+        "fin": 135.74
+       },
+       {
+        "t": "¿qué",
+        "ini": 135.86,
+        "fin": 135.98
+       },
+       {
+        "t": "harás?",
+        "ini": 136.04,
+        "fin": 136.74
+       },
+       {
+        "t": "—¡Saltaré",
+        "ini": 136.74,
+        "fin": 137.66
+       },
+       {
+        "t": "en",
+        "ini": 137.76,
+        "fin": 137.9
+       },
+       {
+        "t": "cada",
+        "ini": 138.0,
+        "fin": 138.44
+       },
+       {
+        "t": "charco!",
+        "ini": 138.58,
+        "fin": 139.12
+       }
+      ],
+      "trad": "If it rains, what will you do? —I'll jump in every puddle!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Si nieva, ¿qué harás? —¡Haré un muñeco y le daré un abrazo!",
+      "ini": 139.54,
+      "fin": 143.92,
+      "palabras": [
+       {
+        "t": "Si",
+        "ini": 139.54,
+        "fin": 139.72
+       },
+       {
+        "t": "nieva,",
+        "ini": 139.8,
+        "fin": 140.56
+       },
+       {
+        "t": "¿qué",
+        "ini": 140.66,
+        "fin": 140.78
+       },
+       {
+        "t": "harás?",
+        "ini": 140.84,
+        "fin": 141.5
+       },
+       {
+        "t": "—¡Haré",
+        "ini": 141.5,
+        "fin": 141.94
+       },
+       {
+        "t": "un",
+        "ini": 141.98,
+        "fin": 142.04
+       },
+       {
+        "t": "muñeco",
+        "ini": 142.08,
+        "fin": 142.42
+       },
+       {
+        "t": "y",
+        "ini": 142.46,
+        "fin": 142.5
+       },
+       {
+        "t": "le",
+        "ini": 142.52,
+        "fin": 142.62
+       },
+       {
+        "t": "daré",
+        "ini": 142.66,
+        "fin": 142.96
+       },
+       {
+        "t": "un",
+        "ini": 143.02,
+        "fin": 143.12
+       },
+       {
+        "t": "abrazo!",
+        "ini": 143.2,
+        "fin": 143.92
+       }
+      ],
+      "trad": "If it snows, what will you do? —I'll make a snowman and give him a hug!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Si, si, si… ¡pues lo haré, lo haré!",
+      "ini": 144.3,
+      "fin": 148.44,
+      "palabras": [
+       {
+        "t": "Si,",
+        "ini": 144.3,
+        "fin": 144.44
+       },
+       {
+        "t": "si,",
+        "ini": 144.6,
+        "fin": 144.86
+       },
+       {
+        "t": "si…",
+        "ini": 145.52,
+        "fin": 145.8
+       },
+       {
+        "t": "¡pues",
+        "ini": 145.8,
+        "fin": 146.94
+       },
+       {
+        "t": "lo",
+        "ini": 147.04,
+        "fin": 147.28
+       },
+       {
+        "t": "haré,",
+        "ini": 147.34,
+        "fin": 147.78
+       },
+       {
+        "t": "lo",
+        "ini": 147.9,
+        "fin": 147.98
+       },
+       {
+        "t": "haré!",
+        "ini": 148.04,
+        "fin": 148.44
+       }
+      ],
+      "trad": "If, if, if… well, I will, I will!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Con lluvia o con sol, lo pasaremos bien… ¡tú y yo también!",
+      "ini": 149.1,
+      "fin": 153.38,
+      "palabras": [
+       {
+        "t": "Con",
+        "ini": 149.1,
+        "fin": 149.34
+       },
+       {
+        "t": "lluvia",
+        "ini": 149.4,
+        "fin": 150.16
+       },
+       {
+        "t": "o",
+        "ini": 150.2,
+        "fin": 150.22
+       },
+       {
+        "t": "con",
+        "ini": 150.3,
+        "fin": 150.48
+       },
+       {
+        "t": "sol,",
+        "ini": 150.58,
+        "fin": 150.72
+       },
+       {
+        "t": "lo",
+        "ini": 150.76,
+        "fin": 150.82
+       },
+       {
+        "t": "pasaremos",
+        "ini": 150.9,
+        "fin": 151.74
+       },
+       {
+        "t": "bien…",
+        "ini": 151.8,
+        "fin": 152.02
+       },
+       {
+        "t": "¡tú",
+        "ini": 152.08,
+        "fin": 152.2
+       },
+       {
+        "t": "y",
+        "ini": 152.24,
+        "fin": 152.36
+       },
+       {
+        "t": "yo",
+        "ini": 152.46,
+        "fin": 152.58
+       },
+       {
+        "t": "también!",
+        "ini": 152.7,
+        "fin": 153.38
+       }
+      ],
+      "trad": "Rain or sun, we'll have a great time… you and me too!"
+     }
+    ],
+    "duracion": 163.22
+   },
+   "preguntas": [
+    {
+     "en": "«If it rains, what will you do?» — «___»",
+     "en_op": [
+      "I'll jump in every puddle!",
+      "I jumped in every puddle!",
+      "I'm jumping in every puddle!"
+     ],
+     "es": "«Si llueve, ¿qué harás?» —«___»",
+     "es_op": [
+      "¡Saltaré en cada charco!",
+      "¡Salté en cada charco!",
+      "¡Estoy saltando en cada charco!"
+     ]
+    },
+    {
+     "en": "Who is the weatherman on TV?",
+     "en_op": [
+      "Pepe the parrot",
+      "Grandma",
+      "The dog"
+     ],
+     "es": "¿Quién es el hombre del tiempo de la tele?",
+     "es_op": [
+      "El loro Pepe",
+      "La abuela",
+      "El perro"
+     ]
+    },
+    {
+     "en": "What will there be if there's rain and sun together?",
+     "en_op": [
+      "A rainbow",
+      "A snowman",
+      "A big wind"
+     ],
+     "es": "¿Qué saldrá si hay lluvia y sol a la vez?",
+     "es_op": [
+      "Un arcoíris",
+      "Un muñeco de nieve",
+      "Mucho viento"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "18-un-heroe-tiene-que",
+   "titulo_en": "A Hero Has To!",
+   "titulo_es": "¡Un héroe tiene que!",
+   "ensena_en": "rules and obligations with must, mustn't, have to and don't have to (and the difference between «mustn't» and «don't have to»)",
+   "ensena_es": "la obligación con tener que, hay que y deber (tienes que, hay que, no debes, no tienes que) y la diferencia entre «no debes» y «no tienes que»",
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Verse 1",
+      "texto": "First day at Hero School, I've got a cape and a mask,",
+      "ini": 9.74,
+      "fin": 12.2,
+      "palabras": [
+       {
+        "t": "First",
+        "ini": 9.74,
+        "fin": 9.96
+       },
+       {
+        "t": "day",
+        "ini": 10.04,
+        "fin": 10.18
+       },
+       {
+        "t": "at",
+        "ini": 10.24,
+        "fin": 10.32
+       },
+       {
+        "t": "Hero",
+        "ini": 10.36,
+        "fin": 10.58
+       },
+       {
+        "t": "School,",
+        "ini": 10.64,
+        "fin": 10.84
+       },
+       {
+        "t": "I've",
+        "ini": 10.9,
+        "fin": 10.98
+       },
+       {
+        "t": "got",
+        "ini": 11.02,
+        "fin": 11.14
+       },
+       {
+        "t": "a",
+        "ini": 11.2,
+        "fin": 11.26
+       },
+       {
+        "t": "cape",
+        "ini": 11.32,
+        "fin": 11.54
+       },
+       {
+        "t": "and",
+        "ini": 11.56,
+        "fin": 11.62
+       },
+       {
+        "t": "a",
+        "ini": 11.66,
+        "fin": 11.74
+       },
+       {
+        "t": "mask,",
+        "ini": 11.8,
+        "fin": 12.2
+       }
+      ],
+      "trad": "Primer día en la Escuela de Héroes, tengo capa y antifaz,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "the teacher's Madame Lightning, and she gives me my first task:",
+      "ini": 12.42,
+      "fin": 14.8,
+      "palabras": [
+       {
+        "t": "the",
+        "ini": 12.42,
+        "fin": 12.5
+       },
+       {
+        "t": "teacher's",
+        "ini": 12.56,
+        "fin": 12.84
+       },
+       {
+        "t": "Madame",
+        "ini": 12.88,
+        "fin": 13.12
+       },
+       {
+        "t": "Lightning,",
+        "ini": 13.18,
+        "fin": 13.48
+       },
+       {
+        "t": "and",
+        "ini": 13.52,
+        "fin": 13.6
+       },
+       {
+        "t": "she",
+        "ini": 13.64,
+        "fin": 13.72
+       },
+       {
+        "t": "gives",
+        "ini": 13.8,
+        "fin": 13.94
+       },
+       {
+        "t": "me",
+        "ini": 13.98,
+        "fin": 14.06
+       },
+       {
+        "t": "my",
+        "ini": 14.12,
+        "fin": 14.24
+       },
+       {
+        "t": "first",
+        "ini": 14.26,
+        "fin": 14.42
+       },
+       {
+        "t": "task:",
+        "ini": 14.48,
+        "fin": 14.8
+       }
+      ],
+      "trad": "la profe es Madame Rayo y me pone mi primera tarea:"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "«You have to make your bed before you save the town,»",
+      "ini": 14.92,
+      "fin": 17.06,
+      "palabras": [
+       {
+        "t": "«You",
+        "ini": 14.92,
+        "fin": 15.02
+       },
+       {
+        "t": "have",
+        "ini": 15.06,
+        "fin": 15.22
+       },
+       {
+        "t": "to",
+        "ini": 15.24,
+        "fin": 15.32
+       },
+       {
+        "t": "make",
+        "ini": 15.36,
+        "fin": 15.52
+       },
+       {
+        "t": "your",
+        "ini": 15.54,
+        "fin": 15.62
+       },
+       {
+        "t": "bed",
+        "ini": 15.68,
+        "fin": 15.84
+       },
+       {
+        "t": "before",
+        "ini": 15.86,
+        "fin": 16.12
+       },
+       {
+        "t": "you",
+        "ini": 16.16,
+        "fin": 16.26
+       },
+       {
+        "t": "save",
+        "ini": 16.34,
+        "fin": 16.56
+       },
+       {
+        "t": "the",
+        "ini": 16.62,
+        "fin": 16.74
+       },
+       {
+        "t": "town,»",
+        "ini": 16.8,
+        "fin": 17.06
+       }
+      ],
+      "trad": "«Tienes que hacer la cama antes de salvar la ciudad»,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "«you mustn't fly in the kitchen, and you have to calm down!»",
+      "ini": 17.12,
+      "fin": 19.96,
+      "palabras": [
+       {
+        "t": "«you",
+        "ini": 17.12,
+        "fin": 17.2
+       },
+       {
+        "t": "mustn't",
+        "ini": 17.24,
+        "fin": 17.5
+       },
+       {
+        "t": "fly",
+        "ini": 17.58,
+        "fin": 17.88
+       },
+       {
+        "t": "in",
+        "ini": 17.92,
+        "fin": 18.0
+       },
+       {
+        "t": "the",
+        "ini": 18.04,
+        "fin": 18.12
+       },
+       {
+        "t": "kitchen,",
+        "ini": 18.18,
+        "fin": 18.48
+       },
+       {
+        "t": "and",
+        "ini": 18.52,
+        "fin": 18.64
+       },
+       {
+        "t": "you",
+        "ini": 18.68,
+        "fin": 18.76
+       },
+       {
+        "t": "have",
+        "ini": 18.82,
+        "fin": 18.96
+       },
+       {
+        "t": "to",
+        "ini": 19.0,
+        "fin": 19.08
+       },
+       {
+        "t": "calm",
+        "ini": 19.14,
+        "fin": 19.36
+       },
+       {
+        "t": "down!»",
+        "ini": 19.48,
+        "fin": 19.96
+       }
+      ],
+      "trad": "«no debes volar en la cocina, ¡y tienes que calmarte!»"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "You have to, you have to — yes, a hero has to!",
+      "ini": 29.92,
+      "fin": 32.02,
+      "palabras": [
+       {
+        "t": "You",
+        "ini": 29.92,
+        "fin": 29.98
+       },
+       {
+        "t": "have",
+        "ini": 30.08,
+        "fin": 30.3
+       },
+       {
+        "t": "to,",
+        "ini": 30.36,
+        "fin": 30.44
+       },
+       {
+        "t": "you",
+        "ini": 30.54,
+        "fin": 30.62
+       },
+       {
+        "t": "have",
+        "ini": 30.66,
+        "fin": 30.82
+       },
+       {
+        "t": "to",
+        "ini": 30.86,
+        "fin": 30.92
+       },
+       {
+        "t": "—",
+        "ini": 30.96,
+        "fin": 30.96
+       },
+       {
+        "t": "yes,",
+        "ini": 30.98,
+        "fin": 31.14
+       },
+       {
+        "t": "a",
+        "ini": 31.22,
+        "fin": 31.24
+       },
+       {
+        "t": "hero",
+        "ini": 31.3,
+        "fin": 31.56
+       },
+       {
+        "t": "has",
+        "ini": 31.64,
+        "fin": 31.84
+       },
+       {
+        "t": "to!",
+        "ini": 31.94,
+        "fin": 32.02
+       }
+      ],
+      "trad": "Tienes que, tienes que… ¡sí, un héroe tiene que!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "You must be kind, you mustn't lie, and you have to say «thank you»!",
+      "ini": 32.12,
+      "fin": 34.94,
+      "palabras": [
+       {
+        "t": "You",
+        "ini": 32.12,
+        "fin": 32.18
+       },
+       {
+        "t": "must",
+        "ini": 32.22,
+        "fin": 32.38
+       },
+       {
+        "t": "be",
+        "ini": 32.42,
+        "fin": 32.5
+       },
+       {
+        "t": "kind,",
+        "ini": 32.54,
+        "fin": 32.68
+       },
+       {
+        "t": "you",
+        "ini": 32.76,
+        "fin": 32.82
+       },
+       {
+        "t": "mustn't",
+        "ini": 32.86,
+        "fin": 33.14
+       },
+       {
+        "t": "lie,",
+        "ini": 33.2,
+        "fin": 33.48
+       },
+       {
+        "t": "and",
+        "ini": 33.54,
+        "fin": 33.64
+       },
+       {
+        "t": "you",
+        "ini": 33.68,
+        "fin": 33.74
+       },
+       {
+        "t": "have",
+        "ini": 33.8,
+        "fin": 33.94
+       },
+       {
+        "t": "to",
+        "ini": 33.98,
+        "fin": 34.08
+       },
+       {
+        "t": "say",
+        "ini": 34.14,
+        "fin": 34.28
+       },
+       {
+        "t": "«thank",
+        "ini": 34.38,
+        "fin": 34.72
+       },
+       {
+        "t": "you»!",
+        "ini": 34.8,
+        "fin": 34.94
+       }
+      ],
+      "trad": "Debes ser amable, no debes mentir, ¡y tienes que dar las gracias!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "— Do I have to? — Yes, you do! — Do I have to? — Yes, it's true!",
+      "ini": 34.96,
+      "fin": 40.0,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 34.96,
+        "fin": 34.96
+       },
+       {
+        "t": "Do",
+        "ini": 35.98,
+        "fin": 36.12
+       },
+       {
+        "t": "I",
+        "ini": 36.22,
+        "fin": 36.26
+       },
+       {
+        "t": "have",
+        "ini": 36.32,
+        "fin": 36.54
+       },
+       {
+        "t": "to?",
+        "ini": 36.62,
+        "fin": 36.76
+       },
+       {
+        "t": "—",
+        "ini": 36.86,
+        "fin": 36.86
+       },
+       {
+        "t": "Yes,",
+        "ini": 36.92,
+        "fin": 37.06
+       },
+       {
+        "t": "you",
+        "ini": 37.12,
+        "fin": 37.16
+       },
+       {
+        "t": "do!",
+        "ini": 37.26,
+        "fin": 37.5
+       },
+       {
+        "t": "—",
+        "ini": 37.5,
+        "fin": 37.5
+       },
+       {
+        "t": "Do",
+        "ini": 38.5,
+        "fin": 38.58
+       },
+       {
+        "t": "I",
+        "ini": 38.74,
+        "fin": 38.76
+       },
+       {
+        "t": "have",
+        "ini": 38.82,
+        "fin": 39.06
+       },
+       {
+        "t": "to?",
+        "ini": 39.12,
+        "fin": 39.28
+       },
+       {
+        "t": "—",
+        "ini": 39.36,
+        "fin": 39.36
+       },
+       {
+        "t": "Yes,",
+        "ini": 39.38,
+        "fin": 39.54
+       },
+       {
+        "t": "it's",
+        "ini": 39.6,
+        "fin": 39.72
+       },
+       {
+        "t": "true!",
+        "ini": 39.74,
+        "fin": 40.0
+       }
+      ],
+      "trad": "—¿Tengo que hacerlo? —¡Pues sí! —¿Tengo que hacerlo? —¡Sí, es verdad!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Super cape and super shoes… a hero has rules too!",
+      "ini": 40.96,
+      "fin": 44.66,
+      "palabras": [
+       {
+        "t": "Super",
+        "ini": 40.96,
+        "fin": 41.2
+       },
+       {
+        "t": "cape",
+        "ini": 41.32,
+        "fin": 41.6
+       },
+       {
+        "t": "and",
+        "ini": 41.64,
+        "fin": 41.84
+       },
+       {
+        "t": "super",
+        "ini": 41.92,
+        "fin": 42.16
+       },
+       {
+        "t": "shoes…",
+        "ini": 42.22,
+        "fin": 42.74
+       },
+       {
+        "t": "a",
+        "ini": 43.38,
+        "fin": 43.42
+       },
+       {
+        "t": "hero",
+        "ini": 43.48,
+        "fin": 43.76
+       },
+       {
+        "t": "has",
+        "ini": 43.82,
+        "fin": 44.04
+       },
+       {
+        "t": "rules",
+        "ini": 44.12,
+        "fin": 44.38
+       },
+       {
+        "t": "too!",
+        "ini": 44.46,
+        "fin": 44.66
+       }
+      ],
+      "trad": "Supercapa y superzapatos… ¡un héroe también tiene normas!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Captain Storm has to see the dentist — open wide and say «ah»!",
+      "ini": 45.34,
+      "fin": 48.34,
+      "palabras": [
+       {
+        "t": "Captain",
+        "ini": 45.34,
+        "fin": 45.6
+       },
+       {
+        "t": "Storm",
+        "ini": 45.7,
+        "fin": 45.96
+       },
+       {
+        "t": "has",
+        "ini": 46.0,
+        "fin": 46.12
+       },
+       {
+        "t": "to",
+        "ini": 46.16,
+        "fin": 46.24
+       },
+       {
+        "t": "see",
+        "ini": 46.34,
+        "fin": 46.56
+       },
+       {
+        "t": "the",
+        "ini": 46.62,
+        "fin": 46.74
+       },
+       {
+        "t": "dentist",
+        "ini": 46.78,
+        "fin": 47.16
+       },
+       {
+        "t": "—",
+        "ini": 47.22,
+        "fin": 47.22
+       },
+       {
+        "t": "open",
+        "ini": 47.28,
+        "fin": 47.5
+       },
+       {
+        "t": "wide",
+        "ini": 47.56,
+        "fin": 47.72
+       },
+       {
+        "t": "and",
+        "ini": 47.74,
+        "fin": 47.8
+       },
+       {
+        "t": "say",
+        "ini": 47.9,
+        "fin": 48.04
+       },
+       {
+        "t": "«ah»!",
+        "ini": 48.14,
+        "fin": 48.34
+       }
+      ],
+      "trad": "El Capitán Tormenta tiene que ir al dentista — ¡abre bien y di «ah»!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Super Cat must look after her fish — and mustn't eat it, ha!",
+      "ini": 50.04,
+      "fin": 53.38,
+      "palabras": [
+       {
+        "t": "Super",
+        "ini": 50.04,
+        "fin": 50.28
+       },
+       {
+        "t": "Cat",
+        "ini": 50.36,
+        "fin": 50.56
+       },
+       {
+        "t": "must",
+        "ini": 50.68,
+        "fin": 50.88
+       },
+       {
+        "t": "look",
+        "ini": 50.98,
+        "fin": 51.12
+       },
+       {
+        "t": "after",
+        "ini": 51.34,
+        "fin": 51.56
+       },
+       {
+        "t": "her",
+        "ini": 51.58,
+        "fin": 51.68
+       },
+       {
+        "t": "fish",
+        "ini": 51.8,
+        "fin": 52.06
+       },
+       {
+        "t": "—",
+        "ini": 52.08,
+        "fin": 52.08
+       },
+       {
+        "t": "and",
+        "ini": 52.12,
+        "fin": 52.2
+       },
+       {
+        "t": "mustn't",
+        "ini": 52.24,
+        "fin": 52.56
+       },
+       {
+        "t": "eat",
+        "ini": 52.6,
+        "fin": 52.74
+       },
+       {
+        "t": "it,",
+        "ini": 52.8,
+        "fin": 52.9
+       },
+       {
+        "t": "ha!",
+        "ini": 53.18,
+        "fin": 53.38
+       }
+      ],
+      "trad": "Supergata debe cuidar su pez… ¡y no debe comérselo, ja!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— And what do I have to do? — Your homework, every day,",
+      "ini": 53.44,
+      "fin": 58.6,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 53.44,
+        "fin": 53.44
+       },
+       {
+        "t": "And",
+        "ini": 54.6,
+        "fin": 54.68
+       },
+       {
+        "t": "what",
+        "ini": 54.76,
+        "fin": 54.98
+       },
+       {
+        "t": "do",
+        "ini": 55.06,
+        "fin": 55.18
+       },
+       {
+        "t": "I",
+        "ini": 55.28,
+        "fin": 55.32
+       },
+       {
+        "t": "have",
+        "ini": 55.38,
+        "fin": 55.5
+       },
+       {
+        "t": "to",
+        "ini": 55.54,
+        "fin": 55.6
+       },
+       {
+        "t": "do?",
+        "ini": 55.72,
+        "fin": 55.94
+       },
+       {
+        "t": "—",
+        "ini": 56.0,
+        "fin": 56.0
+       },
+       {
+        "t": "Your",
+        "ini": 57.08,
+        "fin": 57.2
+       },
+       {
+        "t": "homework,",
+        "ini": 57.26,
+        "fin": 57.76
+       },
+       {
+        "t": "every",
+        "ini": 57.9,
+        "fin": 58.1
+       },
+       {
+        "t": "day,",
+        "ini": 58.22,
+        "fin": 58.6
+       }
+      ],
+      "trad": "—¿Y qué tengo que hacer? —Tus deberes, todos los días,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "'cause a hero has to learn — and you mustn't copy, no way!",
+      "ini": 58.62,
+      "fin": 63.62,
+      "palabras": [
+       {
+        "t": "'cause",
+        "ini": 58.62,
+        "fin": 59.88
+       },
+       {
+        "t": "a",
+        "ini": 59.96,
+        "fin": 60.0
+       },
+       {
+        "t": "hero",
+        "ini": 60.04,
+        "fin": 60.32
+       },
+       {
+        "t": "has",
+        "ini": 60.36,
+        "fin": 60.5
+       },
+       {
+        "t": "to",
+        "ini": 60.54,
+        "fin": 60.62
+       },
+       {
+        "t": "learn",
+        "ini": 60.7,
+        "fin": 61.1
+       },
+       {
+        "t": "—",
+        "ini": 61.1,
+        "fin": 61.1
+       },
+       {
+        "t": "and",
+        "ini": 61.94,
+        "fin": 62.06
+       },
+       {
+        "t": "you",
+        "ini": 62.12,
+        "fin": 62.18
+       },
+       {
+        "t": "mustn't",
+        "ini": 62.24,
+        "fin": 62.5
+       },
+       {
+        "t": "copy,",
+        "ini": 62.54,
+        "fin": 62.8
+       },
+       {
+        "t": "no",
+        "ini": 62.9,
+        "fin": 63.06
+       },
+       {
+        "t": "way!",
+        "ini": 63.2,
+        "fin": 63.62
+       }
+      ],
+      "trad": "porque un héroe tiene que aprender… ¡y no debes copiar, ni hablar!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "You have to, you have to — yes, a hero has to!",
+      "ini": 66.88,
+      "fin": 68.14,
+      "palabras": [
+       {
+        "t": "You",
+        "ini": 66.88,
+        "fin": 66.88
+       },
+       {
+        "t": "have",
+        "ini": 66.92,
+        "fin": 67.04
+       },
+       {
+        "t": "to,",
+        "ini": 67.04,
+        "fin": 67.04
+       },
+       {
+        "t": "you",
+        "ini": 67.04,
+        "fin": 67.04
+       },
+       {
+        "t": "have",
+        "ini": 67.04,
+        "fin": 67.04
+       },
+       {
+        "t": "to",
+        "ini": 67.04,
+        "fin": 67.04
+       },
+       {
+        "t": "—",
+        "ini": 67.04,
+        "fin": 67.04
+       },
+       {
+        "t": "yes,",
+        "ini": 67.04,
+        "fin": 67.08
+       },
+       {
+        "t": "a",
+        "ini": 67.18,
+        "fin": 67.2
+       },
+       {
+        "t": "hero",
+        "ini": 67.56,
+        "fin": 67.78
+       },
+       {
+        "t": "has",
+        "ini": 68.02,
+        "fin": 68.02
+       },
+       {
+        "t": "to!",
+        "ini": 68.06,
+        "fin": 68.14
+       }
+      ],
+      "trad": "Tienes que, tienes que… ¡sí, un héroe tiene que!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "You must be kind, you mustn't lie, and you have to say «thank you»!",
+      "ini": 72.1,
+      "fin": 74.96,
+      "palabras": [
+       {
+        "t": "You",
+        "ini": 72.1,
+        "fin": 72.16
+       },
+       {
+        "t": "must",
+        "ini": 72.22,
+        "fin": 72.38
+       },
+       {
+        "t": "be",
+        "ini": 72.42,
+        "fin": 72.5
+       },
+       {
+        "t": "kind,",
+        "ini": 72.54,
+        "fin": 72.7
+       },
+       {
+        "t": "you",
+        "ini": 72.76,
+        "fin": 72.82
+       },
+       {
+        "t": "mustn't",
+        "ini": 72.86,
+        "fin": 73.14
+       },
+       {
+        "t": "lie,",
+        "ini": 73.2,
+        "fin": 73.44
+       },
+       {
+        "t": "and",
+        "ini": 73.54,
+        "fin": 73.64
+       },
+       {
+        "t": "you",
+        "ini": 73.68,
+        "fin": 73.76
+       },
+       {
+        "t": "have",
+        "ini": 73.8,
+        "fin": 73.94
+       },
+       {
+        "t": "to",
+        "ini": 73.98,
+        "fin": 74.08
+       },
+       {
+        "t": "say",
+        "ini": 74.14,
+        "fin": 74.32
+       },
+       {
+        "t": "«thank",
+        "ini": 74.38,
+        "fin": 74.72
+       },
+       {
+        "t": "you»!",
+        "ini": 74.8,
+        "fin": 74.96
+       }
+      ],
+      "trad": "Debes ser amable, no debes mentir, ¡y tienes que dar las gracias!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "— Do I have to? — Yes, you do! — Do I have to? — Yes, it's true!",
+      "ini": 74.96,
+      "fin": 80.0,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 74.96,
+        "fin": 74.96
+       },
+       {
+        "t": "Do",
+        "ini": 75.98,
+        "fin": 76.1
+       },
+       {
+        "t": "I",
+        "ini": 76.22,
+        "fin": 76.26
+       },
+       {
+        "t": "have",
+        "ini": 76.32,
+        "fin": 76.54
+       },
+       {
+        "t": "to?",
+        "ini": 76.62,
+        "fin": 76.78
+       },
+       {
+        "t": "—",
+        "ini": 76.78,
+        "fin": 76.78
+       },
+       {
+        "t": "Yes,",
+        "ini": 76.92,
+        "fin": 77.06
+       },
+       {
+        "t": "you",
+        "ini": 77.12,
+        "fin": 77.16
+       },
+       {
+        "t": "do!",
+        "ini": 77.26,
+        "fin": 77.5
+       },
+       {
+        "t": "—",
+        "ini": 77.5,
+        "fin": 77.5
+       },
+       {
+        "t": "Do",
+        "ini": 78.48,
+        "fin": 78.62
+       },
+       {
+        "t": "I",
+        "ini": 78.72,
+        "fin": 78.76
+       },
+       {
+        "t": "have",
+        "ini": 78.84,
+        "fin": 79.04
+       },
+       {
+        "t": "to?",
+        "ini": 79.12,
+        "fin": 79.26
+       },
+       {
+        "t": "—",
+        "ini": 79.36,
+        "fin": 79.36
+       },
+       {
+        "t": "Yes,",
+        "ini": 79.4,
+        "fin": 79.54
+       },
+       {
+        "t": "it's",
+        "ini": 79.58,
+        "fin": 79.74
+       },
+       {
+        "t": "true!",
+        "ini": 79.76,
+        "fin": 80.0
+       }
+      ],
+      "trad": "—¿Tengo que hacerlo? —¡Pues sí! —¿Tengo que hacerlo? —¡Sí, es verdad!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Super cape and super shoes… a hero has rules too!",
+      "ini": 80.96,
+      "fin": 84.68,
+      "palabras": [
+       {
+        "t": "Super",
+        "ini": 80.96,
+        "fin": 81.22
+       },
+       {
+        "t": "cape",
+        "ini": 81.32,
+        "fin": 81.6
+       },
+       {
+        "t": "and",
+        "ini": 81.64,
+        "fin": 81.82
+       },
+       {
+        "t": "super",
+        "ini": 81.88,
+        "fin": 82.16
+       },
+       {
+        "t": "shoes…",
+        "ini": 82.22,
+        "fin": 82.72
+       },
+       {
+        "t": "a",
+        "ini": 83.38,
+        "fin": 83.42
+       },
+       {
+        "t": "hero",
+        "ini": 83.46,
+        "fin": 83.76
+       },
+       {
+        "t": "has",
+        "ini": 83.84,
+        "fin": 84.08
+       },
+       {
+        "t": "rules",
+        "ini": 84.12,
+        "fin": 84.38
+       },
+       {
+        "t": "too!",
+        "ini": 84.44,
+        "fin": 84.68
+       }
+      ],
+      "trad": "Supercapa y superzapatos… ¡un héroe también tiene normas!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "«Mustn't» means «don't you dare!», «don't have to» means «you decide»,",
+      "ini": 84.68,
+      "fin": 89.7,
+      "palabras": [
+       {
+        "t": "«Mustn't»",
+        "ini": 84.68,
+        "fin": 85.7
+       },
+       {
+        "t": "means",
+        "ini": 86.0,
+        "fin": 86.22
+       },
+       {
+        "t": "«don't",
+        "ini": 86.3,
+        "fin": 86.54
+       },
+       {
+        "t": "you",
+        "ini": 86.62,
+        "fin": 86.68
+       },
+       {
+        "t": "dare!»,",
+        "ini": 86.8,
+        "fin": 87.12
+       },
+       {
+        "t": "«don't",
+        "ini": 87.22,
+        "fin": 87.48
+       },
+       {
+        "t": "have",
+        "ini": 87.56,
+        "fin": 87.8
+       },
+       {
+        "t": "to»",
+        "ini": 87.86,
+        "fin": 88.06
+       },
+       {
+        "t": "means",
+        "ini": 88.5,
+        "fin": 88.74
+       },
+       {
+        "t": "«you",
+        "ini": 88.82,
+        "fin": 89.0
+       },
+       {
+        "t": "decide»,",
+        "ini": 89.1,
+        "fin": 89.7
+       }
+      ],
+      "trad": "«No debes» significa «¡ni se te ocurra!», «no tienes que» significa «tú decides»,"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "you don't have to eat it all, but you have to try one bite!",
+      "ini": 90.42,
+      "fin": 94.78,
+      "palabras": [
+       {
+        "t": "you",
+        "ini": 90.42,
+        "fin": 90.54
+       },
+       {
+        "t": "don't",
+        "ini": 90.68,
+        "fin": 90.92
+       },
+       {
+        "t": "have",
+        "ini": 90.98,
+        "fin": 91.14
+       },
+       {
+        "t": "to",
+        "ini": 91.18,
+        "fin": 91.3
+       },
+       {
+        "t": "eat",
+        "ini": 91.36,
+        "fin": 91.48
+       },
+       {
+        "t": "it",
+        "ini": 91.52,
+        "fin": 91.6
+       },
+       {
+        "t": "all,",
+        "ini": 91.7,
+        "fin": 91.84
+       },
+       {
+        "t": "but",
+        "ini": 92.22,
+        "fin": 92.34
+       },
+       {
+        "t": "you",
+        "ini": 92.4,
+        "fin": 92.5
+       },
+       {
+        "t": "have",
+        "ini": 92.58,
+        "fin": 92.8
+       },
+       {
+        "t": "to",
+        "ini": 92.86,
+        "fin": 93.04
+       },
+       {
+        "t": "try",
+        "ini": 93.14,
+        "fin": 93.52
+       },
+       {
+        "t": "one",
+        "ini": 93.86,
+        "fin": 94.1
+       },
+       {
+        "t": "bite!",
+        "ini": 94.44,
+        "fin": 94.78
+       }
+      ],
+      "trad": "no tienes que comértelo todo, ¡pero tienes que probar un bocado!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "At the end of the day, Madame Lightning gives me a gold star:",
+      "ini": 114.76,
+      "fin": 118.24,
+      "palabras": [
+       {
+        "t": "At",
+        "ini": 114.76,
+        "fin": 114.88
+       },
+       {
+        "t": "the",
+        "ini": 114.92,
+        "fin": 115.0
+       },
+       {
+        "t": "end",
+        "ini": 115.06,
+        "fin": 115.22
+       },
+       {
+        "t": "of",
+        "ini": 115.26,
+        "fin": 115.32
+       },
+       {
+        "t": "the",
+        "ini": 115.36,
+        "fin": 115.42
+       },
+       {
+        "t": "day,",
+        "ini": 115.54,
+        "fin": 115.76
+       },
+       {
+        "t": "Madame",
+        "ini": 115.98,
+        "fin": 116.26
+       },
+       {
+        "t": "Lightning",
+        "ini": 116.32,
+        "fin": 116.7
+       },
+       {
+        "t": "gives",
+        "ini": 116.8,
+        "fin": 117.06
+       },
+       {
+        "t": "me",
+        "ini": 117.12,
+        "fin": 117.28
+       },
+       {
+        "t": "a",
+        "ini": 117.42,
+        "fin": 117.5
+       },
+       {
+        "t": "gold",
+        "ini": 117.56,
+        "fin": 117.76
+       },
+       {
+        "t": "star:",
+        "ini": 117.88,
+        "fin": 118.24
+       }
+      ],
+      "trad": "Al final del día, Madame Rayo me da una estrella dorada:"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "«You don't have to fly to be a hero — you just have to be who you are!»",
+      "ini": 119.71,
+      "fin": 123.6,
+      "palabras": [
+       {
+        "t": "«You",
+        "ini": 119.71,
+        "fin": 120.16
+       },
+       {
+        "t": "don't",
+        "ini": 120.2,
+        "fin": 120.32
+       },
+       {
+        "t": "have",
+        "ini": 120.36,
+        "fin": 120.48
+       },
+       {
+        "t": "to",
+        "ini": 120.52,
+        "fin": 120.6
+       },
+       {
+        "t": "fly",
+        "ini": 120.68,
+        "fin": 120.84
+       },
+       {
+        "t": "to",
+        "ini": 120.88,
+        "fin": 120.98
+       },
+       {
+        "t": "be",
+        "ini": 121.02,
+        "fin": 121.12
+       },
+       {
+        "t": "a",
+        "ini": 121.2,
+        "fin": 121.24
+       },
+       {
+        "t": "hero",
+        "ini": 121.3,
+        "fin": 121.68
+       },
+       {
+        "t": "—",
+        "ini": 121.88,
+        "fin": 121.88
+       },
+       {
+        "t": "you",
+        "ini": 121.96,
+        "fin": 122.04
+       },
+       {
+        "t": "just",
+        "ini": 122.1,
+        "fin": 122.2
+       },
+       {
+        "t": "have",
+        "ini": 122.24,
+        "fin": 122.36
+       },
+       {
+        "t": "to",
+        "ini": 122.4,
+        "fin": 122.5
+       },
+       {
+        "t": "be",
+        "ini": 122.58,
+        "fin": 122.78
+       },
+       {
+        "t": "who",
+        "ini": 122.86,
+        "fin": 122.96
+       },
+       {
+        "t": "you",
+        "ini": 123.06,
+        "fin": 123.16
+       },
+       {
+        "t": "are!»",
+        "ini": 123.28,
+        "fin": 123.6
+       }
+      ],
+      "trad": "«No tienes que volar para ser un héroe: ¡solo tienes que ser tú!»"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "You have to, you have to — yes, a hero has to!",
+      "ini": 126.88,
+      "fin": 130.64,
+      "palabras": [
+       {
+        "t": "You",
+        "ini": 126.88,
+        "fin": 127.0
+       },
+       {
+        "t": "have",
+        "ini": 127.04,
+        "fin": 127.08
+       },
+       {
+        "t": "to,",
+        "ini": 127.12,
+        "fin": 127.38
+       },
+       {
+        "t": "you",
+        "ini": 127.56,
+        "fin": 127.94
+       },
+       {
+        "t": "have",
+        "ini": 127.98,
+        "fin": 128.02
+       },
+       {
+        "t": "to",
+        "ini": 128.08,
+        "fin": 128.22
+       },
+       {
+        "t": "—",
+        "ini": 129.36,
+        "fin": 129.36
+       },
+       {
+        "t": "yes,",
+        "ini": 129.42,
+        "fin": 129.6
+       },
+       {
+        "t": "a",
+        "ini": 129.68,
+        "fin": 129.7
+       },
+       {
+        "t": "hero",
+        "ini": 130.06,
+        "fin": 130.3
+       },
+       {
+        "t": "has",
+        "ini": 130.36,
+        "fin": 130.52
+       },
+       {
+        "t": "to!",
+        "ini": 130.56,
+        "fin": 130.64
+       }
+      ],
+      "trad": "Tienes que, tienes que… ¡sí, un héroe tiene que!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "You must be kind, you mustn't lie, and you have to say «thank you»!",
+      "ini": 132.12,
+      "fin": 134.96,
+      "palabras": [
+       {
+        "t": "You",
+        "ini": 132.12,
+        "fin": 132.16
+       },
+       {
+        "t": "must",
+        "ini": 132.22,
+        "fin": 132.38
+       },
+       {
+        "t": "be",
+        "ini": 132.42,
+        "fin": 132.5
+       },
+       {
+        "t": "kind,",
+        "ini": 132.54,
+        "fin": 132.72
+       },
+       {
+        "t": "you",
+        "ini": 132.76,
+        "fin": 132.82
+       },
+       {
+        "t": "mustn't",
+        "ini": 132.86,
+        "fin": 133.16
+       },
+       {
+        "t": "lie,",
+        "ini": 133.22,
+        "fin": 133.48
+       },
+       {
+        "t": "and",
+        "ini": 133.54,
+        "fin": 133.64
+       },
+       {
+        "t": "you",
+        "ini": 133.68,
+        "fin": 133.76
+       },
+       {
+        "t": "have",
+        "ini": 133.8,
+        "fin": 133.94
+       },
+       {
+        "t": "to",
+        "ini": 133.98,
+        "fin": 134.08
+       },
+       {
+        "t": "say",
+        "ini": 134.14,
+        "fin": 134.32
+       },
+       {
+        "t": "«thank",
+        "ini": 134.38,
+        "fin": 134.74
+       },
+       {
+        "t": "you»!",
+        "ini": 134.8,
+        "fin": 134.96
+       }
+      ],
+      "trad": "Debes ser amable, no debes mentir, ¡y tienes que dar las gracias!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "— Do I have to? — Yes, you do! — Do I have to? — Yes, it's true!",
+      "ini": 134.96,
+      "fin": 140.0,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 134.96,
+        "fin": 134.96
+       },
+       {
+        "t": "Do",
+        "ini": 135.98,
+        "fin": 136.1
+       },
+       {
+        "t": "I",
+        "ini": 136.22,
+        "fin": 136.26
+       },
+       {
+        "t": "have",
+        "ini": 136.34,
+        "fin": 136.54
+       },
+       {
+        "t": "to?",
+        "ini": 136.62,
+        "fin": 136.78
+       },
+       {
+        "t": "—",
+        "ini": 136.88,
+        "fin": 136.88
+       },
+       {
+        "t": "Yes,",
+        "ini": 136.92,
+        "fin": 137.06
+       },
+       {
+        "t": "you",
+        "ini": 137.1,
+        "fin": 137.16
+       },
+       {
+        "t": "do!",
+        "ini": 137.26,
+        "fin": 137.5
+       },
+       {
+        "t": "—",
+        "ini": 137.5,
+        "fin": 137.5
+       },
+       {
+        "t": "Do",
+        "ini": 138.5,
+        "fin": 138.62
+       },
+       {
+        "t": "I",
+        "ini": 138.72,
+        "fin": 138.76
+       },
+       {
+        "t": "have",
+        "ini": 138.84,
+        "fin": 139.04
+       },
+       {
+        "t": "to?",
+        "ini": 139.12,
+        "fin": 139.26
+       },
+       {
+        "t": "—",
+        "ini": 139.36,
+        "fin": 139.36
+       },
+       {
+        "t": "Yes,",
+        "ini": 139.4,
+        "fin": 139.52
+       },
+       {
+        "t": "it's",
+        "ini": 139.58,
+        "fin": 139.72
+       },
+       {
+        "t": "true!",
+        "ini": 139.76,
+        "fin": 140.0
+       }
+      ],
+      "trad": "—¿Tengo que hacerlo? —¡Pues sí! —¿Tengo que hacerlo? —¡Sí, es verdad!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Super cape and super shoes… a hero has rules too!",
+      "ini": 140.96,
+      "fin": 144.66,
+      "palabras": [
+       {
+        "t": "Super",
+        "ini": 140.96,
+        "fin": 141.22
+       },
+       {
+        "t": "cape",
+        "ini": 141.32,
+        "fin": 141.6
+       },
+       {
+        "t": "and",
+        "ini": 141.64,
+        "fin": 141.84
+       },
+       {
+        "t": "super",
+        "ini": 141.92,
+        "fin": 142.16
+       },
+       {
+        "t": "shoes…",
+        "ini": 142.24,
+        "fin": 142.72
+       },
+       {
+        "t": "a",
+        "ini": 143.36,
+        "fin": 143.42
+       },
+       {
+        "t": "hero",
+        "ini": 143.46,
+        "fin": 143.74
+       },
+       {
+        "t": "has",
+        "ini": 143.84,
+        "fin": 144.08
+       },
+       {
+        "t": "rules",
+        "ini": 144.12,
+        "fin": 144.38
+       },
+       {
+        "t": "too!",
+        "ini": 144.46,
+        "fin": 144.66
+       }
+      ],
+      "trad": "Supercapa y superzapatos… ¡un héroe también tiene normas!"
+     }
+    ],
+    "duracion": 155.04
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Verse 1",
+      "texto": "Primer día en la Escuela de Héroes, tengo capa y antifaz,",
+      "ini": 9.76,
+      "fin": 12.42,
+      "palabras": [
+       {
+        "t": "Primer",
+        "ini": 9.76,
+        "fin": 10.04
+       },
+       {
+        "t": "día",
+        "ini": 10.1,
+        "fin": 10.28
+       },
+       {
+        "t": "en",
+        "ini": 10.3,
+        "fin": 10.36
+       },
+       {
+        "t": "la",
+        "ini": 10.38,
+        "fin": 10.42
+       },
+       {
+        "t": "Escuela",
+        "ini": 10.44,
+        "fin": 10.8
+       },
+       {
+        "t": "de",
+        "ini": 10.86,
+        "fin": 10.94
+       },
+       {
+        "t": "Héroes,",
+        "ini": 11.02,
+        "fin": 11.3
+       },
+       {
+        "t": "tengo",
+        "ini": 11.38,
+        "fin": 11.58
+       },
+       {
+        "t": "capa",
+        "ini": 11.66,
+        "fin": 11.86
+       },
+       {
+        "t": "y",
+        "ini": 11.92,
+        "fin": 11.94
+       },
+       {
+        "t": "antifaz,",
+        "ini": 12.0,
+        "fin": 12.42
+       }
+      ],
+      "trad": "First day at Hero School, I've got a cape and a mask,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "la profe es Madame Rayo y me pone la primera tarea:",
+      "ini": 12.48,
+      "fin": 14.98,
+      "palabras": [
+       {
+        "t": "la",
+        "ini": 12.48,
+        "fin": 12.54
+       },
+       {
+        "t": "profe",
+        "ini": 12.6,
+        "fin": 12.78
+       },
+       {
+        "t": "es",
+        "ini": 12.8,
+        "fin": 12.88
+       },
+       {
+        "t": "Madame",
+        "ini": 12.88,
+        "fin": 13.22
+       },
+       {
+        "t": "Rayo",
+        "ini": 13.22,
+        "fin": 13.5
+       },
+       {
+        "t": "y",
+        "ini": 13.56,
+        "fin": 13.6
+       },
+       {
+        "t": "me",
+        "ini": 13.68,
+        "fin": 13.76
+       },
+       {
+        "t": "pone",
+        "ini": 13.84,
+        "fin": 14.04
+       },
+       {
+        "t": "la",
+        "ini": 14.12,
+        "fin": 14.16
+       },
+       {
+        "t": "primera",
+        "ini": 14.16,
+        "fin": 14.6
+       },
+       {
+        "t": "tarea:",
+        "ini": 14.6,
+        "fin": 14.98
+       }
+      ],
+      "trad": "the teacher's Madame Lightning, and she gives me my first task:"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "«Tienes que hacer la cama antes de salvar la ciudad»,",
+      "ini": 15.24,
+      "fin": 17.4,
+      "palabras": [
+       {
+        "t": "«Tienes",
+        "ini": 15.24,
+        "fin": 15.48
+       },
+       {
+        "t": "que",
+        "ini": 15.52,
+        "fin": 15.58
+       },
+       {
+        "t": "hacer",
+        "ini": 15.6,
+        "fin": 15.84
+       },
+       {
+        "t": "la",
+        "ini": 15.88,
+        "fin": 15.94
+       },
+       {
+        "t": "cama",
+        "ini": 16.02,
+        "fin": 16.18
+       },
+       {
+        "t": "antes",
+        "ini": 16.22,
+        "fin": 16.46
+       },
+       {
+        "t": "de",
+        "ini": 16.5,
+        "fin": 16.54
+       },
+       {
+        "t": "salvar",
+        "ini": 16.6,
+        "fin": 16.9
+       },
+       {
+        "t": "la",
+        "ini": 16.96,
+        "fin": 17.02
+       },
+       {
+        "t": "ciudad»,",
+        "ini": 17.1,
+        "fin": 17.4
+       }
+      ],
+      "trad": "«You have to make your bed before you save the town,»"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "«no debes volar en la cocina, ¡y tienes que calmarte ya!»",
+      "ini": 17.46,
+      "fin": 20.0,
+      "palabras": [
+       {
+        "t": "«no",
+        "ini": 17.46,
+        "fin": 17.54
+       },
+       {
+        "t": "debes",
+        "ini": 17.58,
+        "fin": 17.82
+       },
+       {
+        "t": "volar",
+        "ini": 17.9,
+        "fin": 18.12
+       },
+       {
+        "t": "en",
+        "ini": 18.16,
+        "fin": 18.22
+       },
+       {
+        "t": "la",
+        "ini": 18.26,
+        "fin": 18.32
+       },
+       {
+        "t": "cocina,",
+        "ini": 18.38,
+        "fin": 18.72
+       },
+       {
+        "t": "¡y",
+        "ini": 18.74,
+        "fin": 18.76
+       },
+       {
+        "t": "tienes",
+        "ini": 18.84,
+        "fin": 19.1
+       },
+       {
+        "t": "que",
+        "ini": 19.16,
+        "fin": 19.26
+       },
+       {
+        "t": "calmarte",
+        "ini": 19.3,
+        "fin": 19.72
+       },
+       {
+        "t": "ya!»",
+        "ini": 19.8,
+        "fin": 20.0
+       }
+      ],
+      "trad": "«you mustn't fly in the kitchen, and you have to calm down now!»"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Tienes que, tienes que… ¡un héroe también tiene que!",
+      "ini": 29.72,
+      "fin": 32.08,
+      "palabras": [
+       {
+        "t": "Tienes",
+        "ini": 29.72,
+        "fin": 30.02
+       },
+       {
+        "t": "que,",
+        "ini": 30.1,
+        "fin": 30.26
+       },
+       {
+        "t": "tienes",
+        "ini": 30.36,
+        "fin": 30.64
+       },
+       {
+        "t": "que…",
+        "ini": 30.72,
+        "fin": 30.84
+       },
+       {
+        "t": "¡un",
+        "ini": 30.92,
+        "fin": 31.0
+       },
+       {
+        "t": "héroe",
+        "ini": 31.02,
+        "fin": 31.24
+       },
+       {
+        "t": "también",
+        "ini": 31.32,
+        "fin": 31.58
+       },
+       {
+        "t": "tiene",
+        "ini": 31.64,
+        "fin": 31.86
+       },
+       {
+        "t": "que!",
+        "ini": 31.98,
+        "fin": 32.08
+       }
+      ],
+      "trad": "You have to, you have to… a hero has to, too!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Hay que ser amable, no debes mentir, ¡y tienes que dar las gracias!",
+      "ini": 32.12,
+      "fin": 35.1,
+      "palabras": [
+       {
+        "t": "Hay",
+        "ini": 32.12,
+        "fin": 32.18
+       },
+       {
+        "t": "que",
+        "ini": 32.18,
+        "fin": 32.2
+       },
+       {
+        "t": "ser",
+        "ini": 32.26,
+        "fin": 32.42
+       },
+       {
+        "t": "amable,",
+        "ini": 32.46,
+        "fin": 32.82
+       },
+       {
+        "t": "no",
+        "ini": 32.88,
+        "fin": 32.96
+       },
+       {
+        "t": "debes",
+        "ini": 32.98,
+        "fin": 33.26
+       },
+       {
+        "t": "mentir,",
+        "ini": 33.3,
+        "fin": 33.62
+       },
+       {
+        "t": "¡y",
+        "ini": 33.62,
+        "fin": 33.64
+       },
+       {
+        "t": "tienes",
+        "ini": 33.72,
+        "fin": 33.96
+       },
+       {
+        "t": "que",
+        "ini": 34.02,
+        "fin": 34.1
+       },
+       {
+        "t": "dar",
+        "ini": 34.12,
+        "fin": 34.24
+       },
+       {
+        "t": "las",
+        "ini": 34.28,
+        "fin": 34.42
+       },
+       {
+        "t": "gracias!",
+        "ini": 34.46,
+        "fin": 35.1
+       }
+      ],
+      "trad": "You must be kind, you mustn't lie, and you have to say «thank you»!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "—¿Tengo que hacerlo? —¡Pues sí! —¿Tengo que hacerlo? —¡Que sí, que sí!",
+      "ini": 39.49,
+      "fin": 42.16,
+      "palabras": [
+       {
+        "t": "—¿Tengo",
+        "ini": 39.49,
+        "fin": 39.94
+       },
+       {
+        "t": "que",
+        "ini": 40.0,
+        "fin": 40.04
+       },
+       {
+        "t": "hacerlo?",
+        "ini": 40.06,
+        "fin": 40.44
+       },
+       {
+        "t": "—¡Pues",
+        "ini": 40.54,
+        "fin": 40.74
+       },
+       {
+        "t": "sí!",
+        "ini": 40.8,
+        "fin": 40.98
+       },
+       {
+        "t": "—¿Tengo",
+        "ini": 40.98,
+        "fin": 41.15
+       },
+       {
+        "t": "que",
+        "ini": 41.15,
+        "fin": 41.31
+       },
+       {
+        "t": "hacerlo?",
+        "ini": 41.31,
+        "fin": 41.48
+       },
+       {
+        "t": "—¡Que",
+        "ini": 41.48,
+        "fin": 41.58
+       },
+       {
+        "t": "sí,",
+        "ini": 41.64,
+        "fin": 41.72
+       },
+       {
+        "t": "que",
+        "ini": 41.8,
+        "fin": 41.9
+       },
+       {
+        "t": "sí!",
+        "ini": 41.98,
+        "fin": 42.16
+       }
+      ],
+      "trad": "—Do I have to? —Yes, you do! —Do I have to? —Yes, yes, you do!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Supercapa y superzapatos… ¡un héroe también tiene normas!",
+      "ini": 42.26,
+      "fin": 44.98,
+      "palabras": [
+       {
+        "t": "Supercapa",
+        "ini": 42.26,
+        "fin": 42.7
+       },
+       {
+        "t": "y",
+        "ini": 42.72,
+        "fin": 42.76
+       },
+       {
+        "t": "superzapatos…",
+        "ini": 42.8,
+        "fin": 43.42
+       },
+       {
+        "t": "¡un",
+        "ini": 43.46,
+        "fin": 43.54
+       },
+       {
+        "t": "héroe",
+        "ini": 43.56,
+        "fin": 43.78
+       },
+       {
+        "t": "también",
+        "ini": 43.82,
+        "fin": 44.1
+       },
+       {
+        "t": "tiene",
+        "ini": 44.16,
+        "fin": 44.4
+       },
+       {
+        "t": "normas!",
+        "ini": 44.46,
+        "fin": 44.98
+       }
+      ],
+      "trad": "Super cape and super shoes… a hero also has rules!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Capitán Tormenta tiene que ir al dentista: abre bien… ¡di «aaa»!",
+      "ini": 45.1,
+      "fin": 50.4,
+      "palabras": [
+       {
+        "t": "Capitán",
+        "ini": 45.1,
+        "fin": 45.5
+       },
+       {
+        "t": "Tormenta",
+        "ini": 45.54,
+        "fin": 45.96
+       },
+       {
+        "t": "tiene",
+        "ini": 46.04,
+        "fin": 46.24
+       },
+       {
+        "t": "que",
+        "ini": 46.34,
+        "fin": 46.48
+       },
+       {
+        "t": "ir",
+        "ini": 46.54,
+        "fin": 46.62
+       },
+       {
+        "t": "al",
+        "ini": 46.66,
+        "fin": 46.76
+       },
+       {
+        "t": "dentista:",
+        "ini": 46.78,
+        "fin": 47.4
+       },
+       {
+        "t": "abre",
+        "ini": 48.56,
+        "fin": 48.78
+       },
+       {
+        "t": "bien…",
+        "ini": 48.84,
+        "fin": 49.08
+       },
+       {
+        "t": "¡di",
+        "ini": 49.16,
+        "fin": 49.34
+       },
+       {
+        "t": "«aaa»!",
+        "ini": 49.34,
+        "fin": 50.4
+       }
+      ],
+      "trad": "Captain Storm has to go to the dentist: open wide… say «ahh»!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Supergata debe cuidar su pez… ¡y no comérselo, ja!",
+      "ini": 50.4,
+      "fin": 54.62,
+      "palabras": [
+       {
+        "t": "Supergata",
+        "ini": 50.4,
+        "fin": 50.94
+       },
+       {
+        "t": "debe",
+        "ini": 51.02,
+        "fin": 51.3
+       },
+       {
+        "t": "cuidar",
+        "ini": 51.46,
+        "fin": 51.76
+       },
+       {
+        "t": "su",
+        "ini": 51.86,
+        "fin": 52.02
+       },
+       {
+        "t": "pez…",
+        "ini": 52.16,
+        "fin": 52.52
+       },
+       {
+        "t": "¡y",
+        "ini": 53.42,
+        "fin": 53.46
+       },
+       {
+        "t": "no",
+        "ini": 53.52,
+        "fin": 53.6
+       },
+       {
+        "t": "comérselo,",
+        "ini": 53.68,
+        "fin": 54.3
+       },
+       {
+        "t": "ja!",
+        "ini": 54.42,
+        "fin": 54.62
+       }
+      ],
+      "trad": "Super Cat must look after her fish… and not eat it, ha!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¿Y yo qué tengo que hacer? —Tus deberes, cada día,",
+      "ini": 54.74,
+      "fin": 57.22,
+      "palabras": [
+       {
+        "t": "—¿Y",
+        "ini": 54.74,
+        "fin": 54.84
+       },
+       {
+        "t": "yo",
+        "ini": 54.88,
+        "fin": 54.94
+       },
+       {
+        "t": "qué",
+        "ini": 55.0,
+        "fin": 55.12
+       },
+       {
+        "t": "tengo",
+        "ini": 55.18,
+        "fin": 55.44
+       },
+       {
+        "t": "que",
+        "ini": 55.52,
+        "fin": 55.58
+       },
+       {
+        "t": "hacer?",
+        "ini": 55.6,
+        "fin": 55.94
+       },
+       {
+        "t": "—Tus",
+        "ini": 56.04,
+        "fin": 56.18
+       },
+       {
+        "t": "deberes,",
+        "ini": 56.22,
+        "fin": 56.6
+       },
+       {
+        "t": "cada",
+        "ini": 56.68,
+        "fin": 56.88
+       },
+       {
+        "t": "día,",
+        "ini": 56.98,
+        "fin": 57.22
+       }
+      ],
+      "trad": "—And what do I have to do? —Your homework, every day,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "que un héroe tiene que aprender… ¡y no debes copiar, ni hablar!",
+      "ini": 57.4,
+      "fin": 60.14,
+      "palabras": [
+       {
+        "t": "que",
+        "ini": 57.4,
+        "fin": 57.46
+       },
+       {
+        "t": "un",
+        "ini": 57.5,
+        "fin": 57.58
+       },
+       {
+        "t": "héroe",
+        "ini": 57.58,
+        "fin": 57.82
+       },
+       {
+        "t": "tiene",
+        "ini": 57.88,
+        "fin": 58.08
+       },
+       {
+        "t": "que",
+        "ini": 58.16,
+        "fin": 58.2
+       },
+       {
+        "t": "aprender…",
+        "ini": 58.24,
+        "fin": 58.68
+       },
+       {
+        "t": "¡y",
+        "ini": 58.72,
+        "fin": 58.76
+       },
+       {
+        "t": "no",
+        "ini": 58.84,
+        "fin": 58.94
+       },
+       {
+        "t": "debes",
+        "ini": 58.98,
+        "fin": 59.26
+       },
+       {
+        "t": "copiar,",
+        "ini": 59.3,
+        "fin": 59.6
+       },
+       {
+        "t": "ni",
+        "ini": 59.64,
+        "fin": 59.7
+       },
+       {
+        "t": "hablar!",
+        "ini": 59.72,
+        "fin": 60.14
+       }
+      ],
+      "trad": "'cause a hero has to learn… and you mustn't copy, no way!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Tienes que, tienes que… ¡un héroe también tiene que!",
+      "ini": 69.74,
+      "fin": 71.9,
+      "palabras": [
+       {
+        "t": "Tienes",
+        "ini": 69.74,
+        "fin": 70.02
+       },
+       {
+        "t": "que,",
+        "ini": 70.1,
+        "fin": 70.26
+       },
+       {
+        "t": "tienes",
+        "ini": 70.36,
+        "fin": 70.64
+       },
+       {
+        "t": "que…",
+        "ini": 70.72,
+        "fin": 70.84
+       },
+       {
+        "t": "¡un",
+        "ini": 70.92,
+        "fin": 71.02
+       },
+       {
+        "t": "héroe",
+        "ini": 71.04,
+        "fin": 71.24
+       },
+       {
+        "t": "también",
+        "ini": 71.32,
+        "fin": 71.56
+       },
+       {
+        "t": "tiene",
+        "ini": 71.64,
+        "fin": 71.84
+       },
+       {
+        "t": "que!",
+        "ini": 71.88,
+        "fin": 71.9
+       }
+      ],
+      "trad": "You have to, you have to… a hero has to, too!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Hay que ser amable, no debes mentir, ¡y tienes que dar las gracias!",
+      "ini": 71.92,
+      "fin": 75.12,
+      "palabras": [
+       {
+        "t": "Hay",
+        "ini": 71.92,
+        "fin": 72.04
+       },
+       {
+        "t": "que",
+        "ini": 72.1,
+        "fin": 72.18
+       },
+       {
+        "t": "ser",
+        "ini": 72.26,
+        "fin": 72.42
+       },
+       {
+        "t": "amable,",
+        "ini": 72.46,
+        "fin": 72.82
+       },
+       {
+        "t": "no",
+        "ini": 72.88,
+        "fin": 72.96
+       },
+       {
+        "t": "debes",
+        "ini": 73.0,
+        "fin": 73.26
+       },
+       {
+        "t": "mentir,",
+        "ini": 73.3,
+        "fin": 73.6
+       },
+       {
+        "t": "¡y",
+        "ini": 73.62,
+        "fin": 73.64
+       },
+       {
+        "t": "tienes",
+        "ini": 73.7,
+        "fin": 73.96
+       },
+       {
+        "t": "que",
+        "ini": 74.0,
+        "fin": 74.08
+       },
+       {
+        "t": "dar",
+        "ini": 74.1,
+        "fin": 74.24
+       },
+       {
+        "t": "las",
+        "ini": 74.26,
+        "fin": 74.38
+       },
+       {
+        "t": "gracias!",
+        "ini": 74.46,
+        "fin": 75.12
+       }
+      ],
+      "trad": "You must be kind, you mustn't lie, and you have to say «thank you»!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "—¿Tengo que hacerlo? —¡Pues sí! —¿Tengo que hacerlo? —¡Que sí, que sí!",
+      "ini": 79.49,
+      "fin": 82.16,
+      "palabras": [
+       {
+        "t": "—¿Tengo",
+        "ini": 79.49,
+        "fin": 79.94
+       },
+       {
+        "t": "que",
+        "ini": 80.0,
+        "fin": 80.04
+       },
+       {
+        "t": "hacerlo?",
+        "ini": 80.06,
+        "fin": 80.44
+       },
+       {
+        "t": "—¡Pues",
+        "ini": 80.54,
+        "fin": 80.72
+       },
+       {
+        "t": "sí!",
+        "ini": 80.78,
+        "fin": 80.98
+       },
+       {
+        "t": "—¿Tengo",
+        "ini": 80.98,
+        "fin": 81.15
+       },
+       {
+        "t": "que",
+        "ini": 81.15,
+        "fin": 81.31
+       },
+       {
+        "t": "hacerlo?",
+        "ini": 81.31,
+        "fin": 81.48
+       },
+       {
+        "t": "—¡Que",
+        "ini": 81.48,
+        "fin": 81.54
+       },
+       {
+        "t": "sí,",
+        "ini": 81.62,
+        "fin": 81.72
+       },
+       {
+        "t": "que",
+        "ini": 81.8,
+        "fin": 81.9
+       },
+       {
+        "t": "sí!",
+        "ini": 82.0,
+        "fin": 82.16
+       }
+      ],
+      "trad": "—Do I have to? —Yes, you do! —Do I have to? —Yes, yes, you do!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Supercapa y superzapatos… ¡un héroe también tiene normas!",
+      "ini": 82.26,
+      "fin": 85.04,
+      "palabras": [
+       {
+        "t": "Supercapa",
+        "ini": 82.26,
+        "fin": 82.68
+       },
+       {
+        "t": "y",
+        "ini": 82.7,
+        "fin": 82.74
+       },
+       {
+        "t": "superzapatos…",
+        "ini": 82.8,
+        "fin": 83.38
+       },
+       {
+        "t": "¡un",
+        "ini": 83.44,
+        "fin": 83.52
+       },
+       {
+        "t": "héroe",
+        "ini": 83.54,
+        "fin": 83.78
+       },
+       {
+        "t": "también",
+        "ini": 83.82,
+        "fin": 84.1
+       },
+       {
+        "t": "tiene",
+        "ini": 84.14,
+        "fin": 84.38
+       },
+       {
+        "t": "normas!",
+        "ini": 84.42,
+        "fin": 85.04
+       }
+      ],
+      "trad": "Super cape and super shoes… a hero also has rules!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "«No debes» es «¡ni se te ocurra!»; «no tienes que» es «tú decides»,",
+      "ini": 90.56,
+      "fin": 95.02,
+      "palabras": [
+       {
+        "t": "«No",
+        "ini": 90.56,
+        "fin": 90.64
+       },
+       {
+        "t": "debes»",
+        "ini": 90.72,
+        "fin": 91.12
+       },
+       {
+        "t": "es",
+        "ini": 91.22,
+        "fin": 91.44
+       },
+       {
+        "t": "«¡ni",
+        "ini": 91.52,
+        "fin": 91.6
+       },
+       {
+        "t": "se",
+        "ini": 91.68,
+        "fin": 91.74
+       },
+       {
+        "t": "te",
+        "ini": 91.8,
+        "fin": 91.86
+       },
+       {
+        "t": "ocurra!»;",
+        "ini": 91.9,
+        "fin": 92.48
+       },
+       {
+        "t": "«no",
+        "ini": 93.04,
+        "fin": 93.12
+       },
+       {
+        "t": "tienes",
+        "ini": 93.26,
+        "fin": 93.6
+       },
+       {
+        "t": "que»",
+        "ini": 93.6,
+        "fin": 93.86
+       },
+       {
+        "t": "es",
+        "ini": 93.86,
+        "fin": 94.12
+       },
+       {
+        "t": "«tú",
+        "ini": 94.12,
+        "fin": 94.22
+       },
+       {
+        "t": "decides»,",
+        "ini": 94.28,
+        "fin": 95.02
+       }
+      ],
+      "trad": "«Mustn't» means «don't you dare!»; «don't have to» means «you decide»,"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "no tienes que comértelo todo, pero tienes que probar un bocado.",
+      "ini": 95.5,
+      "fin": 100.0,
+      "palabras": [
+       {
+        "t": "no",
+        "ini": 95.5,
+        "fin": 95.58
+       },
+       {
+        "t": "tienes",
+        "ini": 95.68,
+        "fin": 96.02
+       },
+       {
+        "t": "que",
+        "ini": 96.12,
+        "fin": 96.24
+       },
+       {
+        "t": "comértelo",
+        "ini": 96.28,
+        "fin": 96.88
+       },
+       {
+        "t": "todo,",
+        "ini": 97.0,
+        "fin": 97.3
+       },
+       {
+        "t": "pero",
+        "ini": 98.18,
+        "fin": 98.36
+       },
+       {
+        "t": "tienes",
+        "ini": 98.46,
+        "fin": 98.74
+       },
+       {
+        "t": "que",
+        "ini": 98.78,
+        "fin": 98.88
+       },
+       {
+        "t": "probar",
+        "ini": 98.92,
+        "fin": 99.24
+       },
+       {
+        "t": "un",
+        "ini": 99.28,
+        "fin": 99.38
+       },
+       {
+        "t": "bocado.",
+        "ini": 99.42,
+        "fin": 100.0
+       }
+      ],
+      "trad": "you don't have to eat it all, but you have to try a bite."
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Al final del día, Madame Rayo me da una estrella dorada:",
+      "ini": 110.06,
+      "fin": 113.58,
+      "palabras": [
+       {
+        "t": "Al",
+        "ini": 110.06,
+        "fin": 110.16
+       },
+       {
+        "t": "final",
+        "ini": 110.22,
+        "fin": 110.46
+       },
+       {
+        "t": "del",
+        "ini": 110.5,
+        "fin": 110.62
+       },
+       {
+        "t": "día,",
+        "ini": 110.7,
+        "fin": 111.0
+       },
+       {
+        "t": "Madame",
+        "ini": 111.0,
+        "fin": 111.96
+       },
+       {
+        "t": "Rayo",
+        "ini": 111.96,
+        "fin": 112.2
+       },
+       {
+        "t": "me",
+        "ini": 112.26,
+        "fin": 112.32
+       },
+       {
+        "t": "da",
+        "ini": 112.36,
+        "fin": 112.44
+       },
+       {
+        "t": "una",
+        "ini": 112.48,
+        "fin": 112.58
+       },
+       {
+        "t": "estrella",
+        "ini": 112.64,
+        "fin": 113.06
+       },
+       {
+        "t": "dorada:",
+        "ini": 113.08,
+        "fin": 113.58
+       }
+      ],
+      "trad": "At the end of the day, Madame Lightning gives me a gold star:"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "«No tienes que volar para ser un héroe: solo tienes que ser tú».",
+      "ini": 115.2,
+      "fin": 118.98,
+      "palabras": [
+       {
+        "t": "«No",
+        "ini": 115.2,
+        "fin": 115.3
+       },
+       {
+        "t": "tienes",
+        "ini": 115.36,
+        "fin": 115.62
+       },
+       {
+        "t": "que",
+        "ini": 115.68,
+        "fin": 115.78
+       },
+       {
+        "t": "volar",
+        "ini": 115.84,
+        "fin": 116.2
+       },
+       {
+        "t": "para",
+        "ini": 116.32,
+        "fin": 116.54
+       },
+       {
+        "t": "ser",
+        "ini": 116.62,
+        "fin": 116.78
+       },
+       {
+        "t": "un",
+        "ini": 116.82,
+        "fin": 116.92
+       },
+       {
+        "t": "héroe:",
+        "ini": 116.96,
+        "fin": 117.28
+       },
+       {
+        "t": "solo",
+        "ini": 117.9,
+        "fin": 118.12
+       },
+       {
+        "t": "tienes",
+        "ini": 118.16,
+        "fin": 118.42
+       },
+       {
+        "t": "que",
+        "ini": 118.46,
+        "fin": 118.54
+       },
+       {
+        "t": "ser",
+        "ini": 118.6,
+        "fin": 118.74
+       },
+       {
+        "t": "tú».",
+        "ini": 118.82,
+        "fin": 118.98
+       }
+      ],
+      "trad": "«You don't have to fly to be a hero: you just have to be you.»"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Tienes que, tienes que… ¡un héroe también tiene que!",
+      "ini": 129.72,
+      "fin": 131.88,
+      "palabras": [
+       {
+        "t": "Tienes",
+        "ini": 129.72,
+        "fin": 130.02
+       },
+       {
+        "t": "que,",
+        "ini": 130.08,
+        "fin": 130.28
+       },
+       {
+        "t": "tienes",
+        "ini": 130.36,
+        "fin": 130.64
+       },
+       {
+        "t": "que…",
+        "ini": 130.72,
+        "fin": 130.84
+       },
+       {
+        "t": "¡un",
+        "ini": 130.9,
+        "fin": 131.0
+       },
+       {
+        "t": "héroe",
+        "ini": 131.02,
+        "fin": 131.24
+       },
+       {
+        "t": "también",
+        "ini": 131.3,
+        "fin": 131.56
+       },
+       {
+        "t": "tiene",
+        "ini": 131.62,
+        "fin": 131.84
+       },
+       {
+        "t": "que!",
+        "ini": 131.88,
+        "fin": 131.88
+       }
+      ],
+      "trad": "You have to, you have to… a hero has to, too!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Hay que ser amable, no debes mentir, ¡y tienes que dar las gracias!",
+      "ini": 131.92,
+      "fin": 135.14,
+      "palabras": [
+       {
+        "t": "Hay",
+        "ini": 131.92,
+        "fin": 132.04
+       },
+       {
+        "t": "que",
+        "ini": 132.08,
+        "fin": 132.16
+       },
+       {
+        "t": "ser",
+        "ini": 132.26,
+        "fin": 132.38
+       },
+       {
+        "t": "amable,",
+        "ini": 132.44,
+        "fin": 132.78
+       },
+       {
+        "t": "no",
+        "ini": 132.86,
+        "fin": 132.94
+       },
+       {
+        "t": "debes",
+        "ini": 132.98,
+        "fin": 133.24
+       },
+       {
+        "t": "mentir,",
+        "ini": 133.28,
+        "fin": 133.56
+       },
+       {
+        "t": "¡y",
+        "ini": 133.6,
+        "fin": 133.64
+       },
+       {
+        "t": "tienes",
+        "ini": 133.68,
+        "fin": 133.94
+       },
+       {
+        "t": "que",
+        "ini": 133.98,
+        "fin": 134.06
+       },
+       {
+        "t": "dar",
+        "ini": 134.1,
+        "fin": 134.22
+       },
+       {
+        "t": "las",
+        "ini": 134.26,
+        "fin": 134.38
+       },
+       {
+        "t": "gracias!",
+        "ini": 134.48,
+        "fin": 135.14
+       }
+      ],
+      "trad": "You must be kind, you mustn't lie, and you have to say «thank you»!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "—¿Tengo que hacerlo? —¡Pues sí! —¿Tengo que hacerlo? —¡Que sí, que sí!",
+      "ini": 139.45,
+      "fin": 142.14,
+      "palabras": [
+       {
+        "t": "—¿Tengo",
+        "ini": 139.45,
+        "fin": 139.9
+       },
+       {
+        "t": "que",
+        "ini": 139.96,
+        "fin": 140.0
+       },
+       {
+        "t": "hacerlo?",
+        "ini": 140.02,
+        "fin": 140.42
+       },
+       {
+        "t": "—¡Pues",
+        "ini": 140.52,
+        "fin": 140.68
+       },
+       {
+        "t": "sí!",
+        "ini": 140.76,
+        "fin": 140.94
+       },
+       {
+        "t": "—¿Tengo",
+        "ini": 140.94,
+        "fin": 141.11
+       },
+       {
+        "t": "que",
+        "ini": 141.11,
+        "fin": 141.27
+       },
+       {
+        "t": "hacerlo?",
+        "ini": 141.27,
+        "fin": 141.44
+       },
+       {
+        "t": "—¡Que",
+        "ini": 141.44,
+        "fin": 141.54
+       },
+       {
+        "t": "sí,",
+        "ini": 141.62,
+        "fin": 141.7
+       },
+       {
+        "t": "que",
+        "ini": 141.76,
+        "fin": 141.86
+       },
+       {
+        "t": "sí!",
+        "ini": 141.96,
+        "fin": 142.14
+       }
+      ],
+      "trad": "—Do I have to? —Yes, you do! —Do I have to? —Yes, yes, you do!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Supercapa y superzapatos… ¡un héroe también tiene normas!",
+      "ini": 142.24,
+      "fin": 145.0,
+      "palabras": [
+       {
+        "t": "Supercapa",
+        "ini": 142.24,
+        "fin": 142.68
+       },
+       {
+        "t": "y",
+        "ini": 142.7,
+        "fin": 142.74
+       },
+       {
+        "t": "superzapatos…",
+        "ini": 142.78,
+        "fin": 143.36
+       },
+       {
+        "t": "¡un",
+        "ini": 143.4,
+        "fin": 143.5
+       },
+       {
+        "t": "héroe",
+        "ini": 143.52,
+        "fin": 143.74
+       },
+       {
+        "t": "también",
+        "ini": 143.8,
+        "fin": 144.06
+       },
+       {
+        "t": "tiene",
+        "ini": 144.12,
+        "fin": 144.36
+       },
+       {
+        "t": "normas!",
+        "ini": 144.44,
+        "fin": 145.0
+       }
+      ],
+      "trad": "Super cape and super shoes… a hero also has rules!"
+     }
+    ],
+    "duracion": 155.04
+   },
+   "preguntas": [
+    {
+     "en": "What does the boy have to do before he saves the town?",
+     "en_op": [
+      "Make his bed",
+      "Fly in the kitchen",
+      "See the dentist"
+     ],
+     "es": "¿Qué tiene que hacer el niño antes de salvar la ciudad?",
+     "es_op": [
+      "Hacer la cama",
+      "Volar en la cocina",
+      "Ir al dentista"
+     ]
+    },
+    {
+     "en": "Super Cat must look after her fish, but she ___ eat it.",
+     "en_op": [
+      "mustn't",
+      "has to",
+      "must"
+     ],
+     "es": "Supergata debe cuidar su pez, pero ___ comérselo.",
+     "es_op": [
+      "no debe",
+      "tiene que",
+      "debe"
+     ]
+    },
+    {
+     "en": "What don't you have to do to be a hero?",
+     "en_op": [
+      "Fly",
+      "Be kind",
+      "Say «thank you»"
+     ],
+     "es": "¿Qué no tienes que hacer para ser un héroe?",
+     "es_op": [
+      "Volar",
+      "Ser amable",
+      "Dar las gracias"
+     ]
+    }
+   ]
   }
  ]
 }
