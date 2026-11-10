@@ -88,7 +88,10 @@
     var bs = el("button", "simul"); bs.type = "button"; bs.textContent = T().simul;
     lado.appendChild(bs);
     // [30-oct, él: «otro botón que ponga siguiente y pase a la siguiente canción; así no tenemos que salir atrás para poner otra»]
-    var i = datos.canciones.indexOf(c), n = datos.canciones.length, sig = datos.canciones[(i + 1) % n], ant = datos.canciones[(i - 1 + n) % n];
+    // [10-nov, él: «al dar siguiente o al saltar sola, no puede ponerse una infantil… van en dos carriles diferentes»] DOS CARRILES:
+    // desde una infantil, siguiente/anterior/«Seguidas» solo pasan por las infantiles; desde una de las demás, solo por las demás.
+    var carril = datos.canciones.filter(function (x) { return !!x.inf === !!c.inf; });
+    var i = carril.indexOf(c), n = carril.length, sig = carril[(i + 1) % n], ant = carril[(i - 1 + n) % n];
     function enlace(x) { return "?id=" + encodeURIComponent(x.id) + (idioma === "en" ? "&lang=en" : ""); }
     function salta(x) {
       id = x.id; traduce = false; if (history.replaceState) history.replaceState(null, "", enlace(x)); pinta();
