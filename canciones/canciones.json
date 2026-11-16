@@ -67849,6 +67849,7283 @@
      ]
     }
    ]
+  },
+  {
+   "id": "20-detective-a-oscuras",
+   "titulo_en": "Detective in the Dark",
+   "titulo_es": "Detective a oscuras",
+   "ensena_en": "the past continuous and the past simple together (I was washing the dishes when the lights went out; What were you doing?), inside a detective story",
+   "ensena_es": "el imperfecto frente al indefinido: lo que estaba pasando (estaba fregando, roncaba) y lo que pasó de golpe (se fue la luz, apagué), en una historia de detectives",
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Intro",
+      "texto": "Click! — Hey! Who turned off the lights?",
+      "ini": 0.24,
+      "fin": 3.3,
+      "palabras": [
+       {
+        "t": "Click!",
+        "ini": 0.24,
+        "fin": 0.54
+       },
+       {
+        "t": "—",
+        "ini": 0.58,
+        "fin": 0.58
+       },
+       {
+        "t": "Hey!",
+        "ini": 1.66,
+        "fin": 1.88
+       },
+       {
+        "t": "Who",
+        "ini": 2.16,
+        "fin": 2.28
+       },
+       {
+        "t": "turned",
+        "ini": 2.34,
+        "fin": 2.5
+       },
+       {
+        "t": "off",
+        "ini": 2.56,
+        "fin": 2.72
+       },
+       {
+        "t": "the",
+        "ini": 2.74,
+        "fin": 2.82
+       },
+       {
+        "t": "lights?",
+        "ini": 2.88,
+        "fin": 3.3
+       }
+      ],
+      "trad": "¡Clic! —¡Eh! ¿Quién ha apagado la luz?"
+     },
+     {
+      "seccion": "Intro",
+      "texto": "— The cake! Where's the cake?!",
+      "ini": 3.3,
+      "fin": 5.88,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 3.3,
+        "fin": 3.3
+       },
+       {
+        "t": "The",
+        "ini": 3.82,
+        "fin": 3.92
+       },
+       {
+        "t": "cake!",
+        "ini": 4.02,
+        "fin": 4.4
+       },
+       {
+        "t": "Where's",
+        "ini": 5.04,
+        "fin": 5.3
+       },
+       {
+        "t": "the",
+        "ini": 5.36,
+        "fin": 5.44
+       },
+       {
+        "t": "cake?!",
+        "ini": 5.58,
+        "fin": 5.88
+       }
+      ],
+      "trad": "—¡La tarta! ¿Dónde está la tarta?"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "It was Grandma's birthday, and the cake was on the table,",
+      "ini": 7.54,
+      "fin": 10.98,
+      "palabras": [
+       {
+        "t": "It",
+        "ini": 7.54,
+        "fin": 7.62
+       },
+       {
+        "t": "was",
+        "ini": 7.64,
+        "fin": 7.76
+       },
+       {
+        "t": "Grandma's",
+        "ini": 7.78,
+        "fin": 8.2
+       },
+       {
+        "t": "birthday,",
+        "ini": 8.28,
+        "fin": 8.78
+       },
+       {
+        "t": "and",
+        "ini": 9.2,
+        "fin": 9.4
+       },
+       {
+        "t": "the",
+        "ini": 9.44,
+        "fin": 9.5
+       },
+       {
+        "t": "cake",
+        "ini": 9.64,
+        "fin": 9.88
+       },
+       {
+        "t": "was",
+        "ini": 9.92,
+        "fin": 10.02
+       },
+       {
+        "t": "on",
+        "ini": 10.1,
+        "fin": 10.38
+       },
+       {
+        "t": "the",
+        "ini": 10.42,
+        "fin": 10.52
+       },
+       {
+        "t": "table,",
+        "ini": 10.58,
+        "fin": 10.98
+       }
+      ],
+      "trad": "Era el cumpleaños de la abuela, y la tarta estaba en la mesa,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "chocolate and cream, with eighty candles — what a cake!",
+      "ini": 11.52,
+      "fin": 14.24,
+      "palabras": [
+       {
+        "t": "chocolate",
+        "ini": 11.52,
+        "fin": 11.88
+       },
+       {
+        "t": "and",
+        "ini": 11.9,
+        "fin": 11.96
+       },
+       {
+        "t": "cream,",
+        "ini": 12.02,
+        "fin": 12.28
+       },
+       {
+        "t": "with",
+        "ini": 12.34,
+        "fin": 12.5
+       },
+       {
+        "t": "eighty",
+        "ini": 12.54,
+        "fin": 12.72
+       },
+       {
+        "t": "candles",
+        "ini": 12.82,
+        "fin": 13.32
+       },
+       {
+        "t": "—",
+        "ini": 13.44,
+        "fin": 13.44
+       },
+       {
+        "t": "what",
+        "ini": 13.52,
+        "fin": 13.68
+       },
+       {
+        "t": "a",
+        "ini": 13.74,
+        "fin": 13.78
+       },
+       {
+        "t": "cake!",
+        "ini": 13.9,
+        "fin": 14.24
+       }
+      ],
+      "trad": "de chocolate y nata, con ochenta velas — ¡qué tarta!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Then suddenly — click! — the lights went out, and everything was black,",
+      "ini": 14.58,
+      "fin": 18.38,
+      "palabras": [
+       {
+        "t": "Then",
+        "ini": 14.58,
+        "fin": 14.74
+       },
+       {
+        "t": "suddenly",
+        "ini": 14.86,
+        "fin": 15.42
+       },
+       {
+        "t": "—",
+        "ini": 15.42,
+        "fin": 15.42
+       },
+       {
+        "t": "click!",
+        "ini": 15.8,
+        "fin": 16.06
+       },
+       {
+        "t": "—",
+        "ini": 16.16,
+        "fin": 16.16
+       },
+       {
+        "t": "the",
+        "ini": 16.18,
+        "fin": 16.26
+       },
+       {
+        "t": "lights",
+        "ini": 16.3,
+        "fin": 16.5
+       },
+       {
+        "t": "went",
+        "ini": 16.54,
+        "fin": 16.66
+       },
+       {
+        "t": "out,",
+        "ini": 16.72,
+        "fin": 16.9
+       },
+       {
+        "t": "and",
+        "ini": 17.16,
+        "fin": 17.24
+       },
+       {
+        "t": "everything",
+        "ini": 17.3,
+        "fin": 17.76
+       },
+       {
+        "t": "was",
+        "ini": 17.8,
+        "fin": 17.92
+       },
+       {
+        "t": "black,",
+        "ini": 18.02,
+        "fin": 18.38
+       }
+      ],
+      "trad": "Entonces, de repente, ¡clic!, se fue la luz y todo se quedó a oscuras,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "and when I found my flashlight… the cake was gone! Gone!",
+      "ini": 18.46,
+      "fin": 22.4,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 18.46,
+        "fin": 18.56
+       },
+       {
+        "t": "when",
+        "ini": 18.64,
+        "fin": 18.86
+       },
+       {
+        "t": "I",
+        "ini": 18.94,
+        "fin": 19.02
+       },
+       {
+        "t": "found",
+        "ini": 19.08,
+        "fin": 19.28
+       },
+       {
+        "t": "my",
+        "ini": 19.32,
+        "fin": 19.46
+       },
+       {
+        "t": "flashlight…",
+        "ini": 19.52,
+        "fin": 20.14
+       },
+       {
+        "t": "the",
+        "ini": 20.28,
+        "fin": 20.38
+       },
+       {
+        "t": "cake",
+        "ini": 20.52,
+        "fin": 20.74
+       },
+       {
+        "t": "was",
+        "ini": 20.8,
+        "fin": 20.92
+       },
+       {
+        "t": "gone!",
+        "ini": 21.02,
+        "fin": 21.7
+       },
+       {
+        "t": "Gone!",
+        "ini": 21.96,
+        "fin": 22.4
+       }
+      ],
+      "trad": "y cuando encontré mi linterna… ¡la tarta había desaparecido! ¡Desaparecido!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "What were you doing when the lights went out?",
+      "ini": 23.12,
+      "fin": 25.96,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 23.12,
+        "fin": 23.26
+       },
+       {
+        "t": "were",
+        "ini": 23.34,
+        "fin": 23.56
+       },
+       {
+        "t": "you",
+        "ini": 23.62,
+        "fin": 23.78
+       },
+       {
+        "t": "doing",
+        "ini": 23.84,
+        "fin": 24.26
+       },
+       {
+        "t": "when",
+        "ini": 24.3,
+        "fin": 24.5
+       },
+       {
+        "t": "the",
+        "ini": 24.56,
+        "fin": 24.68
+       },
+       {
+        "t": "lights",
+        "ini": 24.76,
+        "fin": 25.18
+       },
+       {
+        "t": "went",
+        "ini": 25.28,
+        "fin": 25.52
+       },
+       {
+        "t": "out?",
+        "ini": 25.62,
+        "fin": 25.96
+       }
+      ],
+      "trad": "¿Qué estabas haciendo cuando se fue la luz?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "What were you doing? Tell me what you saw!",
+      "ini": 26.94,
+      "fin": 29.98,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 26.94,
+        "fin": 27.08
+       },
+       {
+        "t": "were",
+        "ini": 27.18,
+        "fin": 27.38
+       },
+       {
+        "t": "you",
+        "ini": 27.42,
+        "fin": 27.5
+       },
+       {
+        "t": "doing?",
+        "ini": 27.66,
+        "fin": 28.18
+       },
+       {
+        "t": "Tell",
+        "ini": 28.56,
+        "fin": 28.76
+       },
+       {
+        "t": "me",
+        "ini": 28.84,
+        "fin": 28.96
+       },
+       {
+        "t": "what",
+        "ini": 29.04,
+        "fin": 29.2
+       },
+       {
+        "t": "you",
+        "ini": 29.28,
+        "fin": 29.4
+       },
+       {
+        "t": "saw!",
+        "ini": 29.5,
+        "fin": 29.98
+       }
+      ],
+      "trad": "¿Qué estabas haciendo? ¡Dime qué viste!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "I'm the detective, and I'm gonna find out,",
+      "ini": 30.76,
+      "fin": 33.48,
+      "palabras": [
+       {
+        "t": "I'm",
+        "ini": 30.76,
+        "fin": 30.9
+       },
+       {
+        "t": "the",
+        "ini": 30.96,
+        "fin": 31.14
+       },
+       {
+        "t": "detective,",
+        "ini": 31.2,
+        "fin": 31.88
+       },
+       {
+        "t": "and",
+        "ini": 31.94,
+        "fin": 32.12
+       },
+       {
+        "t": "I'm",
+        "ini": 32.16,
+        "fin": 32.3
+       },
+       {
+        "t": "gonna",
+        "ini": 32.36,
+        "fin": 32.72
+       },
+       {
+        "t": "find",
+        "ini": 32.8,
+        "fin": 33.1
+       },
+       {
+        "t": "out,",
+        "ini": 33.18,
+        "fin": 33.48
+       }
+      ],
+      "trad": "Soy el detective, y voy a descubrirlo,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "where did the cake go? It's a mystery — oooh!",
+      "ini": 34.5,
+      "fin": 37.54,
+      "palabras": [
+       {
+        "t": "where",
+        "ini": 34.5,
+        "fin": 34.7
+       },
+       {
+        "t": "did",
+        "ini": 34.76,
+        "fin": 34.9
+       },
+       {
+        "t": "the",
+        "ini": 34.98,
+        "fin": 35.06
+       },
+       {
+        "t": "cake",
+        "ini": 35.18,
+        "fin": 35.4
+       },
+       {
+        "t": "go?",
+        "ini": 35.44,
+        "fin": 35.62
+       },
+       {
+        "t": "It's",
+        "ini": 35.72,
+        "fin": 35.88
+       },
+       {
+        "t": "a",
+        "ini": 35.96,
+        "fin": 36.04
+       },
+       {
+        "t": "mystery",
+        "ini": 36.12,
+        "fin": 36.84
+       },
+       {
+        "t": "—",
+        "ini": 37.06,
+        "fin": 37.06
+       },
+       {
+        "t": "oooh!",
+        "ini": 37.18,
+        "fin": 37.54
+       }
+      ],
+      "trad": "¿dónde se ha metido la tarta? ¡Es un misterio, uuuh!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— Dad, what were you doing? — I was washing the dishes, son!",
+      "ini": 37.66,
+      "fin": 41.46,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 37.66,
+        "fin": 37.66
+       },
+       {
+        "t": "Dad,",
+        "ini": 38.04,
+        "fin": 38.36
+       },
+       {
+        "t": "what",
+        "ini": 38.66,
+        "fin": 38.74
+       },
+       {
+        "t": "were",
+        "ini": 38.76,
+        "fin": 38.82
+       },
+       {
+        "t": "you",
+        "ini": 38.86,
+        "fin": 38.96
+       },
+       {
+        "t": "doing?",
+        "ini": 39.0,
+        "fin": 39.32
+       },
+       {
+        "t": "—",
+        "ini": 39.32,
+        "fin": 39.32
+       },
+       {
+        "t": "I",
+        "ini": 39.78,
+        "fin": 39.82
+       },
+       {
+        "t": "was",
+        "ini": 39.86,
+        "fin": 40.0
+       },
+       {
+        "t": "washing",
+        "ini": 40.06,
+        "fin": 40.42
+       },
+       {
+        "t": "the",
+        "ini": 40.46,
+        "fin": 40.54
+       },
+       {
+        "t": "dishes,",
+        "ini": 40.62,
+        "fin": 41.02
+       },
+       {
+        "t": "son!",
+        "ini": 41.12,
+        "fin": 41.46
+       }
+      ],
+      "trad": "—Papá, ¿qué estabas haciendo? —¡Estaba fregando los platos, hijo!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— Mom, what were you doing? — I was talking on the phone!",
+      "ini": 41.48,
+      "fin": 44.56,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 41.48,
+        "fin": 41.48
+       },
+       {
+        "t": "Mom,",
+        "ini": 41.82,
+        "fin": 42.16
+       },
+       {
+        "t": "what",
+        "ini": 42.26,
+        "fin": 42.36
+       },
+       {
+        "t": "were",
+        "ini": 42.38,
+        "fin": 42.46
+       },
+       {
+        "t": "you",
+        "ini": 42.5,
+        "fin": 42.6
+       },
+       {
+        "t": "doing?",
+        "ini": 42.66,
+        "fin": 42.98
+       },
+       {
+        "t": "—",
+        "ini": 42.98,
+        "fin": 42.98
+       },
+       {
+        "t": "I",
+        "ini": 43.42,
+        "fin": 43.46
+       },
+       {
+        "t": "was",
+        "ini": 43.48,
+        "fin": 43.62
+       },
+       {
+        "t": "talking",
+        "ini": 43.66,
+        "fin": 43.94
+       },
+       {
+        "t": "on",
+        "ini": 43.98,
+        "fin": 44.04
+       },
+       {
+        "t": "the",
+        "ini": 44.08,
+        "fin": 44.14
+       },
+       {
+        "t": "phone!",
+        "ini": 44.22,
+        "fin": 44.56
+       }
+      ],
+      "trad": "— Mamá, ¿qué estabas haciendo? — ¡Estaba hablando por teléfono!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— And Grandpa? — He was sleeping on the sofa, like always!",
+      "ini": 44.56,
+      "fin": 48.22,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 44.56,
+        "fin": 44.56
+       },
+       {
+        "t": "And",
+        "ini": 44.88,
+        "fin": 44.98
+       },
+       {
+        "t": "Grandpa?",
+        "ini": 45.04,
+        "fin": 45.56
+       },
+       {
+        "t": "—",
+        "ini": 45.56,
+        "fin": 45.56
+       },
+       {
+        "t": "He",
+        "ini": 45.78,
+        "fin": 45.84
+       },
+       {
+        "t": "was",
+        "ini": 45.88,
+        "fin": 45.96
+       },
+       {
+        "t": "sleeping",
+        "ini": 46.02,
+        "fin": 46.3
+       },
+       {
+        "t": "on",
+        "ini": 46.32,
+        "fin": 46.4
+       },
+       {
+        "t": "the",
+        "ini": 46.42,
+        "fin": 46.5
+       },
+       {
+        "t": "sofa,",
+        "ini": 46.58,
+        "fin": 46.96
+       },
+       {
+        "t": "like",
+        "ini": 47.22,
+        "fin": 47.38
+       },
+       {
+        "t": "always!",
+        "ini": 47.44,
+        "fin": 48.22
+       }
+      ],
+      "trad": "— ¿Y el abuelo? — ¡Estaba durmiendo en el sofá, como siempre!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "And the cat was sitting on the table… licking her paw. Hmm…",
+      "ini": 49.08,
+      "fin": 52.18,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 49.08,
+        "fin": 49.16
+       },
+       {
+        "t": "the",
+        "ini": 49.18,
+        "fin": 49.28
+       },
+       {
+        "t": "cat",
+        "ini": 49.34,
+        "fin": 49.58
+       },
+       {
+        "t": "was",
+        "ini": 49.62,
+        "fin": 49.74
+       },
+       {
+        "t": "sitting",
+        "ini": 49.8,
+        "fin": 50.0
+       },
+       {
+        "t": "on",
+        "ini": 50.04,
+        "fin": 50.12
+       },
+       {
+        "t": "the",
+        "ini": 50.14,
+        "fin": 50.24
+       },
+       {
+        "t": "table…",
+        "ini": 50.3,
+        "fin": 50.68
+       },
+       {
+        "t": "licking",
+        "ini": 50.8,
+        "fin": 51.02
+       },
+       {
+        "t": "her",
+        "ini": 51.04,
+        "fin": 51.12
+       },
+       {
+        "t": "paw.",
+        "ini": 51.24,
+        "fin": 51.62
+       },
+       {
+        "t": "Hmm…",
+        "ini": 51.94,
+        "fin": 52.18
+       }
+      ],
+      "trad": "Y la gata estaba sentada en la mesa… lamiéndose la pata. Hmm…"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— And Grandma? Where was Grandma? — Hmm… nobody saw her!",
+      "ini": 52.18,
+      "fin": 55.96,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 52.18,
+        "fin": 52.18
+       },
+       {
+        "t": "And",
+        "ini": 52.9,
+        "fin": 53.0
+       },
+       {
+        "t": "Grandma?",
+        "ini": 53.1,
+        "fin": 53.58
+       },
+       {
+        "t": "Where",
+        "ini": 53.68,
+        "fin": 53.8
+       },
+       {
+        "t": "was",
+        "ini": 53.84,
+        "fin": 53.96
+       },
+       {
+        "t": "Grandma?",
+        "ini": 54.06,
+        "fin": 54.64
+       },
+       {
+        "t": "—",
+        "ini": 54.78,
+        "fin": 54.78
+       },
+       {
+        "t": "Hmm…",
+        "ini": 54.82,
+        "fin": 55.02
+       },
+       {
+        "t": "nobody",
+        "ini": 55.18,
+        "fin": 55.44
+       },
+       {
+        "t": "saw",
+        "ini": 55.62,
+        "fin": 55.82
+       },
+       {
+        "t": "her!",
+        "ini": 55.82,
+        "fin": 55.96
+       }
+      ],
+      "trad": "— ¿Y la abuela? ¿Dónde estaba la abuela? — Hmm… ¡nadie la vio!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "And a little light was coming from the kitchen…",
+      "ini": 56.5,
+      "fin": 59.6,
+      "palabras": [
+       {
+        "t": "And",
+        "ini": 56.5,
+        "fin": 56.68
+       },
+       {
+        "t": "a",
+        "ini": 56.76,
+        "fin": 56.8
+       },
+       {
+        "t": "little",
+        "ini": 56.92,
+        "fin": 57.24
+       },
+       {
+        "t": "light",
+        "ini": 57.36,
+        "fin": 57.58
+       },
+       {
+        "t": "was",
+        "ini": 57.62,
+        "fin": 57.74
+       },
+       {
+        "t": "coming",
+        "ini": 57.86,
+        "fin": 58.24
+       },
+       {
+        "t": "from",
+        "ini": 58.3,
+        "fin": 58.54
+       },
+       {
+        "t": "the",
+        "ini": 58.58,
+        "fin": 58.7
+       },
+       {
+        "t": "kitchen…",
+        "ini": 58.76,
+        "fin": 59.6
+       }
+      ],
+      "trad": "Y una lucecita venía de la cocina…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "What were you doing when the lights went out?",
+      "ini": 60.92,
+      "fin": 63.76,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 60.92,
+        "fin": 61.06
+       },
+       {
+        "t": "were",
+        "ini": 61.16,
+        "fin": 61.36
+       },
+       {
+        "t": "you",
+        "ini": 61.42,
+        "fin": 61.58
+       },
+       {
+        "t": "doing",
+        "ini": 61.62,
+        "fin": 62.06
+       },
+       {
+        "t": "when",
+        "ini": 62.1,
+        "fin": 62.32
+       },
+       {
+        "t": "the",
+        "ini": 62.36,
+        "fin": 62.48
+       },
+       {
+        "t": "lights",
+        "ini": 62.56,
+        "fin": 62.96
+       },
+       {
+        "t": "went",
+        "ini": 63.06,
+        "fin": 63.32
+       },
+       {
+        "t": "out?",
+        "ini": 63.44,
+        "fin": 63.76
+       }
+      ],
+      "trad": "¿Qué estabas haciendo cuando se fue la luz?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "What were you doing? Tell me what you saw!",
+      "ini": 64.72,
+      "fin": 67.74,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 64.72,
+        "fin": 64.9
+       },
+       {
+        "t": "were",
+        "ini": 64.96,
+        "fin": 65.14
+       },
+       {
+        "t": "you",
+        "ini": 65.2,
+        "fin": 65.36
+       },
+       {
+        "t": "doing?",
+        "ini": 65.42,
+        "fin": 65.94
+       },
+       {
+        "t": "Tell",
+        "ini": 66.3,
+        "fin": 66.54
+       },
+       {
+        "t": "me",
+        "ini": 66.6,
+        "fin": 66.76
+       },
+       {
+        "t": "what",
+        "ini": 66.82,
+        "fin": 66.98
+       },
+       {
+        "t": "you",
+        "ini": 67.06,
+        "fin": 67.14
+       },
+       {
+        "t": "saw!",
+        "ini": 67.28,
+        "fin": 67.74
+       }
+      ],
+      "trad": "¿Qué estabas haciendo? ¡Dime qué viste!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "I'm the detective, and I'm gonna find out,",
+      "ini": 68.54,
+      "fin": 71.24,
+      "palabras": [
+       {
+        "t": "I'm",
+        "ini": 68.54,
+        "fin": 68.7
+       },
+       {
+        "t": "the",
+        "ini": 68.74,
+        "fin": 68.84
+       },
+       {
+        "t": "detective,",
+        "ini": 68.98,
+        "fin": 69.64
+       },
+       {
+        "t": "and",
+        "ini": 69.72,
+        "fin": 69.9
+       },
+       {
+        "t": "I'm",
+        "ini": 69.96,
+        "fin": 70.1
+       },
+       {
+        "t": "gonna",
+        "ini": 70.14,
+        "fin": 70.52
+       },
+       {
+        "t": "find",
+        "ini": 70.6,
+        "fin": 70.88
+       },
+       {
+        "t": "out,",
+        "ini": 70.98,
+        "fin": 71.24
+       }
+      ],
+      "trad": "Soy el detective, y voy a descubrirlo,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "where did the cake go? It's a mystery — oooh!",
+      "ini": 72.28,
+      "fin": 75.22,
+      "palabras": [
+       {
+        "t": "where",
+        "ini": 72.28,
+        "fin": 72.48
+       },
+       {
+        "t": "did",
+        "ini": 72.54,
+        "fin": 72.7
+       },
+       {
+        "t": "the",
+        "ini": 72.76,
+        "fin": 72.82
+       },
+       {
+        "t": "cake",
+        "ini": 72.96,
+        "fin": 73.18
+       },
+       {
+        "t": "go?",
+        "ini": 73.22,
+        "fin": 73.42
+       },
+       {
+        "t": "It's",
+        "ini": 73.52,
+        "fin": 73.7
+       },
+       {
+        "t": "a",
+        "ini": 73.76,
+        "fin": 73.84
+       },
+       {
+        "t": "mystery",
+        "ini": 73.92,
+        "fin": 74.72
+       },
+       {
+        "t": "—",
+        "ini": 74.86,
+        "fin": 74.86
+       },
+       {
+        "t": "oooh!",
+        "ini": 74.96,
+        "fin": 75.22
+       }
+      ],
+      "trad": "¿dónde se ha metido la tarta? ¡Es un misterio, uuuh!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "I was singing, Dad was washing, Mom was talking, Grandpa was snoring,",
+      "ini": 75.44,
+      "fin": 82.06,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 75.44,
+        "fin": 75.54
+       },
+       {
+        "t": "was",
+        "ini": 75.58,
+        "fin": 75.74
+       },
+       {
+        "t": "singing,",
+        "ini": 75.78,
+        "fin": 76.36
+       },
+       {
+        "t": "Dad",
+        "ini": 77.22,
+        "fin": 77.44
+       },
+       {
+        "t": "was",
+        "ini": 77.52,
+        "fin": 77.68
+       },
+       {
+        "t": "washing,",
+        "ini": 77.7,
+        "fin": 78.28
+       },
+       {
+        "t": "Mom",
+        "ini": 79.12,
+        "fin": 79.34
+       },
+       {
+        "t": "was",
+        "ini": 79.38,
+        "fin": 79.54
+       },
+       {
+        "t": "talking,",
+        "ini": 79.58,
+        "fin": 80.12
+       },
+       {
+        "t": "Grandpa",
+        "ini": 80.76,
+        "fin": 81.22
+       },
+       {
+        "t": "was",
+        "ini": 81.26,
+        "fin": 81.4
+       },
+       {
+        "t": "snoring,",
+        "ini": 81.46,
+        "fin": 82.06
+       }
+      ],
+      "trad": "Yo estaba cantando, papá estaba fregando, mamá estaba hablando, el abuelo estaba roncando,"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "we were all busy… and then — click! — the lights went out!",
+      "ini": 82.7,
+      "fin": 87.12,
+      "palabras": [
+       {
+        "t": "we",
+        "ini": 82.7,
+        "fin": 82.86
+       },
+       {
+        "t": "were",
+        "ini": 82.92,
+        "fin": 83.14
+       },
+       {
+        "t": "all",
+        "ini": 83.18,
+        "fin": 83.3
+       },
+       {
+        "t": "busy…",
+        "ini": 83.42,
+        "fin": 83.82
+       },
+       {
+        "t": "and",
+        "ini": 84.6,
+        "fin": 84.74
+       },
+       {
+        "t": "then",
+        "ini": 84.82,
+        "fin": 85.06
+       },
+       {
+        "t": "—",
+        "ini": 85.16,
+        "fin": 85.16
+       },
+       {
+        "t": "click!",
+        "ini": 85.22,
+        "fin": 85.58
+       },
+       {
+        "t": "—",
+        "ini": 85.58,
+        "fin": 85.58
+       },
+       {
+        "t": "the",
+        "ini": 86.0,
+        "fin": 86.1
+       },
+       {
+        "t": "lights",
+        "ini": 86.18,
+        "fin": 86.42
+       },
+       {
+        "t": "went",
+        "ini": 86.5,
+        "fin": 86.7
+       },
+       {
+        "t": "out!",
+        "ini": 86.8,
+        "fin": 87.12
+       }
+      ],
+      "trad": "todos estábamos ocupados… y entonces, ¡clic!, ¡se fue la luz!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "We opened the door, and there was Grandma, laughing,",
+      "ini": 91.2,
+      "fin": 94.22,
+      "palabras": [
+       {
+        "t": "We",
+        "ini": 91.2,
+        "fin": 91.36
+       },
+       {
+        "t": "opened",
+        "ini": 91.44,
+        "fin": 91.64
+       },
+       {
+        "t": "the",
+        "ini": 91.68,
+        "fin": 91.82
+       },
+       {
+        "t": "door,",
+        "ini": 91.84,
+        "fin": 92.2
+       },
+       {
+        "t": "and",
+        "ini": 92.34,
+        "fin": 92.42
+       },
+       {
+        "t": "there",
+        "ini": 92.46,
+        "fin": 92.54
+       },
+       {
+        "t": "was",
+        "ini": 92.56,
+        "fin": 92.74
+       },
+       {
+        "t": "Grandma,",
+        "ini": 92.8,
+        "fin": 93.28
+       },
+       {
+        "t": "laughing,",
+        "ini": 93.76,
+        "fin": 94.22
+       }
+      ],
+      "trad": "Abrimos la puerta, y allí estaba la abuela, riendo,"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "with the cake and eighty candles, all lit up — what a glow!",
+      "ini": 94.42,
+      "fin": 97.78,
+      "palabras": [
+       {
+        "t": "with",
+        "ini": 94.42,
+        "fin": 94.5
+       },
+       {
+        "t": "the",
+        "ini": 94.54,
+        "fin": 94.62
+       },
+       {
+        "t": "cake",
+        "ini": 94.7,
+        "fin": 94.96
+       },
+       {
+        "t": "and",
+        "ini": 95.0,
+        "fin": 95.16
+       },
+       {
+        "t": "eighty",
+        "ini": 95.26,
+        "fin": 95.48
+       },
+       {
+        "t": "candles,",
+        "ini": 95.64,
+        "fin": 96.12
+       },
+       {
+        "t": "all",
+        "ini": 96.44,
+        "fin": 96.56
+       },
+       {
+        "t": "lit",
+        "ini": 96.62,
+        "fin": 96.76
+       },
+       {
+        "t": "up",
+        "ini": 96.82,
+        "fin": 96.98
+       },
+       {
+        "t": "—",
+        "ini": 97.02,
+        "fin": 97.02
+       },
+       {
+        "t": "what",
+        "ini": 97.06,
+        "fin": 97.18
+       },
+       {
+        "t": "a",
+        "ini": 97.22,
+        "fin": 97.26
+       },
+       {
+        "t": "glow!",
+        "ini": 97.3,
+        "fin": 97.78
+       }
+      ],
+      "trad": "con la tarta y ochenta velas, todas encendidas — ¡qué brillo!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "«I turned the lights off! I was lighting all the candles!»",
+      "ini": 97.78,
+      "fin": 101.72,
+      "palabras": [
+       {
+        "t": "«I",
+        "ini": 97.78,
+        "fin": 98.9
+       },
+       {
+        "t": "turned",
+        "ini": 98.98,
+        "fin": 99.2
+       },
+       {
+        "t": "the",
+        "ini": 99.24,
+        "fin": 99.32
+       },
+       {
+        "t": "lights",
+        "ini": 99.42,
+        "fin": 99.7
+       },
+       {
+        "t": "off!",
+        "ini": 99.78,
+        "fin": 99.9
+       },
+       {
+        "t": "I",
+        "ini": 100.16,
+        "fin": 100.18
+       },
+       {
+        "t": "was",
+        "ini": 100.22,
+        "fin": 100.34
+       },
+       {
+        "t": "lighting",
+        "ini": 100.42,
+        "fin": 100.84
+       },
+       {
+        "t": "all",
+        "ini": 100.94,
+        "fin": 101.06
+       },
+       {
+        "t": "the",
+        "ini": 101.08,
+        "fin": 101.2
+       },
+       {
+        "t": "candles!»",
+        "ini": 101.3,
+        "fin": 101.72
+       }
+      ],
+      "trad": "«¡La luz la apagué yo! ¡Estaba encendiendo todas las velas!»"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Case closed! Then we ate the cake… and the detective ate the most!",
+      "ini": 101.78,
+      "fin": 105.28,
+      "palabras": [
+       {
+        "t": "Case",
+        "ini": 101.78,
+        "fin": 102.08
+       },
+       {
+        "t": "closed!",
+        "ini": 102.2,
+        "fin": 102.5
+       },
+       {
+        "t": "Then",
+        "ini": 102.52,
+        "fin": 102.62
+       },
+       {
+        "t": "we",
+        "ini": 102.66,
+        "fin": 102.74
+       },
+       {
+        "t": "ate",
+        "ini": 102.78,
+        "fin": 102.94
+       },
+       {
+        "t": "the",
+        "ini": 102.98,
+        "fin": 103.12
+       },
+       {
+        "t": "cake…",
+        "ini": 103.2,
+        "fin": 103.44
+       },
+       {
+        "t": "and",
+        "ini": 103.5,
+        "fin": 103.64
+       },
+       {
+        "t": "the",
+        "ini": 103.7,
+        "fin": 103.8
+       },
+       {
+        "t": "detective",
+        "ini": 103.92,
+        "fin": 104.62
+       },
+       {
+        "t": "ate",
+        "ini": 104.68,
+        "fin": 104.84
+       },
+       {
+        "t": "the",
+        "ini": 104.88,
+        "fin": 104.96
+       },
+       {
+        "t": "most!",
+        "ini": 105.06,
+        "fin": 105.28
+       }
+      ],
+      "trad": "¡Caso cerrado! Luego nos comimos la tarta… ¡y el detective fue el que más comió!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "What were you doing when the lights went out?",
+      "ini": 106.28,
+      "fin": 109.12,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 106.28,
+        "fin": 106.46
+       },
+       {
+        "t": "were",
+        "ini": 106.5,
+        "fin": 106.7
+       },
+       {
+        "t": "you",
+        "ini": 106.78,
+        "fin": 106.92
+       },
+       {
+        "t": "doing",
+        "ini": 107.0,
+        "fin": 107.42
+       },
+       {
+        "t": "when",
+        "ini": 107.46,
+        "fin": 107.66
+       },
+       {
+        "t": "the",
+        "ini": 107.72,
+        "fin": 107.84
+       },
+       {
+        "t": "lights",
+        "ini": 107.92,
+        "fin": 108.32
+       },
+       {
+        "t": "went",
+        "ini": 108.44,
+        "fin": 108.7
+       },
+       {
+        "t": "out?",
+        "ini": 108.8,
+        "fin": 109.12
+       }
+      ],
+      "trad": "¿Qué estabas haciendo cuando se fue la luz?"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "What were you doing? Tell me what you saw!",
+      "ini": 110.08,
+      "fin": 112.92,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 110.08,
+        "fin": 110.26
+       },
+       {
+        "t": "were",
+        "ini": 110.3,
+        "fin": 110.52
+       },
+       {
+        "t": "you",
+        "ini": 110.56,
+        "fin": 110.72
+       },
+       {
+        "t": "doing?",
+        "ini": 110.8,
+        "fin": 111.32
+       },
+       {
+        "t": "Tell",
+        "ini": 111.7,
+        "fin": 111.92
+       },
+       {
+        "t": "me",
+        "ini": 111.98,
+        "fin": 112.12
+       },
+       {
+        "t": "what",
+        "ini": 112.16,
+        "fin": 112.34
+       },
+       {
+        "t": "you",
+        "ini": 112.42,
+        "fin": 112.5
+       },
+       {
+        "t": "saw!",
+        "ini": 112.64,
+        "fin": 112.92
+       }
+      ],
+      "trad": "¿Qué estabas haciendo? ¡Dime qué viste!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "I'm the detective, and I'm gonna find out,",
+      "ini": 113.92,
+      "fin": 116.6,
+      "palabras": [
+       {
+        "t": "I'm",
+        "ini": 113.92,
+        "fin": 114.06
+       },
+       {
+        "t": "the",
+        "ini": 114.1,
+        "fin": 114.28
+       },
+       {
+        "t": "detective,",
+        "ini": 114.34,
+        "fin": 115.02
+       },
+       {
+        "t": "and",
+        "ini": 115.08,
+        "fin": 115.26
+       },
+       {
+        "t": "I'm",
+        "ini": 115.32,
+        "fin": 115.46
+       },
+       {
+        "t": "gonna",
+        "ini": 115.52,
+        "fin": 115.88
+       },
+       {
+        "t": "find",
+        "ini": 115.96,
+        "fin": 116.26
+       },
+       {
+        "t": "out,",
+        "ini": 116.36,
+        "fin": 116.6
+       }
+      ],
+      "trad": "Soy el detective, y voy a descubrirlo,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "where did the cake go? It's a mystery — oooh!",
+      "ini": 117.64,
+      "fin": 120.68,
+      "palabras": [
+       {
+        "t": "where",
+        "ini": 117.64,
+        "fin": 117.84
+       },
+       {
+        "t": "did",
+        "ini": 117.9,
+        "fin": 118.08
+       },
+       {
+        "t": "the",
+        "ini": 118.12,
+        "fin": 118.2
+       },
+       {
+        "t": "cake",
+        "ini": 118.32,
+        "fin": 118.56
+       },
+       {
+        "t": "go?",
+        "ini": 118.62,
+        "fin": 118.78
+       },
+       {
+        "t": "It's",
+        "ini": 118.88,
+        "fin": 119.04
+       },
+       {
+        "t": "a",
+        "ini": 119.14,
+        "fin": 119.2
+       },
+       {
+        "t": "mystery",
+        "ini": 119.28,
+        "fin": 120.04
+       },
+       {
+        "t": "—",
+        "ini": 120.06,
+        "fin": 120.06
+       },
+       {
+        "t": "oooh!",
+        "ini": 120.3,
+        "fin": 120.68
+       }
+      ],
+      "trad": "¿dónde se ha metido la tarta? ¡Es un misterio, uuuh!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "What were you doing when the lights went out?",
+      "ini": 121.4,
+      "fin": 124.22,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 121.4,
+        "fin": 121.56
+       },
+       {
+        "t": "were",
+        "ini": 121.64,
+        "fin": 121.84
+       },
+       {
+        "t": "you",
+        "ini": 121.9,
+        "fin": 121.98
+       },
+       {
+        "t": "doing",
+        "ini": 122.12,
+        "fin": 122.54
+       },
+       {
+        "t": "when",
+        "ini": 122.6,
+        "fin": 122.78
+       },
+       {
+        "t": "the",
+        "ini": 122.82,
+        "fin": 122.92
+       },
+       {
+        "t": "lights",
+        "ini": 123.04,
+        "fin": 123.44
+       },
+       {
+        "t": "went",
+        "ini": 123.54,
+        "fin": 123.8
+       },
+       {
+        "t": "out?",
+        "ini": 123.9,
+        "fin": 124.22
+       }
+      ],
+      "trad": "¿Qué estabas haciendo cuando se fue la luz?"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "What were you doing? Tell me what you saw!",
+      "ini": 125.2,
+      "fin": 128.22,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 125.2,
+        "fin": 125.38
+       },
+       {
+        "t": "were",
+        "ini": 125.4,
+        "fin": 125.64
+       },
+       {
+        "t": "you",
+        "ini": 125.7,
+        "fin": 125.84
+       },
+       {
+        "t": "doing?",
+        "ini": 125.9,
+        "fin": 126.42
+       },
+       {
+        "t": "Tell",
+        "ini": 126.82,
+        "fin": 127.0
+       },
+       {
+        "t": "me",
+        "ini": 127.08,
+        "fin": 127.24
+       },
+       {
+        "t": "what",
+        "ini": 127.3,
+        "fin": 127.46
+       },
+       {
+        "t": "you",
+        "ini": 127.52,
+        "fin": 127.66
+       },
+       {
+        "t": "saw!",
+        "ini": 127.74,
+        "fin": 128.22
+       }
+      ],
+      "trad": "¿Qué estabas haciendo? ¡Dime qué viste!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "I'm the detective, and I'm gonna find out,",
+      "ini": 129.04,
+      "fin": 131.74,
+      "palabras": [
+       {
+        "t": "I'm",
+        "ini": 129.04,
+        "fin": 129.16
+       },
+       {
+        "t": "the",
+        "ini": 129.22,
+        "fin": 129.4
+       },
+       {
+        "t": "detective,",
+        "ini": 129.46,
+        "fin": 130.14
+       },
+       {
+        "t": "and",
+        "ini": 130.22,
+        "fin": 130.38
+       },
+       {
+        "t": "I'm",
+        "ini": 130.42,
+        "fin": 130.58
+       },
+       {
+        "t": "gonna",
+        "ini": 130.64,
+        "fin": 130.96
+       },
+       {
+        "t": "find",
+        "ini": 131.08,
+        "fin": 131.36
+       },
+       {
+        "t": "out,",
+        "ini": 131.46,
+        "fin": 131.74
+       }
+      ],
+      "trad": "Soy el detective, y voy a descubrirlo,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "where did the cake go? It's a mystery — oooh!",
+      "ini": 132.74,
+      "fin": 135.14,
+      "palabras": [
+       {
+        "t": "where",
+        "ini": 132.74,
+        "fin": 132.96
+       },
+       {
+        "t": "did",
+        "ini": 133.02,
+        "fin": 133.18
+       },
+       {
+        "t": "the",
+        "ini": 133.22,
+        "fin": 133.3
+       },
+       {
+        "t": "cake",
+        "ini": 133.44,
+        "fin": 133.66
+       },
+       {
+        "t": "go?",
+        "ini": 133.72,
+        "fin": 133.88
+       },
+       {
+        "t": "It's",
+        "ini": 133.98,
+        "fin": 134.16
+       },
+       {
+        "t": "a",
+        "ini": 134.24,
+        "fin": 134.28
+       },
+       {
+        "t": "mystery",
+        "ini": 134.4,
+        "fin": 135.06
+       },
+       {
+        "t": "—",
+        "ini": 135.1,
+        "fin": 135.1
+       },
+       {
+        "t": "oooh!",
+        "ini": 135.12,
+        "fin": 135.14
+       }
+      ],
+      "trad": "¿dónde se ha metido la tarta? ¡Es un misterio, uuuh!"
+     },
+     {
+      "seccion": "Outro",
+      "texto": "— Happy birthday, Grandma! — Case closed!",
+      "ini": 135.14,
+      "fin": 136.76,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 135.14,
+        "fin": 135.14
+       },
+       {
+        "t": "Happy",
+        "ini": 135.16,
+        "fin": 135.32
+       },
+       {
+        "t": "birthday,",
+        "ini": 135.38,
+        "fin": 135.72
+       },
+       {
+        "t": "Grandma!",
+        "ini": 135.8,
+        "fin": 136.08
+       },
+       {
+        "t": "—",
+        "ini": 136.08,
+        "fin": 136.08
+       },
+       {
+        "t": "Case",
+        "ini": 136.16,
+        "fin": 136.3
+       },
+       {
+        "t": "closed!",
+        "ini": 136.38,
+        "fin": 136.76
+       }
+      ],
+      "trad": "— ¡Feliz cumpleaños, abuela! — ¡Caso cerrado!"
+     }
+    ],
+    "duracion": 138.79
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Intro",
+      "texto": "¡Clic! —¡Eh! ¿Quién ha apagado la luz?",
+      "ini": 0.22,
+      "fin": 3.22,
+      "palabras": [
+       {
+        "t": "¡Clic!",
+        "ini": 0.22,
+        "fin": 0.48
+       },
+       {
+        "t": "—¡Eh!",
+        "ini": 0.48,
+        "fin": 1.82
+       },
+       {
+        "t": "¿Quién",
+        "ini": 1.88,
+        "fin": 2.42
+       },
+       {
+        "t": "ha",
+        "ini": 2.44,
+        "fin": 2.48
+       },
+       {
+        "t": "apagado",
+        "ini": 2.54,
+        "fin": 2.86
+       },
+       {
+        "t": "la",
+        "ini": 2.88,
+        "fin": 2.96
+       },
+       {
+        "t": "luz?",
+        "ini": 3.0,
+        "fin": 3.22
+       }
+      ],
+      "trad": "Click! —Hey! Who turned off the lights?"
+     },
+     {
+      "seccion": "Intro",
+      "texto": "—¡La tarta! ¿Dónde está la tarta?",
+      "ini": 3.26,
+      "fin": 5.9,
+      "palabras": [
+       {
+        "t": "—¡La",
+        "ini": 3.26,
+        "fin": 3.98
+       },
+       {
+        "t": "tarta!",
+        "ini": 4.08,
+        "fin": 4.48
+       },
+       {
+        "t": "¿Dónde",
+        "ini": 4.48,
+        "fin": 5.2
+       },
+       {
+        "t": "está",
+        "ini": 5.24,
+        "fin": 5.44
+       },
+       {
+        "t": "la",
+        "ini": 5.48,
+        "fin": 5.54
+       },
+       {
+        "t": "tarta?",
+        "ini": 5.6,
+        "fin": 5.9
+       }
+      ],
+      "trad": "—The cake! Where's the cake?"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Era el cumple de la abuela, y la tarta estaba en la mesa,",
+      "ini": 8.02,
+      "fin": 10.9,
+      "palabras": [
+       {
+        "t": "Era",
+        "ini": 8.02,
+        "fin": 8.12
+       },
+       {
+        "t": "el",
+        "ini": 8.16,
+        "fin": 8.2
+       },
+       {
+        "t": "cumple",
+        "ini": 8.24,
+        "fin": 8.48
+       },
+       {
+        "t": "de",
+        "ini": 8.52,
+        "fin": 8.58
+       },
+       {
+        "t": "la",
+        "ini": 8.6,
+        "fin": 8.64
+       },
+       {
+        "t": "abuela,",
+        "ini": 8.66,
+        "fin": 9.0
+       },
+       {
+        "t": "y",
+        "ini": 9.44,
+        "fin": 9.5
+       },
+       {
+        "t": "la",
+        "ini": 9.54,
+        "fin": 9.6
+       },
+       {
+        "t": "tarta",
+        "ini": 9.68,
+        "fin": 9.94
+       },
+       {
+        "t": "estaba",
+        "ini": 9.98,
+        "fin": 10.32
+       },
+       {
+        "t": "en",
+        "ini": 10.34,
+        "fin": 10.44
+       },
+       {
+        "t": "la",
+        "ini": 10.48,
+        "fin": 10.54
+       },
+       {
+        "t": "mesa,",
+        "ini": 10.58,
+        "fin": 10.9
+       }
+      ],
+      "trad": "It was Grandma's birthday, and the cake was on the table,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "de chocolate y nata, con ochenta velas… ¡qué tartaza!",
+      "ini": 11.42,
+      "fin": 14.42,
+      "palabras": [
+       {
+        "t": "de",
+        "ini": 11.42,
+        "fin": 11.48
+       },
+       {
+        "t": "chocolate",
+        "ini": 11.52,
+        "fin": 11.92
+       },
+       {
+        "t": "y",
+        "ini": 11.94,
+        "fin": 11.98
+       },
+       {
+        "t": "nata,",
+        "ini": 12.02,
+        "fin": 12.24
+       },
+       {
+        "t": "con",
+        "ini": 12.36,
+        "fin": 12.46
+       },
+       {
+        "t": "ochenta",
+        "ini": 12.5,
+        "fin": 12.92
+       },
+       {
+        "t": "velas…",
+        "ini": 13.0,
+        "fin": 13.34
+       },
+       {
+        "t": "¡qué",
+        "ini": 13.34,
+        "fin": 13.76
+       },
+       {
+        "t": "tartaza!",
+        "ini": 13.82,
+        "fin": 14.42
+       }
+      ],
+      "trad": "chocolate and whipped cream, with eighty candles… what a huge cake!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "De repente, ¡clic!, se fue la luz y todo se quedó a oscuras,",
+      "ini": 14.58,
+      "fin": 18.56,
+      "palabras": [
+       {
+        "t": "De",
+        "ini": 14.58,
+        "fin": 14.66
+       },
+       {
+        "t": "repente,",
+        "ini": 14.7,
+        "fin": 14.98
+       },
+       {
+        "t": "¡clic!,",
+        "ini": 15.04,
+        "fin": 15.52
+       },
+       {
+        "t": "se",
+        "ini": 16.08,
+        "fin": 16.16
+       },
+       {
+        "t": "fue",
+        "ini": 16.22,
+        "fin": 16.32
+       },
+       {
+        "t": "la",
+        "ini": 16.36,
+        "fin": 16.4
+       },
+       {
+        "t": "luz",
+        "ini": 16.46,
+        "fin": 16.7
+       },
+       {
+        "t": "y",
+        "ini": 17.08,
+        "fin": 17.12
+       },
+       {
+        "t": "todo",
+        "ini": 17.2,
+        "fin": 17.4
+       },
+       {
+        "t": "se",
+        "ini": 17.5,
+        "fin": 17.6
+       },
+       {
+        "t": "quedó",
+        "ini": 17.66,
+        "fin": 17.88
+       },
+       {
+        "t": "a",
+        "ini": 17.88,
+        "fin": 17.9
+       },
+       {
+        "t": "oscuras,",
+        "ini": 17.96,
+        "fin": 18.56
+       }
+      ],
+      "trad": "Suddenly, click!, the lights went out and everything went dark,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "y cuando encontré la linterna… ¡la tarta ya no estaba! ¡Ni rastro!",
+      "ini": 18.96,
+      "fin": 22.52,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 18.96,
+        "fin": 19.0
+       },
+       {
+        "t": "cuando",
+        "ini": 19.04,
+        "fin": 19.26
+       },
+       {
+        "t": "encontré",
+        "ini": 19.28,
+        "fin": 19.72
+       },
+       {
+        "t": "la",
+        "ini": 19.76,
+        "fin": 19.82
+       },
+       {
+        "t": "linterna…",
+        "ini": 19.86,
+        "fin": 20.4
+       },
+       {
+        "t": "¡la",
+        "ini": 20.68,
+        "fin": 20.8
+       },
+       {
+        "t": "tarta",
+        "ini": 20.92,
+        "fin": 21.2
+       },
+       {
+        "t": "ya",
+        "ini": 21.26,
+        "fin": 21.34
+       },
+       {
+        "t": "no",
+        "ini": 21.36,
+        "fin": 21.4
+       },
+       {
+        "t": "estaba!",
+        "ini": 21.44,
+        "fin": 21.94
+       },
+       {
+        "t": "¡Ni",
+        "ini": 21.98,
+        "fin": 22.08
+       },
+       {
+        "t": "rastro!",
+        "ini": 22.14,
+        "fin": 22.52
+       }
+      ],
+      "trad": "and when I found the flashlight… the cake was gone! Not a trace!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Qué estabas haciendo cuando se fue la luz?",
+      "ini": 22.52,
+      "fin": 25.78,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 22.52,
+        "fin": 22.84
+       },
+       {
+        "t": "estabas",
+        "ini": 22.88,
+        "fin": 23.46
+       },
+       {
+        "t": "haciendo",
+        "ini": 23.5,
+        "fin": 24.16
+       },
+       {
+        "t": "cuando",
+        "ini": 24.42,
+        "fin": 24.78
+       },
+       {
+        "t": "se",
+        "ini": 24.9,
+        "fin": 25.0
+       },
+       {
+        "t": "fue",
+        "ini": 25.14,
+        "fin": 25.34
+       },
+       {
+        "t": "la",
+        "ini": 25.38,
+        "fin": 25.46
+       },
+       {
+        "t": "luz?",
+        "ini": 25.52,
+        "fin": 25.78
+       }
+      ],
+      "trad": "What were you doing when the lights went out?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Qué estabas haciendo? ¡Dime qué viste tú!",
+      "ini": 25.86,
+      "fin": 29.5,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 25.86,
+        "fin": 26.62
+       },
+       {
+        "t": "estabas",
+        "ini": 26.66,
+        "fin": 27.24
+       },
+       {
+        "t": "haciendo?",
+        "ini": 27.28,
+        "fin": 27.96
+       },
+       {
+        "t": "¡Dime",
+        "ini": 28.18,
+        "fin": 28.44
+       },
+       {
+        "t": "qué",
+        "ini": 28.66,
+        "fin": 28.82
+       },
+       {
+        "t": "viste",
+        "ini": 28.88,
+        "fin": 29.22
+       },
+       {
+        "t": "tú!",
+        "ini": 29.28,
+        "fin": 29.5
+       }
+      ],
+      "trad": "What were you doing? Tell me what you saw!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Soy el detective y lo voy a descubrir,",
+      "ini": 30.32,
+      "fin": 33.36,
+      "palabras": [
+       {
+        "t": "Soy",
+        "ini": 30.32,
+        "fin": 30.58
+       },
+       {
+        "t": "el",
+        "ini": 30.64,
+        "fin": 30.74
+       },
+       {
+        "t": "detective",
+        "ini": 30.8,
+        "fin": 31.72
+       },
+       {
+        "t": "y",
+        "ini": 31.88,
+        "fin": 31.92
+       },
+       {
+        "t": "lo",
+        "ini": 31.98,
+        "fin": 32.14
+       },
+       {
+        "t": "voy",
+        "ini": 32.2,
+        "fin": 32.48
+       },
+       {
+        "t": "a",
+        "ini": 32.5,
+        "fin": 32.62
+       },
+       {
+        "t": "descubrir,",
+        "ini": 32.68,
+        "fin": 33.36
+       }
+      ],
+      "trad": "I'm the detective and I'm going to find out,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿dónde se ha metido la tarta? ¡Es un misterio, uh!",
+      "ini": 33.36,
+      "fin": 37.52,
+      "palabras": [
+       {
+        "t": "¿dónde",
+        "ini": 33.36,
+        "fin": 34.4
+       },
+       {
+        "t": "se",
+        "ini": 34.52,
+        "fin": 34.62
+       },
+       {
+        "t": "ha",
+        "ini": 34.66,
+        "fin": 34.72
+       },
+       {
+        "t": "metido",
+        "ini": 34.8,
+        "fin": 35.22
+       },
+       {
+        "t": "la",
+        "ini": 35.26,
+        "fin": 35.36
+       },
+       {
+        "t": "tarta?",
+        "ini": 35.48,
+        "fin": 35.9
+       },
+       {
+        "t": "¡Es",
+        "ini": 36.22,
+        "fin": 36.42
+       },
+       {
+        "t": "un",
+        "ini": 36.5,
+        "fin": 36.6
+       },
+       {
+        "t": "misterio,",
+        "ini": 36.66,
+        "fin": 37.24
+       },
+       {
+        "t": "uh!",
+        "ini": 37.32,
+        "fin": 37.52
+       }
+      ],
+      "trad": "Where did the cake go? It's a mystery, uh!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—Papá, ¿qué estabas haciendo? —Estaba fregando los platos, hijo.",
+      "ini": 37.6,
+      "fin": 41.04,
+      "palabras": [
+       {
+        "t": "—Papá,",
+        "ini": 37.6,
+        "fin": 37.94
+       },
+       {
+        "t": "¿qué",
+        "ini": 38.12,
+        "fin": 38.2
+       },
+       {
+        "t": "estabas",
+        "ini": 38.22,
+        "fin": 38.54
+       },
+       {
+        "t": "haciendo?",
+        "ini": 38.56,
+        "fin": 39.02
+       },
+       {
+        "t": "—Estaba",
+        "ini": 39.02,
+        "fin": 39.78
+       },
+       {
+        "t": "fregando",
+        "ini": 39.86,
+        "fin": 40.18
+       },
+       {
+        "t": "los",
+        "ini": 40.2,
+        "fin": 40.32
+       },
+       {
+        "t": "platos,",
+        "ini": 40.4,
+        "fin": 40.72
+       },
+       {
+        "t": "hijo.",
+        "ini": 40.76,
+        "fin": 41.04
+       }
+      ],
+      "trad": "—Dad, what were you doing? —I was washing the dishes, son."
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—Mamá, ¿qué estabas haciendo? —Estaba hablando por teléfono.",
+      "ini": 41.4,
+      "fin": 44.62,
+      "palabras": [
+       {
+        "t": "—Mamá,",
+        "ini": 41.4,
+        "fin": 41.7
+       },
+       {
+        "t": "¿qué",
+        "ini": 41.9,
+        "fin": 41.98
+       },
+       {
+        "t": "estabas",
+        "ini": 42.0,
+        "fin": 42.32
+       },
+       {
+        "t": "haciendo?",
+        "ini": 42.34,
+        "fin": 42.82
+       },
+       {
+        "t": "—Estaba",
+        "ini": 42.82,
+        "fin": 43.56
+       },
+       {
+        "t": "hablando",
+        "ini": 43.58,
+        "fin": 43.9
+       },
+       {
+        "t": "por",
+        "ini": 43.98,
+        "fin": 44.1
+       },
+       {
+        "t": "teléfono.",
+        "ini": 44.14,
+        "fin": 44.62
+       }
+      ],
+      "trad": "—Mom, what were you doing? —I was talking on the phone."
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¿Y el abuelo? —Estaba durmiendo en el sofá, ¡como siempre!",
+      "ini": 44.76,
+      "fin": 48.22,
+      "palabras": [
+       {
+        "t": "—¿Y",
+        "ini": 44.76,
+        "fin": 44.84
+       },
+       {
+        "t": "el",
+        "ini": 44.86,
+        "fin": 44.94
+       },
+       {
+        "t": "abuelo?",
+        "ini": 45.0,
+        "fin": 45.36
+       },
+       {
+        "t": "—Estaba",
+        "ini": 45.54,
+        "fin": 45.88
+       },
+       {
+        "t": "durmiendo",
+        "ini": 45.94,
+        "fin": 46.32
+       },
+       {
+        "t": "en",
+        "ini": 46.34,
+        "fin": 46.4
+       },
+       {
+        "t": "el",
+        "ini": 46.44,
+        "fin": 46.52
+       },
+       {
+        "t": "sofá,",
+        "ini": 46.58,
+        "fin": 46.96
+       },
+       {
+        "t": "¡como",
+        "ini": 47.04,
+        "fin": 47.7
+       },
+       {
+        "t": "siempre!",
+        "ini": 47.8,
+        "fin": 48.22
+       }
+      ],
+      "trad": "—And Grandpa? —He was sleeping on the couch, like always!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Y la gata estaba sentada en la mesa… lamiéndose la pata. Mmm…",
+      "ini": 48.94,
+      "fin": 52.94,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 48.94,
+        "fin": 49.0
+       },
+       {
+        "t": "la",
+        "ini": 49.04,
+        "fin": 49.1
+       },
+       {
+        "t": "gata",
+        "ini": 49.16,
+        "fin": 49.34
+       },
+       {
+        "t": "estaba",
+        "ini": 49.36,
+        "fin": 49.64
+       },
+       {
+        "t": "sentada",
+        "ini": 49.7,
+        "fin": 50.02
+       },
+       {
+        "t": "en",
+        "ini": 50.06,
+        "fin": 50.12
+       },
+       {
+        "t": "la",
+        "ini": 50.16,
+        "fin": 50.22
+       },
+       {
+        "t": "mesa…",
+        "ini": 50.3,
+        "fin": 50.58
+       },
+       {
+        "t": "lamiéndose",
+        "ini": 51.22,
+        "fin": 51.76
+       },
+       {
+        "t": "la",
+        "ini": 51.78,
+        "fin": 51.84
+       },
+       {
+        "t": "pata.",
+        "ini": 51.92,
+        "fin": 52.24
+       },
+       {
+        "t": "Mmm…",
+        "ini": 52.64,
+        "fin": 52.94
+       }
+      ],
+      "trad": "And the cat was sitting on the table… licking her paw. Mmm…"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¿Y la abuela? ¿Dónde estaba la abuela? —Mmm… ¡nadie la vio!",
+      "ini": 52.94,
+      "fin": 56.56,
+      "palabras": [
+       {
+        "t": "—¿Y",
+        "ini": 52.94,
+        "fin": 53.4
+       },
+       {
+        "t": "la",
+        "ini": 53.42,
+        "fin": 53.48
+       },
+       {
+        "t": "abuela?",
+        "ini": 53.5,
+        "fin": 53.86
+       },
+       {
+        "t": "¿Dónde",
+        "ini": 53.86,
+        "fin": 54.56
+       },
+       {
+        "t": "estaba",
+        "ini": 54.58,
+        "fin": 54.88
+       },
+       {
+        "t": "la",
+        "ini": 54.9,
+        "fin": 54.96
+       },
+       {
+        "t": "abuela?",
+        "ini": 54.98,
+        "fin": 55.3
+       },
+       {
+        "t": "—Mmm…",
+        "ini": 55.44,
+        "fin": 55.64
+       },
+       {
+        "t": "¡nadie",
+        "ini": 55.72,
+        "fin": 56.04
+       },
+       {
+        "t": "la",
+        "ini": 56.18,
+        "fin": 56.24
+       },
+       {
+        "t": "vio!",
+        "ini": 56.3,
+        "fin": 56.56
+       }
+      ],
+      "trad": "—And Grandma? Where was Grandma? —Mmm… nobody saw her!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Y de la cocina salía una lucecita…",
+      "ini": 57.12,
+      "fin": 59.72,
+      "palabras": [
+       {
+        "t": "Y",
+        "ini": 57.12,
+        "fin": 57.16
+       },
+       {
+        "t": "de",
+        "ini": 57.2,
+        "fin": 57.26
+       },
+       {
+        "t": "la",
+        "ini": 57.3,
+        "fin": 57.34
+       },
+       {
+        "t": "cocina",
+        "ini": 57.42,
+        "fin": 57.84
+       },
+       {
+        "t": "salía",
+        "ini": 58.36,
+        "fin": 58.72
+       },
+       {
+        "t": "una",
+        "ini": 58.8,
+        "fin": 58.94
+       },
+       {
+        "t": "lucecita…",
+        "ini": 59.0,
+        "fin": 59.72
+       }
+      ],
+      "trad": "And from the kitchen came a little light…"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Qué estabas haciendo cuando se fue la luz?",
+      "ini": 59.74,
+      "fin": 63.48,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 59.74,
+        "fin": 60.52
+       },
+       {
+        "t": "estabas",
+        "ini": 60.54,
+        "fin": 61.14
+       },
+       {
+        "t": "haciendo",
+        "ini": 61.16,
+        "fin": 61.84
+       },
+       {
+        "t": "cuando",
+        "ini": 62.08,
+        "fin": 62.44
+       },
+       {
+        "t": "se",
+        "ini": 62.54,
+        "fin": 62.66
+       },
+       {
+        "t": "fue",
+        "ini": 62.78,
+        "fin": 62.98
+       },
+       {
+        "t": "la",
+        "ini": 63.02,
+        "fin": 63.1
+       },
+       {
+        "t": "luz?",
+        "ini": 63.16,
+        "fin": 63.48
+       }
+      ],
+      "trad": "What were you doing when the lights went out?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Qué estabas haciendo? ¡Dime qué viste tú!",
+      "ini": 63.48,
+      "fin": 67.22,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 63.48,
+        "fin": 64.28
+       },
+       {
+        "t": "estabas",
+        "ini": 64.3,
+        "fin": 64.9
+       },
+       {
+        "t": "haciendo?",
+        "ini": 64.92,
+        "fin": 65.6
+       },
+       {
+        "t": "¡Dime",
+        "ini": 65.82,
+        "fin": 66.08
+       },
+       {
+        "t": "qué",
+        "ini": 66.32,
+        "fin": 66.5
+       },
+       {
+        "t": "viste",
+        "ini": 66.56,
+        "fin": 66.86
+       },
+       {
+        "t": "tú!",
+        "ini": 66.92,
+        "fin": 67.22
+       }
+      ],
+      "trad": "What were you doing? Tell me what you saw!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Soy el detective y lo voy a descubrir,",
+      "ini": 67.96,
+      "fin": 71.0,
+      "palabras": [
+       {
+        "t": "Soy",
+        "ini": 67.96,
+        "fin": 68.22
+       },
+       {
+        "t": "el",
+        "ini": 68.28,
+        "fin": 68.38
+       },
+       {
+        "t": "detective",
+        "ini": 68.44,
+        "fin": 69.38
+       },
+       {
+        "t": "y",
+        "ini": 69.48,
+        "fin": 69.56
+       },
+       {
+        "t": "lo",
+        "ini": 69.62,
+        "fin": 69.8
+       },
+       {
+        "t": "voy",
+        "ini": 69.84,
+        "fin": 70.12
+       },
+       {
+        "t": "a",
+        "ini": 70.14,
+        "fin": 70.26
+       },
+       {
+        "t": "descubrir,",
+        "ini": 70.32,
+        "fin": 71.0
+       }
+      ],
+      "trad": "I'm the detective and I'm going to find out,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿dónde se ha metido la tarta? ¡Es un misterio, uh!",
+      "ini": 71.0,
+      "fin": 74.98,
+      "palabras": [
+       {
+        "t": "¿dónde",
+        "ini": 71.0,
+        "fin": 72.06
+       },
+       {
+        "t": "se",
+        "ini": 72.16,
+        "fin": 72.26
+       },
+       {
+        "t": "ha",
+        "ini": 72.3,
+        "fin": 72.38
+       },
+       {
+        "t": "metido",
+        "ini": 72.44,
+        "fin": 72.88
+       },
+       {
+        "t": "la",
+        "ini": 72.92,
+        "fin": 73.02
+       },
+       {
+        "t": "tarta?",
+        "ini": 73.12,
+        "fin": 73.56
+       },
+       {
+        "t": "¡Es",
+        "ini": 73.84,
+        "fin": 74.06
+       },
+       {
+        "t": "un",
+        "ini": 74.16,
+        "fin": 74.26
+       },
+       {
+        "t": "misterio,",
+        "ini": 74.3,
+        "fin": 74.88
+       },
+       {
+        "t": "uh!",
+        "ini": 74.96,
+        "fin": 74.98
+       }
+      ],
+      "trad": "Where did the cake go? It's a mystery, uh!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Yo cantaba, papá fregaba, mamá hablaba, el abuelo roncaba,",
+      "ini": 75.04,
+      "fin": 81.6,
+      "palabras": [
+       {
+        "t": "Yo",
+        "ini": 75.04,
+        "fin": 75.18
+       },
+       {
+        "t": "cantaba,",
+        "ini": 75.24,
+        "fin": 75.92
+       },
+       {
+        "t": "papá",
+        "ini": 76.66,
+        "fin": 77.04
+       },
+       {
+        "t": "fregaba,",
+        "ini": 77.1,
+        "fin": 77.78
+       },
+       {
+        "t": "mamá",
+        "ini": 78.58,
+        "fin": 79.0
+       },
+       {
+        "t": "hablaba,",
+        "ini": 79.02,
+        "fin": 79.68
+       },
+       {
+        "t": "el",
+        "ini": 80.04,
+        "fin": 80.22
+       },
+       {
+        "t": "abuelo",
+        "ini": 80.28,
+        "fin": 80.8
+       },
+       {
+        "t": "roncaba,",
+        "ini": 80.9,
+        "fin": 81.6
+       }
+      ],
+      "trad": "I was singing, Dad was washing, Mom was talking, Grandpa was snoring,"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "todos estábamos ocupados… y entonces, ¡clic!, se fue la luz.",
+      "ini": 82.32,
+      "fin": 88.92,
+      "palabras": [
+       {
+        "t": "todos",
+        "ini": 82.32,
+        "fin": 82.76
+       },
+       {
+        "t": "estábamos",
+        "ini": 82.82,
+        "fin": 83.9
+       },
+       {
+        "t": "ocupados…",
+        "ini": 84.3,
+        "fin": 85.52
+       },
+       {
+        "t": "y",
+        "ini": 85.58,
+        "fin": 85.62
+       },
+       {
+        "t": "entonces,",
+        "ini": 85.66,
+        "fin": 86.4
+       },
+       {
+        "t": "¡clic!,",
+        "ini": 86.7,
+        "fin": 87.06
+       },
+       {
+        "t": "se",
+        "ini": 87.92,
+        "fin": 88.02
+       },
+       {
+        "t": "fue",
+        "ini": 88.16,
+        "fin": 88.36
+       },
+       {
+        "t": "la",
+        "ini": 88.4,
+        "fin": 88.48
+       },
+       {
+        "t": "luz.",
+        "ini": 88.54,
+        "fin": 88.92
+       }
+      ],
+      "trad": "we were all busy… and then, click!, the lights went out."
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Abrimos la puerta, y allí estaba la abuela, riéndose,",
+      "ini": 90.92,
+      "fin": 93.56,
+      "palabras": [
+       {
+        "t": "Abrimos",
+        "ini": 90.92,
+        "fin": 91.28
+       },
+       {
+        "t": "la",
+        "ini": 91.32,
+        "fin": 91.38
+       },
+       {
+        "t": "puerta,",
+        "ini": 91.46,
+        "fin": 91.72
+       },
+       {
+        "t": "y",
+        "ini": 91.76,
+        "fin": 91.8
+       },
+       {
+        "t": "allí",
+        "ini": 91.82,
+        "fin": 91.94
+       },
+       {
+        "t": "estaba",
+        "ini": 91.98,
+        "fin": 92.26
+       },
+       {
+        "t": "la",
+        "ini": 92.28,
+        "fin": 92.34
+       },
+       {
+        "t": "abuela,",
+        "ini": 92.36,
+        "fin": 92.74
+       },
+       {
+        "t": "riéndose,",
+        "ini": 92.88,
+        "fin": 93.56
+       }
+      ],
+      "trad": "We opened the door, and there was Grandma, laughing,"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "con la tarta y ochenta velas encendidas… ¡qué resplandor!",
+      "ini": 94.56,
+      "fin": 97.44,
+      "palabras": [
+       {
+        "t": "con",
+        "ini": 94.56,
+        "fin": 94.66
+       },
+       {
+        "t": "la",
+        "ini": 94.7,
+        "fin": 94.76
+       },
+       {
+        "t": "tarta",
+        "ini": 94.82,
+        "fin": 95.04
+       },
+       {
+        "t": "y",
+        "ini": 95.08,
+        "fin": 95.12
+       },
+       {
+        "t": "ochenta",
+        "ini": 95.16,
+        "fin": 95.56
+       },
+       {
+        "t": "velas",
+        "ini": 95.6,
+        "fin": 95.82
+       },
+       {
+        "t": "encendidas…",
+        "ini": 95.9,
+        "fin": 96.54
+       },
+       {
+        "t": "¡qué",
+        "ini": 96.6,
+        "fin": 96.72
+       },
+       {
+        "t": "resplandor!",
+        "ini": 96.78,
+        "fin": 97.44
+       }
+      ],
+      "trad": "with the cake and eighty lit candles… what a glow!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "«¡Apagué yo la luz! Estaba encendiendo las velas.»",
+      "ini": 97.44,
+      "fin": 100.82,
+      "palabras": [
+       {
+        "t": "«¡Apagué",
+        "ini": 97.44,
+        "fin": 98.66
+       },
+       {
+        "t": "yo",
+        "ini": 98.72,
+        "fin": 98.8
+       },
+       {
+        "t": "la",
+        "ini": 98.84,
+        "fin": 98.92
+       },
+       {
+        "t": "luz!",
+        "ini": 98.96,
+        "fin": 99.24
+       },
+       {
+        "t": "Estaba",
+        "ini": 99.32,
+        "fin": 99.62
+       },
+       {
+        "t": "encendiendo",
+        "ini": 99.64,
+        "fin": 100.24
+       },
+       {
+        "t": "las",
+        "ini": 100.28,
+        "fin": 100.42
+       },
+       {
+        "t": "velas.»",
+        "ini": 100.48,
+        "fin": 100.82
+       }
+      ],
+      "trad": "«I turned off the lights! I was lighting the candles.»"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "¡Caso cerrado! Y nos comimos la tarta… ¡el detective, el que más!",
+      "ini": 100.98,
+      "fin": 104.9,
+      "palabras": [
+       {
+        "t": "¡Caso",
+        "ini": 100.98,
+        "fin": 101.36
+       },
+       {
+        "t": "cerrado!",
+        "ini": 101.46,
+        "fin": 101.94
+       },
+       {
+        "t": "Y",
+        "ini": 102.0,
+        "fin": 102.02
+       },
+       {
+        "t": "nos",
+        "ini": 102.08,
+        "fin": 102.18
+       },
+       {
+        "t": "comimos",
+        "ini": 102.26,
+        "fin": 102.6
+       },
+       {
+        "t": "la",
+        "ini": 102.64,
+        "fin": 102.7
+       },
+       {
+        "t": "tarta…",
+        "ini": 102.78,
+        "fin": 103.2
+       },
+       {
+        "t": "¡el",
+        "ini": 103.48,
+        "fin": 103.64
+       },
+       {
+        "t": "detective,",
+        "ini": 103.72,
+        "fin": 104.34
+       },
+       {
+        "t": "el",
+        "ini": 104.38,
+        "fin": 104.44
+       },
+       {
+        "t": "que",
+        "ini": 104.52,
+        "fin": 104.62
+       },
+       {
+        "t": "más!",
+        "ini": 104.68,
+        "fin": 104.9
+       }
+      ],
+      "trad": "Case closed! And we ate the cake… the detective ate the most!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Qué estabas haciendo cuando se fue la luz?",
+      "ini": 105.6,
+      "fin": 108.66,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 105.6,
+        "fin": 105.68
+       },
+       {
+        "t": "estabas",
+        "ini": 105.72,
+        "fin": 106.32
+       },
+       {
+        "t": "haciendo",
+        "ini": 106.36,
+        "fin": 107.04
+       },
+       {
+        "t": "cuando",
+        "ini": 107.28,
+        "fin": 107.6
+       },
+       {
+        "t": "se",
+        "ini": 107.74,
+        "fin": 107.82
+       },
+       {
+        "t": "fue",
+        "ini": 107.96,
+        "fin": 108.18
+       },
+       {
+        "t": "la",
+        "ini": 108.22,
+        "fin": 108.3
+       },
+       {
+        "t": "luz?",
+        "ini": 108.36,
+        "fin": 108.66
+       }
+      ],
+      "trad": "What were you doing when the lights went out?"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Qué estabas haciendo? ¡Dime qué viste tú!",
+      "ini": 108.7,
+      "fin": 112.42,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 108.7,
+        "fin": 109.46
+       },
+       {
+        "t": "estabas",
+        "ini": 109.5,
+        "fin": 110.1
+       },
+       {
+        "t": "haciendo?",
+        "ini": 110.12,
+        "fin": 110.74
+       },
+       {
+        "t": "¡Dime",
+        "ini": 111.0,
+        "fin": 111.36
+       },
+       {
+        "t": "qué",
+        "ini": 111.52,
+        "fin": 111.7
+       },
+       {
+        "t": "viste",
+        "ini": 111.78,
+        "fin": 112.06
+       },
+       {
+        "t": "tú!",
+        "ini": 112.12,
+        "fin": 112.42
+       }
+      ],
+      "trad": "What were you doing? Tell me what you saw!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Soy el detective y lo voy a descubrir,",
+      "ini": 113.16,
+      "fin": 116.18,
+      "palabras": [
+       {
+        "t": "Soy",
+        "ini": 113.16,
+        "fin": 113.4
+       },
+       {
+        "t": "el",
+        "ini": 113.46,
+        "fin": 113.56
+       },
+       {
+        "t": "detective",
+        "ini": 113.62,
+        "fin": 114.54
+       },
+       {
+        "t": "y",
+        "ini": 114.66,
+        "fin": 114.74
+       },
+       {
+        "t": "lo",
+        "ini": 114.8,
+        "fin": 114.94
+       },
+       {
+        "t": "voy",
+        "ini": 115.02,
+        "fin": 115.28
+       },
+       {
+        "t": "a",
+        "ini": 115.34,
+        "fin": 115.44
+       },
+       {
+        "t": "descubrir,",
+        "ini": 115.5,
+        "fin": 116.18
+       }
+      ],
+      "trad": "I'm the detective and I'm going to find out,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿dónde se ha metido la tarta? ¡Es un misterio, uh!",
+      "ini": 116.2,
+      "fin": 120.36,
+      "palabras": [
+       {
+        "t": "¿dónde",
+        "ini": 116.2,
+        "fin": 117.2
+       },
+       {
+        "t": "se",
+        "ini": 117.32,
+        "fin": 117.4
+       },
+       {
+        "t": "ha",
+        "ini": 117.44,
+        "fin": 117.52
+       },
+       {
+        "t": "metido",
+        "ini": 117.6,
+        "fin": 118.0
+       },
+       {
+        "t": "la",
+        "ini": 118.06,
+        "fin": 118.16
+       },
+       {
+        "t": "tarta?",
+        "ini": 118.26,
+        "fin": 118.7
+       },
+       {
+        "t": "¡Es",
+        "ini": 118.98,
+        "fin": 119.22
+       },
+       {
+        "t": "un",
+        "ini": 119.3,
+        "fin": 119.42
+       },
+       {
+        "t": "misterio,",
+        "ini": 119.46,
+        "fin": 120.1
+       },
+       {
+        "t": "uh!",
+        "ini": 120.2,
+        "fin": 120.36
+       }
+      ],
+      "trad": "Where did the cake go? It's a mystery, uh!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Qué estabas haciendo cuando se fue la luz?",
+      "ini": 120.58,
+      "fin": 123.56,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 120.58,
+        "fin": 120.66
+       },
+       {
+        "t": "estabas",
+        "ini": 120.7,
+        "fin": 121.26
+       },
+       {
+        "t": "haciendo",
+        "ini": 121.3,
+        "fin": 122.0
+       },
+       {
+        "t": "cuando",
+        "ini": 122.22,
+        "fin": 122.56
+       },
+       {
+        "t": "se",
+        "ini": 122.68,
+        "fin": 122.78
+       },
+       {
+        "t": "fue",
+        "ini": 122.92,
+        "fin": 123.1
+       },
+       {
+        "t": "la",
+        "ini": 123.16,
+        "fin": 123.24
+       },
+       {
+        "t": "luz?",
+        "ini": 123.3,
+        "fin": 123.56
+       }
+      ],
+      "trad": "What were you doing when the lights went out?"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Qué estabas haciendo? ¡Dime qué viste tú!",
+      "ini": 123.64,
+      "fin": 127.32,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 123.64,
+        "fin": 124.4
+       },
+       {
+        "t": "estabas",
+        "ini": 124.44,
+        "fin": 125.02
+       },
+       {
+        "t": "haciendo?",
+        "ini": 125.06,
+        "fin": 125.74
+       },
+       {
+        "t": "¡Dime",
+        "ini": 125.98,
+        "fin": 126.3
+       },
+       {
+        "t": "qué",
+        "ini": 126.44,
+        "fin": 126.64
+       },
+       {
+        "t": "viste",
+        "ini": 126.7,
+        "fin": 127.0
+       },
+       {
+        "t": "tú!",
+        "ini": 127.06,
+        "fin": 127.32
+       }
+      ],
+      "trad": "What were you doing? Tell me what you saw!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Soy el detective y lo voy a descubrir,",
+      "ini": 128.08,
+      "fin": 131.12,
+      "palabras": [
+       {
+        "t": "Soy",
+        "ini": 128.08,
+        "fin": 128.34
+       },
+       {
+        "t": "el",
+        "ini": 128.42,
+        "fin": 128.5
+       },
+       {
+        "t": "detective",
+        "ini": 128.58,
+        "fin": 129.48
+       },
+       {
+        "t": "y",
+        "ini": 129.62,
+        "fin": 129.7
+       },
+       {
+        "t": "lo",
+        "ini": 129.76,
+        "fin": 129.9
+       },
+       {
+        "t": "voy",
+        "ini": 129.98,
+        "fin": 130.22
+       },
+       {
+        "t": "a",
+        "ini": 130.3,
+        "fin": 130.4
+       },
+       {
+        "t": "descubrir,",
+        "ini": 130.44,
+        "fin": 131.12
+       }
+      ],
+      "trad": "I'm the detective and I'm going to find out,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿dónde se ha metido la tarta? ¡Es un misterio, uh!",
+      "ini": 131.22,
+      "fin": 135.08,
+      "palabras": [
+       {
+        "t": "¿dónde",
+        "ini": 131.22,
+        "fin": 132.14
+       },
+       {
+        "t": "se",
+        "ini": 132.26,
+        "fin": 132.36
+       },
+       {
+        "t": "ha",
+        "ini": 132.38,
+        "fin": 132.46
+       },
+       {
+        "t": "metido",
+        "ini": 132.54,
+        "fin": 132.96
+       },
+       {
+        "t": "la",
+        "ini": 133.0,
+        "fin": 133.1
+       },
+       {
+        "t": "tarta?",
+        "ini": 133.22,
+        "fin": 133.68
+       },
+       {
+        "t": "¡Es",
+        "ini": 133.94,
+        "fin": 134.16
+       },
+       {
+        "t": "un",
+        "ini": 134.24,
+        "fin": 134.36
+       },
+       {
+        "t": "misterio,",
+        "ini": 134.4,
+        "fin": 135.0
+       },
+       {
+        "t": "uh!",
+        "ini": 135.08,
+        "fin": 135.08
+       }
+      ],
+      "trad": "Where did the cake go? It's a mystery, uh!"
+     },
+     {
+      "seccion": "Outro",
+      "texto": "—¡Feliz cumpleaños, abuela! —¡Caso cerrado!",
+      "ini": 135.1,
+      "fin": 137.66,
+      "palabras": [
+       {
+        "t": "—¡Feliz",
+        "ini": 135.1,
+        "fin": 135.24
+       },
+       {
+        "t": "cumpleaños,",
+        "ini": 135.28,
+        "fin": 135.88
+       },
+       {
+        "t": "abuela!",
+        "ini": 135.96,
+        "fin": 136.36
+       },
+       {
+        "t": "—¡Caso",
+        "ini": 136.68,
+        "fin": 137.04
+       },
+       {
+        "t": "cerrado!",
+        "ini": 137.12,
+        "fin": 137.66
+       }
+      ],
+      "trad": "—Happy birthday, Grandma! —Case closed!"
+     }
+    ],
+    "duracion": 138.79
+   },
+   "preguntas": [
+    {
+     "en": "What was Dad doing when the lights went out?",
+     "en_op": [
+      "He was washing the dishes",
+      "He was talking on the phone",
+      "He was sleeping on the sofa"
+     ],
+     "es": "¿Qué estaba haciendo papá cuando se fue la luz?",
+     "es_op": [
+      "Estaba fregando los platos",
+      "Estaba hablando por teléfono",
+      "Estaba durmiendo en el sofá"
+     ]
+    },
+    {
+     "en": "Who turned off the lights?",
+     "en_op": [
+      "Grandma",
+      "The cat",
+      "Grandpa"
+     ],
+     "es": "¿Quién apagó la luz?",
+     "es_op": [
+      "La abuela",
+      "La gata",
+      "El abuelo"
+     ]
+    },
+    {
+     "en": "«Mom ___ talking on the phone when the lights went out.»",
+     "en_op": [
+      "was",
+      "were",
+      "is"
+     ],
+     "es": "«Mamá ___ hablando por teléfono cuando se fue la luz.»",
+     "es_op": [
+      "estaba",
+      "estaban",
+      "está"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "21-radio-nora",
+   "titulo_en": "Radio Nora: What Should I Do?",
+   "titulo_es": "Radio Nora: ¿qué debería hacer?",
+   "ensena_en": "giving advice with should and shouldn't (You should study, you shouldn't play all night, What should I do?), inside a funny radio show",
+   "ensena_es": "dar consejos con «deberías» y «no deberías» (deberías estudiar, no deberías jugar toda la noche, ¿qué debería hacer?), en un programa de radio de risa",
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Intro",
+      "texto": "Good evening! This is Radio Nora, live from my bedroom!",
+      "ini": 0.18,
+      "fin": 4.08,
+      "palabras": [
+       {
+        "t": "Good",
+        "ini": 0.18,
+        "fin": 0.34
+       },
+       {
+        "t": "evening!",
+        "ini": 0.42,
+        "fin": 0.8
+       },
+       {
+        "t": "This",
+        "ini": 1.4,
+        "fin": 1.58
+       },
+       {
+        "t": "is",
+        "ini": 1.62,
+        "fin": 1.78
+       },
+       {
+        "t": "Radio",
+        "ini": 1.82,
+        "fin": 2.14
+       },
+       {
+        "t": "Nora,",
+        "ini": 2.22,
+        "fin": 2.56
+       },
+       {
+        "t": "live",
+        "ini": 2.92,
+        "fin": 3.26
+       },
+       {
+        "t": "from",
+        "ini": 3.32,
+        "fin": 3.48
+       },
+       {
+        "t": "my",
+        "ini": 3.52,
+        "fin": 3.64
+       },
+       {
+        "t": "bedroom!",
+        "ini": 3.7,
+        "fin": 4.08
+       }
+      ],
+      "trad": "¡Buenas noches! ¡Aquí Radio Nora, en directo desde mi cuarto!"
+     },
+     {
+      "seccion": "Intro",
+      "texto": "My microphone's a hairbrush, and the phone is ringing — ring!",
+      "ini": 4.26,
+      "fin": 7.52,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 4.26,
+        "fin": 4.36
+       },
+       {
+        "t": "microphone's",
+        "ini": 4.44,
+        "fin": 5.04
+       },
+       {
+        "t": "a",
+        "ini": 5.08,
+        "fin": 5.14
+       },
+       {
+        "t": "hairbrush,",
+        "ini": 5.18,
+        "fin": 5.7
+       },
+       {
+        "t": "and",
+        "ini": 6.06,
+        "fin": 6.14
+       },
+       {
+        "t": "the",
+        "ini": 6.18,
+        "fin": 6.24
+       },
+       {
+        "t": "phone",
+        "ini": 6.26,
+        "fin": 6.42
+       },
+       {
+        "t": "is",
+        "ini": 6.46,
+        "fin": 6.54
+       },
+       {
+        "t": "ringing",
+        "ini": 6.6,
+        "fin": 6.9
+       },
+       {
+        "t": "—",
+        "ini": 6.9,
+        "fin": 6.9
+       },
+       {
+        "t": "ring!",
+        "ini": 7.2,
+        "fin": 7.52
+       }
+      ],
+      "trad": "Mi micrófono es un cepillo de pelo, y el teléfono está sonando — ¡ring!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "What should I do? What should I do?",
+      "ini": 9.04,
+      "fin": 12.18,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 9.04,
+        "fin": 9.18
+       },
+       {
+        "t": "should",
+        "ini": 9.26,
+        "fin": 9.48
+       },
+       {
+        "t": "I",
+        "ini": 9.58,
+        "fin": 9.6
+       },
+       {
+        "t": "do?",
+        "ini": 9.74,
+        "fin": 10.08
+       },
+       {
+        "t": "What",
+        "ini": 11.22,
+        "fin": 11.34
+       },
+       {
+        "t": "should",
+        "ini": 11.44,
+        "fin": 11.64
+       },
+       {
+        "t": "I",
+        "ini": 11.78,
+        "fin": 11.8
+       },
+       {
+        "t": "do?",
+        "ini": 11.92,
+        "fin": 12.18
+       }
+      ],
+      "trad": "¿Qué debería hacer? ¿Qué debería hacer?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Call Radio Nora, I've got advice for you!",
+      "ini": 13.36,
+      "fin": 16.58,
+      "palabras": [
+       {
+        "t": "Call",
+        "ini": 13.36,
+        "fin": 13.58
+       },
+       {
+        "t": "Radio",
+        "ini": 13.66,
+        "fin": 14.06
+       },
+       {
+        "t": "Nora,",
+        "ini": 14.2,
+        "fin": 14.84
+       },
+       {
+        "t": "I've",
+        "ini": 15.4,
+        "fin": 15.52
+       },
+       {
+        "t": "got",
+        "ini": 15.58,
+        "fin": 15.7
+       },
+       {
+        "t": "advice",
+        "ini": 15.74,
+        "fin": 16.08
+       },
+       {
+        "t": "for",
+        "ini": 16.16,
+        "fin": 16.26
+       },
+       {
+        "t": "you!",
+        "ini": 16.34,
+        "fin": 16.58
+       }
+      ],
+      "trad": "¡Llama a Radio Nora, tengo consejos para ti!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "You should, you shouldn't — listen to me,",
+      "ini": 17.76,
+      "fin": 20.94,
+      "palabras": [
+       {
+        "t": "You",
+        "ini": 17.76,
+        "fin": 17.86
+       },
+       {
+        "t": "should,",
+        "ini": 17.98,
+        "fin": 18.26
+       },
+       {
+        "t": "you",
+        "ini": 18.34,
+        "fin": 18.4
+       },
+       {
+        "t": "shouldn't",
+        "ini": 18.54,
+        "fin": 19.34
+       },
+       {
+        "t": "—",
+        "ini": 19.34,
+        "fin": 19.34
+       },
+       {
+        "t": "listen",
+        "ini": 19.92,
+        "fin": 20.4
+       },
+       {
+        "t": "to",
+        "ini": 20.48,
+        "fin": 20.58
+       },
+       {
+        "t": "me,",
+        "ini": 20.64,
+        "fin": 20.94
+       }
+      ],
+      "trad": "Deberías, no deberías — escúchame,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Nora knows the answer… usually!",
+      "ini": 21.84,
+      "fin": 25.3,
+      "palabras": [
+       {
+        "t": "Nora",
+        "ini": 21.84,
+        "fin": 22.22
+       },
+       {
+        "t": "knows",
+        "ini": 22.34,
+        "fin": 22.62
+       },
+       {
+        "t": "the",
+        "ini": 22.7,
+        "fin": 22.82
+       },
+       {
+        "t": "answer…",
+        "ini": 23.02,
+        "fin": 23.64
+       },
+       {
+        "t": "usually!",
+        "ini": 24.66,
+        "fin": 25.3
+       }
+      ],
+      "trad": "Nora sabe la respuesta… ¡casi siempre!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "— It's Hugo. I've got a math test, but I want to play all night!",
+      "ini": 25.3,
+      "fin": 30.12,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 25.3,
+        "fin": 25.3
+       },
+       {
+        "t": "It's",
+        "ini": 26.46,
+        "fin": 26.64
+       },
+       {
+        "t": "Hugo.",
+        "ini": 26.68,
+        "fin": 27.08
+       },
+       {
+        "t": "I've",
+        "ini": 27.88,
+        "fin": 27.98
+       },
+       {
+        "t": "got",
+        "ini": 28.02,
+        "fin": 28.14
+       },
+       {
+        "t": "a",
+        "ini": 28.2,
+        "fin": 28.24
+       },
+       {
+        "t": "math",
+        "ini": 28.3,
+        "fin": 28.58
+       },
+       {
+        "t": "test,",
+        "ini": 28.62,
+        "fin": 28.9
+       },
+       {
+        "t": "but",
+        "ini": 29.02,
+        "fin": 29.12
+       },
+       {
+        "t": "I",
+        "ini": 29.18,
+        "fin": 29.24
+       },
+       {
+        "t": "want",
+        "ini": 29.26,
+        "fin": 29.36
+       },
+       {
+        "t": "to",
+        "ini": 29.38,
+        "fin": 29.44
+       },
+       {
+        "t": "play",
+        "ini": 29.5,
+        "fin": 29.68
+       },
+       {
+        "t": "all",
+        "ini": 29.72,
+        "fin": 29.86
+       },
+       {
+        "t": "night!",
+        "ini": 29.9,
+        "fin": 30.12
+       }
+      ],
+      "trad": "—Soy Hugo. Tengo un examen de mates, ¡pero quiero jugar toda la noche!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "— Hugo, you shouldn't play so much, you should study,",
+      "ini": 30.26,
+      "fin": 34.52,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 30.26,
+        "fin": 30.26
+       },
+       {
+        "t": "Hugo,",
+        "ini": 31.34,
+        "fin": 31.72
+       },
+       {
+        "t": "you",
+        "ini": 32.34,
+        "fin": 32.42
+       },
+       {
+        "t": "shouldn't",
+        "ini": 32.46,
+        "fin": 32.72
+       },
+       {
+        "t": "play",
+        "ini": 32.76,
+        "fin": 32.9
+       },
+       {
+        "t": "so",
+        "ini": 33.0,
+        "fin": 33.08
+       },
+       {
+        "t": "much,",
+        "ini": 33.18,
+        "fin": 33.44
+       },
+       {
+        "t": "you",
+        "ini": 33.86,
+        "fin": 33.92
+       },
+       {
+        "t": "should",
+        "ini": 33.98,
+        "fin": 34.18
+       },
+       {
+        "t": "study,",
+        "ini": 34.28,
+        "fin": 34.52
+       }
+      ],
+      "trad": "— Hugo, no deberías jugar tanto, deberías estudiar,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "and go to bed early: your brain studies while you sleep!",
+      "ini": 35.24,
+      "fin": 38.9,
+      "palabras": [
+       {
+        "t": "and",
+        "ini": 35.24,
+        "fin": 35.4
+       },
+       {
+        "t": "go",
+        "ini": 35.48,
+        "fin": 35.58
+       },
+       {
+        "t": "to",
+        "ini": 35.62,
+        "fin": 35.72
+       },
+       {
+        "t": "bed",
+        "ini": 35.76,
+        "fin": 35.98
+       },
+       {
+        "t": "early:",
+        "ini": 36.08,
+        "fin": 36.64
+       },
+       {
+        "t": "your",
+        "ini": 37.12,
+        "fin": 37.26
+       },
+       {
+        "t": "brain",
+        "ini": 37.34,
+        "fin": 37.54
+       },
+       {
+        "t": "studies",
+        "ini": 37.64,
+        "fin": 38.06
+       },
+       {
+        "t": "while",
+        "ini": 38.2,
+        "fin": 38.42
+       },
+       {
+        "t": "you",
+        "ini": 38.46,
+        "fin": 38.56
+       },
+       {
+        "t": "sleep!",
+        "ini": 38.62,
+        "fin": 38.9
+       }
+      ],
+      "trad": "y acostarte temprano: ¡tu cerebro estudia mientras duermes!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "— Thanks, Nora! — You're welcome! Next caller, please… ring, ring!",
+      "ini": 38.9,
+      "fin": 43.44,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 38.9,
+        "fin": 38.9
+       },
+       {
+        "t": "Thanks,",
+        "ini": 39.44,
+        "fin": 39.7
+       },
+       {
+        "t": "Nora!",
+        "ini": 39.78,
+        "fin": 40.04
+       },
+       {
+        "t": "—",
+        "ini": 40.04,
+        "fin": 40.04
+       },
+       {
+        "t": "You're",
+        "ini": 40.68,
+        "fin": 40.8
+       },
+       {
+        "t": "welcome!",
+        "ini": 40.86,
+        "fin": 41.28
+       },
+       {
+        "t": "Next",
+        "ini": 41.74,
+        "fin": 41.94
+       },
+       {
+        "t": "caller,",
+        "ini": 42.02,
+        "fin": 42.28
+       },
+       {
+        "t": "please…",
+        "ini": 42.38,
+        "fin": 42.7
+       },
+       {
+        "t": "ring,",
+        "ini": 42.88,
+        "fin": 43.04
+       },
+       {
+        "t": "ring!",
+        "ini": 43.16,
+        "fin": 43.44
+       }
+      ],
+      "trad": "— ¡Gracias, Nora! — ¡De nada! Siguiente llamada, por favor… ¡ring, ring!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— It's Dad. I'm making dinner… and the rice is black!",
+      "ini": 43.44,
+      "fin": 47.18,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 43.44,
+        "fin": 43.44
+       },
+       {
+        "t": "It's",
+        "ini": 43.96,
+        "fin": 44.16
+       },
+       {
+        "t": "Dad.",
+        "ini": 44.2,
+        "fin": 44.48
+       },
+       {
+        "t": "I'm",
+        "ini": 44.56,
+        "fin": 44.68
+       },
+       {
+        "t": "making",
+        "ini": 44.76,
+        "fin": 45.12
+       },
+       {
+        "t": "dinner…",
+        "ini": 45.18,
+        "fin": 45.54
+       },
+       {
+        "t": "and",
+        "ini": 46.12,
+        "fin": 46.22
+       },
+       {
+        "t": "the",
+        "ini": 46.26,
+        "fin": 46.34
+       },
+       {
+        "t": "rice",
+        "ini": 46.4,
+        "fin": 46.64
+       },
+       {
+        "t": "is",
+        "ini": 46.68,
+        "fin": 46.76
+       },
+       {
+        "t": "black!",
+        "ini": 46.82,
+        "fin": 47.18
+       }
+      ],
+      "trad": "— Soy papá. Estoy haciendo la cena… ¡y el arroz está negro!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "I was watching soccer on my phone… What should I do?",
+      "ini": 48.36,
+      "fin": 51.52,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 48.36,
+        "fin": 48.4
+       },
+       {
+        "t": "was",
+        "ini": 48.44,
+        "fin": 48.56
+       },
+       {
+        "t": "watching",
+        "ini": 48.6,
+        "fin": 48.96
+       },
+       {
+        "t": "soccer",
+        "ini": 49.1,
+        "fin": 49.54
+       },
+       {
+        "t": "on",
+        "ini": 49.62,
+        "fin": 49.76
+       },
+       {
+        "t": "my",
+        "ini": 49.82,
+        "fin": 49.96
+       },
+       {
+        "t": "phone…",
+        "ini": 50.06,
+        "fin": 50.38
+       },
+       {
+        "t": "What",
+        "ini": 50.48,
+        "fin": 50.62
+       },
+       {
+        "t": "should",
+        "ini": 50.72,
+        "fin": 50.92
+       },
+       {
+        "t": "I",
+        "ini": 51.08,
+        "fin": 51.1
+       },
+       {
+        "t": "do?",
+        "ini": 51.22,
+        "fin": 51.52
+       }
+      ],
+      "trad": "Estaba viendo el fútbol en el móvil… ¿Qué debería hacer?"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— Dad, you shouldn't watch the game while you're cooking!",
+      "ini": 51.52,
+      "fin": 55.82,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 51.52,
+        "fin": 51.52
+       },
+       {
+        "t": "Dad,",
+        "ini": 52.66,
+        "fin": 53.02
+       },
+       {
+        "t": "you",
+        "ini": 53.2,
+        "fin": 53.3
+       },
+       {
+        "t": "shouldn't",
+        "ini": 53.44,
+        "fin": 53.8
+       },
+       {
+        "t": "watch",
+        "ini": 53.92,
+        "fin": 54.2
+       },
+       {
+        "t": "the",
+        "ini": 54.26,
+        "fin": 54.34
+       },
+       {
+        "t": "game",
+        "ini": 54.46,
+        "fin": 54.76
+       },
+       {
+        "t": "while",
+        "ini": 54.84,
+        "fin": 55.04
+       },
+       {
+        "t": "you're",
+        "ini": 55.12,
+        "fin": 55.32
+       },
+       {
+        "t": "cooking!",
+        "ini": 55.36,
+        "fin": 55.82
+       }
+      ],
+      "trad": "—¡Papá, no deberías ver el partido mientras cocinas!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "You should open the window… and order a pizza!",
+      "ini": 57.02,
+      "fin": 60.12,
+      "palabras": [
+       {
+        "t": "You",
+        "ini": 57.02,
+        "fin": 57.1
+       },
+       {
+        "t": "should",
+        "ini": 57.14,
+        "fin": 57.3
+       },
+       {
+        "t": "open",
+        "ini": 57.34,
+        "fin": 57.54
+       },
+       {
+        "t": "the",
+        "ini": 57.6,
+        "fin": 57.76
+       },
+       {
+        "t": "window…",
+        "ini": 57.86,
+        "fin": 58.5
+       },
+       {
+        "t": "and",
+        "ini": 58.68,
+        "fin": 58.82
+       },
+       {
+        "t": "order",
+        "ini": 59.0,
+        "fin": 59.32
+       },
+       {
+        "t": "a",
+        "ini": 59.36,
+        "fin": 59.44
+       },
+       {
+        "t": "pizza!",
+        "ini": 59.5,
+        "fin": 60.12
+       }
+      ],
+      "trad": "¡Deberías abrir la ventana… y pedir una pizza!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "What should I do? What should I do?",
+      "ini": 61.4,
+      "fin": 64.6,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 61.4,
+        "fin": 61.54
+       },
+       {
+        "t": "should",
+        "ini": 61.62,
+        "fin": 61.84
+       },
+       {
+        "t": "I",
+        "ini": 61.94,
+        "fin": 62.04
+       },
+       {
+        "t": "do?",
+        "ini": 62.1,
+        "fin": 62.44
+       },
+       {
+        "t": "What",
+        "ini": 63.58,
+        "fin": 63.7
+       },
+       {
+        "t": "should",
+        "ini": 63.8,
+        "fin": 64.0
+       },
+       {
+        "t": "I",
+        "ini": 64.14,
+        "fin": 64.16
+       },
+       {
+        "t": "do?",
+        "ini": 64.28,
+        "fin": 64.6
+       }
+      ],
+      "trad": "¿Qué debería hacer? ¿Qué debería hacer?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Call Radio Nora, I've got advice for you!",
+      "ini": 65.72,
+      "fin": 68.98,
+      "palabras": [
+       {
+        "t": "Call",
+        "ini": 65.72,
+        "fin": 65.94
+       },
+       {
+        "t": "Radio",
+        "ini": 66.0,
+        "fin": 66.42
+       },
+       {
+        "t": "Nora,",
+        "ini": 66.54,
+        "fin": 67.18
+       },
+       {
+        "t": "I've",
+        "ini": 67.74,
+        "fin": 67.88
+       },
+       {
+        "t": "got",
+        "ini": 67.94,
+        "fin": 68.06
+       },
+       {
+        "t": "advice",
+        "ini": 68.1,
+        "fin": 68.44
+       },
+       {
+        "t": "for",
+        "ini": 68.5,
+        "fin": 68.64
+       },
+       {
+        "t": "you!",
+        "ini": 68.72,
+        "fin": 68.98
+       }
+      ],
+      "trad": "¡Llama a Radio Nora, tengo consejos para ti!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "You should, you shouldn't — listen to me,",
+      "ini": 70.12,
+      "fin": 73.22,
+      "palabras": [
+       {
+        "t": "You",
+        "ini": 70.12,
+        "fin": 70.22
+       },
+       {
+        "t": "should,",
+        "ini": 70.34,
+        "fin": 70.62
+       },
+       {
+        "t": "you",
+        "ini": 70.68,
+        "fin": 70.76
+       },
+       {
+        "t": "shouldn't",
+        "ini": 70.9,
+        "fin": 71.7
+       },
+       {
+        "t": "—",
+        "ini": 71.7,
+        "fin": 71.7
+       },
+       {
+        "t": "listen",
+        "ini": 72.28,
+        "fin": 72.76
+       },
+       {
+        "t": "to",
+        "ini": 72.84,
+        "fin": 72.94
+       },
+       {
+        "t": "me,",
+        "ini": 73.0,
+        "fin": 73.22
+       }
+      ],
+      "trad": "Deberías, no deberías — escúchame,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Nora knows the answer… usually!",
+      "ini": 74.2,
+      "fin": 77.64,
+      "palabras": [
+       {
+        "t": "Nora",
+        "ini": 74.2,
+        "fin": 74.58
+       },
+       {
+        "t": "knows",
+        "ini": 74.7,
+        "fin": 75.0
+       },
+       {
+        "t": "the",
+        "ini": 75.06,
+        "fin": 75.18
+       },
+       {
+        "t": "answer…",
+        "ini": 75.38,
+        "fin": 76.02
+       },
+       {
+        "t": "usually!",
+        "ini": 77.02,
+        "fin": 77.64
+       }
+      ],
+      "trad": "Nora sabe la respuesta… ¡casi siempre!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "— Woof! Woof, woof! — Bruno? Is that you? Hmm… I understand:",
+      "ini": 77.64,
+      "fin": 82.58,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 77.64,
+        "fin": 77.64
+       },
+       {
+        "t": "Woof!",
+        "ini": 78.04,
+        "fin": 79.6
+       },
+       {
+        "t": "Woof,",
+        "ini": 79.6,
+        "fin": 79.6
+       },
+       {
+        "t": "woof!",
+        "ini": 79.6,
+        "fin": 79.6
+       },
+       {
+        "t": "—",
+        "ini": 79.6,
+        "fin": 79.6
+       },
+       {
+        "t": "Bruno?",
+        "ini": 79.62,
+        "fin": 80.0
+       },
+       {
+        "t": "Is",
+        "ini": 80.38,
+        "fin": 80.46
+       },
+       {
+        "t": "that",
+        "ini": 80.5,
+        "fin": 80.66
+       },
+       {
+        "t": "you?",
+        "ini": 80.74,
+        "fin": 80.88
+       },
+       {
+        "t": "Hmm…",
+        "ini": 81.16,
+        "fin": 81.5
+       },
+       {
+        "t": "I",
+        "ini": 81.9,
+        "fin": 81.96
+       },
+       {
+        "t": "understand:",
+        "ini": 82.0,
+        "fin": 82.58
+       }
+      ],
+      "trad": "— ¡Guau! ¡Guau, guau! — ¿Bruno? ¿Eres tú? Hmm… Entiendo:"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "you shouldn't eat that rice! You should go for a walk!",
+      "ini": 83.36,
+      "fin": 86.5,
+      "palabras": [
+       {
+        "t": "you",
+        "ini": 83.36,
+        "fin": 83.42
+       },
+       {
+        "t": "shouldn't",
+        "ini": 83.52,
+        "fin": 83.76
+       },
+       {
+        "t": "eat",
+        "ini": 83.8,
+        "fin": 83.94
+       },
+       {
+        "t": "that",
+        "ini": 84.0,
+        "fin": 84.12
+       },
+       {
+        "t": "rice!",
+        "ini": 84.2,
+        "fin": 84.54
+       },
+       {
+        "t": "You",
+        "ini": 85.4,
+        "fin": 85.46
+       },
+       {
+        "t": "should",
+        "ini": 85.52,
+        "fin": 85.64
+       },
+       {
+        "t": "go",
+        "ini": 85.7,
+        "fin": 85.8
+       },
+       {
+        "t": "for",
+        "ini": 85.9,
+        "fin": 86.0
+       },
+       {
+        "t": "a",
+        "ini": 86.04,
+        "fin": 86.08
+       },
+       {
+        "t": "walk!",
+        "ini": 86.18,
+        "fin": 86.5
+       }
+      ],
+      "trad": "¡No deberías comer ese arroz! ¡Deberías dar un paseo!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "I should, you should, he should, she should… and the dog should too!",
+      "ini": 87.94,
+      "fin": 94.08,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 87.94,
+        "fin": 88.16
+       },
+       {
+        "t": "should,",
+        "ini": 88.36,
+        "fin": 88.66
+       },
+       {
+        "t": "you",
+        "ini": 88.98,
+        "fin": 89.26
+       },
+       {
+        "t": "should,",
+        "ini": 89.42,
+        "fin": 89.8
+       },
+       {
+        "t": "he",
+        "ini": 90.04,
+        "fin": 90.34
+       },
+       {
+        "t": "should,",
+        "ini": 90.5,
+        "fin": 90.82
+       },
+       {
+        "t": "she",
+        "ini": 91.06,
+        "fin": 91.46
+       },
+       {
+        "t": "should…",
+        "ini": 91.6,
+        "fin": 91.9
+       },
+       {
+        "t": "and",
+        "ini": 92.26,
+        "fin": 92.54
+       },
+       {
+        "t": "the",
+        "ini": 92.6,
+        "fin": 92.66
+       },
+       {
+        "t": "dog",
+        "ini": 92.74,
+        "fin": 93.12
+       },
+       {
+        "t": "should",
+        "ini": 93.24,
+        "fin": 93.76
+       },
+       {
+        "t": "too!",
+        "ini": 93.86,
+        "fin": 94.08
+       }
+      ],
+      "trad": "Yo debería, tú deberías, él debería, ella debería… ¡y el perro también debería!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "We should, they should… and to say no: should not — shouldn't!",
+      "ini": 96.6,
+      "fin": 103.08,
+      "palabras": [
+       {
+        "t": "We",
+        "ini": 96.6,
+        "fin": 96.8
+       },
+       {
+        "t": "should,",
+        "ini": 97.06,
+        "fin": 97.36
+       },
+       {
+        "t": "they",
+        "ini": 97.66,
+        "fin": 97.96
+       },
+       {
+        "t": "should…",
+        "ini": 98.16,
+        "fin": 98.48
+       },
+       {
+        "t": "and",
+        "ini": 98.82,
+        "fin": 99.14
+       },
+       {
+        "t": "to",
+        "ini": 99.28,
+        "fin": 99.52
+       },
+       {
+        "t": "say",
+        "ini": 99.84,
+        "fin": 100.22
+       },
+       {
+        "t": "no:",
+        "ini": 100.4,
+        "fin": 100.6
+       },
+       {
+        "t": "should",
+        "ini": 100.9,
+        "fin": 101.32
+       },
+       {
+        "t": "not",
+        "ini": 101.46,
+        "fin": 101.72
+       },
+       {
+        "t": "—",
+        "ini": 101.92,
+        "fin": 101.92
+       },
+       {
+        "t": "shouldn't!",
+        "ini": 102.0,
+        "fin": 103.08
+       }
+      ],
+      "trad": "Nosotros deberíamos, ellos deberían… y para decir que no: «should not»… ¡«shouldn't»!"
+     },
+     {
+      "seccion": "Verse 4",
+      "texto": "— Ring, ring! — Radio Nora, hello? — Nora, it's Mom. It's ten o'clock…",
+      "ini": 103.08,
+      "fin": 109.16,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 103.08,
+        "fin": 103.08
+       },
+       {
+        "t": "Ring,",
+        "ini": 104.78,
+        "fin": 104.94
+       },
+       {
+        "t": "ring!",
+        "ini": 105.04,
+        "fin": 105.26
+       },
+       {
+        "t": "—",
+        "ini": 105.48,
+        "fin": 105.48
+       },
+       {
+        "t": "Radio",
+        "ini": 105.52,
+        "fin": 105.74
+       },
+       {
+        "t": "Nora,",
+        "ini": 105.82,
+        "fin": 106.06
+       },
+       {
+        "t": "hello?",
+        "ini": 106.14,
+        "fin": 106.4
+       },
+       {
+        "t": "—",
+        "ini": 106.4,
+        "fin": 106.4
+       },
+       {
+        "t": "Nora,",
+        "ini": 107.06,
+        "fin": 107.3
+       },
+       {
+        "t": "it's",
+        "ini": 107.36,
+        "fin": 107.52
+       },
+       {
+        "t": "Mom.",
+        "ini": 107.56,
+        "fin": 107.94
+       },
+       {
+        "t": "It's",
+        "ini": 108.36,
+        "fin": 108.5
+       },
+       {
+        "t": "ten",
+        "ini": 108.54,
+        "fin": 108.66
+       },
+       {
+        "t": "o'clock…",
+        "ini": 108.7,
+        "fin": 109.16
+       }
+      ],
+      "trad": "—¡Ring, ring! —Radio Nora, ¿diga? —Nora, soy mamá. Son las diez…"
+     },
+     {
+      "seccion": "Verse 4",
+      "texto": "— Ten o'clock? Oh no! — So, Nora, tell me: what should you do?",
+      "ini": 109.16,
+      "fin": 113.16,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 109.16,
+        "fin": 109.16
+       },
+       {
+        "t": "Ten",
+        "ini": 109.82,
+        "fin": 109.92
+       },
+       {
+        "t": "o'clock?",
+        "ini": 109.96,
+        "fin": 110.4
+       },
+       {
+        "t": "Oh",
+        "ini": 110.8,
+        "fin": 110.88
+       },
+       {
+        "t": "no!",
+        "ini": 110.98,
+        "fin": 111.26
+       },
+       {
+        "t": "—",
+        "ini": 111.5,
+        "fin": 111.5
+       },
+       {
+        "t": "So,",
+        "ini": 111.54,
+        "fin": 111.64
+       },
+       {
+        "t": "Nora,",
+        "ini": 111.7,
+        "fin": 111.88
+       },
+       {
+        "t": "tell",
+        "ini": 112.0,
+        "fin": 112.14
+       },
+       {
+        "t": "me:",
+        "ini": 112.2,
+        "fin": 112.3
+       },
+       {
+        "t": "what",
+        "ini": 112.52,
+        "fin": 112.62
+       },
+       {
+        "t": "should",
+        "ini": 112.66,
+        "fin": 112.78
+       },
+       {
+        "t": "you",
+        "ini": 112.82,
+        "fin": 112.9
+       },
+       {
+        "t": "do?",
+        "ini": 112.98,
+        "fin": 113.16
+       }
+      ],
+      "trad": "—¿Las diez? ¡Ay, no! —Pues dime, Nora: ¿qué deberías hacer?"
+     },
+     {
+      "seccion": "Verse 4",
+      "texto": "— Hmm… I should brush my teeth, and I shouldn't talk anymore…",
+      "ini": 113.18,
+      "fin": 117.4,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 113.18,
+        "fin": 113.18
+       },
+       {
+        "t": "Hmm…",
+        "ini": 113.54,
+        "fin": 113.96
+       },
+       {
+        "t": "I",
+        "ini": 114.28,
+        "fin": 114.34
+       },
+       {
+        "t": "should",
+        "ini": 114.38,
+        "fin": 114.5
+       },
+       {
+        "t": "brush",
+        "ini": 114.56,
+        "fin": 114.8
+       },
+       {
+        "t": "my",
+        "ini": 114.84,
+        "fin": 114.98
+       },
+       {
+        "t": "teeth,",
+        "ini": 115.04,
+        "fin": 115.34
+       },
+       {
+        "t": "and",
+        "ini": 116.1,
+        "fin": 116.2
+       },
+       {
+        "t": "I",
+        "ini": 116.28,
+        "fin": 116.34
+       },
+       {
+        "t": "shouldn't",
+        "ini": 116.36,
+        "fin": 116.62
+       },
+       {
+        "t": "talk",
+        "ini": 116.68,
+        "fin": 116.9
+       },
+       {
+        "t": "anymore…",
+        "ini": 116.94,
+        "fin": 117.4
+       }
+      ],
+      "trad": "—Mmm… Debería lavarme los dientes y no debería hablar más…"
+     },
+     {
+      "seccion": "Verse 4",
+      "texto": "Good night, listeners! Radio Nora's going to sleep!",
+      "ini": 118.36,
+      "fin": 121.38,
+      "palabras": [
+       {
+        "t": "Good",
+        "ini": 118.36,
+        "fin": 118.46
+       },
+       {
+        "t": "night,",
+        "ini": 118.52,
+        "fin": 118.7
+       },
+       {
+        "t": "listeners!",
+        "ini": 118.76,
+        "fin": 119.24
+       },
+       {
+        "t": "Radio",
+        "ini": 119.78,
+        "fin": 120.04
+       },
+       {
+        "t": "Nora's",
+        "ini": 120.12,
+        "fin": 120.54
+       },
+       {
+        "t": "going",
+        "ini": 120.58,
+        "fin": 120.78
+       },
+       {
+        "t": "to",
+        "ini": 120.84,
+        "fin": 120.94
+       },
+       {
+        "t": "sleep!",
+        "ini": 121.02,
+        "fin": 121.38
+       }
+      ],
+      "trad": "¡Buenas noches, oyentes! ¡Radio Nora se va a dormir!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "What should I do? What should I do?",
+      "ini": 122.78,
+      "fin": 126.26,
+      "palabras": [
+       {
+        "t": "What",
+        "ini": 122.78,
+        "fin": 123.08
+       },
+       {
+        "t": "should",
+        "ini": 123.24,
+        "fin": 123.58
+       },
+       {
+        "t": "I",
+        "ini": 123.72,
+        "fin": 123.74
+       },
+       {
+        "t": "do?",
+        "ini": 123.88,
+        "fin": 124.08
+       },
+       {
+        "t": "What",
+        "ini": 124.96,
+        "fin": 125.26
+       },
+       {
+        "t": "should",
+        "ini": 125.44,
+        "fin": 125.76
+       },
+       {
+        "t": "I",
+        "ini": 125.92,
+        "fin": 125.94
+       },
+       {
+        "t": "do?",
+        "ini": 126.06,
+        "fin": 126.26
+       }
+      ],
+      "trad": "¿Qué debería hacer? ¿Qué debería hacer?"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Call Radio Nora, I've got advice for you!",
+      "ini": 126.54,
+      "fin": 130.08,
+      "palabras": [
+       {
+        "t": "Call",
+        "ini": 126.54,
+        "fin": 126.78
+       },
+       {
+        "t": "Radio",
+        "ini": 126.88,
+        "fin": 127.54
+       },
+       {
+        "t": "Nora,",
+        "ini": 127.64,
+        "fin": 127.9
+       },
+       {
+        "t": "I've",
+        "ini": 128.02,
+        "fin": 128.18
+       },
+       {
+        "t": "got",
+        "ini": 128.24,
+        "fin": 128.48
+       },
+       {
+        "t": "advice",
+        "ini": 128.54,
+        "fin": 129.16
+       },
+       {
+        "t": "for",
+        "ini": 129.32,
+        "fin": 129.76
+       },
+       {
+        "t": "you!",
+        "ini": 129.92,
+        "fin": 130.08
+       }
+      ],
+      "trad": "¡Llama a Radio Nora, tengo consejos para ti!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "You should, you shouldn't — listen to me,",
+      "ini": 130.98,
+      "fin": 134.4,
+      "palabras": [
+       {
+        "t": "You",
+        "ini": 130.98,
+        "fin": 131.12
+       },
+       {
+        "t": "should,",
+        "ini": 131.3,
+        "fin": 131.68
+       },
+       {
+        "t": "you",
+        "ini": 131.74,
+        "fin": 131.84
+       },
+       {
+        "t": "shouldn't",
+        "ini": 131.98,
+        "fin": 132.44
+       },
+       {
+        "t": "—",
+        "ini": 132.44,
+        "fin": 132.44
+       },
+       {
+        "t": "listen",
+        "ini": 133.12,
+        "fin": 133.76
+       },
+       {
+        "t": "to",
+        "ini": 133.9,
+        "fin": 134.04
+       },
+       {
+        "t": "me,",
+        "ini": 134.22,
+        "fin": 134.4
+       }
+      ],
+      "trad": "Deberías, no deberías — escúchame,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Nora knows the answer… usually!",
+      "ini": 135.3,
+      "fin": 138.76,
+      "palabras": [
+       {
+        "t": "Nora",
+        "ini": 135.3,
+        "fin": 135.68
+       },
+       {
+        "t": "knows",
+        "ini": 135.8,
+        "fin": 136.08
+       },
+       {
+        "t": "the",
+        "ini": 136.14,
+        "fin": 136.3
+       },
+       {
+        "t": "answer…",
+        "ini": 136.46,
+        "fin": 136.84
+       },
+       {
+        "t": "usually!",
+        "ini": 137.04,
+        "fin": 138.76
+       }
+      ],
+      "trad": "Nora sabe la respuesta… ¡casi siempre!"
+     }
+    ],
+    "duracion": 143.9
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Intro",
+      "texto": "¡Buenas noches! ¡Aquí Radio Nora, en directo desde mi cuarto!",
+      "ini": 0.08,
+      "fin": 3.64,
+      "palabras": [
+       {
+        "t": "¡Buenas",
+        "ini": 0.08,
+        "fin": 0.38
+       },
+       {
+        "t": "noches!",
+        "ini": 0.44,
+        "fin": 0.88
+       },
+       {
+        "t": "¡Aquí",
+        "ini": 1.06,
+        "fin": 1.34
+       },
+       {
+        "t": "Radio",
+        "ini": 1.4,
+        "fin": 1.62
+       },
+       {
+        "t": "Nora,",
+        "ini": 1.68,
+        "fin": 1.96
+       },
+       {
+        "t": "en",
+        "ini": 2.24,
+        "fin": 2.34
+       },
+       {
+        "t": "directo",
+        "ini": 2.4,
+        "fin": 2.8
+       },
+       {
+        "t": "desde",
+        "ini": 2.84,
+        "fin": 3.08
+       },
+       {
+        "t": "mi",
+        "ini": 3.1,
+        "fin": 3.18
+       },
+       {
+        "t": "cuarto!",
+        "ini": 3.24,
+        "fin": 3.64
+       }
+      ],
+      "trad": "Good evening! This is Radio Nora, live from my room!"
+     },
+     {
+      "seccion": "Intro",
+      "texto": "Mi micrófono es un cepillo, y el teléfono suena… ¡ring!",
+      "ini": 4.12,
+      "fin": 7.6,
+      "palabras": [
+       {
+        "t": "Mi",
+        "ini": 4.12,
+        "fin": 4.22
+       },
+       {
+        "t": "micrófono",
+        "ini": 4.26,
+        "fin": 4.7
+       },
+       {
+        "t": "es",
+        "ini": 4.72,
+        "fin": 4.8
+       },
+       {
+        "t": "un",
+        "ini": 4.84,
+        "fin": 4.9
+       },
+       {
+        "t": "cepillo,",
+        "ini": 4.96,
+        "fin": 5.42
+       },
+       {
+        "t": "y",
+        "ini": 5.74,
+        "fin": 5.78
+       },
+       {
+        "t": "el",
+        "ini": 5.84,
+        "fin": 5.9
+       },
+       {
+        "t": "teléfono",
+        "ini": 5.96,
+        "fin": 6.44
+       },
+       {
+        "t": "suena…",
+        "ini": 6.5,
+        "fin": 6.8
+       },
+       {
+        "t": "¡ring!",
+        "ini": 6.8,
+        "fin": 7.6
+       }
+      ],
+      "trad": "My microphone is a hairbrush, and the phone rings… ring!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Qué debería hacer? ¿Qué debería hacer?",
+      "ini": 7.7,
+      "fin": 12.24,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 7.7,
+        "fin": 8.96
+       },
+       {
+        "t": "debería",
+        "ini": 9.04,
+        "fin": 9.52
+       },
+       {
+        "t": "hacer?",
+        "ini": 9.54,
+        "fin": 10.06
+       },
+       {
+        "t": "¿Qué",
+        "ini": 10.06,
+        "fin": 11.14
+       },
+       {
+        "t": "debería",
+        "ini": 11.2,
+        "fin": 11.72
+       },
+       {
+        "t": "hacer?",
+        "ini": 11.72,
+        "fin": 12.24
+       }
+      ],
+      "trad": "What should I do? What should I do?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Llama a Radio Nora, tengo un consejo para ti!",
+      "ini": 12.26,
+      "fin": 16.52,
+      "palabras": [
+       {
+        "t": "¡Llama",
+        "ini": 12.26,
+        "fin": 13.44
+       },
+       {
+        "t": "a",
+        "ini": 13.46,
+        "fin": 13.52
+       },
+       {
+        "t": "Radio",
+        "ini": 13.62,
+        "fin": 14.04
+       },
+       {
+        "t": "Nora,",
+        "ini": 14.18,
+        "fin": 14.48
+       },
+       {
+        "t": "tengo",
+        "ini": 14.62,
+        "fin": 14.94
+       },
+       {
+        "t": "un",
+        "ini": 14.98,
+        "fin": 15.06
+       },
+       {
+        "t": "consejo",
+        "ini": 15.14,
+        "fin": 15.66
+       },
+       {
+        "t": "para",
+        "ini": 15.84,
+        "fin": 16.12
+       },
+       {
+        "t": "ti!",
+        "ini": 16.26,
+        "fin": 16.52
+       }
+      ],
+      "trad": "Call Radio Nora, I have advice for you!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Deberías, no deberías… ¡escúchame!",
+      "ini": 17.46,
+      "fin": 20.88,
+      "palabras": [
+       {
+        "t": "Deberías,",
+        "ini": 17.46,
+        "fin": 18.36
+       },
+       {
+        "t": "no",
+        "ini": 18.42,
+        "fin": 18.52
+       },
+       {
+        "t": "deberías…",
+        "ini": 18.58,
+        "fin": 19.52
+       },
+       {
+        "t": "¡escúchame!",
+        "ini": 19.52,
+        "fin": 20.88
+       }
+      ],
+      "trad": "You should, you shouldn't… listen to me!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Nora sabe la respuesta… ¡casi siempre!",
+      "ini": 21.82,
+      "fin": 25.24,
+      "palabras": [
+       {
+        "t": "Nora",
+        "ini": 21.82,
+        "fin": 22.2
+       },
+       {
+        "t": "sabe",
+        "ini": 22.36,
+        "fin": 22.8
+       },
+       {
+        "t": "la",
+        "ini": 22.9,
+        "fin": 23.04
+       },
+       {
+        "t": "respuesta…",
+        "ini": 23.1,
+        "fin": 23.86
+       },
+       {
+        "t": "¡casi",
+        "ini": 23.98,
+        "fin": 24.4
+       },
+       {
+        "t": "siempre!",
+        "ini": 24.54,
+        "fin": 25.24
+       }
+      ],
+      "trad": "Nora knows the answer… almost always!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "—Soy Hugo. Tengo examen de mates, ¡pero quiero jugar toda la noche!",
+      "ini": 25.3,
+      "fin": 30.26,
+      "palabras": [
+       {
+        "t": "—Soy",
+        "ini": 25.3,
+        "fin": 26.72
+       },
+       {
+        "t": "Hugo.",
+        "ini": 26.74,
+        "fin": 26.98
+       },
+       {
+        "t": "Tengo",
+        "ini": 27.5,
+        "fin": 27.66
+       },
+       {
+        "t": "examen",
+        "ini": 27.7,
+        "fin": 28.04
+       },
+       {
+        "t": "de",
+        "ini": 28.08,
+        "fin": 28.16
+       },
+       {
+        "t": "mates,",
+        "ini": 28.2,
+        "fin": 28.54
+       },
+       {
+        "t": "¡pero",
+        "ini": 28.62,
+        "fin": 28.82
+       },
+       {
+        "t": "quiero",
+        "ini": 28.9,
+        "fin": 29.14
+       },
+       {
+        "t": "jugar",
+        "ini": 29.2,
+        "fin": 29.52
+       },
+       {
+        "t": "toda",
+        "ini": 29.62,
+        "fin": 29.8
+       },
+       {
+        "t": "la",
+        "ini": 29.86,
+        "fin": 29.92
+       },
+       {
+        "t": "noche!",
+        "ini": 29.98,
+        "fin": 30.26
+       }
+      ],
+      "trad": "—It's Hugo. I have a math test, but I want to play all night!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "—Hugo, no deberías jugar tanto, deberías estudiar,",
+      "ini": 30.82,
+      "fin": 34.72,
+      "palabras": [
+       {
+        "t": "—Hugo,",
+        "ini": 30.82,
+        "fin": 31.08
+       },
+       {
+        "t": "no",
+        "ini": 31.26,
+        "fin": 31.32
+       },
+       {
+        "t": "deberías",
+        "ini": 31.38,
+        "fin": 31.84
+       },
+       {
+        "t": "jugar",
+        "ini": 31.9,
+        "fin": 32.12
+       },
+       {
+        "t": "tanto,",
+        "ini": 32.22,
+        "fin": 32.58
+       },
+       {
+        "t": "deberías",
+        "ini": 33.58,
+        "fin": 34.06
+       },
+       {
+        "t": "estudiar,",
+        "ini": 34.1,
+        "fin": 34.72
+       }
+      ],
+      "trad": "—Hugo, you shouldn't play so much, you should study,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "y acostarte pronto: ¡el cerebro estudia mientras duermes!",
+      "ini": 35.7,
+      "fin": 39.18,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 35.7,
+        "fin": 35.72
+       },
+       {
+        "t": "acostarte",
+        "ini": 35.78,
+        "fin": 36.32
+       },
+       {
+        "t": "pronto:",
+        "ini": 36.42,
+        "fin": 36.78
+       },
+       {
+        "t": "¡el",
+        "ini": 36.8,
+        "fin": 37.46
+       },
+       {
+        "t": "cerebro",
+        "ini": 37.54,
+        "fin": 37.88
+       },
+       {
+        "t": "estudia",
+        "ini": 37.92,
+        "fin": 38.36
+       },
+       {
+        "t": "mientras",
+        "ini": 38.42,
+        "fin": 38.7
+       },
+       {
+        "t": "duermes!",
+        "ini": 38.74,
+        "fin": 39.18
+       }
+      ],
+      "trad": "and go to bed early: your brain studies while you sleep!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "—¡Gracias, Nora! —¡De nada! Siguiente llamada… ¡ring, ring!",
+      "ini": 39.18,
+      "fin": 43.36,
+      "palabras": [
+       {
+        "t": "—¡Gracias,",
+        "ini": 39.18,
+        "fin": 39.88
+       },
+       {
+        "t": "Nora!",
+        "ini": 39.94,
+        "fin": 40.2
+       },
+       {
+        "t": "—¡De",
+        "ini": 40.2,
+        "fin": 40.86
+       },
+       {
+        "t": "nada!",
+        "ini": 40.92,
+        "fin": 41.16
+       },
+       {
+        "t": "Siguiente",
+        "ini": 41.34,
+        "fin": 41.78
+       },
+       {
+        "t": "llamada…",
+        "ini": 41.84,
+        "fin": 42.26
+       },
+       {
+        "t": "¡ring,",
+        "ini": 42.26,
+        "fin": 43.0
+       },
+       {
+        "t": "ring!",
+        "ini": 43.12,
+        "fin": 43.36
+       }
+      ],
+      "trad": "—Thanks, Nora! —You're welcome! Next call… ring, ring!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—Soy papá. Hago la cena… ¡y el arroz está negro!",
+      "ini": 43.36,
+      "fin": 47.32,
+      "palabras": [
+       {
+        "t": "—Soy",
+        "ini": 43.36,
+        "fin": 43.98
+       },
+       {
+        "t": "papá.",
+        "ini": 44.06,
+        "fin": 44.38
+       },
+       {
+        "t": "Hago",
+        "ini": 44.92,
+        "fin": 45.12
+       },
+       {
+        "t": "la",
+        "ini": 45.16,
+        "fin": 45.24
+       },
+       {
+        "t": "cena…",
+        "ini": 45.34,
+        "fin": 45.62
+       },
+       {
+        "t": "¡y",
+        "ini": 45.66,
+        "fin": 46.12
+       },
+       {
+        "t": "el",
+        "ini": 46.16,
+        "fin": 46.22
+       },
+       {
+        "t": "arroz",
+        "ini": 46.28,
+        "fin": 46.56
+       },
+       {
+        "t": "está",
+        "ini": 46.6,
+        "fin": 46.86
+       },
+       {
+        "t": "negro!",
+        "ini": 46.94,
+        "fin": 47.32
+       }
+      ],
+      "trad": "—It's Dad. I'm making dinner… and the rice is black!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "Miraba el fútbol en el móvil… ¿Qué debería hacer?",
+      "ini": 48.18,
+      "fin": 51.44,
+      "palabras": [
+       {
+        "t": "Miraba",
+        "ini": 48.18,
+        "fin": 48.44
+       },
+       {
+        "t": "el",
+        "ini": 48.46,
+        "fin": 48.52
+       },
+       {
+        "t": "fútbol",
+        "ini": 48.6,
+        "fin": 49.04
+       },
+       {
+        "t": "en",
+        "ini": 49.16,
+        "fin": 49.26
+       },
+       {
+        "t": "el",
+        "ini": 49.3,
+        "fin": 49.44
+       },
+       {
+        "t": "móvil…",
+        "ini": 49.54,
+        "fin": 50.0
+       },
+       {
+        "t": "¿Qué",
+        "ini": 50.34,
+        "fin": 50.44
+       },
+       {
+        "t": "debería",
+        "ini": 50.48,
+        "fin": 50.98
+       },
+       {
+        "t": "hacer?",
+        "ini": 50.98,
+        "fin": 51.44
+       }
+      ],
+      "trad": "I was watching soccer on my phone… What should I do?"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—Papá, no deberías ver el partido mientras cocinas,",
+      "ini": 52.55,
+      "fin": 56.66,
+      "palabras": [
+       {
+        "t": "—Papá,",
+        "ini": 52.55,
+        "fin": 53.0
+       },
+       {
+        "t": "no",
+        "ini": 53.62,
+        "fin": 53.7
+       },
+       {
+        "t": "deberías",
+        "ini": 53.74,
+        "fin": 54.32
+       },
+       {
+        "t": "ver",
+        "ini": 54.38,
+        "fin": 54.54
+       },
+       {
+        "t": "el",
+        "ini": 54.58,
+        "fin": 54.66
+       },
+       {
+        "t": "partido",
+        "ini": 54.74,
+        "fin": 55.32
+       },
+       {
+        "t": "mientras",
+        "ini": 55.5,
+        "fin": 55.98
+       },
+       {
+        "t": "cocinas,",
+        "ini": 56.04,
+        "fin": 56.66
+       }
+      ],
+      "trad": "—Dad, you shouldn't watch the game while you cook,"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "deberías abrir la ventana… ¡y pedir una pizza!",
+      "ini": 57.0,
+      "fin": 60.36,
+      "palabras": [
+       {
+        "t": "deberías",
+        "ini": 57.0,
+        "fin": 57.64
+       },
+       {
+        "t": "abrir",
+        "ini": 57.74,
+        "fin": 58.02
+       },
+       {
+        "t": "la",
+        "ini": 58.06,
+        "fin": 58.14
+       },
+       {
+        "t": "ventana…",
+        "ini": 58.18,
+        "fin": 58.7
+       },
+       {
+        "t": "¡y",
+        "ini": 58.7,
+        "fin": 59.24
+       },
+       {
+        "t": "pedir",
+        "ini": 59.34,
+        "fin": 59.62
+       },
+       {
+        "t": "una",
+        "ini": 59.66,
+        "fin": 59.8
+       },
+       {
+        "t": "pizza!",
+        "ini": 59.9,
+        "fin": 60.36
+       }
+      ],
+      "trad": "you should open the window… and order a pizza!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Qué debería hacer? ¿Qué debería hacer?",
+      "ini": 61.08,
+      "fin": 64.6,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 61.08,
+        "fin": 61.34
+       },
+       {
+        "t": "debería",
+        "ini": 61.4,
+        "fin": 61.9
+       },
+       {
+        "t": "hacer?",
+        "ini": 61.9,
+        "fin": 62.44
+       },
+       {
+        "t": "¿Qué",
+        "ini": 62.44,
+        "fin": 63.5
+       },
+       {
+        "t": "debería",
+        "ini": 63.54,
+        "fin": 64.08
+       },
+       {
+        "t": "hacer?",
+        "ini": 64.08,
+        "fin": 64.6
+       }
+      ],
+      "trad": "What should I do? What should I do?"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Llama a Radio Nora, tengo un consejo para ti!",
+      "ini": 64.62,
+      "fin": 68.84,
+      "palabras": [
+       {
+        "t": "¡Llama",
+        "ini": 64.62,
+        "fin": 65.82
+       },
+       {
+        "t": "a",
+        "ini": 65.86,
+        "fin": 65.88
+       },
+       {
+        "t": "Radio",
+        "ini": 65.96,
+        "fin": 66.42
+       },
+       {
+        "t": "Nora,",
+        "ini": 66.52,
+        "fin": 66.8
+       },
+       {
+        "t": "tengo",
+        "ini": 66.98,
+        "fin": 67.3
+       },
+       {
+        "t": "un",
+        "ini": 67.34,
+        "fin": 67.42
+       },
+       {
+        "t": "consejo",
+        "ini": 67.48,
+        "fin": 68.02
+       },
+       {
+        "t": "para",
+        "ini": 68.2,
+        "fin": 68.48
+       },
+       {
+        "t": "ti!",
+        "ini": 68.62,
+        "fin": 68.84
+       }
+      ],
+      "trad": "Call Radio Nora, I have advice for you!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Deberías, no deberías… ¡escúchame!",
+      "ini": 69.82,
+      "fin": 73.22,
+      "palabras": [
+       {
+        "t": "Deberías,",
+        "ini": 69.82,
+        "fin": 70.72
+       },
+       {
+        "t": "no",
+        "ini": 70.78,
+        "fin": 70.88
+       },
+       {
+        "t": "deberías…",
+        "ini": 70.94,
+        "fin": 71.88
+       },
+       {
+        "t": "¡escúchame!",
+        "ini": 71.9,
+        "fin": 73.22
+       }
+      ],
+      "trad": "You should, you shouldn't… listen to me!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Nora sabe la respuesta… ¡casi siempre!",
+      "ini": 74.2,
+      "fin": 77.56,
+      "palabras": [
+       {
+        "t": "Nora",
+        "ini": 74.2,
+        "fin": 74.54
+       },
+       {
+        "t": "sabe",
+        "ini": 74.72,
+        "fin": 75.16
+       },
+       {
+        "t": "la",
+        "ini": 75.24,
+        "fin": 75.38
+       },
+       {
+        "t": "respuesta…",
+        "ini": 75.46,
+        "fin": 76.24
+       },
+       {
+        "t": "¡casi",
+        "ini": 76.34,
+        "fin": 76.76
+       },
+       {
+        "t": "siempre!",
+        "ini": 76.9,
+        "fin": 77.56
+       }
+      ],
+      "trad": "Nora knows the answer… almost always!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "—¡Guau! ¡Guau, guau! —¿Bruno? ¿Eres tú? Mmm… ya entiendo:",
+      "ini": 77.68,
+      "fin": 82.76,
+      "palabras": [
+       {
+        "t": "—¡Guau!",
+        "ini": 77.68,
+        "fin": 78.8
+       },
+       {
+        "t": "¡Guau,",
+        "ini": 79.06,
+        "fin": 79.34
+       },
+       {
+        "t": "guau!",
+        "ini": 79.62,
+        "fin": 79.9
+       },
+       {
+        "t": "—¿Bruno?",
+        "ini": 80.14,
+        "fin": 80.44
+       },
+       {
+        "t": "¿Eres",
+        "ini": 80.44,
+        "fin": 81.24
+       },
+       {
+        "t": "tú?",
+        "ini": 81.3,
+        "fin": 81.44
+       },
+       {
+        "t": "Mmm…",
+        "ini": 81.72,
+        "fin": 81.96
+       },
+       {
+        "t": "ya",
+        "ini": 82.08,
+        "fin": 82.16
+       },
+       {
+        "t": "entiendo:",
+        "ini": 82.2,
+        "fin": 82.76
+       }
+      ],
+      "trad": "—Woof! Woof, woof! —Bruno? Is that you? Mmm… I get it:"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "no deberías comer ese arroz… ¡deberías ir de paseo!",
+      "ini": 83.08,
+      "fin": 87.0,
+      "palabras": [
+       {
+        "t": "no",
+        "ini": 83.08,
+        "fin": 83.16
+       },
+       {
+        "t": "deberías",
+        "ini": 83.2,
+        "fin": 83.8
+       },
+       {
+        "t": "comer",
+        "ini": 83.88,
+        "fin": 84.2
+       },
+       {
+        "t": "ese",
+        "ini": 84.24,
+        "fin": 84.44
+       },
+       {
+        "t": "arroz…",
+        "ini": 84.48,
+        "fin": 84.8
+       },
+       {
+        "t": "¡deberías",
+        "ini": 84.8,
+        "fin": 86.04
+       },
+       {
+        "t": "ir",
+        "ini": 86.12,
+        "fin": 86.26
+       },
+       {
+        "t": "de",
+        "ini": 86.34,
+        "fin": 86.42
+       },
+       {
+        "t": "paseo!",
+        "ini": 86.56,
+        "fin": 87.0
+       }
+      ],
+      "trad": "you shouldn't eat that rice… you should go for a walk!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Yo debería, tú deberías, él debería… ¡y el perro también!",
+      "ini": 87.28,
+      "fin": 94.08,
+      "palabras": [
+       {
+        "t": "Yo",
+        "ini": 87.28,
+        "fin": 87.76
+       },
+       {
+        "t": "debería,",
+        "ini": 87.84,
+        "fin": 88.72
+       },
+       {
+        "t": "tú",
+        "ini": 89.48,
+        "fin": 89.72
+       },
+       {
+        "t": "deberías,",
+        "ini": 90.02,
+        "fin": 91.06
+       },
+       {
+        "t": "él",
+        "ini": 91.2,
+        "fin": 91.3
+       },
+       {
+        "t": "debería…",
+        "ini": 91.36,
+        "fin": 92.4
+       },
+       {
+        "t": "¡y",
+        "ini": 92.42,
+        "fin": 93.02
+       },
+       {
+        "t": "el",
+        "ini": 93.08,
+        "fin": 93.16
+       },
+       {
+        "t": "perro",
+        "ini": 93.28,
+        "fin": 93.48
+       },
+       {
+        "t": "también!",
+        "ini": 93.56,
+        "fin": 94.08
+       }
+      ],
+      "trad": "I should, you should, he should… and the dog too!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Nosotros deberíamos, ellos deberían… y para decir que no: ¡no deberían!",
+      "ini": 95.74,
+      "fin": 104.16,
+      "palabras": [
+       {
+        "t": "Nosotros",
+        "ini": 95.74,
+        "fin": 96.48
+       },
+       {
+        "t": "deberíamos,",
+        "ini": 96.58,
+        "fin": 97.9
+       },
+       {
+        "t": "ellos",
+        "ini": 98.52,
+        "fin": 98.92
+       },
+       {
+        "t": "deberían…",
+        "ini": 99.02,
+        "fin": 100.26
+       },
+       {
+        "t": "y",
+        "ini": 100.66,
+        "fin": 100.7
+       },
+       {
+        "t": "para",
+        "ini": 100.8,
+        "fin": 101.12
+       },
+       {
+        "t": "decir",
+        "ini": 101.18,
+        "fin": 101.64
+       },
+       {
+        "t": "que",
+        "ini": 101.74,
+        "fin": 101.86
+       },
+       {
+        "t": "no:",
+        "ini": 101.92,
+        "fin": 102.08
+       },
+       {
+        "t": "¡no",
+        "ini": 102.14,
+        "fin": 103.04
+       },
+       {
+        "t": "deberían!",
+        "ini": 103.14,
+        "fin": 104.16
+       }
+      ],
+      "trad": "We should, they should… and to say no: they shouldn't!"
+     },
+     {
+      "seccion": "Verse 4",
+      "texto": "—¡Ring, ring! —Radio Nora, ¿diga? —Nora, soy mamá. Son las diez…",
+      "ini": 104.18,
+      "fin": 108.7,
+      "palabras": [
+       {
+        "t": "—¡Ring,",
+        "ini": 104.18,
+        "fin": 104.94
+       },
+       {
+        "t": "ring!",
+        "ini": 105.02,
+        "fin": 105.24
+       },
+       {
+        "t": "—Radio",
+        "ini": 105.5,
+        "fin": 105.8
+       },
+       {
+        "t": "Nora,",
+        "ini": 105.86,
+        "fin": 106.04
+       },
+       {
+        "t": "¿diga?",
+        "ini": 106.1,
+        "fin": 106.34
+       },
+       {
+        "t": "—Nora,",
+        "ini": 106.6,
+        "fin": 106.9
+       },
+       {
+        "t": "soy",
+        "ini": 107.18,
+        "fin": 107.3
+       },
+       {
+        "t": "mamá.",
+        "ini": 107.36,
+        "fin": 107.6
+       },
+       {
+        "t": "Son",
+        "ini": 108.0,
+        "fin": 108.14
+       },
+       {
+        "t": "las",
+        "ini": 108.18,
+        "fin": 108.34
+       },
+       {
+        "t": "diez…",
+        "ini": 108.44,
+        "fin": 108.7
+       }
+      ],
+      "trad": "—Ring, ring! —Radio Nora, hello? —Nora, it's Mom. It's ten o'clock…"
+     },
+     {
+      "seccion": "Verse 4",
+      "texto": "—¿Las diez? ¡Ay, no! —Pues dime, Nora: ¿qué deberías hacer?",
+      "ini": 108.7,
+      "fin": 113.04,
+      "palabras": [
+       {
+        "t": "—¿Las",
+        "ini": 108.7,
+        "fin": 109.08
+       },
+       {
+        "t": "diez?",
+        "ini": 109.16,
+        "fin": 109.46
+       },
+       {
+        "t": "¡Ay,",
+        "ini": 109.46,
+        "fin": 110.0
+       },
+       {
+        "t": "no!",
+        "ini": 110.1,
+        "fin": 110.26
+       },
+       {
+        "t": "—Pues",
+        "ini": 110.42,
+        "fin": 110.64
+       },
+       {
+        "t": "dime,",
+        "ini": 110.72,
+        "fin": 110.92
+       },
+       {
+        "t": "Nora:",
+        "ini": 111.02,
+        "fin": 111.26
+       },
+       {
+        "t": "¿qué",
+        "ini": 111.52,
+        "fin": 111.78
+       },
+       {
+        "t": "deberías",
+        "ini": 111.86,
+        "fin": 112.5
+       },
+       {
+        "t": "hacer?",
+        "ini": 112.54,
+        "fin": 113.04
+       }
+      ],
+      "trad": "—Ten o'clock? Oh no! —Well, tell me, Nora: what should you do?"
+     },
+     {
+      "seccion": "Verse 4",
+      "texto": "—Mmm… debería lavarme los dientes y no hablar más…",
+      "ini": 113.44,
+      "fin": 117.54,
+      "palabras": [
+       {
+        "t": "—Mmm…",
+        "ini": 113.44,
+        "fin": 113.7
+       },
+       {
+        "t": "debería",
+        "ini": 114.3,
+        "fin": 114.78
+       },
+       {
+        "t": "lavarme",
+        "ini": 114.86,
+        "fin": 115.34
+       },
+       {
+        "t": "los",
+        "ini": 115.4,
+        "fin": 115.56
+       },
+       {
+        "t": "dientes",
+        "ini": 115.64,
+        "fin": 116.28
+       },
+       {
+        "t": "y",
+        "ini": 116.64,
+        "fin": 116.68
+       },
+       {
+        "t": "no",
+        "ini": 116.72,
+        "fin": 116.8
+       },
+       {
+        "t": "hablar",
+        "ini": 116.84,
+        "fin": 117.1
+       },
+       {
+        "t": "más…",
+        "ini": 117.18,
+        "fin": 117.54
+       }
+      ],
+      "trad": "—Mmm… I should brush my teeth and not talk anymore…"
+     },
+     {
+      "seccion": "Verse 4",
+      "texto": "¡Buenas noches, oyentes! ¡Radio Nora se va a dormir!",
+      "ini": 117.8,
+      "fin": 121.86,
+      "palabras": [
+       {
+        "t": "¡Buenas",
+        "ini": 117.8,
+        "fin": 118.18
+       },
+       {
+        "t": "noches,",
+        "ini": 118.28,
+        "fin": 118.84
+       },
+       {
+        "t": "oyentes!",
+        "ini": 119.26,
+        "fin": 119.96
+       },
+       {
+        "t": "¡Radio",
+        "ini": 120.24,
+        "fin": 120.52
+       },
+       {
+        "t": "Nora",
+        "ini": 120.58,
+        "fin": 120.8
+       },
+       {
+        "t": "se",
+        "ini": 120.96,
+        "fin": 121.08
+       },
+       {
+        "t": "va",
+        "ini": 121.12,
+        "fin": 121.18
+       },
+       {
+        "t": "a",
+        "ini": 121.2,
+        "fin": 121.22
+       },
+       {
+        "t": "dormir!",
+        "ini": 121.3,
+        "fin": 121.86
+       }
+      ],
+      "trad": "Good night, listeners! Radio Nora is going to sleep!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Qué debería hacer? ¿Qué debería hacer?",
+      "ini": 121.86,
+      "fin": 126.2,
+      "palabras": [
+       {
+        "t": "¿Qué",
+        "ini": 121.86,
+        "fin": 122.7
+       },
+       {
+        "t": "debería",
+        "ini": 122.78,
+        "fin": 123.52
+       },
+       {
+        "t": "hacer?",
+        "ini": 123.54,
+        "fin": 124.06
+       },
+       {
+        "t": "¿Qué",
+        "ini": 124.08,
+        "fin": 124.86
+       },
+       {
+        "t": "debería",
+        "ini": 124.94,
+        "fin": 125.7
+       },
+       {
+        "t": "hacer?",
+        "ini": 125.7,
+        "fin": 126.2
+       }
+      ],
+      "trad": "What should I do? What should I do?"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Llama a Radio Nora, tengo un consejo para ti!",
+      "ini": 126.2,
+      "fin": 129.96,
+      "palabras": [
+       {
+        "t": "¡Llama",
+        "ini": 126.2,
+        "fin": 126.94
+       },
+       {
+        "t": "a",
+        "ini": 126.96,
+        "fin": 127.02
+       },
+       {
+        "t": "Radio",
+        "ini": 127.12,
+        "fin": 127.52
+       },
+       {
+        "t": "Nora,",
+        "ini": 127.66,
+        "fin": 127.92
+       },
+       {
+        "t": "tengo",
+        "ini": 128.08,
+        "fin": 128.34
+       },
+       {
+        "t": "un",
+        "ini": 128.38,
+        "fin": 128.44
+       },
+       {
+        "t": "consejo",
+        "ini": 128.48,
+        "fin": 129.12
+       },
+       {
+        "t": "para",
+        "ini": 129.3,
+        "fin": 129.54
+       },
+       {
+        "t": "ti!",
+        "ini": 129.7,
+        "fin": 129.96
+       }
+      ],
+      "trad": "Call Radio Nora, I have advice for you!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Deberías, no deberías… ¡escúchame!",
+      "ini": 130.94,
+      "fin": 134.26,
+      "palabras": [
+       {
+        "t": "Deberías,",
+        "ini": 130.94,
+        "fin": 131.82
+       },
+       {
+        "t": "no",
+        "ini": 131.9,
+        "fin": 131.98
+       },
+       {
+        "t": "deberías…",
+        "ini": 132.04,
+        "fin": 133.04
+       },
+       {
+        "t": "¡escúchame!",
+        "ini": 133.04,
+        "fin": 134.26
+       }
+      ],
+      "trad": "You should, you shouldn't… listen to me!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Nora sabe la respuesta… ¡casi siempre!",
+      "ini": 135.3,
+      "fin": 139.34,
+      "palabras": [
+       {
+        "t": "Nora",
+        "ini": 135.3,
+        "fin": 135.66
+       },
+       {
+        "t": "sabe",
+        "ini": 135.82,
+        "fin": 136.26
+       },
+       {
+        "t": "la",
+        "ini": 136.38,
+        "fin": 136.48
+       },
+       {
+        "t": "respuesta…",
+        "ini": 136.56,
+        "fin": 137.26
+       },
+       {
+        "t": "¡casi",
+        "ini": 137.44,
+        "fin": 138.34
+       },
+       {
+        "t": "siempre!",
+        "ini": 138.54,
+        "fin": 139.34
+       }
+      ],
+      "trad": "Nora knows the answer… almost always!"
+     }
+    ],
+    "duracion": 143.9
+   },
+   "preguntas": [
+    {
+     "en": "Why shouldn't Hugo play all night?",
+     "en_op": [
+      "Because he has a math test",
+      "Because the rice is black",
+      "Because the dog is hungry"
+     ],
+     "es": "¿Por qué no debería Hugo jugar toda la noche?",
+     "es_op": [
+      "Porque tiene examen de mates",
+      "Porque el arroz está negro",
+      "Porque el perro tiene hambre"
+     ]
+    },
+    {
+     "en": "What was Dad doing while he was making dinner?",
+     "en_op": [
+      "He was watching soccer on his phone",
+      "He was talking to the dog",
+      "He was playing video games"
+     ],
+     "es": "¿Qué hacía papá mientras hacía la cena?",
+     "es_op": [
+      "Miraba el fútbol en el móvil",
+      "Hablaba con el perro",
+      "Jugaba a la consola"
+     ]
+    },
+    {
+     "en": "«It's ten o'clock. You ___ go to bed.»",
+     "en_op": [
+      "should",
+      "shoulds",
+      "should to"
+     ],
+     "es": "«Son las diez. ___ irte a la cama.»",
+     "es_op": [
+      "Deberías",
+      "Debería",
+      "Deberían"
+     ]
+    }
+   ]
   }
  ]
 }
