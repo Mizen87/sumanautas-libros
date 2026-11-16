@@ -1,0 +1,98 @@
+{
+ "id": "2026-11-16-la-sandia-de-pinzas",
+ "fecha": "2026-11-16",
+ "tramo": "peques",
+ "edad": 5,
+ "dibujos": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "titulo": [
+  "La sandía de Pinzas",
+  "Pinzas and the Watermelon"
+ ],
+ "paginas": [
+  {
+   "es": "Este es Pinzas, un cangrejo ermitaño. Su concha le aprieta. ¡Ay, ay! Una ola trae una sandía gordísima. —¡Mi casa nueva! ¡Es mía! —dice Pinzas.",
+   "en": "This is Pinzas, a hermit crab. His shell is too tight. Ouch, ouch! A wave brings in an ENORMOUS watermelon. “My new house! It's mine!” says Pinzas."
+  },
+  {
+   "es": "Llega Tota, la tortuga. —¿Te ayudo? —¡No! ¡Es mía! —grita Pinzas. Tota se va a la orilla, triste. Pinzas empuja, empuja… La sandía rueda para atrás… ¡PLAF! ¡Plano como una galleta!",
+   "en": "Along comes Tota the turtle. “Shall I help?” “No! It's mine!” shouts Pinzas. Tota goes off to the water's edge, sad. Pinzas pushes and pushes… The watermelon rolls back… SPLAT! Flat as a biscuit!"
+  },
+  {
+   "es": "Llega Gus, la gaviota. —¿La llevamos volando? —¡No! ¡Es mía! —grita Pinzas. Gus se posa en la orilla, triste. Pinzas tira, tira… ¡PLAF! Se cae de culete.",
+   "en": "Along comes Gus the seagull. “Shall we fly it over?” “No! It's mine!” shouts Pinzas. Gus lands by the water's edge, sad. Pinzas pulls and pulls… SPLAT! He lands on his bottom."
+  },
+  {
+   "es": "Y la sandía rueda por la arena… ¡hacia el mar! Pinzas se agarra fuerte: —¡Es mía! ¡CHOF! Una ola grande se los lleva a los dos.",
+   "en": "And the watermelon rolls across the sand… towards the sea! Pinzas holds on tight: “It's mine!” SPLOSH! A big wave carries them both away."
+  },
+  {
+   "es": "Pinzas flota lejos, lejos, agarrado a su sandía. Desde la orilla, Tota y Gus lo ven. Pinzas tiene miedo. Snif, snif. ¿Qué puede hacer Pinzas, sumanauta?",
+   "en": "Pinzas floats far, far away, clinging to his watermelon. From the shore, Tota and Gus can see him. Pinzas is scared. Sniff, sniff. What can Pinzas do, Sumanaut?"
+  },
+  {
+   "es": "—¡Tota! ¡Gus! ¡Ayudadme, por favor! Tota nada rápido. Gus vuela rápido. Tota empuja con la cabeza, Gus tira con el pico y Pinzas rema: chap, chap, chap.",
+   "en": "“Tota! Gus! Help me, please!” Tota swims fast. Gus flies fast. Tota pushes with her head, Gus pulls with his beak and Pinzas paddles: splish, splash, splosh."
+  },
+  {
+   "es": "En la arena, Pinzas dice bajito: —Perdón. Y gracias. Mira la sandía. Mira a Tota. Mira a Gus. —Es… es… ¡NUESTRA! ¡A comer!",
+   "en": "On the sand, Pinzas says softly, “Sorry. And thank you.” He looks at the watermelon. He looks at Tota. He looks at Gus. “It's… it's… OURS! Let's eat!”"
+  },
+  {
+   "es": "Comen hasta reventar. Ñam, ñam. ¡Pfiu, pfiu!, pepitas. Y la cáscara vacía… ¡es la casa nueva de Pinzas! —Esta sí es mía, ¿vale? —¡Vale! Y asoma… ¡con una pepita en la nariz!",
+   "en": "They eat until they nearly pop. Yum, yum. Ptoo, ptoo, go the seeds. And the empty rind… is Pinzas's new house! “This one's mine, OK?” “OK!” And out he peeks… with a seed on his nose!"
+  }
+ ],
+ "preguntas": [
+  {
+   "es": [
+    "¿Para qué quería Pinzas la sandía?",
+    "Para hacerse una casa nueva",
+    "Para jugar a la pelota",
+    "Para regalársela a Gus"
+   ],
+   "en": [
+    "What did Pinzas want the watermelon for?",
+    "To make himself a new house",
+    "To play ball with it",
+    "To give it to Gus"
+   ]
+  },
+  {
+   "es": [
+    "¿Por qué acaba Pinzas en medio del mar?",
+    "Porque se agarró a la sandía y una ola se los llevó",
+    "Porque quería bañarse",
+    "Porque Gus lo llevó volando"
+   ],
+   "en": [
+    "Why does Pinzas end up out at sea?",
+    "Because he held on to the watermelon and a wave carried them off",
+    "Because he wanted a swim",
+    "Because Gus flew him there"
+   ]
+  },
+  {
+   "es": [
+    "¿Quién ayuda a Pinzas en el mar?",
+    "Tota y Gus",
+    "Un pez",
+    "Nadie"
+   ],
+   "en": [
+    "Who helps Pinzas at sea?",
+    "Tota and Gus",
+    "A fish",
+    "Nobody"
+   ]
+  }
+ ]
+}
