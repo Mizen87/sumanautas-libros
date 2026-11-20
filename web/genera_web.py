@@ -38,6 +38,7 @@ FUENTE = "/System/Library/Fonts/Supplemental/Arial Rounded Bold.ttf"
 SITIO = "https://mizen87.github.io/sumanautas-libros/"
 APP_ID = "6820056090"
 APP_STORE = f"https://apps.apple.com/app/id{APP_ID}"
+GOOGLE_PLAY = "https://play.google.com/store/apps/details?id=com.jucabime.sumanautas&referrer=utm_source%3Dweb%26utm_medium%3Dweb%26utm_campaign%3Dweb_libros"   # [20-nov] el botón de Google al lado del de Apple
 JUCABIME = "https://jucabime.com"
 MUESTRA = 3                   # páginas que se pueden leer en la web de los cuentos que NO están en web/enteros.json
 ENTEROS = os.path.join(WEB, "enteros.json")
@@ -305,6 +306,21 @@ def badge_app(clase=""):
             f'data-en-aria="Download on the App Store">{manzana}<span><small data-en="Download on the">Descárgalo en el</small>'
             f'<b>App Store</b></span></a>')
 
+def badge_play(clase=""):
+    # [20-nov, él: «en la web de cuentos y canciones no está el botón de descárgala en Google, solo el de Apple, ponme el enlace en botón
+    # para Google al lado del de App Store»] El mismo estilo que el del App Store (negro, texto blanco), con el triángulo de Google Play.
+    triangulo = ('<svg viewBox="0 0 512 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M325.3 234.3L104.6 13l280.8 '
+                 '161.2-60.1 60.1zM47 0C34 6.8 25.3 19.2 25.3 35.3v441.3c0 16.1 8.7 28.5 21.7 35.3l256.6-256L47 0zm425.2 225.6l-58.9-34.1-65.7 '
+                 '64.5 65.7 64.5 60.1-34.1c18-14.3 18-46.5-1.2-60.8zM104.6 499l280.8-161.2-60.1-60.1L104.6 499z"/></svg>')   # glifo de Font Awesome Free (CC BY 4.0)
+    return (f'<a class="googleplay {clase}" href="{GOOGLE_PLAY}" rel="noopener" aria-label="Disponible en Google Play" '
+            f'data-en-aria="Get it on Google Play">{triangulo}<span><small data-en="Get it on">Disponible en</small>'
+            f'<b>Google Play</b></span></a>')
+
+
+def tiendas(clase=""):
+    """[20-nov] Los dos botones juntos: App Store y, a su lado, Google Play."""
+    return f'<span class="tiendas">{badge_app(clase)}{badge_play(clase)}</span>'
+
 
 def tarjeta(b, n, ultima):
     t = TRAMOS[b["tramo"]]
@@ -519,7 +535,7 @@ def pagina(libros, actualizado, lista_canciones=()):
         <ul class="chips" aria-label="Lo que hay en el juego" data-en-aria="What's in the game">{chips}</ul>
         <ul class="lemas"><li data-en="No ads">Sin anuncios</li><li data-en="From age 4 to grandparents">De 4 años a los abuelos</li></ul>
         <div class="acciones">
-          {badge_app()}
+          {tiendas()}
           <a class="boton-claro" href="#biblioteca" data-en="See the {total} stories ↓">Ver los {total} cuentos ↓</a>
           {'<a class="boton-claro" href="#canciones" data-en="Songs ↓">Canciones ↓</a>' if lista_canciones else ''}
         </div>
@@ -551,7 +567,7 @@ def pagina(libros, actualizado, lista_canciones=()):
   <section class="ganas" aria-labelledby="h-ganas">
     <h2 id="h-ganas" data-en="And in the game, even more!">¡Y en el juego, mucho más!</h2>
     <p data-en="In Sumanautas every story is narrated aloud with the words lighting up as you go and questions at the end, inside a 3D adventure full of things to learn. And new stories arrive every week!">En Sumanautas cada cuento se lee narrado en voz alta, con las palabras iluminándose al leer y preguntas al final, dentro de una aventura en 3D llena de cosas que aprender. ¡Y cada semana llegan cuentos nuevos!</p>
-    {badge_app()}
+    {tiendas()}
   </section>
 </main>
 
@@ -560,11 +576,13 @@ def pagina(libros, actualizado, lista_canciones=()):
     <nav aria-label="Enlaces" data-en-aria="Links">
       <a href="{JUCABIME}">jucabime.com</a>
       <a href="{APP_STORE}" rel="noopener" data-en="Sumanautas on the App Store">Sumanautas en el App Store</a>
+      <a href="{GOOGLE_PLAY}" rel="noopener" data-en="Sumanautas on Google Play">Sumanautas en Google Play</a>
       <a href="privacidad.html" data-en="Privacy">Privacidad</a>
       <a href="soporte.html" data-en="Support">Soporte</a>
     </nav>
     <p>© {datetime.date.today().year} jucabime</p>
     <p class="marcas" data-en="Apple, the Apple logo and App Store are trademarks of Apple Inc., registered in the U.S. and other countries.">Apple, el logotipo de Apple y App Store son marcas comerciales de Apple Inc., registradas en EE. UU. y en otros países.</p>
+    <p class="marcas" data-en="Google Play and the Google Play logo are trademarks of Google LLC.">Google Play y el logotipo de Google Play son marcas de Google LLC.</p>
   </div>
 </footer>
 <script>
@@ -627,7 +645,7 @@ def lector_html():
   </div>
   <button type="button" class="flecha sig" aria-label="Página siguiente">›</button>
 </nav>
-<template id="badge">{badge_app()}</template>
+<template id="badge">{tiendas()}</template>
 <noscript><p class="aviso">Para leer los cuentos hace falta JavaScript. <a href="./">Volver a la biblioteca</a></p></noscript>
 <script>
 {js}
@@ -676,7 +694,7 @@ def cancion_html():
   </div>
 </header>
 <main class="cmain" id="cmain"><p class="aviso">Cargando la canción…</p></main>
-<template id="badge">{badge_app()}</template>
+<template id="badge">{tiendas()}</template>
 <noscript><p class="aviso">Para escuchar las canciones hace falta JavaScript. <a href="./">Volver</a></p></noscript>
 <script>
 {js}

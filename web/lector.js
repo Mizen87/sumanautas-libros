@@ -34,7 +34,7 @@
       finP: "En Sumanautas hay muchos más cuentos, narrados en voz alta con las palabras iluminándose al leer y preguntas al final. ¡Y cada semana llegan cuentos nuevos!",
       otra: "← Elegir otro cuento", ant: "Página anterior", sig: "Página siguiente", idioma: "Idioma",
       noHay: "No encuentro ese cuento.", irBib: "Ver todos los cuentos",
-      sufijo: " · Cuento de Sumanautas", badgeS: "Descárgalo en el", badgeA: "Descárgalo en el App Store"
+      sufijo: " · Cuento de Sumanautas", badgeS: "Descárgalo en el", badgeA: "Descárgalo en el App Store", playS: "Disponible en", playA: "Disponible en Google Play"
     },
     en: {
       bib: "Library", empezar: "Start reading →", oir: "Listen", oirTitulo: "Listen to the title", parar: "Stop",
@@ -49,7 +49,7 @@
       finP: "Sumanautas has many more stories, narrated aloud with the words lighting up as you go and questions at the end. And new stories arrive every week!",
       otra: "← Choose another story", ant: "Previous page", sig: "Next page", idioma: "Language",
       noHay: "I can't find that story.", irBib: "See all the stories",
-      sufijo: " · A Sumanautas story", badgeS: "Download on the", badgeA: "Download on the App Store"
+      sufijo: " · A Sumanautas story", badgeS: "Download on the", badgeA: "Download on the App Store", playS: "Get it on", playA: "Get it on Google Play"
     }
   };
   var q = location.search;
@@ -134,9 +134,13 @@
       p.textContent = libro.entero ? L().finP : L().ganasP(resto);
       otra.textContent = L().otra;
       otra.href = "./" + (idioma === "en" ? "?lang=en" : "") + "#" + encodeURIComponent(libro.id);
-      var s = b.querySelector("small");
+      var s = b.querySelector(".appstore small") || b.querySelector("small");
       if (s) s.textContent = L().badgeS;
-      if (b.setAttribute) b.setAttribute("aria-label", L().badgeA);
+      var ap = b.querySelector(".appstore") || b;
+      if (ap.setAttribute) ap.setAttribute("aria-label", L().badgeA);
+      var gs = b.querySelector(".googleplay small"), gp = b.querySelector(".googleplay");   // [20-nov] el botón de Google
+      if (gs) gs.textContent = L().playS;
+      if (gp) gp.setAttribute("aria-label", L().playA);
     });
     [ic, h2, p, b, el("br"), otra].forEach(function (n) { c.appendChild(n); });
     h.appendChild(c);

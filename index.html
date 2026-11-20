@@ -84,11 +84,11 @@ button { font: inherit; }
 .lemas li:nth-child(1) { transform: rotate(-2deg); }
 .lemas li:nth-child(2) { transform: rotate(1.5deg); }
 .acciones { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
-.appstore { display: inline-flex; align-items: center; gap: 10px; background: #000; color: #fff; text-decoration: none; padding: 8px 20px 8px 14px; border-radius: 13px; border: 1px solid #a6a6a6; min-height: 58px; transition: transform .15s; }
-.appstore:hover { transform: translateY(-2px); }
-.appstore svg { width: 30px; height: 36px; flex: none; }
-.appstore small { display: block; font: 500 12.5px/1.1 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: .2px; }
-.appstore b { display: block; font: 600 25px/1.05 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: -.4px; }
+.appstore, .googleplay { display: inline-flex; align-items: center; gap: 10px; background: #000; color: #fff; text-decoration: none; padding: 8px 20px 8px 14px; border-radius: 13px; border: 1px solid #a6a6a6; min-height: 58px; transition: transform .15s; }
+.appstore:hover, .googleplay:hover { transform: translateY(-2px); }
+.appstore svg, .googleplay svg { width: 30px; height: 36px; flex: none; }
+.appstore small, .googleplay small { display: block; font: 500 12.5px/1.1 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: .2px; }
+.appstore b, .googleplay b { display: block; font: 600 25px/1.05 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: -.4px; }
 .boton-claro { display: inline-flex; align-items: center; min-height: 58px; padding: 0 20px; border-radius: 14px; border: 2px solid rgba(255, 255, 255, .85); color: #fff; text-decoration: none; font: 900 17px var(--f-titulo); }
 .boton-claro:hover { background: rgba(255, 255, 255, .14); }
 .autor { margin: 16px 0 0; font-size: 15px; opacity: .95; }
@@ -235,6 +235,9 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
 .cancion .sub { margin: 0; color: var(--tinta-2, #4f5b76); font-size: 14px; }
 .sello.muestra { background: #1f2a44; color: #fff; }
 
+/* [20-nov] App Store y Google Play, uno al lado del otro (y uno encima del otro si no caben) */
+.tiendas { display: inline-flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; }
+
 </style>
 </head>
 <body>
@@ -257,7 +260,7 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
         <ul class="chips" aria-label="Lo que hay en el juego" data-en-aria="What's in the game"><li><span aria-hidden="true">🔢</span><span data-en="Math">Mates</span></li><li><span aria-hidden="true">📚</span><span data-en="New stories every week">Cuentos nuevos cada semana</span></li><li><span aria-hidden="true">🤖</span><span data-en="Robotics">Robótica</span></li><li><span aria-hidden="true">🎵</span><span data-en="Music">Música</span></li><li><span aria-hidden="true">💬</span><span data-en="English">Inglés</span></li><li><span aria-hidden="true">🧑‍🚀</span><span data-en="Astronaut card">Carné de astronauta</span></li><li><span aria-hidden="true">🌙</span><span data-en="The Moon and Mars">La Luna y Marte</span></li></ul>
         <ul class="lemas"><li data-en="No ads">Sin anuncios</li><li data-en="From age 4 to grandparents">De 4 años a los abuelos</li></ul>
         <div class="acciones">
-          <a class="appstore " href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-label="Descárgalo en el App Store" data-en-aria="Download on the App Store"><svg viewBox="0 0 384 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg><span><small data-en="Download on the">Descárgalo en el</small><b>App Store</b></span></a>
+          <span class="tiendas"><a class="appstore " href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-label="Descárgalo en el App Store" data-en-aria="Download on the App Store"><svg viewBox="0 0 384 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg><span><small data-en="Download on the">Descárgalo en el</small><b>App Store</b></span></a><a class="googleplay " href="https://play.google.com/store/apps/details?id=com.jucabime.sumanautas&referrer=utm_source%3Dweb%26utm_medium%3Dweb%26utm_campaign%3Dweb_libros" rel="noopener" aria-label="Disponible en Google Play" data-en-aria="Get it on Google Play"><svg viewBox="0 0 512 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M325.3 234.3L104.6 13l280.8 161.2-60.1 60.1zM47 0C34 6.8 25.3 19.2 25.3 35.3v441.3c0 16.1 8.7 28.5 21.7 35.3l256.6-256L47 0zm425.2 225.6l-58.9-34.1-65.7 64.5 65.7 64.5 60.1-34.1c18-14.3 18-46.5-1.2-60.8zM104.6 499l280.8-161.2-60.1-60.1L104.6 499z"/></svg><span><small data-en="Get it on">Disponible en</small><b>Google Play</b></span></a></span>
           <a class="boton-claro" href="#biblioteca" data-en="See the 56 stories ↓">Ver los 56 cuentos ↓</a>
           <a class="boton-claro" href="#canciones" data-en="Songs ↓">Canciones ↓</a>
         </div>
@@ -1553,7 +1556,7 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
   <section class="ganas" aria-labelledby="h-ganas">
     <h2 id="h-ganas" data-en="And in the game, even more!">¡Y en el juego, mucho más!</h2>
     <p data-en="In Sumanautas every story is narrated aloud with the words lighting up as you go and questions at the end, inside a 3D adventure full of things to learn. And new stories arrive every week!">En Sumanautas cada cuento se lee narrado en voz alta, con las palabras iluminándose al leer y preguntas al final, dentro de una aventura en 3D llena de cosas que aprender. ¡Y cada semana llegan cuentos nuevos!</p>
-    <a class="appstore " href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-label="Descárgalo en el App Store" data-en-aria="Download on the App Store"><svg viewBox="0 0 384 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg><span><small data-en="Download on the">Descárgalo en el</small><b>App Store</b></span></a>
+    <span class="tiendas"><a class="appstore " href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-label="Descárgalo en el App Store" data-en-aria="Download on the App Store"><svg viewBox="0 0 384 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg><span><small data-en="Download on the">Descárgalo en el</small><b>App Store</b></span></a><a class="googleplay " href="https://play.google.com/store/apps/details?id=com.jucabime.sumanautas&referrer=utm_source%3Dweb%26utm_medium%3Dweb%26utm_campaign%3Dweb_libros" rel="noopener" aria-label="Disponible en Google Play" data-en-aria="Get it on Google Play"><svg viewBox="0 0 512 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M325.3 234.3L104.6 13l280.8 161.2-60.1 60.1zM47 0C34 6.8 25.3 19.2 25.3 35.3v441.3c0 16.1 8.7 28.5 21.7 35.3l256.6-256L47 0zm425.2 225.6l-58.9-34.1-65.7 64.5 65.7 64.5 60.1-34.1c18-14.3 18-46.5-1.2-60.8zM104.6 499l280.8-161.2-60.1-60.1L104.6 499z"/></svg><span><small data-en="Get it on">Disponible en</small><b>Google Play</b></span></a></span>
   </section>
 </main>
 
@@ -1562,11 +1565,13 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
     <nav aria-label="Enlaces" data-en-aria="Links">
       <a href="https://jucabime.com">jucabime.com</a>
       <a href="https://apps.apple.com/app/id6820056090" rel="noopener" data-en="Sumanautas on the App Store">Sumanautas en el App Store</a>
+      <a href="https://play.google.com/store/apps/details?id=com.jucabime.sumanautas&referrer=utm_source%3Dweb%26utm_medium%3Dweb%26utm_campaign%3Dweb_libros" rel="noopener" data-en="Sumanautas on Google Play">Sumanautas en Google Play</a>
       <a href="privacidad.html" data-en="Privacy">Privacidad</a>
       <a href="soporte.html" data-en="Support">Soporte</a>
     </nav>
     <p>© 2026 jucabime</p>
     <p class="marcas" data-en="Apple, the Apple logo and App Store are trademarks of Apple Inc., registered in the U.S. and other countries.">Apple, el logotipo de Apple y App Store son marcas comerciales de Apple Inc., registradas en EE. UU. y en otros países.</p>
+    <p class="marcas" data-en="Google Play and the Google Play logo are trademarks of Google LLC.">Google Play y el logotipo de Google Play son marcas de Google LLC.</p>
   </div>
 </footer>
 <script>
@@ -1688,6 +1693,11 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
     var bib = document.getElementById("biblioteca");
     var baja = function () { bib.scrollIntoView({ behavior: "instant", block: "start" }); };
     if (bib) { if (document.readyState === "complete") baja(); else window.addEventListener("load", function () { setTimeout(baja, 0); }); }
+  }
+  /* [20-nov] En un Android, los «Léelo entero / Más cuentos en Sumanautas» llevan a Google Play (el enlace del botón de Google) */
+  var gpl = document.querySelector("a.googleplay");
+  if (gpl && /Android/i.test(navigator.userAgent)) {
+    [].forEach.call(document.querySelectorAll('a.leer[href*="apps.apple.com"]'), function (a) { a.href = gpl.href; });
   }
   window.addEventListener("hashchange", function () {
     var h = (location.hash || "").replace("#", "");

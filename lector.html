@@ -78,10 +78,10 @@ button { font: inherit; }
 .tarjeta-final h2 { margin: 0 0 10px; font: 900 clamp(24px, 5vw, 32px)/1.15 var(--f-titulo); }
 .tarjeta-final p { margin: 0 auto 16px; max-width: 460px; font-size: 17px; }
 .otra { display: inline-block; margin-top: 16px; color: #3a2400; font: 900 16px var(--f-titulo); }
-.appstore { display: inline-flex; align-items: center; gap: 10px; background: #000; color: #fff; text-decoration: none; padding: 8px 20px 8px 14px; border-radius: 13px; border: 1px solid #a6a6a6; min-height: 58px; }
-.appstore svg { width: 30px; height: 36px; flex: none; }
-.appstore small { display: block; font: 500 12.5px/1.1 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; text-align: left; }
-.appstore b { display: block; font: 600 25px/1.05 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: -.4px; text-align: left; }
+.appstore, .googleplay { display: inline-flex; align-items: center; gap: 10px; background: #000; color: #fff; text-decoration: none; padding: 8px 20px 8px 14px; border-radius: 13px; border: 1px solid #a6a6a6; min-height: 58px; }
+.appstore svg, .googleplay svg { width: 30px; height: 36px; flex: none; }
+.appstore small, .googleplay small { display: block; font: 500 12.5px/1.1 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; text-align: left; }
+.appstore b, .googleplay b { display: block; font: 600 25px/1.05 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: -.4px; text-align: left; }
 .aviso { margin: auto; max-width: 420px; text-align: center; padding: 24px; }
 .aviso a { font-weight: 900; color: var(--cielo-osc); }
 
@@ -115,6 +115,9 @@ button { font: inherit; }
   .flecha { width: 46px; height: 46px; }
 }
 
+/* [20-nov] App Store y Google Play, uno al lado del otro (y uno encima del otro si no caben) */
+.tiendas { display: inline-flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; }
+
 </style>
 </head>
 <body>
@@ -135,7 +138,7 @@ button { font: inherit; }
   </div>
   <button type="button" class="flecha sig" aria-label="Página siguiente">›</button>
 </nav>
-<template id="badge"><a class="appstore " href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-label="Descárgalo en el App Store" data-en-aria="Download on the App Store"><svg viewBox="0 0 384 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg><span><small data-en="Download on the">Descárgalo en el</small><b>App Store</b></span></a></template>
+<template id="badge"><span class="tiendas"><a class="appstore " href="https://apps.apple.com/app/id6820056090" rel="noopener" aria-label="Descárgalo en el App Store" data-en-aria="Download on the App Store"><svg viewBox="0 0 384 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg><span><small data-en="Download on the">Descárgalo en el</small><b>App Store</b></span></a><a class="googleplay " href="https://play.google.com/store/apps/details?id=com.jucabime.sumanautas&referrer=utm_source%3Dweb%26utm_medium%3Dweb%26utm_campaign%3Dweb_libros" rel="noopener" aria-label="Disponible en Google Play" data-en-aria="Get it on Google Play"><svg viewBox="0 0 512 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M325.3 234.3L104.6 13l280.8 161.2-60.1 60.1zM47 0C34 6.8 25.3 19.2 25.3 35.3v441.3c0 16.1 8.7 28.5 21.7 35.3l256.6-256L47 0zm425.2 225.6l-58.9-34.1-65.7 64.5 65.7 64.5 60.1-34.1c18-14.3 18-46.5-1.2-60.8zM104.6 499l280.8-161.2-60.1-60.1L104.6 499z"/></svg><span><small data-en="Get it on">Disponible en</small><b>Google Play</b></span></a></span></template>
 <noscript><p class="aviso">Para leer los cuentos hace falta JavaScript. <a href="./">Volver a la biblioteca</a></p></noscript>
 <script>
 /* El LECTOR de la web: lector.html?id=<id>[&lang=en][#n]. Lee web/cuentos/<id>.json (lo escribe genera_web.py: solo las
@@ -174,7 +177,7 @@ button { font: inherit; }
       finP: "En Sumanautas hay muchos más cuentos, narrados en voz alta con las palabras iluminándose al leer y preguntas al final. ¡Y cada semana llegan cuentos nuevos!",
       otra: "← Elegir otro cuento", ant: "Página anterior", sig: "Página siguiente", idioma: "Idioma",
       noHay: "No encuentro ese cuento.", irBib: "Ver todos los cuentos",
-      sufijo: " · Cuento de Sumanautas", badgeS: "Descárgalo en el", badgeA: "Descárgalo en el App Store"
+      sufijo: " · Cuento de Sumanautas", badgeS: "Descárgalo en el", badgeA: "Descárgalo en el App Store", playS: "Disponible en", playA: "Disponible en Google Play"
     },
     en: {
       bib: "Library", empezar: "Start reading →", oir: "Listen", oirTitulo: "Listen to the title", parar: "Stop",
@@ -189,7 +192,7 @@ button { font: inherit; }
       finP: "Sumanautas has many more stories, narrated aloud with the words lighting up as you go and questions at the end. And new stories arrive every week!",
       otra: "← Choose another story", ant: "Previous page", sig: "Next page", idioma: "Language",
       noHay: "I can't find that story.", irBib: "See all the stories",
-      sufijo: " · A Sumanautas story", badgeS: "Download on the", badgeA: "Download on the App Store"
+      sufijo: " · A Sumanautas story", badgeS: "Download on the", badgeA: "Download on the App Store", playS: "Get it on", playA: "Get it on Google Play"
     }
   };
   var q = location.search;
@@ -274,9 +277,13 @@ button { font: inherit; }
       p.textContent = libro.entero ? L().finP : L().ganasP(resto);
       otra.textContent = L().otra;
       otra.href = "./" + (idioma === "en" ? "?lang=en" : "") + "#" + encodeURIComponent(libro.id);
-      var s = b.querySelector("small");
+      var s = b.querySelector(".appstore small") || b.querySelector("small");
       if (s) s.textContent = L().badgeS;
-      if (b.setAttribute) b.setAttribute("aria-label", L().badgeA);
+      var ap = b.querySelector(".appstore") || b;
+      if (ap.setAttribute) ap.setAttribute("aria-label", L().badgeA);
+      var gs = b.querySelector(".googleplay small"), gp = b.querySelector(".googleplay");   // [20-nov] el botón de Google
+      if (gs) gs.textContent = L().playS;
+      if (gp) gp.setAttribute("aria-label", L().playA);
     });
     [ic, h2, p, b, el("br"), otra].forEach(function (n) { c.appendChild(n); });
     h.appendChild(c);

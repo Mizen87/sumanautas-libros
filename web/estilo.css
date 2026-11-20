@@ -56,11 +56,11 @@ button { font: inherit; }
 .lemas li:nth-child(1) { transform: rotate(-2deg); }
 .lemas li:nth-child(2) { transform: rotate(1.5deg); }
 .acciones { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
-.appstore { display: inline-flex; align-items: center; gap: 10px; background: #000; color: #fff; text-decoration: none; padding: 8px 20px 8px 14px; border-radius: 13px; border: 1px solid #a6a6a6; min-height: 58px; transition: transform .15s; }
-.appstore:hover { transform: translateY(-2px); }
-.appstore svg { width: 30px; height: 36px; flex: none; }
-.appstore small { display: block; font: 500 12.5px/1.1 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: .2px; }
-.appstore b { display: block; font: 600 25px/1.05 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: -.4px; }
+.appstore, .googleplay { display: inline-flex; align-items: center; gap: 10px; background: #000; color: #fff; text-decoration: none; padding: 8px 20px 8px 14px; border-radius: 13px; border: 1px solid #a6a6a6; min-height: 58px; transition: transform .15s; }
+.appstore:hover, .googleplay:hover { transform: translateY(-2px); }
+.appstore svg, .googleplay svg { width: 30px; height: 36px; flex: none; }
+.appstore small, .googleplay small { display: block; font: 500 12.5px/1.1 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: .2px; }
+.appstore b, .googleplay b { display: block; font: 600 25px/1.05 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: -.4px; }
 .boton-claro { display: inline-flex; align-items: center; min-height: 58px; padding: 0 20px; border-radius: 14px; border: 2px solid rgba(255, 255, 255, .85); color: #fff; text-decoration: none; font: 900 17px var(--f-titulo); }
 .boton-claro:hover { background: rgba(255, 255, 255, .14); }
 .autor { margin: 16px 0 0; font-size: 15px; opacity: .95; }
@@ -206,3 +206,6 @@ html[lang="en"] .trozo::after { content: "…\201D"; }
 .cancion h3 a { color: var(--tinta, #1f2a44); text-decoration: none; }
 .cancion .sub { margin: 0; color: var(--tinta-2, #4f5b76); font-size: 14px; }
 .sello.muestra { background: #1f2a44; color: #fff; }
+
+/* [20-nov] App Store y Google Play, uno al lado del otro (y uno encima del otro si no caben) */
+.tiendas { display: inline-flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; }

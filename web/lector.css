@@ -56,10 +56,10 @@ button { font: inherit; }
 .tarjeta-final h2 { margin: 0 0 10px; font: 900 clamp(24px, 5vw, 32px)/1.15 var(--f-titulo); }
 .tarjeta-final p { margin: 0 auto 16px; max-width: 460px; font-size: 17px; }
 .otra { display: inline-block; margin-top: 16px; color: #3a2400; font: 900 16px var(--f-titulo); }
-.appstore { display: inline-flex; align-items: center; gap: 10px; background: #000; color: #fff; text-decoration: none; padding: 8px 20px 8px 14px; border-radius: 13px; border: 1px solid #a6a6a6; min-height: 58px; }
-.appstore svg { width: 30px; height: 36px; flex: none; }
-.appstore small { display: block; font: 500 12.5px/1.1 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; text-align: left; }
-.appstore b { display: block; font: 600 25px/1.05 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: -.4px; text-align: left; }
+.appstore, .googleplay { display: inline-flex; align-items: center; gap: 10px; background: #000; color: #fff; text-decoration: none; padding: 8px 20px 8px 14px; border-radius: 13px; border: 1px solid #a6a6a6; min-height: 58px; }
+.appstore svg, .googleplay svg { width: 30px; height: 36px; flex: none; }
+.appstore small, .googleplay small { display: block; font: 500 12.5px/1.1 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; text-align: left; }
+.appstore b, .googleplay b { display: block; font: 600 25px/1.05 -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif; letter-spacing: -.4px; text-align: left; }
 .aviso { margin: auto; max-width: 420px; text-align: center; padding: 24px; }
 .aviso a { font-weight: 900; color: var(--cielo-osc); }
 
@@ -92,3 +92,6 @@ button { font: inherit; }
   .volver .t { display: none; }
   .flecha { width: 46px; height: 46px; }
 }
+
+/* [20-nov] App Store y Google Play, uno al lado del otro (y uno encima del otro si no caben) */
+.tiendas { display: inline-flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; }

@@ -117,6 +117,11 @@
     var baja = function () { bib.scrollIntoView({ behavior: "instant", block: "start" }); };
     if (bib) { if (document.readyState === "complete") baja(); else window.addEventListener("load", function () { setTimeout(baja, 0); }); }
   }
+  /* [20-nov] En un Android, los «Léelo entero / Más cuentos en Sumanautas» llevan a Google Play (el enlace del botón de Google) */
+  var gpl = document.querySelector("a.googleplay");
+  if (gpl && /Android/i.test(navigator.userAgent)) {
+    [].forEach.call(document.querySelectorAll('a.leer[href*="apps.apple.com"]'), function (a) { a.href = gpl.href; });
+  }
   window.addEventListener("hashchange", function () {
     var h = (location.hash || "").replace("#", "");
     if (TRAMOS.indexOf(h) >= 0 || h === "") filtra(h, false);
