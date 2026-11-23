@@ -75126,6 +75126,8608 @@
      ]
     }
    ]
+  },
+  {
+   "id": "22-me-duele-todo",
+   "titulo_en": "Everything Hurts!",
+   "titulo_es": "¡Me duele todo!",
+   "ensena_en": "the parts of the body and «hurt / hurts» (my back hurts, my legs hurt, Does your head hurt? No, it doesn't), inside a funny story about Dad's first day at the gym",
+   "ensena_es": "las partes del cuerpo y «me duele / me duelen» (me duele la espalda, me duelen las piernas, ¿te duele la cabeza? no, no me duele), en una historia de risa: el primer día de papá en el gimnasio",
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "Ouch! My legs hurt, my arms hurt, my back hurts too,",
+      "ini": 0.08,
+      "fin": 3.68,
+      "palabras": [
+       {
+        "t": "Ouch!",
+        "ini": 0.08,
+        "fin": 0.26
+       },
+       {
+        "t": "My",
+        "ini": 0.34,
+        "fin": 0.5
+       },
+       {
+        "t": "legs",
+        "ini": 0.6,
+        "fin": 0.86
+       },
+       {
+        "t": "hurt,",
+        "ini": 0.9,
+        "fin": 1.06
+       },
+       {
+        "t": "my",
+        "ini": 1.44,
+        "fin": 1.64
+       },
+       {
+        "t": "arms",
+        "ini": 1.74,
+        "fin": 2.02
+       },
+       {
+        "t": "hurt,",
+        "ini": 2.04,
+        "fin": 2.2
+       },
+       {
+        "t": "my",
+        "ini": 2.56,
+        "fin": 2.76
+       },
+       {
+        "t": "back",
+        "ini": 2.86,
+        "fin": 3.1
+       },
+       {
+        "t": "hurts",
+        "ini": 3.14,
+        "fin": 3.36
+       },
+       {
+        "t": "too,",
+        "ini": 3.46,
+        "fin": 3.68
+       }
+      ],
+      "trad": "¡Ay! Me duelen las piernas, me duelen los brazos, y la espalda también,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "my neck hurts, my feet hurt, and my nose hurts, ooh!",
+      "ini": 4.86,
+      "fin": 8.52,
+      "palabras": [
+       {
+        "t": "my",
+        "ini": 4.86,
+        "fin": 5.06
+       },
+       {
+        "t": "neck",
+        "ini": 5.14,
+        "fin": 5.36
+       },
+       {
+        "t": "hurts,",
+        "ini": 5.4,
+        "fin": 5.68
+       },
+       {
+        "t": "my",
+        "ini": 5.98,
+        "fin": 6.12
+       },
+       {
+        "t": "feet",
+        "ini": 6.26,
+        "fin": 6.48
+       },
+       {
+        "t": "hurt,",
+        "ini": 6.52,
+        "fin": 6.7
+       },
+       {
+        "t": "and",
+        "ini": 6.84,
+        "fin": 7.04
+       },
+       {
+        "t": "my",
+        "ini": 7.12,
+        "fin": 7.3
+       },
+       {
+        "t": "nose",
+        "ini": 7.38,
+        "fin": 7.64
+       },
+       {
+        "t": "hurts,",
+        "ini": 7.68,
+        "fin": 7.92
+       },
+       {
+        "t": "ooh!",
+        "ini": 8.04,
+        "fin": 8.52
+       }
+      ],
+      "trad": "me duele el cuello, me duelen los pies, y me duele la nariz, ¡uh!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "— Your nose? Why does your nose hurt? — I don't know, it's new!",
+      "ini": 8.78,
+      "fin": 13.0,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 8.78,
+        "fin": 8.78
+       },
+       {
+        "t": "Your",
+        "ini": 9.38,
+        "fin": 9.58
+       },
+       {
+        "t": "nose?",
+        "ini": 9.66,
+        "fin": 9.88
+       },
+       {
+        "t": "Why",
+        "ini": 9.96,
+        "fin": 10.1
+       },
+       {
+        "t": "does",
+        "ini": 10.22,
+        "fin": 10.46
+       },
+       {
+        "t": "your",
+        "ini": 10.52,
+        "fin": 10.72
+       },
+       {
+        "t": "nose",
+        "ini": 10.8,
+        "fin": 11.04
+       },
+       {
+        "t": "hurt?",
+        "ini": 11.1,
+        "fin": 11.26
+       },
+       {
+        "t": "—",
+        "ini": 11.26,
+        "fin": 11.26
+       },
+       {
+        "t": "I",
+        "ini": 11.6,
+        "fin": 11.64
+       },
+       {
+        "t": "don't",
+        "ini": 11.68,
+        "fin": 11.88
+       },
+       {
+        "t": "know,",
+        "ini": 11.94,
+        "fin": 12.1
+       },
+       {
+        "t": "it's",
+        "ini": 12.26,
+        "fin": 12.46
+       },
+       {
+        "t": "new!",
+        "ini": 12.52,
+        "fin": 13.0
+       }
+      ],
+      "trad": "—¿La nariz? ¿Por qué te duele la nariz? —¡No lo sé, es nuevo!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Ay, ay, ay, everything hurts… since the gym, it's true!",
+      "ini": 13.64,
+      "fin": 17.56,
+      "palabras": [
+       {
+        "t": "Ay,",
+        "ini": 13.64,
+        "fin": 13.88
+       },
+       {
+        "t": "ay,",
+        "ini": 13.98,
+        "fin": 14.16
+       },
+       {
+        "t": "ay,",
+        "ini": 14.22,
+        "fin": 14.4
+       },
+       {
+        "t": "everything",
+        "ini": 14.84,
+        "fin": 15.54
+       },
+       {
+        "t": "hurts…",
+        "ini": 15.6,
+        "fin": 15.84
+       },
+       {
+        "t": "since",
+        "ini": 15.88,
+        "fin": 16.12
+       },
+       {
+        "t": "the",
+        "ini": 16.2,
+        "fin": 16.3
+       },
+       {
+        "t": "gym,",
+        "ini": 16.44,
+        "fin": 16.7
+       },
+       {
+        "t": "it's",
+        "ini": 16.8,
+        "fin": 16.98
+       },
+       {
+        "t": "true!",
+        "ini": 17.0,
+        "fin": 17.56
+       }
+      ],
+      "trad": "Ay, ay, ay, me duele todo… desde el gimnasio, ¡es verdad!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "On Monday I told my family: «I'm going to the gym, I'm super strong!»",
+      "ini": 19.04,
+      "fin": 23.44,
+      "palabras": [
+       {
+        "t": "On",
+        "ini": 19.04,
+        "fin": 19.2
+       },
+       {
+        "t": "Monday",
+        "ini": 19.28,
+        "fin": 19.56
+       },
+       {
+        "t": "I",
+        "ini": 19.66,
+        "fin": 19.78
+       },
+       {
+        "t": "told",
+        "ini": 19.84,
+        "fin": 20.08
+       },
+       {
+        "t": "my",
+        "ini": 20.14,
+        "fin": 20.26
+       },
+       {
+        "t": "family:",
+        "ini": 20.44,
+        "fin": 21.06
+       },
+       {
+        "t": "«I'm",
+        "ini": 21.42,
+        "fin": 21.52
+       },
+       {
+        "t": "going",
+        "ini": 21.56,
+        "fin": 21.78
+       },
+       {
+        "t": "to",
+        "ini": 21.82,
+        "fin": 21.92
+       },
+       {
+        "t": "the",
+        "ini": 21.96,
+        "fin": 22.02
+       },
+       {
+        "t": "gym,",
+        "ini": 22.1,
+        "fin": 22.34
+       },
+       {
+        "t": "I'm",
+        "ini": 22.42,
+        "fin": 22.54
+       },
+       {
+        "t": "super",
+        "ini": 22.66,
+        "fin": 22.92
+       },
+       {
+        "t": "strong!»",
+        "ini": 23.02,
+        "fin": 23.44
+       }
+      ],
+      "trad": "El lunes le dije a mi familia: «¡Me voy al gimnasio, soy superfuerte!»"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "I ran for an hour, I lifted weights, I jumped and danced along,",
+      "ini": 23.72,
+      "fin": 27.48,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 23.72,
+        "fin": 23.78
+       },
+       {
+        "t": "ran",
+        "ini": 23.82,
+        "fin": 24.0
+       },
+       {
+        "t": "for",
+        "ini": 24.12,
+        "fin": 24.26
+       },
+       {
+        "t": "an",
+        "ini": 24.3,
+        "fin": 24.38
+       },
+       {
+        "t": "hour,",
+        "ini": 24.46,
+        "fin": 24.62
+       },
+       {
+        "t": "I",
+        "ini": 24.8,
+        "fin": 24.88
+       },
+       {
+        "t": "lifted",
+        "ini": 24.96,
+        "fin": 25.3
+       },
+       {
+        "t": "weights,",
+        "ini": 25.4,
+        "fin": 25.7
+       },
+       {
+        "t": "I",
+        "ini": 25.98,
+        "fin": 26.04
+       },
+       {
+        "t": "jumped",
+        "ini": 26.1,
+        "fin": 26.36
+       },
+       {
+        "t": "and",
+        "ini": 26.4,
+        "fin": 26.54
+       },
+       {
+        "t": "danced",
+        "ini": 26.64,
+        "fin": 26.94
+       },
+       {
+        "t": "along,",
+        "ini": 27.0,
+        "fin": 27.48
+       }
+      ],
+      "trad": "Corrí durante una hora, levanté pesas, salté y bailé también,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "on Tuesday I woke up, and… I couldn't get out of bed!",
+      "ini": 28.0,
+      "fin": 32.16,
+      "palabras": [
+       {
+        "t": "on",
+        "ini": 28.0,
+        "fin": 28.22
+       },
+       {
+        "t": "Tuesday",
+        "ini": 28.32,
+        "fin": 28.8
+       },
+       {
+        "t": "I",
+        "ini": 29.06,
+        "fin": 29.1
+       },
+       {
+        "t": "woke",
+        "ini": 29.18,
+        "fin": 29.46
+       },
+       {
+        "t": "up,",
+        "ini": 29.56,
+        "fin": 29.7
+       },
+       {
+        "t": "and…",
+        "ini": 29.98,
+        "fin": 30.26
+       },
+       {
+        "t": "I",
+        "ini": 30.52,
+        "fin": 30.56
+       },
+       {
+        "t": "couldn't",
+        "ini": 30.6,
+        "fin": 30.84
+       },
+       {
+        "t": "get",
+        "ini": 30.9,
+        "fin": 31.16
+       },
+       {
+        "t": "out",
+        "ini": 31.26,
+        "fin": 31.44
+       },
+       {
+        "t": "of",
+        "ini": 31.48,
+        "fin": 31.58
+       },
+       {
+        "t": "bed!",
+        "ini": 31.62,
+        "fin": 32.16
+       }
+      ],
+      "trad": "el martes me desperté, y… ¡no podía levantarme de la cama!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "My daughter came in and said: «Dad, what hurts?»",
+      "ini": 32.72,
+      "fin": 35.48,
+      "palabras": [
+       {
+        "t": "My",
+        "ini": 32.72,
+        "fin": 32.82
+       },
+       {
+        "t": "daughter",
+        "ini": 32.84,
+        "fin": 33.08
+       },
+       {
+        "t": "came",
+        "ini": 33.16,
+        "fin": 33.42
+       },
+       {
+        "t": "in",
+        "ini": 33.5,
+        "fin": 33.58
+       },
+       {
+        "t": "and",
+        "ini": 33.62,
+        "fin": 33.72
+       },
+       {
+        "t": "said:",
+        "ini": 33.86,
+        "fin": 34.22
+       },
+       {
+        "t": "«Dad,",
+        "ini": 34.52,
+        "fin": 34.78
+       },
+       {
+        "t": "what",
+        "ini": 34.86,
+        "fin": 35.02
+       },
+       {
+        "t": "hurts?»",
+        "ini": 35.1,
+        "fin": 35.48
+       }
+      ],
+      "trad": "Mi hija entró y dijo: «Papá, ¿qué te duele?»"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Ouch! My legs hurt, my arms hurt, my back hurts too,",
+      "ini": 36.34,
+      "fin": 39.9,
+      "palabras": [
+       {
+        "t": "Ouch!",
+        "ini": 36.34,
+        "fin": 36.48
+       },
+       {
+        "t": "My",
+        "ini": 36.58,
+        "fin": 36.74
+       },
+       {
+        "t": "legs",
+        "ini": 36.82,
+        "fin": 37.08
+       },
+       {
+        "t": "hurt,",
+        "ini": 37.1,
+        "fin": 37.26
+       },
+       {
+        "t": "my",
+        "ini": 37.66,
+        "fin": 37.86
+       },
+       {
+        "t": "arms",
+        "ini": 38.0,
+        "fin": 38.24
+       },
+       {
+        "t": "hurt,",
+        "ini": 38.28,
+        "fin": 38.46
+       },
+       {
+        "t": "my",
+        "ini": 38.82,
+        "fin": 39.0
+       },
+       {
+        "t": "back",
+        "ini": 39.08,
+        "fin": 39.32
+       },
+       {
+        "t": "hurts",
+        "ini": 39.34,
+        "fin": 39.58
+       },
+       {
+        "t": "too,",
+        "ini": 39.68,
+        "fin": 39.9
+       }
+      ],
+      "trad": "¡Ay! Me duelen las piernas, me duelen los brazos, y la espalda también,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "my neck hurts, my feet hurt, and my nose hurts, ooh!",
+      "ini": 41.08,
+      "fin": 44.74,
+      "palabras": [
+       {
+        "t": "my",
+        "ini": 41.08,
+        "fin": 41.26
+       },
+       {
+        "t": "neck",
+        "ini": 41.36,
+        "fin": 41.58
+       },
+       {
+        "t": "hurts,",
+        "ini": 41.62,
+        "fin": 41.9
+       },
+       {
+        "t": "my",
+        "ini": 42.22,
+        "fin": 42.36
+       },
+       {
+        "t": "feet",
+        "ini": 42.48,
+        "fin": 42.68
+       },
+       {
+        "t": "hurt,",
+        "ini": 42.74,
+        "fin": 42.96
+       },
+       {
+        "t": "and",
+        "ini": 43.08,
+        "fin": 43.26
+       },
+       {
+        "t": "my",
+        "ini": 43.34,
+        "fin": 43.5
+       },
+       {
+        "t": "nose",
+        "ini": 43.6,
+        "fin": 43.86
+       },
+       {
+        "t": "hurts,",
+        "ini": 43.9,
+        "fin": 44.16
+       },
+       {
+        "t": "ooh!",
+        "ini": 44.24,
+        "fin": 44.74
+       }
+      ],
+      "trad": "me duele el cuello, me duelen los pies, y me duele la nariz, ¡uh!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "— Your nose? Why does your nose hurt? — I don't know, it's new!",
+      "ini": 45.0,
+      "fin": 49.24,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 45.0,
+        "fin": 45.0
+       },
+       {
+        "t": "Your",
+        "ini": 45.62,
+        "fin": 45.8
+       },
+       {
+        "t": "nose?",
+        "ini": 45.88,
+        "fin": 46.1
+       },
+       {
+        "t": "Why",
+        "ini": 46.18,
+        "fin": 46.34
+       },
+       {
+        "t": "does",
+        "ini": 46.44,
+        "fin": 46.68
+       },
+       {
+        "t": "your",
+        "ini": 46.76,
+        "fin": 46.94
+       },
+       {
+        "t": "nose",
+        "ini": 47.02,
+        "fin": 47.26
+       },
+       {
+        "t": "hurt?",
+        "ini": 47.32,
+        "fin": 47.48
+       },
+       {
+        "t": "—",
+        "ini": 47.76,
+        "fin": 47.76
+       },
+       {
+        "t": "I",
+        "ini": 47.82,
+        "fin": 47.86
+       },
+       {
+        "t": "don't",
+        "ini": 47.9,
+        "fin": 48.1
+       },
+       {
+        "t": "know,",
+        "ini": 48.14,
+        "fin": 48.36
+       },
+       {
+        "t": "it's",
+        "ini": 48.48,
+        "fin": 48.68
+       },
+       {
+        "t": "new!",
+        "ini": 48.76,
+        "fin": 49.24
+       }
+      ],
+      "trad": "—¿La nariz? ¿Por qué te duele la nariz? —¡No lo sé, es nuevo!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Ay, ay, ay, everything hurts… since the gym, it's true!",
+      "ini": 49.88,
+      "fin": 53.74,
+      "palabras": [
+       {
+        "t": "Ay,",
+        "ini": 49.88,
+        "fin": 50.12
+       },
+       {
+        "t": "ay,",
+        "ini": 50.2,
+        "fin": 50.38
+       },
+       {
+        "t": "ay,",
+        "ini": 50.48,
+        "fin": 50.66
+       },
+       {
+        "t": "everything",
+        "ini": 51.06,
+        "fin": 51.76
+       },
+       {
+        "t": "hurts…",
+        "ini": 51.82,
+        "fin": 52.06
+       },
+       {
+        "t": "since",
+        "ini": 52.1,
+        "fin": 52.36
+       },
+       {
+        "t": "the",
+        "ini": 52.42,
+        "fin": 52.52
+       },
+       {
+        "t": "gym,",
+        "ini": 52.68,
+        "fin": 52.92
+       },
+       {
+        "t": "it's",
+        "ini": 53.02,
+        "fin": 53.18
+       },
+       {
+        "t": "true!",
+        "ini": 53.22,
+        "fin": 53.74
+       }
+      ],
+      "trad": "Ay, ay, ay, me duele todo… desde el gimnasio, ¡es verdad!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— Does your head hurt? — No, my head doesn't hurt, my head is fine!",
+      "ini": 53.78,
+      "fin": 59.38,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 53.78,
+        "fin": 53.78
+       },
+       {
+        "t": "Does",
+        "ini": 54.94,
+        "fin": 55.18
+       },
+       {
+        "t": "your",
+        "ini": 55.24,
+        "fin": 55.42
+       },
+       {
+        "t": "head",
+        "ini": 55.5,
+        "fin": 55.72
+       },
+       {
+        "t": "hurt?",
+        "ini": 55.78,
+        "fin": 56.02
+       },
+       {
+        "t": "—",
+        "ini": 56.06,
+        "fin": 56.06
+       },
+       {
+        "t": "No,",
+        "ini": 56.08,
+        "fin": 56.22
+       },
+       {
+        "t": "my",
+        "ini": 56.36,
+        "fin": 56.54
+       },
+       {
+        "t": "head",
+        "ini": 56.64,
+        "fin": 56.88
+       },
+       {
+        "t": "doesn't",
+        "ini": 57.22,
+        "fin": 57.66
+       },
+       {
+        "t": "hurt,",
+        "ini": 57.74,
+        "fin": 57.96
+       },
+       {
+        "t": "my",
+        "ini": 58.06,
+        "fin": 58.24
+       },
+       {
+        "t": "head",
+        "ini": 58.34,
+        "fin": 58.52
+       },
+       {
+        "t": "is",
+        "ini": 58.58,
+        "fin": 58.72
+       },
+       {
+        "t": "fine!",
+        "ini": 58.8,
+        "fin": 59.38
+       }
+      ],
+      "trad": "—¿Te duele la cabeza? —No, la cabeza no me duele, ¡la cabeza está bien!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— Do your knees hurt? — Yes, they hurt! They go «crack» every time!",
+      "ini": 59.44,
+      "fin": 63.72,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 59.44,
+        "fin": 59.44
+       },
+       {
+        "t": "Do",
+        "ini": 59.48,
+        "fin": 59.64
+       },
+       {
+        "t": "your",
+        "ini": 59.76,
+        "fin": 59.92
+       },
+       {
+        "t": "knees",
+        "ini": 60.0,
+        "fin": 60.28
+       },
+       {
+        "t": "hurt?",
+        "ini": 60.32,
+        "fin": 60.52
+       },
+       {
+        "t": "—",
+        "ini": 60.58,
+        "fin": 60.58
+       },
+       {
+        "t": "Yes,",
+        "ini": 60.62,
+        "fin": 60.8
+       },
+       {
+        "t": "they",
+        "ini": 60.9,
+        "fin": 61.06
+       },
+       {
+        "t": "hurt!",
+        "ini": 61.16,
+        "fin": 61.44
+       },
+       {
+        "t": "They",
+        "ini": 61.74,
+        "fin": 61.92
+       },
+       {
+        "t": "go",
+        "ini": 62.02,
+        "fin": 62.14
+       },
+       {
+        "t": "«crack»",
+        "ini": 62.22,
+        "fin": 62.54
+       },
+       {
+        "t": "every",
+        "ini": 62.96,
+        "fin": 63.22
+       },
+       {
+        "t": "time!",
+        "ini": 63.34,
+        "fin": 63.72
+       }
+      ],
+      "trad": "—¿Te duelen las rodillas? —¡Sí, me duelen! ¡Hacen «crac» cada vez!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— Does your tongue hurt? — No, my tongue is fine… I can still complain!",
+      "ini": 63.72,
+      "fin": 68.3,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 63.72,
+        "fin": 63.72
+       },
+       {
+        "t": "Does",
+        "ini": 64.0,
+        "fin": 64.22
+       },
+       {
+        "t": "your",
+        "ini": 64.3,
+        "fin": 64.44
+       },
+       {
+        "t": "tongue",
+        "ini": 64.54,
+        "fin": 64.78
+       },
+       {
+        "t": "hurt?",
+        "ini": 64.84,
+        "fin": 65.06
+       },
+       {
+        "t": "—",
+        "ini": 65.1,
+        "fin": 65.1
+       },
+       {
+        "t": "No,",
+        "ini": 65.14,
+        "fin": 65.28
+       },
+       {
+        "t": "my",
+        "ini": 65.4,
+        "fin": 65.54
+       },
+       {
+        "t": "tongue",
+        "ini": 65.68,
+        "fin": 65.88
+       },
+       {
+        "t": "is",
+        "ini": 65.94,
+        "fin": 66.06
+       },
+       {
+        "t": "fine…",
+        "ini": 66.14,
+        "fin": 66.5
+       },
+       {
+        "t": "I",
+        "ini": 66.96,
+        "fin": 66.98
+       },
+       {
+        "t": "can",
+        "ini": 67.1,
+        "fin": 67.24
+       },
+       {
+        "t": "still",
+        "ini": 67.36,
+        "fin": 67.54
+       },
+       {
+        "t": "complain!",
+        "ini": 67.66,
+        "fin": 68.3
+       }
+      ],
+      "trad": "—¿Te duele la lengua? —No, la lengua está bien… ¡todavía puedo quejarme!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— So you're okay, Dad! — Okay? I can't even lift my coffee!",
+      "ini": 68.3,
+      "fin": 72.38,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 68.3,
+        "fin": 68.3
+       },
+       {
+        "t": "So",
+        "ini": 68.4,
+        "fin": 68.48
+       },
+       {
+        "t": "you're",
+        "ini": 68.54,
+        "fin": 68.78
+       },
+       {
+        "t": "okay,",
+        "ini": 68.86,
+        "fin": 69.26
+       },
+       {
+        "t": "Dad!",
+        "ini": 69.36,
+        "fin": 69.64
+       },
+       {
+        "t": "—",
+        "ini": 69.92,
+        "fin": 69.92
+       },
+       {
+        "t": "Okay?",
+        "ini": 69.98,
+        "fin": 70.38
+       },
+       {
+        "t": "I",
+        "ini": 70.6,
+        "fin": 70.64
+       },
+       {
+        "t": "can't",
+        "ini": 70.76,
+        "fin": 71.04
+       },
+       {
+        "t": "even",
+        "ini": 71.1,
+        "fin": 71.3
+       },
+       {
+        "t": "lift",
+        "ini": 71.36,
+        "fin": 71.58
+       },
+       {
+        "t": "my",
+        "ini": 71.64,
+        "fin": 71.86
+       },
+       {
+        "t": "coffee!",
+        "ini": 71.9,
+        "fin": 72.38
+       }
+      ],
+      "trad": "—¡Pues estás bien, papá! —¿Bien? ¡No puedo ni levantar mi café!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "One thing: my back hurts. Lots of things: my feet hurt.",
+      "ini": 73.08,
+      "fin": 81.9,
+      "palabras": [
+       {
+        "t": "One",
+        "ini": 73.08,
+        "fin": 73.46
+       },
+       {
+        "t": "thing:",
+        "ini": 73.6,
+        "fin": 74.16
+       },
+       {
+        "t": "my",
+        "ini": 75.32,
+        "fin": 75.72
+       },
+       {
+        "t": "back",
+        "ini": 75.88,
+        "fin": 76.38
+       },
+       {
+        "t": "hurts.",
+        "ini": 76.42,
+        "fin": 76.7
+       },
+       {
+        "t": "Lots",
+        "ini": 77.02,
+        "fin": 77.38
+       },
+       {
+        "t": "of",
+        "ini": 77.68,
+        "fin": 78.0
+       },
+       {
+        "t": "things:",
+        "ini": 78.12,
+        "fin": 78.68
+       },
+       {
+        "t": "my",
+        "ini": 79.84,
+        "fin": 80.2
+       },
+       {
+        "t": "feet",
+        "ini": 80.4,
+        "fin": 81.44
+       },
+       {
+        "t": "hurt.",
+        "ini": 81.52,
+        "fin": 81.9
+       }
+      ],
+      "trad": "Una cosa: me duele la espalda. Muchas cosas: me duelen los pies."
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Hurts, hurt… ouch, ouch, ouch! Everything hurts!",
+      "ini": 82.66,
+      "fin": 89.84,
+      "palabras": [
+       {
+        "t": "Hurts,",
+        "ini": 82.66,
+        "fin": 83.06
+       },
+       {
+        "t": "hurt…",
+        "ini": 83.8,
+        "fin": 84.16
+       },
+       {
+        "t": "ouch,",
+        "ini": 85.0,
+        "fin": 85.3
+       },
+       {
+        "t": "ouch,",
+        "ini": 85.56,
+        "fin": 85.86
+       },
+       {
+        "t": "ouch!",
+        "ini": 86.14,
+        "fin": 86.5
+       },
+       {
+        "t": "Everything",
+        "ini": 87.28,
+        "fin": 88.86
+       },
+       {
+        "t": "hurts!",
+        "ini": 89.42,
+        "fin": 89.84
+       }
+      ],
+      "trad": "Duele, duelen… ¡ay, ay, ay! ¡Me duele todo!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "On Friday Grandma came to visit: eighty-two and very strong,",
+      "ini": 90.9,
+      "fin": 95.28,
+      "palabras": [
+       {
+        "t": "On",
+        "ini": 90.9,
+        "fin": 91.04
+       },
+       {
+        "t": "Friday",
+        "ini": 91.14,
+        "fin": 91.58
+       },
+       {
+        "t": "Grandma",
+        "ini": 91.7,
+        "fin": 92.14
+       },
+       {
+        "t": "came",
+        "ini": 92.3,
+        "fin": 92.54
+       },
+       {
+        "t": "to",
+        "ini": 92.6,
+        "fin": 92.7
+       },
+       {
+        "t": "visit:",
+        "ini": 92.78,
+        "fin": 93.22
+       },
+       {
+        "t": "eighty-two",
+        "ini": 93.5,
+        "fin": 94.24
+       },
+       {
+        "t": "and",
+        "ini": 94.3,
+        "fin": 94.46
+       },
+       {
+        "t": "very",
+        "ini": 94.56,
+        "fin": 94.84
+       },
+       {
+        "t": "strong,",
+        "ini": 94.94,
+        "fin": 95.28
+       }
+      ],
+      "trad": "El viernes vino a vernos la abuela: ochenta y dos años y muy fuerte,"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "she said: «I go to the gym every day, and nothing hurts at all!»",
+      "ini": 95.4,
+      "fin": 99.88,
+      "palabras": [
+       {
+        "t": "she",
+        "ini": 95.4,
+        "fin": 95.52
+       },
+       {
+        "t": "said:",
+        "ini": 95.66,
+        "fin": 95.96
+       },
+       {
+        "t": "«I",
+        "ini": 96.0,
+        "fin": 96.22
+       },
+       {
+        "t": "go",
+        "ini": 96.26,
+        "fin": 96.42
+       },
+       {
+        "t": "to",
+        "ini": 96.56,
+        "fin": 96.76
+       },
+       {
+        "t": "the",
+        "ini": 96.84,
+        "fin": 96.96
+       },
+       {
+        "t": "gym",
+        "ini": 97.08,
+        "fin": 97.36
+       },
+       {
+        "t": "every",
+        "ini": 97.48,
+        "fin": 97.8
+       },
+       {
+        "t": "day,",
+        "ini": 97.96,
+        "fin": 98.2
+       },
+       {
+        "t": "and",
+        "ini": 98.26,
+        "fin": 98.42
+       },
+       {
+        "t": "nothing",
+        "ini": 98.5,
+        "fin": 98.94
+       },
+       {
+        "t": "hurts",
+        "ini": 99.06,
+        "fin": 99.34
+       },
+       {
+        "t": "at",
+        "ini": 99.4,
+        "fin": 99.54
+       },
+       {
+        "t": "all!»",
+        "ini": 99.62,
+        "fin": 99.88
+       }
+      ],
+      "trad": "y dijo: «Voy al gimnasio todos los días, ¡y no me duele nada de nada!»"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "«Your muscles hurt because you did everything on day one!»",
+      "ini": 99.88,
+      "fin": 103.36,
+      "palabras": [
+       {
+        "t": "«Your",
+        "ini": 99.88,
+        "fin": 100.12
+       },
+       {
+        "t": "muscles",
+        "ini": 100.24,
+        "fin": 100.74
+       },
+       {
+        "t": "hurt",
+        "ini": 100.8,
+        "fin": 101.02
+       },
+       {
+        "t": "because",
+        "ini": 101.1,
+        "fin": 101.5
+       },
+       {
+        "t": "you",
+        "ini": 101.54,
+        "fin": 101.62
+       },
+       {
+        "t": "did",
+        "ini": 101.68,
+        "fin": 101.92
+       },
+       {
+        "t": "everything",
+        "ini": 102.0,
+        "fin": 102.62
+       },
+       {
+        "t": "on",
+        "ini": 102.66,
+        "fin": 102.74
+       },
+       {
+        "t": "day",
+        "ini": 102.8,
+        "fin": 102.96
+       },
+       {
+        "t": "one!»",
+        "ini": 103.1,
+        "fin": 103.36
+       }
+      ],
+      "trad": "«¡Te duelen los músculos porque lo hiciste todo el primer día!»"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "«A little every day, my boy!» And now we go together, nice and slow.",
+      "ini": 103.5,
+      "fin": 107.84,
+      "palabras": [
+       {
+        "t": "«A",
+        "ini": 103.5,
+        "fin": 103.58
+       },
+       {
+        "t": "little",
+        "ini": 103.64,
+        "fin": 103.88
+       },
+       {
+        "t": "every",
+        "ini": 103.96,
+        "fin": 104.12
+       },
+       {
+        "t": "day,",
+        "ini": 104.2,
+        "fin": 104.38
+       },
+       {
+        "t": "my",
+        "ini": 104.48,
+        "fin": 104.64
+       },
+       {
+        "t": "boy!»",
+        "ini": 104.76,
+        "fin": 105.02
+       },
+       {
+        "t": "And",
+        "ini": 105.08,
+        "fin": 105.22
+       },
+       {
+        "t": "now",
+        "ini": 105.34,
+        "fin": 105.56
+       },
+       {
+        "t": "we",
+        "ini": 105.64,
+        "fin": 105.74
+       },
+       {
+        "t": "go",
+        "ini": 105.9,
+        "fin": 106.12
+       },
+       {
+        "t": "together,",
+        "ini": 106.18,
+        "fin": 106.88
+       },
+       {
+        "t": "nice",
+        "ini": 107.02,
+        "fin": 107.26
+       },
+       {
+        "t": "and",
+        "ini": 107.32,
+        "fin": 107.44
+       },
+       {
+        "t": "slow.",
+        "ini": 107.54,
+        "fin": 107.84
+       }
+      ],
+      "trad": "«¡Un poco cada día, hijo mío!» Y ahora vamos juntos, despacito."
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Ouch! My legs hurt, my arms hurt, my back hurts too,",
+      "ini": 109.12,
+      "fin": 113.44,
+      "palabras": [
+       {
+        "t": "Ouch!",
+        "ini": 109.12,
+        "fin": 109.46
+       },
+       {
+        "t": "My",
+        "ini": 109.58,
+        "fin": 109.72
+       },
+       {
+        "t": "legs",
+        "ini": 109.86,
+        "fin": 110.22
+       },
+       {
+        "t": "hurt,",
+        "ini": 110.3,
+        "fin": 110.58
+       },
+       {
+        "t": "my",
+        "ini": 110.7,
+        "fin": 110.94
+       },
+       {
+        "t": "arms",
+        "ini": 111.06,
+        "fin": 111.4
+       },
+       {
+        "t": "hurt,",
+        "ini": 111.46,
+        "fin": 111.72
+       },
+       {
+        "t": "my",
+        "ini": 111.84,
+        "fin": 111.98
+       },
+       {
+        "t": "back",
+        "ini": 112.12,
+        "fin": 112.6
+       },
+       {
+        "t": "hurts",
+        "ini": 112.66,
+        "fin": 113.04
+       },
+       {
+        "t": "too,",
+        "ini": 113.14,
+        "fin": 113.44
+       }
+      ],
+      "trad": "¡Ay! Me duelen las piernas, me duelen los brazos, y la espalda también,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "my neck hurts, my feet hurt, and my nose hurts, ooh!",
+      "ini": 114.1,
+      "fin": 118.02,
+      "palabras": [
+       {
+        "t": "my",
+        "ini": 114.1,
+        "fin": 114.24
+       },
+       {
+        "t": "neck",
+        "ini": 114.38,
+        "fin": 114.64
+       },
+       {
+        "t": "hurts,",
+        "ini": 114.8,
+        "fin": 115.12
+       },
+       {
+        "t": "my",
+        "ini": 115.22,
+        "fin": 115.34
+       },
+       {
+        "t": "feet",
+        "ini": 115.52,
+        "fin": 115.86
+       },
+       {
+        "t": "hurt,",
+        "ini": 115.92,
+        "fin": 116.22
+       },
+       {
+        "t": "and",
+        "ini": 116.26,
+        "fin": 116.32
+       },
+       {
+        "t": "my",
+        "ini": 116.38,
+        "fin": 116.5
+       },
+       {
+        "t": "nose",
+        "ini": 116.64,
+        "fin": 117.16
+       },
+       {
+        "t": "hurts,",
+        "ini": 117.2,
+        "fin": 117.5
+       },
+       {
+        "t": "ooh!",
+        "ini": 117.72,
+        "fin": 118.02
+       }
+      ],
+      "trad": "me duele el cuello, me duelen los pies, y me duele la nariz, ¡uh!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "— Your nose? Why does your nose hurt? — I don't know, it's new!",
+      "ini": 118.44,
+      "fin": 122.52,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 118.44,
+        "fin": 118.44
+       },
+       {
+        "t": "Your",
+        "ini": 118.62,
+        "fin": 118.76
+       },
+       {
+        "t": "nose?",
+        "ini": 118.9,
+        "fin": 119.12
+       },
+       {
+        "t": "Why",
+        "ini": 119.2,
+        "fin": 119.36
+       },
+       {
+        "t": "does",
+        "ini": 119.48,
+        "fin": 119.72
+       },
+       {
+        "t": "your",
+        "ini": 119.78,
+        "fin": 119.9
+       },
+       {
+        "t": "nose",
+        "ini": 120.04,
+        "fin": 120.44
+       },
+       {
+        "t": "hurt?",
+        "ini": 120.5,
+        "fin": 120.7
+       },
+       {
+        "t": "—",
+        "ini": 120.76,
+        "fin": 120.76
+       },
+       {
+        "t": "I",
+        "ini": 120.84,
+        "fin": 120.86
+       },
+       {
+        "t": "don't",
+        "ini": 120.92,
+        "fin": 121.12
+       },
+       {
+        "t": "know,",
+        "ini": 121.18,
+        "fin": 121.42
+       },
+       {
+        "t": "it's",
+        "ini": 121.84,
+        "fin": 122.12
+       },
+       {
+        "t": "new!",
+        "ini": 122.22,
+        "fin": 122.52
+       }
+      ],
+      "trad": "—¿La nariz? ¿Por qué te duele la nariz? —¡No lo sé, es nuevo!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Ay, ay, ay, everything hurts… since the gym, it's true!",
+      "ini": 122.94,
+      "fin": 127.04,
+      "palabras": [
+       {
+        "t": "Ay,",
+        "ini": 122.94,
+        "fin": 123.12
+       },
+       {
+        "t": "ay,",
+        "ini": 123.2,
+        "fin": 123.4
+       },
+       {
+        "t": "ay,",
+        "ini": 123.52,
+        "fin": 123.68
+       },
+       {
+        "t": "everything",
+        "ini": 123.98,
+        "fin": 124.9
+       },
+       {
+        "t": "hurts…",
+        "ini": 125.0,
+        "fin": 125.28
+       },
+       {
+        "t": "since",
+        "ini": 125.32,
+        "fin": 125.54
+       },
+       {
+        "t": "the",
+        "ini": 125.58,
+        "fin": 125.66
+       },
+       {
+        "t": "gym,",
+        "ini": 125.72,
+        "fin": 126.12
+       },
+       {
+        "t": "it's",
+        "ini": 126.44,
+        "fin": 126.7
+       },
+       {
+        "t": "true!",
+        "ini": 126.78,
+        "fin": 127.04
+       }
+      ],
+      "trad": "Ay, ay, ay, me duele todo… desde el gimnasio, ¡es verdad!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Ouch! My legs hurt, my arms hurt, my back hurts too,",
+      "ini": 127.24,
+      "fin": 131.56,
+      "palabras": [
+       {
+        "t": "Ouch!",
+        "ini": 127.24,
+        "fin": 127.56
+       },
+       {
+        "t": "My",
+        "ini": 127.68,
+        "fin": 127.84
+       },
+       {
+        "t": "legs",
+        "ini": 127.98,
+        "fin": 128.32
+       },
+       {
+        "t": "hurt,",
+        "ini": 128.42,
+        "fin": 128.7
+       },
+       {
+        "t": "my",
+        "ini": 128.8,
+        "fin": 128.96
+       },
+       {
+        "t": "arms",
+        "ini": 129.18,
+        "fin": 129.52
+       },
+       {
+        "t": "hurt,",
+        "ini": 129.56,
+        "fin": 129.82
+       },
+       {
+        "t": "my",
+        "ini": 129.94,
+        "fin": 130.08
+       },
+       {
+        "t": "back",
+        "ini": 130.24,
+        "fin": 130.72
+       },
+       {
+        "t": "hurts",
+        "ini": 130.78,
+        "fin": 131.14
+       },
+       {
+        "t": "too,",
+        "ini": 131.26,
+        "fin": 131.56
+       }
+      ],
+      "trad": "¡Ay! Me duelen las piernas, me duelen los brazos, y la espalda también,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "my neck hurts, my feet hurt, and my nose hurts, ooh!",
+      "ini": 132.2,
+      "fin": 136.12,
+      "palabras": [
+       {
+        "t": "my",
+        "ini": 132.2,
+        "fin": 132.36
+       },
+       {
+        "t": "neck",
+        "ini": 132.5,
+        "fin": 132.74
+       },
+       {
+        "t": "hurts,",
+        "ini": 132.92,
+        "fin": 133.24
+       },
+       {
+        "t": "my",
+        "ini": 133.34,
+        "fin": 133.44
+       },
+       {
+        "t": "feet",
+        "ini": 133.62,
+        "fin": 133.9
+       },
+       {
+        "t": "hurt,",
+        "ini": 134.04,
+        "fin": 134.34
+       },
+       {
+        "t": "and",
+        "ini": 134.36,
+        "fin": 134.44
+       },
+       {
+        "t": "my",
+        "ini": 134.48,
+        "fin": 134.62
+       },
+       {
+        "t": "nose",
+        "ini": 134.76,
+        "fin": 135.26
+       },
+       {
+        "t": "hurts,",
+        "ini": 135.32,
+        "fin": 135.6
+       },
+       {
+        "t": "ooh!",
+        "ini": 135.84,
+        "fin": 136.12
+       }
+      ],
+      "trad": "me duele el cuello, me duelen los pies, y me duele la nariz, ¡uh!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "— Your nose? Why does your nose hurt? — I don't know, it's new!",
+      "ini": 136.42,
+      "fin": 140.64,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 136.42,
+        "fin": 136.42
+       },
+       {
+        "t": "Your",
+        "ini": 136.74,
+        "fin": 136.88
+       },
+       {
+        "t": "nose?",
+        "ini": 137.02,
+        "fin": 137.22
+       },
+       {
+        "t": "Why",
+        "ini": 137.3,
+        "fin": 137.48
+       },
+       {
+        "t": "does",
+        "ini": 137.6,
+        "fin": 137.84
+       },
+       {
+        "t": "your",
+        "ini": 137.9,
+        "fin": 138.0
+       },
+       {
+        "t": "nose",
+        "ini": 138.16,
+        "fin": 138.54
+       },
+       {
+        "t": "hurt?",
+        "ini": 138.6,
+        "fin": 138.82
+       },
+       {
+        "t": "—",
+        "ini": 138.88,
+        "fin": 138.88
+       },
+       {
+        "t": "I",
+        "ini": 138.94,
+        "fin": 138.98
+       },
+       {
+        "t": "don't",
+        "ini": 139.02,
+        "fin": 139.24
+       },
+       {
+        "t": "know,",
+        "ini": 139.3,
+        "fin": 139.52
+       },
+       {
+        "t": "it's",
+        "ini": 139.96,
+        "fin": 140.28
+       },
+       {
+        "t": "new!",
+        "ini": 140.32,
+        "fin": 140.64
+       }
+      ],
+      "trad": "—¿La nariz? ¿Por qué te duele la nariz? —¡No lo sé, es nuevo!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Ay, ay, ay, everything hurts… since the gym, it's true!",
+      "ini": 141.06,
+      "fin": 145.12,
+      "palabras": [
+       {
+        "t": "Ay,",
+        "ini": 141.06,
+        "fin": 141.22
+       },
+       {
+        "t": "ay,",
+        "ini": 141.34,
+        "fin": 141.52
+       },
+       {
+        "t": "ay,",
+        "ini": 141.62,
+        "fin": 141.8
+       },
+       {
+        "t": "everything",
+        "ini": 142.1,
+        "fin": 143.02
+       },
+       {
+        "t": "hurts…",
+        "ini": 143.12,
+        "fin": 143.38
+       },
+       {
+        "t": "since",
+        "ini": 143.42,
+        "fin": 143.66
+       },
+       {
+        "t": "the",
+        "ini": 143.7,
+        "fin": 143.78
+       },
+       {
+        "t": "gym,",
+        "ini": 143.84,
+        "fin": 144.36
+       },
+       {
+        "t": "it's",
+        "ini": 144.5,
+        "fin": 144.82
+       },
+       {
+        "t": "true!",
+        "ini": 144.9,
+        "fin": 145.12
+       }
+      ],
+      "trad": "Ay, ay, ay, me duele todo… desde el gimnasio, ¡es verdad!"
+     },
+     {
+      "seccion": "Outro",
+      "texto": "— Dad, does anything hurt now? — Nothing hurts! …Ouch! My nose!",
+      "ini": 145.12,
+      "fin": 148.22,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 145.12,
+        "fin": 145.12
+       },
+       {
+        "t": "Dad,",
+        "ini": 145.16,
+        "fin": 145.34
+       },
+       {
+        "t": "does",
+        "ini": 145.42,
+        "fin": 145.54
+       },
+       {
+        "t": "anything",
+        "ini": 145.58,
+        "fin": 145.86
+       },
+       {
+        "t": "hurt",
+        "ini": 145.9,
+        "fin": 146.06
+       },
+       {
+        "t": "now?",
+        "ini": 146.1,
+        "fin": 146.28
+       },
+       {
+        "t": "—",
+        "ini": 146.38,
+        "fin": 146.38
+       },
+       {
+        "t": "Nothing",
+        "ini": 146.42,
+        "fin": 146.66
+       },
+       {
+        "t": "hurts!",
+        "ini": 146.74,
+        "fin": 147.02
+       },
+       {
+        "t": "…Ouch!",
+        "ini": 147.04,
+        "fin": 147.34
+       },
+       {
+        "t": "My",
+        "ini": 147.52,
+        "fin": 147.7
+       },
+       {
+        "t": "nose!",
+        "ini": 147.78,
+        "fin": 148.22
+       }
+      ],
+      "trad": "—Papá, ¿te duele algo ahora? —¡No me duele nada! … ¡Ay! ¡La nariz!"
+     }
+    ],
+    "duracion": 149.52
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Chorus",
+      "texto": "¡Ay! Me duelen las piernas, los brazos, y la espalda también,",
+      "ini": 0.2,
+      "fin": 4.18,
+      "palabras": [
+       {
+        "t": "¡Ay!",
+        "ini": 0.2,
+        "fin": 0.58
+       },
+       {
+        "t": "Me",
+        "ini": 0.88,
+        "fin": 1.0
+       },
+       {
+        "t": "duelen",
+        "ini": 1.12,
+        "fin": 1.5
+       },
+       {
+        "t": "las",
+        "ini": 1.56,
+        "fin": 1.68
+       },
+       {
+        "t": "piernas,",
+        "ini": 1.72,
+        "fin": 1.98
+       },
+       {
+        "t": "los",
+        "ini": 2.04,
+        "fin": 2.14
+       },
+       {
+        "t": "brazos,",
+        "ini": 2.2,
+        "fin": 2.84
+       },
+       {
+        "t": "y",
+        "ini": 2.94,
+        "fin": 3.04
+       },
+       {
+        "t": "la",
+        "ini": 3.12,
+        "fin": 3.22
+       },
+       {
+        "t": "espalda",
+        "ini": 3.26,
+        "fin": 3.66
+       },
+       {
+        "t": "también,",
+        "ini": 3.72,
+        "fin": 4.18
+       }
+      ],
+      "trad": "Ouch! My legs hurt, my arms hurt, and my back too,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "me duele el cuello, me duelen los pies, y la nariz, ¡uh!",
+      "ini": 5.02,
+      "fin": 9.04,
+      "palabras": [
+       {
+        "t": "me",
+        "ini": 5.02,
+        "fin": 5.08
+       },
+       {
+        "t": "duele",
+        "ini": 5.12,
+        "fin": 5.46
+       },
+       {
+        "t": "el",
+        "ini": 5.5,
+        "fin": 5.58
+       },
+       {
+        "t": "cuello,",
+        "ini": 5.68,
+        "fin": 6.0
+       },
+       {
+        "t": "me",
+        "ini": 6.16,
+        "fin": 6.22
+       },
+       {
+        "t": "duelen",
+        "ini": 6.26,
+        "fin": 6.48
+       },
+       {
+        "t": "los",
+        "ini": 6.52,
+        "fin": 6.64
+       },
+       {
+        "t": "pies,",
+        "ini": 6.72,
+        "fin": 7.02
+       },
+       {
+        "t": "y",
+        "ini": 7.74,
+        "fin": 7.84
+       },
+       {
+        "t": "la",
+        "ini": 7.96,
+        "fin": 8.08
+       },
+       {
+        "t": "nariz,",
+        "ini": 8.16,
+        "fin": 8.74
+       },
+       {
+        "t": "¡uh!",
+        "ini": 8.78,
+        "fin": 9.04
+       }
+      ],
+      "trad": "my neck hurts, my feet hurt, and my nose hurts, ugh!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "—¿La nariz? ¿Por qué te duele la nariz? —¡No lo sé, es nuevo!",
+      "ini": 9.16,
+      "fin": 13.46,
+      "palabras": [
+       {
+        "t": "—¿La",
+        "ini": 9.16,
+        "fin": 9.34
+       },
+       {
+        "t": "nariz?",
+        "ini": 9.38,
+        "fin": 9.86
+       },
+       {
+        "t": "¿Por",
+        "ini": 9.92,
+        "fin": 10.1
+       },
+       {
+        "t": "qué",
+        "ini": 10.22,
+        "fin": 10.36
+       },
+       {
+        "t": "te",
+        "ini": 10.5,
+        "fin": 10.64
+       },
+       {
+        "t": "duele",
+        "ini": 10.76,
+        "fin": 11.16
+       },
+       {
+        "t": "la",
+        "ini": 11.24,
+        "fin": 11.36
+       },
+       {
+        "t": "nariz?",
+        "ini": 11.5,
+        "fin": 12.08
+       },
+       {
+        "t": "—¡No",
+        "ini": 12.1,
+        "fin": 12.24
+       },
+       {
+        "t": "lo",
+        "ini": 12.24,
+        "fin": 12.3
+       },
+       {
+        "t": "sé,",
+        "ini": 12.5,
+        "fin": 12.66
+       },
+       {
+        "t": "es",
+        "ini": 12.8,
+        "fin": 12.96
+       },
+       {
+        "t": "nuevo!",
+        "ini": 13.04,
+        "fin": 13.46
+       }
+      ],
+      "trad": "—Your nose? Why does your nose hurt? —I don't know, it's new!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Ay, ay, ay, me duele todo… desde el gimnasio, ¡es verdad!",
+      "ini": 13.86,
+      "fin": 17.8,
+      "palabras": [
+       {
+        "t": "Ay,",
+        "ini": 13.86,
+        "fin": 14.08
+       },
+       {
+        "t": "ay,",
+        "ini": 14.12,
+        "fin": 14.22
+       },
+       {
+        "t": "ay,",
+        "ini": 14.28,
+        "fin": 14.38
+       },
+       {
+        "t": "me",
+        "ini": 14.48,
+        "fin": 14.62
+       },
+       {
+        "t": "duele",
+        "ini": 14.72,
+        "fin": 15.16
+       },
+       {
+        "t": "todo…",
+        "ini": 15.32,
+        "fin": 15.54
+       },
+       {
+        "t": "desde",
+        "ini": 15.62,
+        "fin": 15.94
+       },
+       {
+        "t": "el",
+        "ini": 15.98,
+        "fin": 16.06
+       },
+       {
+        "t": "gimnasio,",
+        "ini": 16.16,
+        "fin": 16.86
+       },
+       {
+        "t": "¡es",
+        "ini": 17.02,
+        "fin": 17.22
+       },
+       {
+        "t": "verdad!",
+        "ini": 17.3,
+        "fin": 17.8
+       }
+      ],
+      "trad": "Ay, ay, ay, everything hurts… since the gym, it's true!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "El lunes le dije a mi familia: «¡Me voy al gimnasio, soy muy fuerte!»",
+      "ini": 18.6,
+      "fin": 22.92,
+      "palabras": [
+       {
+        "t": "El",
+        "ini": 18.6,
+        "fin": 18.66
+       },
+       {
+        "t": "lunes",
+        "ini": 18.72,
+        "fin": 19.1
+       },
+       {
+        "t": "le",
+        "ini": 19.16,
+        "fin": 19.24
+       },
+       {
+        "t": "dije",
+        "ini": 19.3,
+        "fin": 19.72
+       },
+       {
+        "t": "a",
+        "ini": 19.76,
+        "fin": 19.8
+       },
+       {
+        "t": "mi",
+        "ini": 19.86,
+        "fin": 19.96
+       },
+       {
+        "t": "familia:",
+        "ini": 20.14,
+        "fin": 20.72
+       },
+       {
+        "t": "«¡Me",
+        "ini": 20.82,
+        "fin": 20.94
+       },
+       {
+        "t": "voy",
+        "ini": 20.98,
+        "fin": 21.16
+       },
+       {
+        "t": "al",
+        "ini": 21.22,
+        "fin": 21.32
+       },
+       {
+        "t": "gimnasio,",
+        "ini": 21.4,
+        "fin": 21.92
+       },
+       {
+        "t": "soy",
+        "ini": 22.1,
+        "fin": 22.32
+       },
+       {
+        "t": "muy",
+        "ini": 22.38,
+        "fin": 22.48
+       },
+       {
+        "t": "fuerte!»",
+        "ini": 22.58,
+        "fin": 22.92
+       }
+      ],
+      "trad": "On Monday I told my family: «I'm going to the gym, I'm very strong!»"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Corrí una hora, levanté pesas, salté y bailé sin parar,",
+      "ini": 23.12,
+      "fin": 26.84,
+      "palabras": [
+       {
+        "t": "Corrí",
+        "ini": 23.12,
+        "fin": 23.34
+       },
+       {
+        "t": "una",
+        "ini": 23.56,
+        "fin": 23.78
+       },
+       {
+        "t": "hora,",
+        "ini": 23.88,
+        "fin": 24.06
+       },
+       {
+        "t": "levanté",
+        "ini": 24.24,
+        "fin": 24.7
+       },
+       {
+        "t": "pesas,",
+        "ini": 24.82,
+        "fin": 25.28
+       },
+       {
+        "t": "salté",
+        "ini": 25.36,
+        "fin": 25.58
+       },
+       {
+        "t": "y",
+        "ini": 25.6,
+        "fin": 25.66
+       },
+       {
+        "t": "bailé",
+        "ini": 25.68,
+        "fin": 25.92
+       },
+       {
+        "t": "sin",
+        "ini": 26.08,
+        "fin": 26.26
+       },
+       {
+        "t": "parar,",
+        "ini": 26.36,
+        "fin": 26.84
+       }
+      ],
+      "trad": "I ran for an hour, lifted weights, jumped and danced without stopping,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "el martes me desperté y… ¡no podía salir de la cama!",
+      "ini": 27.68,
+      "fin": 31.74,
+      "palabras": [
+       {
+        "t": "el",
+        "ini": 27.68,
+        "fin": 27.74
+       },
+       {
+        "t": "martes",
+        "ini": 27.78,
+        "fin": 28.18
+       },
+       {
+        "t": "me",
+        "ini": 28.24,
+        "fin": 28.32
+       },
+       {
+        "t": "desperté",
+        "ini": 28.36,
+        "fin": 29.14
+       },
+       {
+        "t": "y…",
+        "ini": 29.38,
+        "fin": 29.4
+       },
+       {
+        "t": "¡no",
+        "ini": 29.44,
+        "fin": 29.58
+       },
+       {
+        "t": "podía",
+        "ini": 29.76,
+        "fin": 30.32
+       },
+       {
+        "t": "salir",
+        "ini": 30.46,
+        "fin": 30.72
+       },
+       {
+        "t": "de",
+        "ini": 30.76,
+        "fin": 30.84
+       },
+       {
+        "t": "la",
+        "ini": 30.9,
+        "fin": 31.0
+       },
+       {
+        "t": "cama!",
+        "ini": 31.16,
+        "fin": 31.74
+       }
+      ],
+      "trad": "on Tuesday I woke up and… I couldn't get out of bed!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Mi hija entró y me dijo: «Papá, ¿qué te duele?»",
+      "ini": 32.22,
+      "fin": 35.88,
+      "palabras": [
+       {
+        "t": "Mi",
+        "ini": 32.22,
+        "fin": 32.36
+       },
+       {
+        "t": "hija",
+        "ini": 32.42,
+        "fin": 32.64
+       },
+       {
+        "t": "entró",
+        "ini": 32.68,
+        "fin": 33.0
+       },
+       {
+        "t": "y",
+        "ini": 33.02,
+        "fin": 33.08
+       },
+       {
+        "t": "me",
+        "ini": 33.16,
+        "fin": 33.28
+       },
+       {
+        "t": "dijo:",
+        "ini": 33.34,
+        "fin": 33.82
+       },
+       {
+        "t": "«Papá,",
+        "ini": 33.82,
+        "fin": 34.7
+       },
+       {
+        "t": "¿qué",
+        "ini": 34.8,
+        "fin": 34.98
+       },
+       {
+        "t": "te",
+        "ini": 35.12,
+        "fin": 35.26
+       },
+       {
+        "t": "duele?»",
+        "ini": 35.3,
+        "fin": 35.88
+       }
+      ],
+      "trad": "My daughter came in and said: «Dad, what hurts?»"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¡Ay! Me duelen las piernas, los brazos, y la espalda también,",
+      "ini": 36.44,
+      "fin": 40.4,
+      "palabras": [
+       {
+        "t": "¡Ay!",
+        "ini": 36.44,
+        "fin": 36.98
+       },
+       {
+        "t": "Me",
+        "ini": 37.08,
+        "fin": 37.24
+       },
+       {
+        "t": "duelen",
+        "ini": 37.36,
+        "fin": 37.74
+       },
+       {
+        "t": "las",
+        "ini": 37.8,
+        "fin": 37.9
+       },
+       {
+        "t": "piernas,",
+        "ini": 37.96,
+        "fin": 38.22
+       },
+       {
+        "t": "los",
+        "ini": 38.28,
+        "fin": 38.38
+       },
+       {
+        "t": "brazos,",
+        "ini": 38.44,
+        "fin": 39.08
+       },
+       {
+        "t": "y",
+        "ini": 39.18,
+        "fin": 39.3
+       },
+       {
+        "t": "la",
+        "ini": 39.36,
+        "fin": 39.44
+       },
+       {
+        "t": "espalda",
+        "ini": 39.48,
+        "fin": 39.88
+       },
+       {
+        "t": "también,",
+        "ini": 39.94,
+        "fin": 40.4
+       }
+      ],
+      "trad": "Ouch! My legs hurt, my arms hurt, and my back too,"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "me duele el cuello, me duelen los pies, y la nariz, ¡uh!",
+      "ini": 41.26,
+      "fin": 45.3,
+      "palabras": [
+       {
+        "t": "me",
+        "ini": 41.26,
+        "fin": 41.3
+       },
+       {
+        "t": "duele",
+        "ini": 41.34,
+        "fin": 41.7
+       },
+       {
+        "t": "el",
+        "ini": 41.74,
+        "fin": 41.8
+       },
+       {
+        "t": "cuello,",
+        "ini": 41.9,
+        "fin": 42.22
+       },
+       {
+        "t": "me",
+        "ini": 42.36,
+        "fin": 42.44
+       },
+       {
+        "t": "duelen",
+        "ini": 42.46,
+        "fin": 42.72
+       },
+       {
+        "t": "los",
+        "ini": 42.76,
+        "fin": 42.88
+       },
+       {
+        "t": "pies,",
+        "ini": 42.94,
+        "fin": 43.28
+       },
+       {
+        "t": "y",
+        "ini": 43.92,
+        "fin": 44.12
+       },
+       {
+        "t": "la",
+        "ini": 44.2,
+        "fin": 44.32
+       },
+       {
+        "t": "nariz,",
+        "ini": 44.38,
+        "fin": 44.98
+       },
+       {
+        "t": "¡uh!",
+        "ini": 45.06,
+        "fin": 45.3
+       }
+      ],
+      "trad": "my neck hurts, my feet hurt, and my nose hurts, ugh!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "—¿La nariz? ¿Por qué te duele la nariz? —¡No lo sé, es nuevo!",
+      "ini": 45.46,
+      "fin": 49.76,
+      "palabras": [
+       {
+        "t": "—¿La",
+        "ini": 45.46,
+        "fin": 45.56
+       },
+       {
+        "t": "nariz?",
+        "ini": 45.62,
+        "fin": 46.08
+       },
+       {
+        "t": "¿Por",
+        "ini": 46.14,
+        "fin": 46.36
+       },
+       {
+        "t": "qué",
+        "ini": 46.44,
+        "fin": 46.6
+       },
+       {
+        "t": "te",
+        "ini": 46.72,
+        "fin": 46.94
+       },
+       {
+        "t": "duele",
+        "ini": 46.98,
+        "fin": 47.4
+       },
+       {
+        "t": "la",
+        "ini": 47.46,
+        "fin": 47.62
+       },
+       {
+        "t": "nariz?",
+        "ini": 47.72,
+        "fin": 48.24
+       },
+       {
+        "t": "—¡No",
+        "ini": 48.3,
+        "fin": 48.4
+       },
+       {
+        "t": "lo",
+        "ini": 48.48,
+        "fin": 48.54
+       },
+       {
+        "t": "sé,",
+        "ini": 48.72,
+        "fin": 48.9
+       },
+       {
+        "t": "es",
+        "ini": 49.04,
+        "fin": 49.18
+       },
+       {
+        "t": "nuevo!",
+        "ini": 49.28,
+        "fin": 49.76
+       }
+      ],
+      "trad": "—Your nose? Why does your nose hurt? —I don't know, it's new!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Ay, ay, ay, me duele todo… desde el gimnasio, ¡es verdad!",
+      "ini": 50.04,
+      "fin": 53.96,
+      "palabras": [
+       {
+        "t": "Ay,",
+        "ini": 50.04,
+        "fin": 50.28
+       },
+       {
+        "t": "ay,",
+        "ini": 50.36,
+        "fin": 50.46
+       },
+       {
+        "t": "ay,",
+        "ini": 50.5,
+        "fin": 50.6
+       },
+       {
+        "t": "me",
+        "ini": 50.7,
+        "fin": 50.86
+       },
+       {
+        "t": "duele",
+        "ini": 50.96,
+        "fin": 51.38
+       },
+       {
+        "t": "todo…",
+        "ini": 51.52,
+        "fin": 51.78
+       },
+       {
+        "t": "desde",
+        "ini": 51.84,
+        "fin": 52.16
+       },
+       {
+        "t": "el",
+        "ini": 52.2,
+        "fin": 52.26
+       },
+       {
+        "t": "gimnasio,",
+        "ini": 52.36,
+        "fin": 53.08
+       },
+       {
+        "t": "¡es",
+        "ini": 53.24,
+        "fin": 53.44
+       },
+       {
+        "t": "verdad!",
+        "ini": 53.5,
+        "fin": 53.96
+       }
+      ],
+      "trad": "Ay, ay, ay, everything hurts… since the gym, it's true!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¿Te duele la cabeza? —No, la cabeza no me duele, ¡está bien!",
+      "ini": 53.96,
+      "fin": 58.52,
+      "palabras": [
+       {
+        "t": "—¿Te",
+        "ini": 53.96,
+        "fin": 54.88
+       },
+       {
+        "t": "duele",
+        "ini": 54.92,
+        "fin": 55.18
+       },
+       {
+        "t": "la",
+        "ini": 55.22,
+        "fin": 55.3
+       },
+       {
+        "t": "cabeza?",
+        "ini": 55.38,
+        "fin": 55.82
+       },
+       {
+        "t": "—No,",
+        "ini": 55.94,
+        "fin": 56.1
+       },
+       {
+        "t": "la",
+        "ini": 56.24,
+        "fin": 56.36
+       },
+       {
+        "t": "cabeza",
+        "ini": 56.5,
+        "fin": 56.88
+       },
+       {
+        "t": "no",
+        "ini": 56.92,
+        "fin": 57.02
+       },
+       {
+        "t": "me",
+        "ini": 57.08,
+        "fin": 57.16
+       },
+       {
+        "t": "duele,",
+        "ini": 57.2,
+        "fin": 57.46
+       },
+       {
+        "t": "¡está",
+        "ini": 57.76,
+        "fin": 58.16
+       },
+       {
+        "t": "bien!",
+        "ini": 58.22,
+        "fin": 58.52
+       }
+      ],
+      "trad": "—Does your head hurt? —No, my head doesn't hurt, it's fine!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¿Te duelen las rodillas? —¡Sí, me duelen! ¡Hacen «crac» cada vez!",
+      "ini": 58.58,
+      "fin": 63.0,
+      "palabras": [
+       {
+        "t": "—¿Te",
+        "ini": 58.58,
+        "fin": 59.4
+       },
+       {
+        "t": "duelen",
+        "ini": 59.46,
+        "fin": 59.72
+       },
+       {
+        "t": "las",
+        "ini": 59.76,
+        "fin": 59.88
+       },
+       {
+        "t": "rodillas?",
+        "ini": 59.92,
+        "fin": 60.44
+       },
+       {
+        "t": "—¡Sí,",
+        "ini": 60.44,
+        "fin": 60.68
+       },
+       {
+        "t": "me",
+        "ini": 60.78,
+        "fin": 60.84
+       },
+       {
+        "t": "duelen!",
+        "ini": 60.86,
+        "fin": 61.12
+       },
+       {
+        "t": "¡Hacen",
+        "ini": 61.16,
+        "fin": 61.6
+       },
+       {
+        "t": "«crac»",
+        "ini": 61.68,
+        "fin": 61.98
+       },
+       {
+        "t": "cada",
+        "ini": 62.3,
+        "fin": 62.68
+       },
+       {
+        "t": "vez!",
+        "ini": 62.74,
+        "fin": 63.0
+       }
+      ],
+      "trad": "—Do your knees hurt? —Yes, they hurt! They go «crack» every time!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¿Te duele la lengua? —No, la lengua no… ¡aún me puedo quejar!",
+      "ini": 63.08,
+      "fin": 67.94,
+      "palabras": [
+       {
+        "t": "—¿Te",
+        "ini": 63.08,
+        "fin": 63.94
+       },
+       {
+        "t": "duele",
+        "ini": 63.98,
+        "fin": 64.34
+       },
+       {
+        "t": "la",
+        "ini": 64.4,
+        "fin": 64.48
+       },
+       {
+        "t": "lengua?",
+        "ini": 64.56,
+        "fin": 64.92
+       },
+       {
+        "t": "—No,",
+        "ini": 64.94,
+        "fin": 65.18
+       },
+       {
+        "t": "la",
+        "ini": 65.3,
+        "fin": 65.36
+       },
+       {
+        "t": "lengua",
+        "ini": 65.42,
+        "fin": 65.66
+       },
+       {
+        "t": "no…",
+        "ini": 65.72,
+        "fin": 65.92
+       },
+       {
+        "t": "¡aún",
+        "ini": 66.14,
+        "fin": 66.46
+       },
+       {
+        "t": "me",
+        "ini": 66.52,
+        "fin": 66.6
+       },
+       {
+        "t": "puedo",
+        "ini": 66.7,
+        "fin": 66.96
+       },
+       {
+        "t": "quejar!",
+        "ini": 67.08,
+        "fin": 67.94
+       }
+      ],
+      "trad": "—Does your tongue hurt? —No, not my tongue… I can still complain!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¡Pues estás bien, papá! —¿Bien? ¡No puedo ni levantar el café!",
+      "ini": 67.94,
+      "fin": 72.06,
+      "palabras": [
+       {
+        "t": "—¡Pues",
+        "ini": 67.94,
+        "fin": 68.52
+       },
+       {
+        "t": "estás",
+        "ini": 68.6,
+        "fin": 69.0
+       },
+       {
+        "t": "bien,",
+        "ini": 69.08,
+        "fin": 69.26
+       },
+       {
+        "t": "papá!",
+        "ini": 69.36,
+        "fin": 69.78
+       },
+       {
+        "t": "—¿Bien?",
+        "ini": 69.82,
+        "fin": 70.02
+       },
+       {
+        "t": "¡No",
+        "ini": 70.06,
+        "fin": 70.14
+       },
+       {
+        "t": "puedo",
+        "ini": 70.2,
+        "fin": 70.54
+       },
+       {
+        "t": "ni",
+        "ini": 70.66,
+        "fin": 70.74
+       },
+       {
+        "t": "levantar",
+        "ini": 70.78,
+        "fin": 71.26
+       },
+       {
+        "t": "el",
+        "ini": 71.4,
+        "fin": 71.52
+       },
+       {
+        "t": "café!",
+        "ini": 71.62,
+        "fin": 72.06
+       }
+      ],
+      "trad": "—So you're fine, Dad! —Fine? I can't even lift my coffee!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Una cosa: me duele la espalda. Muchas cosas: me duelen los pies.",
+      "ini": 73.14,
+      "fin": 81.52,
+      "palabras": [
+       {
+        "t": "Una",
+        "ini": 73.14,
+        "fin": 74.0
+       },
+       {
+        "t": "cosa:",
+        "ini": 74.16,
+        "fin": 74.8
+       },
+       {
+        "t": "me",
+        "ini": 75.2,
+        "fin": 75.28
+       },
+       {
+        "t": "duele",
+        "ini": 75.3,
+        "fin": 76.04
+       },
+       {
+        "t": "la",
+        "ini": 76.12,
+        "fin": 76.22
+       },
+       {
+        "t": "espalda.",
+        "ini": 76.26,
+        "fin": 77.06
+       },
+       {
+        "t": "Muchas",
+        "ini": 77.6,
+        "fin": 78.62
+       },
+       {
+        "t": "cosas:",
+        "ini": 78.72,
+        "fin": 79.5
+       },
+       {
+        "t": "me",
+        "ini": 79.74,
+        "fin": 79.82
+       },
+       {
+        "t": "duelen",
+        "ini": 79.84,
+        "fin": 80.6
+       },
+       {
+        "t": "los",
+        "ini": 80.66,
+        "fin": 80.88
+       },
+       {
+        "t": "pies.",
+        "ini": 80.98,
+        "fin": 81.52
+       }
+      ],
+      "trad": "One thing: my back hurts. Many things: my feet hurt."
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Duele, duelen… ¡ay, ay, ay! ¡Me duele todo!",
+      "ini": 82.08,
+      "fin": 90.22,
+      "palabras": [
+       {
+        "t": "Duele,",
+        "ini": 82.08,
+        "fin": 83.48
+       },
+       {
+        "t": "duelen…",
+        "ini": 84.36,
+        "fin": 86.26
+       },
+       {
+        "t": "¡ay,",
+        "ini": 86.26,
+        "fin": 87.1
+       },
+       {
+        "t": "ay,",
+        "ini": 87.3,
+        "fin": 87.64
+       },
+       {
+        "t": "ay!",
+        "ini": 87.74,
+        "fin": 88.18
+       },
+       {
+        "t": "¡Me",
+        "ini": 88.22,
+        "fin": 88.84
+       },
+       {
+        "t": "duele",
+        "ini": 88.88,
+        "fin": 89.3
+       },
+       {
+        "t": "todo!",
+        "ini": 89.44,
+        "fin": 90.22
+       }
+      ],
+      "trad": "It hurts, they hurt… ouch, ouch, ouch! Everything hurts!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "El viernes vino la abuela: ochenta y dos años y muy fuerte,",
+      "ini": 91.06,
+      "fin": 94.92,
+      "palabras": [
+       {
+        "t": "El",
+        "ini": 91.06,
+        "fin": 91.12
+       },
+       {
+        "t": "viernes",
+        "ini": 91.16,
+        "fin": 91.64
+       },
+       {
+        "t": "vino",
+        "ini": 91.72,
+        "fin": 91.96
+       },
+       {
+        "t": "la",
+        "ini": 92.0,
+        "fin": 92.06
+       },
+       {
+        "t": "abuela:",
+        "ini": 92.1,
+        "fin": 92.6
+       },
+       {
+        "t": "ochenta",
+        "ini": 92.74,
+        "fin": 93.06
+       },
+       {
+        "t": "y",
+        "ini": 93.1,
+        "fin": 93.12
+       },
+       {
+        "t": "dos",
+        "ini": 93.16,
+        "fin": 93.4
+       },
+       {
+        "t": "años",
+        "ini": 93.48,
+        "fin": 93.96
+       },
+       {
+        "t": "y",
+        "ini": 94.04,
+        "fin": 94.1
+       },
+       {
+        "t": "muy",
+        "ini": 94.16,
+        "fin": 94.3
+       },
+       {
+        "t": "fuerte,",
+        "ini": 94.44,
+        "fin": 94.92
+       }
+      ],
+      "trad": "On Friday Grandma came: eighty-two years old and very strong,"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "y me dijo: «Voy al gimnasio cada día, ¡y no me duele nada!»",
+      "ini": 95.36,
+      "fin": 99.48,
+      "palabras": [
+       {
+        "t": "y",
+        "ini": 95.36,
+        "fin": 95.46
+       },
+       {
+        "t": "me",
+        "ini": 95.56,
+        "fin": 95.66
+       },
+       {
+        "t": "dijo:",
+        "ini": 95.7,
+        "fin": 96.06
+       },
+       {
+        "t": "«Voy",
+        "ini": 96.12,
+        "fin": 96.26
+       },
+       {
+        "t": "al",
+        "ini": 96.32,
+        "fin": 96.4
+       },
+       {
+        "t": "gimnasio",
+        "ini": 96.48,
+        "fin": 97.04
+       },
+       {
+        "t": "cada",
+        "ini": 97.12,
+        "fin": 97.34
+       },
+       {
+        "t": "día,",
+        "ini": 97.38,
+        "fin": 97.64
+       },
+       {
+        "t": "¡y",
+        "ini": 97.68,
+        "fin": 98.18
+       },
+       {
+        "t": "no",
+        "ini": 98.24,
+        "fin": 98.34
+       },
+       {
+        "t": "me",
+        "ini": 98.4,
+        "fin": 98.48
+       },
+       {
+        "t": "duele",
+        "ini": 98.52,
+        "fin": 98.82
+       },
+       {
+        "t": "nada!»",
+        "ini": 98.96,
+        "fin": 99.48
+       }
+      ],
+      "trad": "and she said: «I go to the gym every day, and nothing hurts!»"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "«Te duelen los músculos porque lo hiciste todo el primer día.»",
+      "ini": 100.08,
+      "fin": 104.06,
+      "palabras": [
+       {
+        "t": "«Te",
+        "ini": 100.08,
+        "fin": 100.16
+       },
+       {
+        "t": "duelen",
+        "ini": 100.2,
+        "fin": 100.58
+       },
+       {
+        "t": "los",
+        "ini": 100.62,
+        "fin": 100.74
+       },
+       {
+        "t": "músculos",
+        "ini": 100.82,
+        "fin": 101.56
+       },
+       {
+        "t": "porque",
+        "ini": 101.9,
+        "fin": 102.16
+       },
+       {
+        "t": "lo",
+        "ini": 102.2,
+        "fin": 102.28
+       },
+       {
+        "t": "hiciste",
+        "ini": 102.3,
+        "fin": 102.72
+       },
+       {
+        "t": "todo",
+        "ini": 102.76,
+        "fin": 102.94
+       },
+       {
+        "t": "el",
+        "ini": 102.96,
+        "fin": 103.02
+       },
+       {
+        "t": "primer",
+        "ini": 103.06,
+        "fin": 103.42
+       },
+       {
+        "t": "día.»",
+        "ini": 103.5,
+        "fin": 104.06
+       }
+      ],
+      "trad": "«Your muscles hurt because you did it all on the first day.»"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "«¡Un poquito cada día, hijo!» Y ahora vamos juntos, despacito.",
+      "ini": 104.36,
+      "fin": 108.54,
+      "palabras": [
+       {
+        "t": "«¡Un",
+        "ini": 104.36,
+        "fin": 104.52
+       },
+       {
+        "t": "poquito",
+        "ini": 104.62,
+        "fin": 104.96
+       },
+       {
+        "t": "cada",
+        "ini": 105.04,
+        "fin": 105.28
+       },
+       {
+        "t": "día,",
+        "ini": 105.32,
+        "fin": 105.66
+       },
+       {
+        "t": "hijo!»",
+        "ini": 105.8,
+        "fin": 106.18
+       },
+       {
+        "t": "Y",
+        "ini": 106.32,
+        "fin": 106.36
+       },
+       {
+        "t": "ahora",
+        "ini": 106.42,
+        "fin": 106.7
+       },
+       {
+        "t": "vamos",
+        "ini": 106.74,
+        "fin": 106.96
+       },
+       {
+        "t": "juntos,",
+        "ini": 107.02,
+        "fin": 107.48
+       },
+       {
+        "t": "despacito.",
+        "ini": 107.58,
+        "fin": 108.54
+       }
+      ],
+      "trad": "«A little bit every day, son!» And now we go together, slowly."
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Ay! Me duelen las piernas, los brazos, y la espalda también,",
+      "ini": 108.88,
+      "fin": 112.92,
+      "palabras": [
+       {
+        "t": "¡Ay!",
+        "ini": 108.88,
+        "fin": 109.08
+       },
+       {
+        "t": "Me",
+        "ini": 109.16,
+        "fin": 109.24
+       },
+       {
+        "t": "duelen",
+        "ini": 109.28,
+        "fin": 109.5
+       },
+       {
+        "t": "las",
+        "ini": 109.56,
+        "fin": 109.74
+       },
+       {
+        "t": "piernas,",
+        "ini": 109.84,
+        "fin": 110.1
+       },
+       {
+        "t": "los",
+        "ini": 110.14,
+        "fin": 110.24
+       },
+       {
+        "t": "brazos,",
+        "ini": 110.3,
+        "fin": 110.94
+       },
+       {
+        "t": "y",
+        "ini": 111.06,
+        "fin": 111.2
+       },
+       {
+        "t": "la",
+        "ini": 111.24,
+        "fin": 111.3
+       },
+       {
+        "t": "espalda",
+        "ini": 111.34,
+        "fin": 112.22
+       },
+       {
+        "t": "también,",
+        "ini": 112.3,
+        "fin": 112.92
+       }
+      ],
+      "trad": "Ouch! My legs hurt, my arms hurt, and my back too,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "me duele el cuello, me duelen los pies, y la nariz, ¡uh!",
+      "ini": 113.68,
+      "fin": 117.74,
+      "palabras": [
+       {
+        "t": "me",
+        "ini": 113.68,
+        "fin": 113.76
+       },
+       {
+        "t": "duele",
+        "ini": 113.8,
+        "fin": 114.12
+       },
+       {
+        "t": "el",
+        "ini": 114.18,
+        "fin": 114.24
+       },
+       {
+        "t": "cuello,",
+        "ini": 114.36,
+        "fin": 114.7
+       },
+       {
+        "t": "me",
+        "ini": 115.12,
+        "fin": 115.42
+       },
+       {
+        "t": "duelen",
+        "ini": 115.46,
+        "fin": 115.74
+       },
+       {
+        "t": "los",
+        "ini": 115.8,
+        "fin": 115.96
+       },
+       {
+        "t": "pies,",
+        "ini": 116.06,
+        "fin": 116.32
+       },
+       {
+        "t": "y",
+        "ini": 116.42,
+        "fin": 116.54
+       },
+       {
+        "t": "la",
+        "ini": 116.64,
+        "fin": 116.84
+       },
+       {
+        "t": "nariz,",
+        "ini": 116.92,
+        "fin": 117.36
+       },
+       {
+        "t": "¡uh!",
+        "ini": 117.44,
+        "fin": 117.74
+       }
+      ],
+      "trad": "my neck hurts, my feet hurt, and my nose hurts, ugh!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "—¿La nariz? ¿Por qué te duele la nariz? —¡No lo sé, es nuevo!",
+      "ini": 117.88,
+      "fin": 122.26,
+      "palabras": [
+       {
+        "t": "—¿La",
+        "ini": 117.88,
+        "fin": 118.52
+       },
+       {
+        "t": "nariz?",
+        "ini": 118.62,
+        "fin": 119.06
+       },
+       {
+        "t": "¿Por",
+        "ini": 119.32,
+        "fin": 119.42
+       },
+       {
+        "t": "qué",
+        "ini": 119.46,
+        "fin": 119.56
+       },
+       {
+        "t": "te",
+        "ini": 119.62,
+        "fin": 119.7
+       },
+       {
+        "t": "duele",
+        "ini": 119.74,
+        "fin": 120.16
+       },
+       {
+        "t": "la",
+        "ini": 120.2,
+        "fin": 120.26
+       },
+       {
+        "t": "nariz?",
+        "ini": 120.34,
+        "fin": 120.76
+       },
+       {
+        "t": "—¡No",
+        "ini": 120.84,
+        "fin": 120.96
+       },
+       {
+        "t": "lo",
+        "ini": 121.02,
+        "fin": 121.08
+       },
+       {
+        "t": "sé,",
+        "ini": 121.16,
+        "fin": 121.28
+       },
+       {
+        "t": "es",
+        "ini": 121.48,
+        "fin": 121.64
+       },
+       {
+        "t": "nuevo!",
+        "ini": 121.74,
+        "fin": 122.26
+       }
+      ],
+      "trad": "—Your nose? Why does your nose hurt? —I don't know, it's new!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Ay, ay, ay, me duele todo… desde el gimnasio, ¡es verdad!",
+      "ini": 122.94,
+      "fin": 126.86,
+      "palabras": [
+       {
+        "t": "Ay,",
+        "ini": 122.94,
+        "fin": 123.14
+       },
+       {
+        "t": "ay,",
+        "ini": 123.26,
+        "fin": 123.42
+       },
+       {
+        "t": "ay,",
+        "ini": 123.54,
+        "fin": 123.76
+       },
+       {
+        "t": "me",
+        "ini": 123.88,
+        "fin": 123.96
+       },
+       {
+        "t": "duele",
+        "ini": 124.0,
+        "fin": 124.3
+       },
+       {
+        "t": "todo…",
+        "ini": 124.46,
+        "fin": 124.88
+       },
+       {
+        "t": "desde",
+        "ini": 125.0,
+        "fin": 125.18
+       },
+       {
+        "t": "el",
+        "ini": 125.22,
+        "fin": 125.28
+       },
+       {
+        "t": "gimnasio,",
+        "ini": 125.38,
+        "fin": 126.1
+       },
+       {
+        "t": "¡es",
+        "ini": 126.18,
+        "fin": 126.36
+       },
+       {
+        "t": "verdad!",
+        "ini": 126.46,
+        "fin": 126.86
+       }
+      ],
+      "trad": "Ay, ay, ay, everything hurts… since the gym, it's true!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¡Ay! Me duelen las piernas, los brazos, y la espalda también,",
+      "ini": 127.0,
+      "fin": 131.0,
+      "palabras": [
+       {
+        "t": "¡Ay!",
+        "ini": 127.0,
+        "fin": 127.2
+       },
+       {
+        "t": "Me",
+        "ini": 127.28,
+        "fin": 127.34
+       },
+       {
+        "t": "duelen",
+        "ini": 127.38,
+        "fin": 127.64
+       },
+       {
+        "t": "las",
+        "ini": 127.68,
+        "fin": 127.86
+       },
+       {
+        "t": "piernas,",
+        "ini": 127.94,
+        "fin": 128.22
+       },
+       {
+        "t": "los",
+        "ini": 128.26,
+        "fin": 128.36
+       },
+       {
+        "t": "brazos,",
+        "ini": 128.42,
+        "fin": 129.06
+       },
+       {
+        "t": "y",
+        "ini": 129.16,
+        "fin": 129.3
+       },
+       {
+        "t": "la",
+        "ini": 129.36,
+        "fin": 129.42
+       },
+       {
+        "t": "espalda",
+        "ini": 129.46,
+        "fin": 130.32
+       },
+       {
+        "t": "también,",
+        "ini": 130.42,
+        "fin": 131.0
+       }
+      ],
+      "trad": "Ouch! My legs hurt, my arms hurt, and my back too,"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "me duele el cuello, me duelen los pies, y la nariz, ¡uh!",
+      "ini": 131.8,
+      "fin": 135.86,
+      "palabras": [
+       {
+        "t": "me",
+        "ini": 131.8,
+        "fin": 131.86
+       },
+       {
+        "t": "duele",
+        "ini": 131.9,
+        "fin": 132.24
+       },
+       {
+        "t": "el",
+        "ini": 132.28,
+        "fin": 132.36
+       },
+       {
+        "t": "cuello,",
+        "ini": 132.46,
+        "fin": 132.82
+       },
+       {
+        "t": "me",
+        "ini": 133.24,
+        "fin": 133.54
+       },
+       {
+        "t": "duelen",
+        "ini": 133.58,
+        "fin": 133.86
+       },
+       {
+        "t": "los",
+        "ini": 133.9,
+        "fin": 134.08
+       },
+       {
+        "t": "pies,",
+        "ini": 134.18,
+        "fin": 134.44
+       },
+       {
+        "t": "y",
+        "ini": 134.54,
+        "fin": 134.64
+       },
+       {
+        "t": "la",
+        "ini": 134.76,
+        "fin": 134.94
+       },
+       {
+        "t": "nariz,",
+        "ini": 135.04,
+        "fin": 135.48
+       },
+       {
+        "t": "¡uh!",
+        "ini": 135.5,
+        "fin": 135.86
+       }
+      ],
+      "trad": "my neck hurts, my feet hurt, and my nose hurts, ugh!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "—¿La nariz? ¿Por qué te duele la nariz? —¡No lo sé, es nuevo!",
+      "ini": 135.86,
+      "fin": 140.4,
+      "palabras": [
+       {
+        "t": "—¿La",
+        "ini": 135.86,
+        "fin": 136.64
+       },
+       {
+        "t": "nariz?",
+        "ini": 136.74,
+        "fin": 137.18
+       },
+       {
+        "t": "¿Por",
+        "ini": 137.44,
+        "fin": 137.52
+       },
+       {
+        "t": "qué",
+        "ini": 137.58,
+        "fin": 137.66
+       },
+       {
+        "t": "te",
+        "ini": 137.74,
+        "fin": 137.82
+       },
+       {
+        "t": "duele",
+        "ini": 137.84,
+        "fin": 138.26
+       },
+       {
+        "t": "la",
+        "ini": 138.3,
+        "fin": 138.38
+       },
+       {
+        "t": "nariz?",
+        "ini": 138.44,
+        "fin": 138.88
+       },
+       {
+        "t": "—¡No",
+        "ini": 138.94,
+        "fin": 139.08
+       },
+       {
+        "t": "lo",
+        "ini": 139.12,
+        "fin": 139.18
+       },
+       {
+        "t": "sé,",
+        "ini": 139.28,
+        "fin": 139.4
+       },
+       {
+        "t": "es",
+        "ini": 139.6,
+        "fin": 139.76
+       },
+       {
+        "t": "nuevo!",
+        "ini": 139.84,
+        "fin": 140.4
+       }
+      ],
+      "trad": "—Your nose? Why does your nose hurt? —I don't know, it's new!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Ay, ay, ay, me duele todo… desde el gimnasio, ¡es verdad!",
+      "ini": 141.06,
+      "fin": 144.92,
+      "palabras": [
+       {
+        "t": "Ay,",
+        "ini": 141.06,
+        "fin": 141.26
+       },
+       {
+        "t": "ay,",
+        "ini": 141.34,
+        "fin": 141.54
+       },
+       {
+        "t": "ay,",
+        "ini": 141.62,
+        "fin": 141.9
+       },
+       {
+        "t": "me",
+        "ini": 141.98,
+        "fin": 142.06
+       },
+       {
+        "t": "duele",
+        "ini": 142.1,
+        "fin": 142.42
+       },
+       {
+        "t": "todo…",
+        "ini": 142.56,
+        "fin": 142.98
+       },
+       {
+        "t": "desde",
+        "ini": 143.1,
+        "fin": 143.28
+       },
+       {
+        "t": "el",
+        "ini": 143.32,
+        "fin": 143.4
+       },
+       {
+        "t": "gimnasio,",
+        "ini": 143.5,
+        "fin": 144.22
+       },
+       {
+        "t": "¡es",
+        "ini": 144.28,
+        "fin": 144.48
+       },
+       {
+        "t": "verdad!",
+        "ini": 144.56,
+        "fin": 144.92
+       }
+      ],
+      "trad": "Ay, ay, ay, everything hurts… since the gym, it's true!"
+     },
+     {
+      "seccion": "Outro",
+      "texto": "—Papá, ¿te duele algo ahora? —¡No me duele nada! … ¡Ay! ¡La nariz!",
+      "ini": 144.94,
+      "fin": 148.1,
+      "palabras": [
+       {
+        "t": "—Papá,",
+        "ini": 144.94,
+        "fin": 145.3
+       },
+       {
+        "t": "¿te",
+        "ini": 145.38,
+        "fin": 145.48
+       },
+       {
+        "t": "duele",
+        "ini": 145.52,
+        "fin": 145.76
+       },
+       {
+        "t": "algo",
+        "ini": 145.84,
+        "fin": 146.06
+       },
+       {
+        "t": "ahora?",
+        "ini": 146.08,
+        "fin": 146.3
+       },
+       {
+        "t": "—¡No",
+        "ini": 146.32,
+        "fin": 146.34
+       },
+       {
+        "t": "me",
+        "ini": 146.34,
+        "fin": 146.34
+       },
+       {
+        "t": "duele",
+        "ini": 146.34,
+        "fin": 146.6
+       },
+       {
+        "t": "nada!",
+        "ini": 146.66,
+        "fin": 146.94
+       },
+       {
+        "t": "…",
+        "ini": 147.08,
+        "fin": 147.08
+       },
+       {
+        "t": "¡Ay!",
+        "ini": 147.1,
+        "fin": 147.32
+       },
+       {
+        "t": "¡La",
+        "ini": 147.36,
+        "fin": 147.44
+       },
+       {
+        "t": "nariz!",
+        "ini": 147.52,
+        "fin": 148.1
+       }
+      ],
+      "trad": "—Dad, does anything hurt now? —Nothing hurts! … Ouch! My nose!"
+     }
+    ],
+    "duracion": 149.52
+   },
+   "preguntas": [
+    {
+     "en": "Why did Dad hurt all over?",
+     "en_op": [
+      "Because he did everything at the gym on day one",
+      "Because he fell down the stairs",
+      "Because he ate too much cake"
+     ],
+     "es": "¿Por qué le dolía todo a papá?",
+     "es_op": [
+      "Porque lo hizo todo en el gimnasio el primer día",
+      "Porque se cayó por las escaleras",
+      "Porque comió demasiada tarta"
+     ]
+    },
+    {
+     "en": "What didn't hurt?",
+     "en_op": [
+      "His head",
+      "His knees",
+      "His back"
+     ],
+     "es": "¿Qué no le dolía a papá?",
+     "es_op": [
+      "La cabeza",
+      "Las rodillas",
+      "La espalda"
+     ]
+    },
+    {
+     "en": "«My legs ___.»",
+     "en_op": [
+      "hurt",
+      "hurts",
+      "hurting"
+     ],
+     "es": "«Me ___ las piernas.»",
+     "es_op": [
+      "duelen",
+      "duele",
+      "dolemos"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "23-cuantos-calcetines",
+   "titulo_en": "How Many Socks, Grandpa?",
+   "titulo_es": "¿Cuántos calcetines, abuelo?",
+   "ensena_en": "things you can count and things you can't, with How many? / How much?, many / much, some / any (How many socks? Many! How much sunscreen? Not much! Is there any room? No, there isn't any room)",
+   "ensena_es": "lo que se cuenta y lo que no, con ¿cuántos? / ¿cuánta?, muchos / poca, alguno / ninguno (¿Cuántos calcetines? ¡Muchos! ¿Cuánta crema? ¡Poca! ¿Queda algún hueco? No, no queda ningún hueco)",
+   "en": {
+    "lineas": [
+     {
+      "seccion": "Intro",
+      "texto": "Grandpa! The bus leaves in ten minutes!",
+      "ini": 0.46,
+      "fin": 3.16,
+      "palabras": [
+       {
+        "t": "Grandpa!",
+        "ini": 0.46,
+        "fin": 1.1
+       },
+       {
+        "t": "The",
+        "ini": 1.56,
+        "fin": 1.66
+       },
+       {
+        "t": "bus",
+        "ini": 1.7,
+        "fin": 1.92
+       },
+       {
+        "t": "leaves",
+        "ini": 2.0,
+        "fin": 2.26
+       },
+       {
+        "t": "in",
+        "ini": 2.3,
+        "fin": 2.42
+       },
+       {
+        "t": "ten",
+        "ini": 2.52,
+        "fin": 2.7
+       },
+       {
+        "t": "minutes!",
+        "ini": 2.76,
+        "fin": 3.16
+       }
+      ],
+      "trad": "¡Abuelo! ¡El autobús sale en diez minutos!"
+     },
+     {
+      "seccion": "Intro",
+      "texto": "— Okay, okay, I'm packing my suitcase!",
+      "ini": 3.18,
+      "fin": 5.94,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 3.18,
+        "fin": 3.18
+       },
+       {
+        "t": "Okay,",
+        "ini": 4.16,
+        "fin": 4.38
+       },
+       {
+        "t": "okay,",
+        "ini": 4.5,
+        "fin": 4.74
+       },
+       {
+        "t": "I'm",
+        "ini": 4.82,
+        "fin": 4.92
+       },
+       {
+        "t": "packing",
+        "ini": 4.96,
+        "fin": 5.26
+       },
+       {
+        "t": "my",
+        "ini": 5.3,
+        "fin": 5.4
+       },
+       {
+        "t": "suitcase!",
+        "ini": 5.46,
+        "fin": 5.94
+       }
+      ],
+      "trad": "—¡Vale, vale, estoy haciendo la maleta!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "We're going to the beach, and Grandpa's packing his old suitcase,",
+      "ini": 7.74,
+      "fin": 11.14,
+      "palabras": [
+       {
+        "t": "We're",
+        "ini": 7.74,
+        "fin": 7.84
+       },
+       {
+        "t": "going",
+        "ini": 7.88,
+        "fin": 8.24
+       },
+       {
+        "t": "to",
+        "ini": 8.32,
+        "fin": 8.46
+       },
+       {
+        "t": "the",
+        "ini": 8.54,
+        "fin": 8.58
+       },
+       {
+        "t": "beach,",
+        "ini": 8.66,
+        "fin": 8.98
+       },
+       {
+        "t": "and",
+        "ini": 9.04,
+        "fin": 9.16
+       },
+       {
+        "t": "Grandpa's",
+        "ini": 9.22,
+        "fin": 9.64
+       },
+       {
+        "t": "packing",
+        "ini": 9.72,
+        "fin": 10.12
+       },
+       {
+        "t": "his",
+        "ini": 10.18,
+        "fin": 10.4
+       },
+       {
+        "t": "old",
+        "ini": 10.44,
+        "fin": 10.58
+       },
+       {
+        "t": "suitcase,",
+        "ini": 10.64,
+        "fin": 11.14
+       }
+      ],
+      "trad": "Vamos a la playa, y el abuelo está haciendo su vieja maleta,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "but it's so full it won't close… what's in there?",
+      "ini": 11.44,
+      "fin": 14.68,
+      "palabras": [
+       {
+        "t": "but",
+        "ini": 11.44,
+        "fin": 11.52
+       },
+       {
+        "t": "it's",
+        "ini": 11.56,
+        "fin": 11.72
+       },
+       {
+        "t": "so",
+        "ini": 11.76,
+        "fin": 11.88
+       },
+       {
+        "t": "full",
+        "ini": 11.98,
+        "fin": 12.1
+       },
+       {
+        "t": "it",
+        "ini": 12.12,
+        "fin": 12.2
+       },
+       {
+        "t": "won't",
+        "ini": 12.24,
+        "fin": 12.4
+       },
+       {
+        "t": "close…",
+        "ini": 12.46,
+        "fin": 13.04
+       },
+       {
+        "t": "what's",
+        "ini": 13.84,
+        "fin": 14.06
+       },
+       {
+        "t": "in",
+        "ini": 14.14,
+        "fin": 14.26
+       },
+       {
+        "t": "there?",
+        "ini": 14.34,
+        "fin": 14.68
+       }
+      ],
+      "trad": "pero está tan llena que no se cierra… ¿qué hay ahí?"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "I open it up, and I can't believe it: there are things everywhere!",
+      "ini": 15.2,
+      "fin": 18.38,
+      "palabras": [
+       {
+        "t": "I",
+        "ini": 15.2,
+        "fin": 15.24
+       },
+       {
+        "t": "open",
+        "ini": 15.3,
+        "fin": 15.46
+       },
+       {
+        "t": "it",
+        "ini": 15.52,
+        "fin": 15.6
+       },
+       {
+        "t": "up,",
+        "ini": 15.68,
+        "fin": 15.78
+       },
+       {
+        "t": "and",
+        "ini": 15.92,
+        "fin": 16.02
+       },
+       {
+        "t": "I",
+        "ini": 16.06,
+        "fin": 16.12
+       },
+       {
+        "t": "can't",
+        "ini": 16.16,
+        "fin": 16.34
+       },
+       {
+        "t": "believe",
+        "ini": 16.38,
+        "fin": 16.72
+       },
+       {
+        "t": "it:",
+        "ini": 16.74,
+        "fin": 16.82
+       },
+       {
+        "t": "there",
+        "ini": 16.86,
+        "fin": 17.06
+       },
+       {
+        "t": "are",
+        "ini": 17.12,
+        "fin": 17.22
+       },
+       {
+        "t": "things",
+        "ini": 17.32,
+        "fin": 17.54
+       },
+       {
+        "t": "everywhere!",
+        "ini": 17.64,
+        "fin": 18.38
+       }
+      ],
+      "trad": "¡La abro y no me lo puedo creer: hay cosas por todas partes!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "So I sit down with my list, and I ask him, one by one:",
+      "ini": 18.68,
+      "fin": 22.04,
+      "palabras": [
+       {
+        "t": "So",
+        "ini": 18.68,
+        "fin": 18.78
+       },
+       {
+        "t": "I",
+        "ini": 18.82,
+        "fin": 18.88
+       },
+       {
+        "t": "sit",
+        "ini": 18.92,
+        "fin": 19.12
+       },
+       {
+        "t": "down",
+        "ini": 19.16,
+        "fin": 19.36
+       },
+       {
+        "t": "with",
+        "ini": 19.4,
+        "fin": 19.56
+       },
+       {
+        "t": "my",
+        "ini": 19.62,
+        "fin": 19.82
+       },
+       {
+        "t": "list,",
+        "ini": 19.88,
+        "fin": 20.22
+       },
+       {
+        "t": "and",
+        "ini": 20.54,
+        "fin": 20.64
+       },
+       {
+        "t": "I",
+        "ini": 20.7,
+        "fin": 20.74
+       },
+       {
+        "t": "ask",
+        "ini": 20.82,
+        "fin": 21.0
+       },
+       {
+        "t": "him,",
+        "ini": 21.04,
+        "fin": 21.16
+       },
+       {
+        "t": "one",
+        "ini": 21.24,
+        "fin": 21.38
+       },
+       {
+        "t": "by",
+        "ini": 21.46,
+        "fin": 21.64
+       },
+       {
+        "t": "one:",
+        "ini": 21.8,
+        "fin": 22.04
+       }
+      ],
+      "trad": "Así que me siento con mi lista y le pregunto una por una:"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "How many socks, Grandpa? — Many, many socks!",
+      "ini": 22.4,
+      "fin": 25.62,
+      "palabras": [
+       {
+        "t": "How",
+        "ini": 22.4,
+        "fin": 22.54
+       },
+       {
+        "t": "many",
+        "ini": 22.64,
+        "fin": 22.88
+       },
+       {
+        "t": "socks,",
+        "ini": 23.08,
+        "fin": 23.42
+       },
+       {
+        "t": "Grandpa?",
+        "ini": 23.52,
+        "fin": 23.98
+       },
+       {
+        "t": "—",
+        "ini": 24.0,
+        "fin": 24.0
+       },
+       {
+        "t": "Many,",
+        "ini": 24.48,
+        "fin": 24.74
+       },
+       {
+        "t": "many",
+        "ini": 24.94,
+        "fin": 25.12
+       },
+       {
+        "t": "socks!",
+        "ini": 25.28,
+        "fin": 25.62
+       }
+      ],
+      "trad": "¿Cuántos calcetines, abuelo? —¡Muchos, muchos calcetines!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "How much sunscreen, Grandpa? — Not much… just a drop!",
+      "ini": 25.86,
+      "fin": 29.22,
+      "palabras": [
+       {
+        "t": "How",
+        "ini": 25.86,
+        "fin": 26.0
+       },
+       {
+        "t": "much",
+        "ini": 26.08,
+        "fin": 26.26
+       },
+       {
+        "t": "sunscreen,",
+        "ini": 26.32,
+        "fin": 27.12
+       },
+       {
+        "t": "Grandpa?",
+        "ini": 27.2,
+        "fin": 27.64
+       },
+       {
+        "t": "—",
+        "ini": 27.9,
+        "fin": 27.9
+       },
+       {
+        "t": "Not",
+        "ini": 27.94,
+        "fin": 28.12
+       },
+       {
+        "t": "much…",
+        "ini": 28.18,
+        "fin": 28.44
+       },
+       {
+        "t": "just",
+        "ini": 28.64,
+        "fin": 28.82
+       },
+       {
+        "t": "a",
+        "ini": 28.86,
+        "fin": 28.92
+       },
+       {
+        "t": "drop!",
+        "ini": 28.96,
+        "fin": 29.22
+       }
+      ],
+      "trad": "¿Cuánta crema solar, abuelo? —No mucha… ¡solo una gota!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Is there any room for my ball? — No, there isn't any room!",
+      "ini": 29.6,
+      "fin": 33.0,
+      "palabras": [
+       {
+        "t": "Is",
+        "ini": 29.6,
+        "fin": 29.74
+       },
+       {
+        "t": "there",
+        "ini": 29.8,
+        "fin": 30.0
+       },
+       {
+        "t": "any",
+        "ini": 30.08,
+        "fin": 30.28
+       },
+       {
+        "t": "room",
+        "ini": 30.36,
+        "fin": 30.58
+       },
+       {
+        "t": "for",
+        "ini": 30.68,
+        "fin": 30.8
+       },
+       {
+        "t": "my",
+        "ini": 30.84,
+        "fin": 30.98
+       },
+       {
+        "t": "ball?",
+        "ini": 31.06,
+        "fin": 31.3
+       },
+       {
+        "t": "—",
+        "ini": 31.38,
+        "fin": 31.38
+       },
+       {
+        "t": "No,",
+        "ini": 31.42,
+        "fin": 31.54
+       },
+       {
+        "t": "there",
+        "ini": 31.66,
+        "fin": 31.84
+       },
+       {
+        "t": "isn't",
+        "ini": 31.9,
+        "fin": 32.3
+       },
+       {
+        "t": "any",
+        "ini": 32.38,
+        "fin": 32.54
+       },
+       {
+        "t": "room!",
+        "ini": 32.68,
+        "fin": 33.0
+       }
+      ],
+      "trad": "¿Hay algún hueco para mi pelota? —¡No, no hay ningún hueco!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Some for you and some for me — let's pack it, zoom, zoom, zoom!",
+      "ini": 33.44,
+      "fin": 36.86,
+      "palabras": [
+       {
+        "t": "Some",
+        "ini": 33.44,
+        "fin": 33.56
+       },
+       {
+        "t": "for",
+        "ini": 33.6,
+        "fin": 33.68
+       },
+       {
+        "t": "you",
+        "ini": 33.78,
+        "fin": 33.9
+       },
+       {
+        "t": "and",
+        "ini": 33.96,
+        "fin": 34.06
+       },
+       {
+        "t": "some",
+        "ini": 34.16,
+        "fin": 34.36
+       },
+       {
+        "t": "for",
+        "ini": 34.4,
+        "fin": 34.5
+       },
+       {
+        "t": "me",
+        "ini": 34.54,
+        "fin": 34.7
+       },
+       {
+        "t": "—",
+        "ini": 34.78,
+        "fin": 34.78
+       },
+       {
+        "t": "let's",
+        "ini": 34.84,
+        "fin": 35.06
+       },
+       {
+        "t": "pack",
+        "ini": 35.08,
+        "fin": 35.3
+       },
+       {
+        "t": "it,",
+        "ini": 35.36,
+        "fin": 35.46
+       },
+       {
+        "t": "zoom,",
+        "ini": 35.56,
+        "fin": 35.88
+       },
+       {
+        "t": "zoom,",
+        "ini": 36.04,
+        "fin": 36.32
+       },
+       {
+        "t": "zoom!",
+        "ini": 36.46,
+        "fin": 36.86
+       }
+      ],
+      "trad": "Un poco para ti y un poco para mí… ¡a la maleta, zum, zum, zum!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— How many sweaters, Grandpa? — Seven! It's cold at night, you know!",
+      "ini": 36.88,
+      "fin": 40.48,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 36.88,
+        "fin": 36.88
+       },
+       {
+        "t": "How",
+        "ini": 37.16,
+        "fin": 37.28
+       },
+       {
+        "t": "many",
+        "ini": 37.4,
+        "fin": 37.6
+       },
+       {
+        "t": "sweaters,",
+        "ini": 37.78,
+        "fin": 38.1
+       },
+       {
+        "t": "Grandpa?",
+        "ini": 38.18,
+        "fin": 38.62
+       },
+       {
+        "t": "—",
+        "ini": 38.7,
+        "fin": 38.7
+       },
+       {
+        "t": "Seven!",
+        "ini": 38.76,
+        "fin": 38.96
+       },
+       {
+        "t": "It's",
+        "ini": 39.02,
+        "fin": 39.2
+       },
+       {
+        "t": "cold",
+        "ini": 39.24,
+        "fin": 39.48
+       },
+       {
+        "t": "at",
+        "ini": 39.52,
+        "fin": 39.64
+       },
+       {
+        "t": "night,",
+        "ini": 39.72,
+        "fin": 39.88
+       },
+       {
+        "t": "you",
+        "ini": 39.96,
+        "fin": 40.02
+       },
+       {
+        "t": "know!",
+        "ini": 40.16,
+        "fin": 40.48
+       }
+      ],
+      "trad": "—¿Cuántos jerséis, abuelo? —¡Siete! Por la noche hace frío, ¿sabes?"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— It's summer, Grandpa! — Oh… then just six. Or five, or so…",
+      "ini": 40.54,
+      "fin": 44.16,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 40.54,
+        "fin": 40.54
+       },
+       {
+        "t": "It's",
+        "ini": 40.84,
+        "fin": 41.02
+       },
+       {
+        "t": "summer,",
+        "ini": 41.08,
+        "fin": 41.3
+       },
+       {
+        "t": "Grandpa!",
+        "ini": 41.4,
+        "fin": 41.88
+       },
+       {
+        "t": "—",
+        "ini": 42.0,
+        "fin": 42.0
+       },
+       {
+        "t": "Oh…",
+        "ini": 42.04,
+        "fin": 42.1
+       },
+       {
+        "t": "then",
+        "ini": 42.18,
+        "fin": 42.34
+       },
+       {
+        "t": "just",
+        "ini": 42.4,
+        "fin": 42.58
+       },
+       {
+        "t": "six.",
+        "ini": 42.64,
+        "fin": 43.0
+       },
+       {
+        "t": "Or",
+        "ini": 43.18,
+        "fin": 43.26
+       },
+       {
+        "t": "five,",
+        "ini": 43.4,
+        "fin": 43.62
+       },
+       {
+        "t": "or",
+        "ini": 43.66,
+        "fin": 43.72
+       },
+       {
+        "t": "so…",
+        "ini": 43.86,
+        "fin": 44.16
+       }
+      ],
+      "trad": "—¡Es verano, abuelo! —Ah… pues solo seis. O cinco, más o menos…"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— How much bread did you pack? — Not much, just three long loaves!",
+      "ini": 44.16,
+      "fin": 48.0,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 44.16,
+        "fin": 44.16
+       },
+       {
+        "t": "How",
+        "ini": 44.76,
+        "fin": 44.88
+       },
+       {
+        "t": "much",
+        "ini": 44.94,
+        "fin": 45.12
+       },
+       {
+        "t": "bread",
+        "ini": 45.22,
+        "fin": 45.38
+       },
+       {
+        "t": "did",
+        "ini": 45.44,
+        "fin": 45.54
+       },
+       {
+        "t": "you",
+        "ini": 45.6,
+        "fin": 45.68
+       },
+       {
+        "t": "pack?",
+        "ini": 45.72,
+        "fin": 46.02
+       },
+       {
+        "t": "—",
+        "ini": 46.02,
+        "fin": 46.02
+       },
+       {
+        "t": "Not",
+        "ini": 46.4,
+        "fin": 46.58
+       },
+       {
+        "t": "much,",
+        "ini": 46.62,
+        "fin": 46.78
+       },
+       {
+        "t": "just",
+        "ini": 46.88,
+        "fin": 47.04
+       },
+       {
+        "t": "three",
+        "ini": 47.08,
+        "fin": 47.22
+       },
+       {
+        "t": "long",
+        "ini": 47.32,
+        "fin": 47.5
+       },
+       {
+        "t": "loaves!",
+        "ini": 47.6,
+        "fin": 48.0
+       }
+      ],
+      "trad": "—¿Cuánto pan has metido? —No mucho, ¡solo tres barras largas!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "— Are there any rocks in here? — Some… they're my lucky stones!",
+      "ini": 48.0,
+      "fin": 51.58,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 48.0,
+        "fin": 48.0
+       },
+       {
+        "t": "Are",
+        "ini": 48.26,
+        "fin": 48.34
+       },
+       {
+        "t": "there",
+        "ini": 48.36,
+        "fin": 48.48
+       },
+       {
+        "t": "any",
+        "ini": 48.54,
+        "fin": 48.68
+       },
+       {
+        "t": "rocks",
+        "ini": 48.8,
+        "fin": 49.1
+       },
+       {
+        "t": "in",
+        "ini": 49.2,
+        "fin": 49.34
+       },
+       {
+        "t": "here?",
+        "ini": 49.4,
+        "fin": 49.76
+       },
+       {
+        "t": "—",
+        "ini": 49.76,
+        "fin": 49.76
+       },
+       {
+        "t": "Some…",
+        "ini": 49.88,
+        "fin": 50.08
+       },
+       {
+        "t": "they're",
+        "ini": 50.32,
+        "fin": 50.5
+       },
+       {
+        "t": "my",
+        "ini": 50.54,
+        "fin": 50.68
+       },
+       {
+        "t": "lucky",
+        "ini": 50.76,
+        "fin": 50.98
+       },
+       {
+        "t": "stones!",
+        "ini": 51.14,
+        "fin": 51.58
+       }
+      ],
+      "trad": "—¿Hay alguna piedra aquí dentro? —Algunas… ¡son mis piedras de la suerte!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "How many socks, Grandpa? — Many, many socks!",
+      "ini": 51.94,
+      "fin": 55.14,
+      "palabras": [
+       {
+        "t": "How",
+        "ini": 51.94,
+        "fin": 52.1
+       },
+       {
+        "t": "many",
+        "ini": 52.18,
+        "fin": 52.44
+       },
+       {
+        "t": "socks,",
+        "ini": 52.62,
+        "fin": 52.96
+       },
+       {
+        "t": "Grandpa?",
+        "ini": 53.06,
+        "fin": 53.54
+       },
+       {
+        "t": "—",
+        "ini": 53.54,
+        "fin": 53.54
+       },
+       {
+        "t": "Many,",
+        "ini": 54.02,
+        "fin": 54.28
+       },
+       {
+        "t": "many",
+        "ini": 54.48,
+        "fin": 54.68
+       },
+       {
+        "t": "socks!",
+        "ini": 54.82,
+        "fin": 55.14
+       }
+      ],
+      "trad": "¿Cuántos calcetines, abuelo? —¡Muchos, muchos calcetines!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "How much sunscreen, Grandpa? — Not much… just a drop!",
+      "ini": 55.4,
+      "fin": 58.8,
+      "palabras": [
+       {
+        "t": "How",
+        "ini": 55.4,
+        "fin": 55.54
+       },
+       {
+        "t": "much",
+        "ini": 55.6,
+        "fin": 55.76
+       },
+       {
+        "t": "sunscreen,",
+        "ini": 55.86,
+        "fin": 56.64
+       },
+       {
+        "t": "Grandpa?",
+        "ini": 56.74,
+        "fin": 57.2
+       },
+       {
+        "t": "—",
+        "ini": 57.2,
+        "fin": 57.2
+       },
+       {
+        "t": "Not",
+        "ini": 57.48,
+        "fin": 57.68
+       },
+       {
+        "t": "much…",
+        "ini": 57.72,
+        "fin": 57.92
+       },
+       {
+        "t": "just",
+        "ini": 58.16,
+        "fin": 58.36
+       },
+       {
+        "t": "a",
+        "ini": 58.4,
+        "fin": 58.44
+       },
+       {
+        "t": "drop!",
+        "ini": 58.5,
+        "fin": 58.8
+       }
+      ],
+      "trad": "¿Cuánta crema solar, abuelo? —No mucha… ¡solo una gota!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Is there any room for my ball? — No, there isn't any room!",
+      "ini": 59.14,
+      "fin": 62.54,
+      "palabras": [
+       {
+        "t": "Is",
+        "ini": 59.14,
+        "fin": 59.3
+       },
+       {
+        "t": "there",
+        "ini": 59.34,
+        "fin": 59.54
+       },
+       {
+        "t": "any",
+        "ini": 59.56,
+        "fin": 59.82
+       },
+       {
+        "t": "room",
+        "ini": 59.92,
+        "fin": 60.14
+       },
+       {
+        "t": "for",
+        "ini": 60.22,
+        "fin": 60.34
+       },
+       {
+        "t": "my",
+        "ini": 60.38,
+        "fin": 60.52
+       },
+       {
+        "t": "ball?",
+        "ini": 60.6,
+        "fin": 60.82
+       },
+       {
+        "t": "—",
+        "ini": 60.92,
+        "fin": 60.92
+       },
+       {
+        "t": "No,",
+        "ini": 60.96,
+        "fin": 61.08
+       },
+       {
+        "t": "there",
+        "ini": 61.2,
+        "fin": 61.38
+       },
+       {
+        "t": "isn't",
+        "ini": 61.44,
+        "fin": 61.84
+       },
+       {
+        "t": "any",
+        "ini": 61.92,
+        "fin": 62.12
+       },
+       {
+        "t": "room!",
+        "ini": 62.22,
+        "fin": 62.54
+       }
+      ],
+      "trad": "¿Hay algún hueco para mi pelota? —¡No, no hay ningún hueco!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Some for you and some for me — let's pack it, zoom, zoom, zoom!",
+      "ini": 63.0,
+      "fin": 66.36,
+      "palabras": [
+       {
+        "t": "Some",
+        "ini": 63.0,
+        "fin": 63.12
+       },
+       {
+        "t": "for",
+        "ini": 63.14,
+        "fin": 63.22
+       },
+       {
+        "t": "you",
+        "ini": 63.32,
+        "fin": 63.46
+       },
+       {
+        "t": "and",
+        "ini": 63.5,
+        "fin": 63.6
+       },
+       {
+        "t": "some",
+        "ini": 63.7,
+        "fin": 63.84
+       },
+       {
+        "t": "for",
+        "ini": 63.92,
+        "fin": 64.02
+       },
+       {
+        "t": "me",
+        "ini": 64.08,
+        "fin": 64.22
+       },
+       {
+        "t": "—",
+        "ini": 64.32,
+        "fin": 64.32
+       },
+       {
+        "t": "let's",
+        "ini": 64.38,
+        "fin": 64.6
+       },
+       {
+        "t": "pack",
+        "ini": 64.62,
+        "fin": 64.84
+       },
+       {
+        "t": "it,",
+        "ini": 64.9,
+        "fin": 64.98
+       },
+       {
+        "t": "zoom,",
+        "ini": 65.12,
+        "fin": 65.42
+       },
+       {
+        "t": "zoom,",
+        "ini": 65.54,
+        "fin": 65.88
+       },
+       {
+        "t": "zoom!",
+        "ini": 66.0,
+        "fin": 66.36
+       }
+      ],
+      "trad": "Un poco para ti y un poco para mí… ¡a la maleta, zum, zum, zum!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Socks, shoes and books — you can count them: How many? Many!",
+      "ini": 66.92,
+      "fin": 70.4,
+      "palabras": [
+       {
+        "t": "Socks,",
+        "ini": 66.92,
+        "fin": 67.24
+       },
+       {
+        "t": "shoes",
+        "ini": 67.34,
+        "fin": 67.62
+       },
+       {
+        "t": "and",
+        "ini": 67.66,
+        "fin": 67.76
+       },
+       {
+        "t": "books",
+        "ini": 67.88,
+        "fin": 68.16
+       },
+       {
+        "t": "—",
+        "ini": 68.3,
+        "fin": 68.3
+       },
+       {
+        "t": "you",
+        "ini": 68.36,
+        "fin": 68.42
+       },
+       {
+        "t": "can",
+        "ini": 68.54,
+        "fin": 68.66
+       },
+       {
+        "t": "count",
+        "ini": 68.78,
+        "fin": 69.0
+       },
+       {
+        "t": "them:",
+        "ini": 69.04,
+        "fin": 69.2
+       },
+       {
+        "t": "How",
+        "ini": 69.48,
+        "fin": 69.62
+       },
+       {
+        "t": "many?",
+        "ini": 69.7,
+        "fin": 69.92
+       },
+       {
+        "t": "Many!",
+        "ini": 70.16,
+        "fin": 70.4
+       }
+      ],
+      "trad": "Calcetines, zapatos y libros se pueden contar: ¿cuántos? ¡Muchos!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Water, milk and sand — you can't count them: How much? Not much!",
+      "ini": 70.62,
+      "fin": 74.16,
+      "palabras": [
+       {
+        "t": "Water,",
+        "ini": 70.62,
+        "fin": 70.94
+       },
+       {
+        "t": "milk",
+        "ini": 71.06,
+        "fin": 71.3
+       },
+       {
+        "t": "and",
+        "ini": 71.34,
+        "fin": 71.42
+       },
+       {
+        "t": "sand",
+        "ini": 71.54,
+        "fin": 71.92
+       },
+       {
+        "t": "—",
+        "ini": 71.98,
+        "fin": 71.98
+       },
+       {
+        "t": "you",
+        "ini": 72.04,
+        "fin": 72.16
+       },
+       {
+        "t": "can't",
+        "ini": 72.22,
+        "fin": 72.4
+       },
+       {
+        "t": "count",
+        "ini": 72.46,
+        "fin": 72.7
+       },
+       {
+        "t": "them:",
+        "ini": 72.74,
+        "fin": 72.88
+       },
+       {
+        "t": "How",
+        "ini": 72.96,
+        "fin": 73.1
+       },
+       {
+        "t": "much?",
+        "ini": 73.2,
+        "fin": 73.46
+       },
+       {
+        "t": "Not",
+        "ini": 73.62,
+        "fin": 73.82
+       },
+       {
+        "t": "much!",
+        "ini": 73.88,
+        "fin": 74.16
+       }
+      ],
+      "trad": "Agua, leche y arena no se pueden contar: ¿cuánta? ¡No mucha!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "One sock, two socks, many socks… one drop: not much!",
+      "ini": 74.36,
+      "fin": 81.64,
+      "palabras": [
+       {
+        "t": "One",
+        "ini": 74.36,
+        "fin": 75.06
+       },
+       {
+        "t": "sock,",
+        "ini": 75.24,
+        "fin": 75.64
+       },
+       {
+        "t": "two",
+        "ini": 76.16,
+        "fin": 76.84
+       },
+       {
+        "t": "socks,",
+        "ini": 77.08,
+        "fin": 77.52
+       },
+       {
+        "t": "many",
+        "ini": 78.02,
+        "fin": 78.74
+       },
+       {
+        "t": "socks…",
+        "ini": 78.92,
+        "fin": 79.44
+       },
+       {
+        "t": "one",
+        "ini": 79.9,
+        "fin": 80.2
+       },
+       {
+        "t": "drop:",
+        "ini": 80.3,
+        "fin": 80.64
+       },
+       {
+        "t": "not",
+        "ini": 81.02,
+        "fin": 81.2
+       },
+       {
+        "t": "much!",
+        "ini": 81.26,
+        "fin": 81.64
+       }
+      ],
+      "trad": "Un calcetín, dos calcetines, muchos calcetines… una gota: ¡no mucha!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "At last the suitcase closes — click! — and we run to catch the bus,",
+      "ini": 88.9,
+      "fin": 92.08,
+      "palabras": [
+       {
+        "t": "At",
+        "ini": 88.9,
+        "fin": 89.0
+       },
+       {
+        "t": "last",
+        "ini": 89.08,
+        "fin": 89.3
+       },
+       {
+        "t": "the",
+        "ini": 89.34,
+        "fin": 89.4
+       },
+       {
+        "t": "suitcase",
+        "ini": 89.52,
+        "fin": 89.92
+       },
+       {
+        "t": "closes",
+        "ini": 90.0,
+        "fin": 90.42
+       },
+       {
+        "t": "—",
+        "ini": 90.44,
+        "fin": 90.44
+       },
+       {
+        "t": "click!",
+        "ini": 90.46,
+        "fin": 90.68
+       },
+       {
+        "t": "—",
+        "ini": 90.7,
+        "fin": 90.7
+       },
+       {
+        "t": "and",
+        "ini": 90.72,
+        "fin": 90.8
+       },
+       {
+        "t": "we",
+        "ini": 90.84,
+        "fin": 90.92
+       },
+       {
+        "t": "run",
+        "ini": 90.96,
+        "fin": 91.12
+       },
+       {
+        "t": "to",
+        "ini": 91.18,
+        "fin": 91.32
+       },
+       {
+        "t": "catch",
+        "ini": 91.38,
+        "fin": 91.58
+       },
+       {
+        "t": "the",
+        "ini": 91.62,
+        "fin": 91.72
+       },
+       {
+        "t": "bus,",
+        "ini": 91.76,
+        "fin": 92.08
+       }
+      ],
+      "trad": "Por fin la maleta se cierra, ¡clic!, y corremos a coger el autobús,"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "we get to the beach, I open my bag… and there's no swimsuit! Oh no!",
+      "ini": 92.58,
+      "fin": 96.2,
+      "palabras": [
+       {
+        "t": "we",
+        "ini": 92.58,
+        "fin": 92.66
+       },
+       {
+        "t": "get",
+        "ini": 92.78,
+        "fin": 92.94
+       },
+       {
+        "t": "to",
+        "ini": 93.0,
+        "fin": 93.1
+       },
+       {
+        "t": "the",
+        "ini": 93.14,
+        "fin": 93.22
+       },
+       {
+        "t": "beach,",
+        "ini": 93.26,
+        "fin": 93.46
+       },
+       {
+        "t": "I",
+        "ini": 93.58,
+        "fin": 93.68
+       },
+       {
+        "t": "open",
+        "ini": 93.74,
+        "fin": 93.9
+       },
+       {
+        "t": "my",
+        "ini": 93.96,
+        "fin": 94.08
+       },
+       {
+        "t": "bag…",
+        "ini": 94.18,
+        "fin": 94.54
+       },
+       {
+        "t": "and",
+        "ini": 94.68,
+        "fin": 94.8
+       },
+       {
+        "t": "there's",
+        "ini": 94.86,
+        "fin": 95.06
+       },
+       {
+        "t": "no",
+        "ini": 95.1,
+        "fin": 95.2
+       },
+       {
+        "t": "swimsuit!",
+        "ini": 95.3,
+        "fin": 95.76
+       },
+       {
+        "t": "Oh",
+        "ini": 95.82,
+        "fin": 95.88
+       },
+       {
+        "t": "no!",
+        "ini": 95.96,
+        "fin": 96.2
+       }
+      ],
+      "trad": "llegamos a la playa, abro mi bolsa… ¡y no hay bañador! ¡Oh, no!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Grandpa smiles and opens his suitcase: «I packed some extra ones… for you!»",
+      "ini": 96.44,
+      "fin": 99.82,
+      "palabras": [
+       {
+        "t": "Grandpa",
+        "ini": 96.44,
+        "fin": 96.8
+       },
+       {
+        "t": "smiles",
+        "ini": 96.9,
+        "fin": 97.16
+       },
+       {
+        "t": "and",
+        "ini": 97.2,
+        "fin": 97.28
+       },
+       {
+        "t": "opens",
+        "ini": 97.36,
+        "fin": 97.62
+       },
+       {
+        "t": "his",
+        "ini": 97.66,
+        "fin": 97.8
+       },
+       {
+        "t": "suitcase:",
+        "ini": 97.84,
+        "fin": 98.28
+       },
+       {
+        "t": "«I",
+        "ini": 98.3,
+        "fin": 98.32
+       },
+       {
+        "t": "packed",
+        "ini": 98.32,
+        "fin": 98.52
+       },
+       {
+        "t": "some",
+        "ini": 98.56,
+        "fin": 98.68
+       },
+       {
+        "t": "extra",
+        "ini": 98.76,
+        "fin": 99.08
+       },
+       {
+        "t": "ones…",
+        "ini": 99.16,
+        "fin": 99.4
+       },
+       {
+        "t": "for",
+        "ini": 99.48,
+        "fin": 99.58
+       },
+       {
+        "t": "you!»",
+        "ini": 99.7,
+        "fin": 99.82
+       }
+      ],
+      "trad": "El abuelo sonríe y abre su maleta: «He metido unos cuantos de más… ¡para ti!»"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "— How many swimsuits, Grandpa? — Many! — Thank you, Grandpa! I love you!",
+      "ini": 99.82,
+      "fin": 102.92,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 99.82,
+        "fin": 99.82
+       },
+       {
+        "t": "How",
+        "ini": 99.86,
+        "fin": 99.9
+       },
+       {
+        "t": "many",
+        "ini": 99.94,
+        "fin": 100.08
+       },
+       {
+        "t": "swimsuits,",
+        "ini": 100.16,
+        "fin": 100.52
+       },
+       {
+        "t": "Grandpa?",
+        "ini": 100.58,
+        "fin": 101.06
+       },
+       {
+        "t": "—",
+        "ini": 101.06,
+        "fin": 101.06
+       },
+       {
+        "t": "Many!",
+        "ini": 101.14,
+        "fin": 101.3
+       },
+       {
+        "t": "—",
+        "ini": 101.34,
+        "fin": 101.34
+       },
+       {
+        "t": "Thank",
+        "ini": 101.36,
+        "fin": 101.6
+       },
+       {
+        "t": "you,",
+        "ini": 101.64,
+        "fin": 101.68
+       },
+       {
+        "t": "Grandpa!",
+        "ini": 101.76,
+        "fin": 102.18
+       },
+       {
+        "t": "I",
+        "ini": 102.32,
+        "fin": 102.36
+       },
+       {
+        "t": "love",
+        "ini": 102.46,
+        "fin": 102.68
+       },
+       {
+        "t": "you!",
+        "ini": 102.76,
+        "fin": 102.92
+       }
+      ],
+      "trad": "—¿Cuántos bañadores, abuelo? —¡Muchos! —¡Gracias, abuelo! ¡Te quiero!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "How many socks, Grandpa? — Many, many socks!",
+      "ini": 103.62,
+      "fin": 106.84,
+      "palabras": [
+       {
+        "t": "How",
+        "ini": 103.62,
+        "fin": 103.76
+       },
+       {
+        "t": "many",
+        "ini": 103.88,
+        "fin": 104.12
+       },
+       {
+        "t": "socks,",
+        "ini": 104.32,
+        "fin": 104.64
+       },
+       {
+        "t": "Grandpa?",
+        "ini": 104.74,
+        "fin": 105.2
+       },
+       {
+        "t": "—",
+        "ini": 105.22,
+        "fin": 105.22
+       },
+       {
+        "t": "Many,",
+        "ini": 105.72,
+        "fin": 105.98
+       },
+       {
+        "t": "many",
+        "ini": 106.18,
+        "fin": 106.38
+       },
+       {
+        "t": "socks!",
+        "ini": 106.52,
+        "fin": 106.84
+       }
+      ],
+      "trad": "¿Cuántos calcetines, abuelo? —¡Muchos, muchos calcetines!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "How much sunscreen, Grandpa? — Not much… just a drop!",
+      "ini": 107.1,
+      "fin": 110.4,
+      "palabras": [
+       {
+        "t": "How",
+        "ini": 107.1,
+        "fin": 107.26
+       },
+       {
+        "t": "much",
+        "ini": 107.32,
+        "fin": 107.48
+       },
+       {
+        "t": "sunscreen,",
+        "ini": 107.56,
+        "fin": 108.34
+       },
+       {
+        "t": "Grandpa?",
+        "ini": 108.46,
+        "fin": 108.88
+       },
+       {
+        "t": "—",
+        "ini": 108.88,
+        "fin": 108.88
+       },
+       {
+        "t": "Not",
+        "ini": 109.16,
+        "fin": 109.36
+       },
+       {
+        "t": "much…",
+        "ini": 109.42,
+        "fin": 109.62
+       },
+       {
+        "t": "just",
+        "ini": 109.88,
+        "fin": 110.06
+       },
+       {
+        "t": "a",
+        "ini": 110.1,
+        "fin": 110.16
+       },
+       {
+        "t": "drop!",
+        "ini": 110.2,
+        "fin": 110.4
+       }
+      ],
+      "trad": "¿Cuánta crema solar, abuelo? —No mucha… ¡solo una gota!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Is there any room for my ball? — No, there isn't any room!",
+      "ini": 110.86,
+      "fin": 114.24,
+      "palabras": [
+       {
+        "t": "Is",
+        "ini": 110.86,
+        "fin": 110.98
+       },
+       {
+        "t": "there",
+        "ini": 111.04,
+        "fin": 111.24
+       },
+       {
+        "t": "any",
+        "ini": 111.32,
+        "fin": 111.5
+       },
+       {
+        "t": "room",
+        "ini": 111.6,
+        "fin": 111.84
+       },
+       {
+        "t": "for",
+        "ini": 111.92,
+        "fin": 112.04
+       },
+       {
+        "t": "my",
+        "ini": 112.08,
+        "fin": 112.22
+       },
+       {
+        "t": "ball?",
+        "ini": 112.3,
+        "fin": 112.5
+       },
+       {
+        "t": "—",
+        "ini": 112.62,
+        "fin": 112.62
+       },
+       {
+        "t": "No,",
+        "ini": 112.66,
+        "fin": 112.78
+       },
+       {
+        "t": "there",
+        "ini": 112.9,
+        "fin": 113.1
+       },
+       {
+        "t": "isn't",
+        "ini": 113.14,
+        "fin": 113.54
+       },
+       {
+        "t": "any",
+        "ini": 113.62,
+        "fin": 113.82
+       },
+       {
+        "t": "room!",
+        "ini": 113.92,
+        "fin": 114.24
+       }
+      ],
+      "trad": "¿Hay algún hueco para mi pelota? —¡No, no hay ningún hueco!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Some for you and some for me — let's pack it, zoom, zoom, zoom!",
+      "ini": 114.68,
+      "fin": 118.06,
+      "palabras": [
+       {
+        "t": "Some",
+        "ini": 114.68,
+        "fin": 114.8
+       },
+       {
+        "t": "for",
+        "ini": 114.84,
+        "fin": 114.92
+       },
+       {
+        "t": "you",
+        "ini": 115.02,
+        "fin": 115.14
+       },
+       {
+        "t": "and",
+        "ini": 115.2,
+        "fin": 115.3
+       },
+       {
+        "t": "some",
+        "ini": 115.4,
+        "fin": 115.54
+       },
+       {
+        "t": "for",
+        "ini": 115.62,
+        "fin": 115.72
+       },
+       {
+        "t": "me",
+        "ini": 115.78,
+        "fin": 115.94
+       },
+       {
+        "t": "—",
+        "ini": 116.02,
+        "fin": 116.02
+       },
+       {
+        "t": "let's",
+        "ini": 116.08,
+        "fin": 116.28
+       },
+       {
+        "t": "pack",
+        "ini": 116.32,
+        "fin": 116.54
+       },
+       {
+        "t": "it,",
+        "ini": 116.6,
+        "fin": 116.7
+       },
+       {
+        "t": "zoom,",
+        "ini": 116.82,
+        "fin": 117.14
+       },
+       {
+        "t": "zoom,",
+        "ini": 117.28,
+        "fin": 117.58
+       },
+       {
+        "t": "zoom!",
+        "ini": 117.74,
+        "fin": 118.06
+       }
+      ],
+      "trad": "Un poco para ti y un poco para mí… ¡a la maleta, zum, zum, zum!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "How many socks, Grandpa? — Many, many socks!",
+      "ini": 118.4,
+      "fin": 121.6,
+      "palabras": [
+       {
+        "t": "How",
+        "ini": 118.4,
+        "fin": 118.54
+       },
+       {
+        "t": "many",
+        "ini": 118.64,
+        "fin": 118.9
+       },
+       {
+        "t": "socks,",
+        "ini": 119.08,
+        "fin": 119.42
+       },
+       {
+        "t": "Grandpa?",
+        "ini": 119.52,
+        "fin": 119.98
+       },
+       {
+        "t": "—",
+        "ini": 119.98,
+        "fin": 119.98
+       },
+       {
+        "t": "Many,",
+        "ini": 120.48,
+        "fin": 120.74
+       },
+       {
+        "t": "many",
+        "ini": 120.94,
+        "fin": 121.14
+       },
+       {
+        "t": "socks!",
+        "ini": 121.28,
+        "fin": 121.6
+       }
+      ],
+      "trad": "¿Cuántos calcetines, abuelo? —¡Muchos, muchos calcetines!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "How much sunscreen, Grandpa? — Not much… just a drop!",
+      "ini": 121.88,
+      "fin": 125.24,
+      "palabras": [
+       {
+        "t": "How",
+        "ini": 121.88,
+        "fin": 122.02
+       },
+       {
+        "t": "much",
+        "ini": 122.08,
+        "fin": 122.26
+       },
+       {
+        "t": "sunscreen,",
+        "ini": 122.34,
+        "fin": 123.1
+       },
+       {
+        "t": "Grandpa?",
+        "ini": 123.2,
+        "fin": 123.66
+       },
+       {
+        "t": "—",
+        "ini": 123.66,
+        "fin": 123.66
+       },
+       {
+        "t": "Not",
+        "ini": 123.94,
+        "fin": 124.14
+       },
+       {
+        "t": "much…",
+        "ini": 124.2,
+        "fin": 124.44
+       },
+       {
+        "t": "just",
+        "ini": 124.64,
+        "fin": 124.82
+       },
+       {
+        "t": "a",
+        "ini": 124.86,
+        "fin": 124.94
+       },
+       {
+        "t": "drop!",
+        "ini": 124.96,
+        "fin": 125.24
+       }
+      ],
+      "trad": "¿Cuánta crema solar, abuelo? —No mucha… ¡solo una gota!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Is there any room for my ball? — No, there isn't any room!",
+      "ini": 125.62,
+      "fin": 128.98,
+      "palabras": [
+       {
+        "t": "Is",
+        "ini": 125.62,
+        "fin": 125.74
+       },
+       {
+        "t": "there",
+        "ini": 125.8,
+        "fin": 126.02
+       },
+       {
+        "t": "any",
+        "ini": 126.06,
+        "fin": 126.3
+       },
+       {
+        "t": "room",
+        "ini": 126.38,
+        "fin": 126.6
+       },
+       {
+        "t": "for",
+        "ini": 126.7,
+        "fin": 126.8
+       },
+       {
+        "t": "my",
+        "ini": 126.84,
+        "fin": 126.98
+       },
+       {
+        "t": "ball?",
+        "ini": 127.06,
+        "fin": 127.28
+       },
+       {
+        "t": "—",
+        "ini": 127.38,
+        "fin": 127.38
+       },
+       {
+        "t": "No,",
+        "ini": 127.42,
+        "fin": 127.56
+       },
+       {
+        "t": "there",
+        "ini": 127.66,
+        "fin": 127.84
+       },
+       {
+        "t": "isn't",
+        "ini": 127.9,
+        "fin": 128.16
+       },
+       {
+        "t": "any",
+        "ini": 128.38,
+        "fin": 128.58
+       },
+       {
+        "t": "room!",
+        "ini": 128.7,
+        "fin": 128.98
+       }
+      ],
+      "trad": "¿Hay algún hueco para mi pelota? —¡No, no hay ningún hueco!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Some for you and some for me — let's pack it, zoom, zoom, zoom!",
+      "ini": 129.46,
+      "fin": 132.92,
+      "palabras": [
+       {
+        "t": "Some",
+        "ini": 129.46,
+        "fin": 129.58
+       },
+       {
+        "t": "for",
+        "ini": 129.6,
+        "fin": 129.7
+       },
+       {
+        "t": "you",
+        "ini": 129.78,
+        "fin": 129.92
+       },
+       {
+        "t": "and",
+        "ini": 129.96,
+        "fin": 130.06
+       },
+       {
+        "t": "some",
+        "ini": 130.16,
+        "fin": 130.36
+       },
+       {
+        "t": "for",
+        "ini": 130.38,
+        "fin": 130.48
+       },
+       {
+        "t": "me",
+        "ini": 130.54,
+        "fin": 130.66
+       },
+       {
+        "t": "—",
+        "ini": 130.68,
+        "fin": 130.68
+       },
+       {
+        "t": "let's",
+        "ini": 130.84,
+        "fin": 131.04
+       },
+       {
+        "t": "pack",
+        "ini": 131.08,
+        "fin": 131.32
+       },
+       {
+        "t": "it,",
+        "ini": 131.36,
+        "fin": 131.46
+       },
+       {
+        "t": "zoom,",
+        "ini": 131.58,
+        "fin": 131.9
+       },
+       {
+        "t": "zoom,",
+        "ini": 132.04,
+        "fin": 132.34
+       },
+       {
+        "t": "zoom!",
+        "ini": 132.5,
+        "fin": 132.92
+       }
+      ],
+      "trad": "Un poco para ti y un poco para mí… ¡a la maleta, zum, zum, zum!"
+     },
+     {
+      "seccion": "Outro",
+      "texto": "— Grandpa… how many sweaters did you bring? — Seven!",
+      "ini": 132.92,
+      "fin": 135.42,
+      "palabras": [
+       {
+        "t": "—",
+        "ini": 132.92,
+        "fin": 132.92
+       },
+       {
+        "t": "Grandpa…",
+        "ini": 133.2,
+        "fin": 133.66
+       },
+       {
+        "t": "how",
+        "ini": 133.76,
+        "fin": 133.84
+       },
+       {
+        "t": "many",
+        "ini": 133.88,
+        "fin": 134.0
+       },
+       {
+        "t": "sweaters",
+        "ini": 134.1,
+        "fin": 134.38
+       },
+       {
+        "t": "did",
+        "ini": 134.44,
+        "fin": 134.54
+       },
+       {
+        "t": "you",
+        "ini": 134.56,
+        "fin": 134.64
+       },
+       {
+        "t": "bring?",
+        "ini": 134.66,
+        "fin": 134.86
+       },
+       {
+        "t": "—",
+        "ini": 134.88,
+        "fin": 134.88
+       },
+       {
+        "t": "Seven!",
+        "ini": 135.02,
+        "fin": 135.42
+       }
+      ],
+      "trad": "—Abuelo… ¿cuántos jerséis has traído? —¡Siete!"
+     }
+    ],
+    "duracion": 136.58
+   },
+   "es": {
+    "lineas": [
+     {
+      "seccion": "Intro",
+      "texto": "¡Abuelo! ¡El autobús sale en diez minutos!",
+      "ini": 0.4,
+      "fin": 3.68,
+      "palabras": [
+       {
+        "t": "¡Abuelo!",
+        "ini": 0.4,
+        "fin": 0.92
+       },
+       {
+        "t": "¡El",
+        "ini": 0.92,
+        "fin": 1.7
+       },
+       {
+        "t": "autobús",
+        "ini": 1.76,
+        "fin": 2.24
+       },
+       {
+        "t": "sale",
+        "ini": 2.28,
+        "fin": 2.52
+       },
+       {
+        "t": "en",
+        "ini": 2.54,
+        "fin": 2.66
+       },
+       {
+        "t": "diez",
+        "ini": 2.72,
+        "fin": 2.92
+       },
+       {
+        "t": "minutos!",
+        "ini": 2.98,
+        "fin": 3.68
+       }
+      ],
+      "trad": "Grandpa! The bus leaves in ten minutes!"
+     },
+     {
+      "seccion": "Intro",
+      "texto": "—¡Vale, vale, ya hago la maleta!",
+      "ini": 3.7,
+      "fin": 6.22,
+      "palabras": [
+       {
+        "t": "—¡Vale,",
+        "ini": 3.7,
+        "fin": 4.56
+       },
+       {
+        "t": "vale,",
+        "ini": 4.62,
+        "fin": 4.94
+       },
+       {
+        "t": "ya",
+        "ini": 5.28,
+        "fin": 5.36
+       },
+       {
+        "t": "hago",
+        "ini": 5.38,
+        "fin": 5.54
+       },
+       {
+        "t": "la",
+        "ini": 5.6,
+        "fin": 5.68
+       },
+       {
+        "t": "maleta!",
+        "ini": 5.74,
+        "fin": 6.22
+       }
+      ],
+      "trad": "—Okay, okay, I'm packing the suitcase!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Nos vamos a la playa, y el abuelo hace su vieja maleta,",
+      "ini": 7.64,
+      "fin": 11.4,
+      "palabras": [
+       {
+        "t": "Nos",
+        "ini": 7.64,
+        "fin": 7.82
+       },
+       {
+        "t": "vamos",
+        "ini": 7.88,
+        "fin": 8.3
+       },
+       {
+        "t": "a",
+        "ini": 8.4,
+        "fin": 8.5
+       },
+       {
+        "t": "la",
+        "ini": 8.56,
+        "fin": 8.64
+       },
+       {
+        "t": "playa,",
+        "ini": 8.76,
+        "fin": 9.1
+       },
+       {
+        "t": "y",
+        "ini": 9.22,
+        "fin": 9.28
+       },
+       {
+        "t": "el",
+        "ini": 9.38,
+        "fin": 9.48
+       },
+       {
+        "t": "abuelo",
+        "ini": 9.56,
+        "fin": 9.88
+       },
+       {
+        "t": "hace",
+        "ini": 9.9,
+        "fin": 10.14
+       },
+       {
+        "t": "su",
+        "ini": 10.18,
+        "fin": 10.32
+       },
+       {
+        "t": "vieja",
+        "ini": 10.38,
+        "fin": 10.74
+       },
+       {
+        "t": "maleta,",
+        "ini": 10.86,
+        "fin": 11.4
+       }
+      ],
+      "trad": "We're going to the beach, and Grandpa's packing his old suitcase,"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "pero está tan llena que no cierra… ¿qué habrá dentro?",
+      "ini": 11.56,
+      "fin": 14.7,
+      "palabras": [
+       {
+        "t": "pero",
+        "ini": 11.56,
+        "fin": 11.82
+       },
+       {
+        "t": "está",
+        "ini": 11.86,
+        "fin": 12.12
+       },
+       {
+        "t": "tan",
+        "ini": 12.22,
+        "fin": 12.42
+       },
+       {
+        "t": "llena",
+        "ini": 12.46,
+        "fin": 12.8
+       },
+       {
+        "t": "que",
+        "ini": 12.94,
+        "fin": 13.12
+       },
+       {
+        "t": "no",
+        "ini": 13.16,
+        "fin": 13.26
+       },
+       {
+        "t": "cierra…",
+        "ini": 13.38,
+        "fin": 13.72
+       },
+       {
+        "t": "¿qué",
+        "ini": 13.8,
+        "fin": 13.9
+       },
+       {
+        "t": "habrá",
+        "ini": 13.94,
+        "fin": 14.26
+       },
+       {
+        "t": "dentro?",
+        "ini": 14.32,
+        "fin": 14.7
+       }
+      ],
+      "trad": "but it's so full that it won't close… what could be inside?"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "La abro y no me lo puedo creer: ¡hay cosas por todas partes!",
+      "ini": 15.02,
+      "fin": 18.34,
+      "palabras": [
+       {
+        "t": "La",
+        "ini": 15.02,
+        "fin": 15.18
+       },
+       {
+        "t": "abro",
+        "ini": 15.34,
+        "fin": 15.56
+       },
+       {
+        "t": "y",
+        "ini": 15.6,
+        "fin": 15.64
+       },
+       {
+        "t": "no",
+        "ini": 15.7,
+        "fin": 15.76
+       },
+       {
+        "t": "me",
+        "ini": 15.82,
+        "fin": 15.9
+       },
+       {
+        "t": "lo",
+        "ini": 15.94,
+        "fin": 16.02
+       },
+       {
+        "t": "puedo",
+        "ini": 16.14,
+        "fin": 16.36
+       },
+       {
+        "t": "creer:",
+        "ini": 16.46,
+        "fin": 16.84
+       },
+       {
+        "t": "¡hay",
+        "ini": 16.86,
+        "fin": 17.0
+       },
+       {
+        "t": "cosas",
+        "ini": 17.08,
+        "fin": 17.34
+       },
+       {
+        "t": "por",
+        "ini": 17.42,
+        "fin": 17.5
+       },
+       {
+        "t": "todas",
+        "ini": 17.58,
+        "fin": 17.92
+       },
+       {
+        "t": "partes!",
+        "ini": 18.04,
+        "fin": 18.34
+       }
+      ],
+      "trad": "I open it and I can't believe it: there are things everywhere!"
+     },
+     {
+      "seccion": "Verse 1",
+      "texto": "Así que me siento con mi lista y le pregunto, una a una:",
+      "ini": 18.4,
+      "fin": 22.04,
+      "palabras": [
+       {
+        "t": "Así",
+        "ini": 18.4,
+        "fin": 18.54
+       },
+       {
+        "t": "que",
+        "ini": 18.58,
+        "fin": 18.66
+       },
+       {
+        "t": "me",
+        "ini": 18.7,
+        "fin": 18.8
+       },
+       {
+        "t": "siento",
+        "ini": 18.92,
+        "fin": 19.26
+       },
+       {
+        "t": "con",
+        "ini": 19.4,
+        "fin": 19.56
+       },
+       {
+        "t": "mi",
+        "ini": 19.62,
+        "fin": 19.74
+       },
+       {
+        "t": "lista",
+        "ini": 19.84,
+        "fin": 20.16
+       },
+       {
+        "t": "y",
+        "ini": 20.24,
+        "fin": 20.28
+       },
+       {
+        "t": "le",
+        "ini": 20.32,
+        "fin": 20.4
+       },
+       {
+        "t": "pregunto,",
+        "ini": 20.54,
+        "fin": 21.16
+       },
+       {
+        "t": "una",
+        "ini": 21.4,
+        "fin": 21.58
+       },
+       {
+        "t": "a",
+        "ini": 21.66,
+        "fin": 21.68
+       },
+       {
+        "t": "una:",
+        "ini": 21.86,
+        "fin": 22.04
+       }
+      ],
+      "trad": "So I sit with my list and ask him, one by one:"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Cuántos calcetines, abuelo? —¡Muchos, muchos calcetines!",
+      "ini": 22.16,
+      "fin": 25.92,
+      "palabras": [
+       {
+        "t": "¿Cuántos",
+        "ini": 22.16,
+        "fin": 22.54
+       },
+       {
+        "t": "calcetines,",
+        "ini": 22.62,
+        "fin": 23.28
+       },
+       {
+        "t": "abuelo?",
+        "ini": 23.46,
+        "fin": 23.88
+       },
+       {
+        "t": "—¡Muchos,",
+        "ini": 24.0,
+        "fin": 24.4
+       },
+       {
+        "t": "muchos",
+        "ini": 24.5,
+        "fin": 24.86
+       },
+       {
+        "t": "calcetines!",
+        "ini": 24.92,
+        "fin": 25.92
+       }
+      ],
+      "trad": "How many socks, Grandpa? —Many, many socks!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Cuánta crema, abuelo? —Poca… ¡solo una gota!",
+      "ini": 25.92,
+      "fin": 28.94,
+      "palabras": [
+       {
+        "t": "¿Cuánta",
+        "ini": 25.92,
+        "fin": 26.58
+       },
+       {
+        "t": "crema,",
+        "ini": 26.66,
+        "fin": 27.08
+       },
+       {
+        "t": "abuelo?",
+        "ini": 27.2,
+        "fin": 27.58
+       },
+       {
+        "t": "—Poca…",
+        "ini": 27.68,
+        "fin": 28.02
+       },
+       {
+        "t": "¡solo",
+        "ini": 28.12,
+        "fin": 28.38
+       },
+       {
+        "t": "una",
+        "ini": 28.46,
+        "fin": 28.58
+       },
+       {
+        "t": "gota!",
+        "ini": 28.64,
+        "fin": 28.94
+       }
+      ],
+      "trad": "How much sunscreen, Grandpa? —Not much… just a drop!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Queda algún hueco para mi pelota? —¡No, no queda ningún hueco!",
+      "ini": 29.06,
+      "fin": 32.88,
+      "palabras": [
+       {
+        "t": "¿Queda",
+        "ini": 29.06,
+        "fin": 29.28
+       },
+       {
+        "t": "algún",
+        "ini": 29.3,
+        "fin": 29.52
+       },
+       {
+        "t": "hueco",
+        "ini": 29.56,
+        "fin": 29.86
+       },
+       {
+        "t": "para",
+        "ini": 30.02,
+        "fin": 30.4
+       },
+       {
+        "t": "mi",
+        "ini": 30.46,
+        "fin": 30.56
+       },
+       {
+        "t": "pelota?",
+        "ini": 30.7,
+        "fin": 31.26
+       },
+       {
+        "t": "—¡No,",
+        "ini": 31.38,
+        "fin": 31.6
+       },
+       {
+        "t": "no",
+        "ini": 31.86,
+        "fin": 31.94
+       },
+       {
+        "t": "queda",
+        "ini": 32.0,
+        "fin": 32.28
+       },
+       {
+        "t": "ningún",
+        "ini": 32.34,
+        "fin": 32.7
+       },
+       {
+        "t": "hueco!",
+        "ini": 32.76,
+        "fin": 32.88
+       }
+      ],
+      "trad": "Is there any room left for my ball? —No, there isn't any room left!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Un poco para ti y un poco para mí… ¡a la maleta, zum, zum, zum!",
+      "ini": 32.92,
+      "fin": 36.68,
+      "palabras": [
+       {
+        "t": "Un",
+        "ini": 32.92,
+        "fin": 32.98
+       },
+       {
+        "t": "poco",
+        "ini": 33.0,
+        "fin": 33.18
+       },
+       {
+        "t": "para",
+        "ini": 33.26,
+        "fin": 33.54
+       },
+       {
+        "t": "ti",
+        "ini": 33.6,
+        "fin": 33.7
+       },
+       {
+        "t": "y",
+        "ini": 33.78,
+        "fin": 33.82
+       },
+       {
+        "t": "un",
+        "ini": 33.86,
+        "fin": 33.92
+       },
+       {
+        "t": "poco",
+        "ini": 33.94,
+        "fin": 34.1
+       },
+       {
+        "t": "para",
+        "ini": 34.2,
+        "fin": 34.46
+       },
+       {
+        "t": "mí…",
+        "ini": 34.52,
+        "fin": 34.7
+       },
+       {
+        "t": "¡a",
+        "ini": 34.86,
+        "fin": 35.02
+       },
+       {
+        "t": "la",
+        "ini": 35.08,
+        "fin": 35.22
+       },
+       {
+        "t": "maleta,",
+        "ini": 35.3,
+        "fin": 35.86
+       },
+       {
+        "t": "zum,",
+        "ini": 36.0,
+        "fin": 36.14
+       },
+       {
+        "t": "zum,",
+        "ini": 36.22,
+        "fin": 36.38
+       },
+       {
+        "t": "zum!",
+        "ini": 36.46,
+        "fin": 36.68
+       }
+      ],
+      "trad": "A little for you and a little for me… to the suitcase, zoom, zoom, zoom!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¿Cuántos jerséis, abuelo? —¡Siete! ¡Que de noche hace frío!",
+      "ini": 36.7,
+      "fin": 40.56,
+      "palabras": [
+       {
+        "t": "—¿Cuántos",
+        "ini": 36.7,
+        "fin": 37.54
+       },
+       {
+        "t": "jerséis,",
+        "ini": 37.62,
+        "fin": 38.06
+       },
+       {
+        "t": "abuelo?",
+        "ini": 38.14,
+        "fin": 38.6
+       },
+       {
+        "t": "—¡Siete!",
+        "ini": 38.6,
+        "fin": 39.06
+       },
+       {
+        "t": "¡Que",
+        "ini": 39.22,
+        "fin": 39.32
+       },
+       {
+        "t": "de",
+        "ini": 39.36,
+        "fin": 39.48
+       },
+       {
+        "t": "noche",
+        "ini": 39.54,
+        "fin": 39.74
+       },
+       {
+        "t": "hace",
+        "ini": 39.78,
+        "fin": 40.02
+       },
+       {
+        "t": "frío!",
+        "ini": 40.14,
+        "fin": 40.56
+       }
+      ],
+      "trad": "—How many sweaters, Grandpa? —Seven! It gets cold at night!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¡Abuelo, que es verano! —Ah… pues seis. O cinco, más o menos…",
+      "ini": 40.84,
+      "fin": 44.66,
+      "palabras": [
+       {
+        "t": "—¡Abuelo,",
+        "ini": 40.84,
+        "fin": 41.4
+       },
+       {
+        "t": "que",
+        "ini": 41.54,
+        "fin": 41.6
+       },
+       {
+        "t": "es",
+        "ini": 41.62,
+        "fin": 41.74
+       },
+       {
+        "t": "verano!",
+        "ini": 41.78,
+        "fin": 42.4
+       },
+       {
+        "t": "—Ah…",
+        "ini": 42.46,
+        "fin": 42.66
+       },
+       {
+        "t": "pues",
+        "ini": 42.68,
+        "fin": 42.86
+       },
+       {
+        "t": "seis.",
+        "ini": 42.92,
+        "fin": 43.16
+       },
+       {
+        "t": "O",
+        "ini": 43.26,
+        "fin": 43.3
+       },
+       {
+        "t": "cinco,",
+        "ini": 43.38,
+        "fin": 43.72
+       },
+       {
+        "t": "más",
+        "ini": 43.86,
+        "fin": 44.06
+       },
+       {
+        "t": "o",
+        "ini": 44.14,
+        "fin": 44.18
+       },
+       {
+        "t": "menos…",
+        "ini": 44.32,
+        "fin": 44.66
+       }
+      ],
+      "trad": "—Grandpa, it's summer! —Oh… then six. Or five, more or less…"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¿Cuánto pan has metido? —No mucho, ¡solo tres barras largas!",
+      "ini": 44.76,
+      "fin": 47.96,
+      "palabras": [
+       {
+        "t": "—¿Cuánto",
+        "ini": 44.76,
+        "fin": 45.04
+       },
+       {
+        "t": "pan",
+        "ini": 45.12,
+        "fin": 45.26
+       },
+       {
+        "t": "has",
+        "ini": 45.28,
+        "fin": 45.4
+       },
+       {
+        "t": "metido?",
+        "ini": 45.48,
+        "fin": 45.98
+       },
+       {
+        "t": "—No",
+        "ini": 46.02,
+        "fin": 46.12
+       },
+       {
+        "t": "mucho,",
+        "ini": 46.2,
+        "fin": 46.46
+       },
+       {
+        "t": "¡solo",
+        "ini": 46.56,
+        "fin": 46.84
+       },
+       {
+        "t": "tres",
+        "ini": 46.92,
+        "fin": 47.06
+       },
+       {
+        "t": "barras",
+        "ini": 47.1,
+        "fin": 47.46
+       },
+       {
+        "t": "largas!",
+        "ini": 47.54,
+        "fin": 47.96
+       }
+      ],
+      "trad": "—How much bread did you pack? —Not much, just three long loaves!"
+     },
+     {
+      "seccion": "Verse 2",
+      "texto": "—¿Hay alguna piedra aquí? —Algunas… ¡son mis piedras de la suerte!",
+      "ini": 48.0,
+      "fin": 51.62,
+      "palabras": [
+       {
+        "t": "—¿Hay",
+        "ini": 48.0,
+        "fin": 48.24
+       },
+       {
+        "t": "alguna",
+        "ini": 48.32,
+        "fin": 48.78
+       },
+       {
+        "t": "piedra",
+        "ini": 48.92,
+        "fin": 49.24
+       },
+       {
+        "t": "aquí?",
+        "ini": 49.26,
+        "fin": 49.56
+       },
+       {
+        "t": "—Algunas…",
+        "ini": 49.56,
+        "fin": 50.22
+       },
+       {
+        "t": "¡son",
+        "ini": 50.3,
+        "fin": 50.3
+       },
+       {
+        "t": "mis",
+        "ini": 50.32,
+        "fin": 50.36
+       },
+       {
+        "t": "piedras",
+        "ini": 50.36,
+        "fin": 50.72
+       },
+       {
+        "t": "de",
+        "ini": 50.8,
+        "fin": 50.94
+       },
+       {
+        "t": "la",
+        "ini": 51.0,
+        "fin": 51.08
+       },
+       {
+        "t": "suerte!",
+        "ini": 51.2,
+        "fin": 51.62
+       }
+      ],
+      "trad": "—Are there any rocks in here? —Some… they're my lucky stones!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Cuántos calcetines, abuelo? —¡Muchos, muchos calcetines!",
+      "ini": 51.7,
+      "fin": 55.38,
+      "palabras": [
+       {
+        "t": "¿Cuántos",
+        "ini": 51.7,
+        "fin": 52.08
+       },
+       {
+        "t": "calcetines,",
+        "ini": 52.16,
+        "fin": 52.82
+       },
+       {
+        "t": "abuelo?",
+        "ini": 52.92,
+        "fin": 53.42
+       },
+       {
+        "t": "—¡Muchos,",
+        "ini": 53.54,
+        "fin": 53.94
+       },
+       {
+        "t": "muchos",
+        "ini": 54.02,
+        "fin": 54.4
+       },
+       {
+        "t": "calcetines!",
+        "ini": 54.46,
+        "fin": 55.38
+       }
+      ],
+      "trad": "How many socks, Grandpa? —Many, many socks!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Cuánta crema, abuelo? —Poca… ¡solo una gota!",
+      "ini": 55.44,
+      "fin": 58.5,
+      "palabras": [
+       {
+        "t": "¿Cuánta",
+        "ini": 55.44,
+        "fin": 56.1
+       },
+       {
+        "t": "crema,",
+        "ini": 56.18,
+        "fin": 56.62
+       },
+       {
+        "t": "abuelo?",
+        "ini": 56.74,
+        "fin": 57.12
+       },
+       {
+        "t": "—Poca…",
+        "ini": 57.22,
+        "fin": 57.56
+       },
+       {
+        "t": "¡solo",
+        "ini": 57.66,
+        "fin": 57.92
+       },
+       {
+        "t": "una",
+        "ini": 57.98,
+        "fin": 58.14
+       },
+       {
+        "t": "gota!",
+        "ini": 58.18,
+        "fin": 58.5
+       }
+      ],
+      "trad": "How much sunscreen, Grandpa? —Not much… just a drop!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "¿Queda algún hueco para mi pelota? —¡No, no queda ningún hueco!",
+      "ini": 58.6,
+      "fin": 62.42,
+      "palabras": [
+       {
+        "t": "¿Queda",
+        "ini": 58.6,
+        "fin": 58.8
+       },
+       {
+        "t": "algún",
+        "ini": 58.84,
+        "fin": 59.06
+       },
+       {
+        "t": "hueco",
+        "ini": 59.08,
+        "fin": 59.4
+       },
+       {
+        "t": "para",
+        "ini": 59.56,
+        "fin": 59.94
+       },
+       {
+        "t": "mi",
+        "ini": 60.0,
+        "fin": 60.1
+       },
+       {
+        "t": "pelota?",
+        "ini": 60.24,
+        "fin": 60.88
+       },
+       {
+        "t": "—¡No,",
+        "ini": 60.9,
+        "fin": 61.1
+       },
+       {
+        "t": "no",
+        "ini": 61.38,
+        "fin": 61.46
+       },
+       {
+        "t": "queda",
+        "ini": 61.54,
+        "fin": 61.84
+       },
+       {
+        "t": "ningún",
+        "ini": 61.88,
+        "fin": 62.24
+       },
+       {
+        "t": "hueco!",
+        "ini": 62.3,
+        "fin": 62.42
+       }
+      ],
+      "trad": "Is there any room left for my ball? —No, there isn't any room left!"
+     },
+     {
+      "seccion": "Chorus",
+      "texto": "Un poco para ti y un poco para mí… ¡a la maleta, zum, zum, zum!",
+      "ini": 62.46,
+      "fin": 66.22,
+      "palabras": [
+       {
+        "t": "Un",
+        "ini": 62.46,
+        "fin": 62.5
+       },
+       {
+        "t": "poco",
+        "ini": 62.54,
+        "fin": 62.76
+       },
+       {
+        "t": "para",
+        "ini": 62.8,
+        "fin": 63.08
+       },
+       {
+        "t": "ti",
+        "ini": 63.14,
+        "fin": 63.3
+       },
+       {
+        "t": "y",
+        "ini": 63.34,
+        "fin": 63.38
+       },
+       {
+        "t": "un",
+        "ini": 63.42,
+        "fin": 63.46
+       },
+       {
+        "t": "poco",
+        "ini": 63.48,
+        "fin": 63.64
+       },
+       {
+        "t": "para",
+        "ini": 63.74,
+        "fin": 64.0
+       },
+       {
+        "t": "mí…",
+        "ini": 64.06,
+        "fin": 64.24
+       },
+       {
+        "t": "¡a",
+        "ini": 64.4,
+        "fin": 64.56
+       },
+       {
+        "t": "la",
+        "ini": 64.62,
+        "fin": 64.74
+       },
+       {
+        "t": "maleta,",
+        "ini": 64.84,
+        "fin": 65.4
+       },
+       {
+        "t": "zum,",
+        "ini": 65.54,
+        "fin": 65.7
+       },
+       {
+        "t": "zum,",
+        "ini": 65.76,
+        "fin": 65.92
+       },
+       {
+        "t": "zum!",
+        "ini": 66.0,
+        "fin": 66.22
+       }
+      ],
+      "trad": "A little for you and a little for me… to the suitcase, zoom, zoom, zoom!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Calcetines, zapatos y libros se cuentan: ¿cuántos? ¡Muchos!",
+      "ini": 68.01,
+      "fin": 72.46,
+      "palabras": [
+       {
+        "t": "Calcetines,",
+        "ini": 68.01,
+        "fin": 68.46
+       },
+       {
+        "t": "zapatos",
+        "ini": 68.52,
+        "fin": 69.44
+       },
+       {
+        "t": "y",
+        "ini": 69.54,
+        "fin": 69.6
+       },
+       {
+        "t": "libros",
+        "ini": 69.7,
+        "fin": 70.34
+       },
+       {
+        "t": "se",
+        "ini": 70.38,
+        "fin": 70.5
+       },
+       {
+        "t": "cuentan:",
+        "ini": 70.6,
+        "fin": 71.3
+       },
+       {
+        "t": "¿cuántos?",
+        "ini": 71.5,
+        "fin": 71.88
+       },
+       {
+        "t": "¡Muchos!",
+        "ini": 71.98,
+        "fin": 72.46
+       }
+      ],
+      "trad": "Socks, shoes and books can be counted: how many? Many!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Agua, leche y arena no se cuentan: ¿cuánta? ¡Poca!",
+      "ini": 72.74,
+      "fin": 77.3,
+      "palabras": [
+       {
+        "t": "Agua,",
+        "ini": 72.74,
+        "fin": 72.9
+       },
+       {
+        "t": "leche",
+        "ini": 72.96,
+        "fin": 73.32
+       },
+       {
+        "t": "y",
+        "ini": 73.6,
+        "fin": 73.64
+       },
+       {
+        "t": "arena",
+        "ini": 73.72,
+        "fin": 74.22
+       },
+       {
+        "t": "no",
+        "ini": 74.32,
+        "fin": 74.6
+       },
+       {
+        "t": "se",
+        "ini": 74.76,
+        "fin": 75.08
+       },
+       {
+        "t": "cuentan:",
+        "ini": 75.22,
+        "fin": 76.02
+       },
+       {
+        "t": "¿cuánta?",
+        "ini": 76.12,
+        "fin": 76.76
+       },
+       {
+        "t": "¡Poca!",
+        "ini": 76.76,
+        "fin": 77.3
+       }
+      ],
+      "trad": "Water, milk and sand can't be counted: how much? Not much!"
+     },
+     {
+      "seccion": "Bridge",
+      "texto": "Un calcetín, dos calcetines, muchos… una gota: ¡poca!",
+      "ini": 77.36,
+      "fin": 81.2,
+      "palabras": [
+       {
+        "t": "Un",
+        "ini": 77.36,
+        "fin": 77.46
+       },
+       {
+        "t": "calcetín,",
+        "ini": 77.56,
+        "fin": 78.16
+       },
+       {
+        "t": "dos",
+        "ini": 78.24,
+        "fin": 78.4
+       },
+       {
+        "t": "calcetines,",
+        "ini": 78.46,
+        "fin": 79.32
+       },
+       {
+        "t": "muchos…",
+        "ini": 79.42,
+        "fin": 79.84
+       },
+       {
+        "t": "una",
+        "ini": 80.12,
+        "fin": 80.28
+       },
+       {
+        "t": "gota:",
+        "ini": 80.32,
+        "fin": 80.66
+       },
+       {
+        "t": "¡poca!",
+        "ini": 80.76,
+        "fin": 81.2
+       }
+      ],
+      "trad": "One sock, two socks, many… one drop: not much!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "Por fin la maleta se cierra, ¡clic!, y corremos a por el autobús,",
+      "ini": 88.86,
+      "fin": 92.14,
+      "palabras": [
+       {
+        "t": "Por",
+        "ini": 88.86,
+        "fin": 88.98
+       },
+       {
+        "t": "fin",
+        "ini": 89.08,
+        "fin": 89.22
+       },
+       {
+        "t": "la",
+        "ini": 89.3,
+        "fin": 89.38
+       },
+       {
+        "t": "maleta",
+        "ini": 89.44,
+        "fin": 89.74
+       },
+       {
+        "t": "se",
+        "ini": 89.82,
+        "fin": 89.92
+       },
+       {
+        "t": "cierra,",
+        "ini": 90.0,
+        "fin": 90.32
+       },
+       {
+        "t": "¡clic!,",
+        "ini": 90.42,
+        "fin": 90.68
+       },
+       {
+        "t": "y",
+        "ini": 90.72,
+        "fin": 90.8
+       },
+       {
+        "t": "corremos",
+        "ini": 90.82,
+        "fin": 91.24
+       },
+       {
+        "t": "a",
+        "ini": 91.28,
+        "fin": 91.32
+       },
+       {
+        "t": "por",
+        "ini": 91.4,
+        "fin": 91.52
+       },
+       {
+        "t": "el",
+        "ini": 91.54,
+        "fin": 91.62
+       },
+       {
+        "t": "autobús,",
+        "ini": 91.64,
+        "fin": 92.14
+       }
+      ],
+      "trad": "Finally the suitcase closes, click!, and we run for the bus,"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "llegamos a la playa, abro mi bolsa… ¡y no traigo el bañador! ¡Oh, no!",
+      "ini": 92.66,
+      "fin": 96.12,
+      "palabras": [
+       {
+        "t": "llegamos",
+        "ini": 92.66,
+        "fin": 93.0
+       },
+       {
+        "t": "a",
+        "ini": 93.02,
+        "fin": 93.08
+       },
+       {
+        "t": "la",
+        "ini": 93.12,
+        "fin": 93.16
+       },
+       {
+        "t": "playa,",
+        "ini": 93.22,
+        "fin": 93.58
+       },
+       {
+        "t": "abro",
+        "ini": 93.76,
+        "fin": 93.98
+       },
+       {
+        "t": "mi",
+        "ini": 94.04,
+        "fin": 94.14
+       },
+       {
+        "t": "bolsa…",
+        "ini": 94.16,
+        "fin": 94.54
+       },
+       {
+        "t": "¡y",
+        "ini": 94.62,
+        "fin": 94.7
+       },
+       {
+        "t": "no",
+        "ini": 94.74,
+        "fin": 94.78
+       },
+       {
+        "t": "traigo",
+        "ini": 94.84,
+        "fin": 95.0
+       },
+       {
+        "t": "el",
+        "ini": 95.04,
+        "fin": 95.08
+       },
+       {
+        "t": "bañador!",
+        "ini": 95.12,
+        "fin": 95.74
+       },
+       {
+        "t": "¡Oh,",
+        "ini": 95.78,
+        "fin": 95.88
+       },
+       {
+        "t": "no!",
+        "ini": 96.02,
+        "fin": 96.12
+       }
+      ],
+      "trad": "we get to the beach, I open my bag… and I didn't bring my swimsuit! Oh, no!"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "El abuelo sonríe y abre su maleta: «He metido unos cuantos de más… ¡para ti!»",
+      "ini": 96.28,
+      "fin": 99.9,
+      "palabras": [
+       {
+        "t": "El",
+        "ini": 96.28,
+        "fin": 96.36
+       },
+       {
+        "t": "abuelo",
+        "ini": 96.4,
+        "fin": 96.68
+       },
+       {
+        "t": "sonríe",
+        "ini": 96.78,
+        "fin": 97.2
+       },
+       {
+        "t": "y",
+        "ini": 97.24,
+        "fin": 97.28
+       },
+       {
+        "t": "abre",
+        "ini": 97.32,
+        "fin": 97.44
+       },
+       {
+        "t": "su",
+        "ini": 97.54,
+        "fin": 97.66
+       },
+       {
+        "t": "maleta:",
+        "ini": 97.74,
+        "fin": 98.1
+       },
+       {
+        "t": "«He",
+        "ini": 98.12,
+        "fin": 98.18
+       },
+       {
+        "t": "metido",
+        "ini": 98.2,
+        "fin": 98.52
+       },
+       {
+        "t": "unos",
+        "ini": 98.58,
+        "fin": 98.74
+       },
+       {
+        "t": "cuantos",
+        "ini": 98.78,
+        "fin": 99.06
+       },
+       {
+        "t": "de",
+        "ini": 99.12,
+        "fin": 99.2
+       },
+       {
+        "t": "más…",
+        "ini": 99.26,
+        "fin": 99.44
+       },
+       {
+        "t": "¡para",
+        "ini": 99.46,
+        "fin": 99.66
+       },
+       {
+        "t": "ti!»",
+        "ini": 99.72,
+        "fin": 99.9
+       }
+      ],
+      "trad": "Grandpa smiles and opens his suitcase: «I've packed a few extra… for you!»"
+     },
+     {
+      "seccion": "Verse 3",
+      "texto": "—¿Cuántos bañadores, abuelo? —¡Muchos! —¡Gracias, abuelo! ¡Te quiero!",
+      "ini": 100.14,
+      "fin": 103.32,
+      "palabras": [
+       {
+        "t": "—¿Cuántos",
+        "ini": 100.14,
+        "fin": 100.38
+       },
+       {
+        "t": "bañadores,",
+        "ini": 100.42,
+        "fin": 100.94
+       },
+       {
+        "t": "abuelo?",
+        "ini": 101.02,
+        "fin": 101.4
+       },
+       {
+        "t": "—¡Muchos!",
+        "ini": 101.4,
+        "fin": 101.92
+       },
+       {
+        "t": "—¡Gracias,",
+        "ini": 101.96,
+        "fin": 102.34
+       },
+       {
+        "t": "abuelo!",
+        "ini": 102.44,
+        "fin": 102.74
+       },
+       {
+        "t": "¡Te",
+        "ini": 102.8,
+        "fin": 102.92
+       },
+       {
+        "t": "quiero!",
+        "ini": 102.98,
+        "fin": 103.32
+       }
+      ],
+      "trad": "—How many swimsuits, Grandpa? —Many! —Thanks, Grandpa! I love you!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Cuántos calcetines, abuelo? —¡Muchos, muchos calcetines!",
+      "ini": 103.4,
+      "fin": 107.08,
+      "palabras": [
+       {
+        "t": "¿Cuántos",
+        "ini": 103.4,
+        "fin": 103.78
+       },
+       {
+        "t": "calcetines,",
+        "ini": 103.86,
+        "fin": 104.52
+       },
+       {
+        "t": "abuelo?",
+        "ini": 104.7,
+        "fin": 105.12
+       },
+       {
+        "t": "—¡Muchos,",
+        "ini": 105.12,
+        "fin": 105.62
+       },
+       {
+        "t": "muchos",
+        "ini": 105.72,
+        "fin": 106.08
+       },
+       {
+        "t": "calcetines!",
+        "ini": 106.16,
+        "fin": 107.08
+       }
+      ],
+      "trad": "How many socks, Grandpa? —Many, many socks!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Cuánta crema, abuelo? —Poca… ¡solo una gota!",
+      "ini": 107.08,
+      "fin": 110.2,
+      "palabras": [
+       {
+        "t": "¿Cuánta",
+        "ini": 107.08,
+        "fin": 107.8
+       },
+       {
+        "t": "crema,",
+        "ini": 107.88,
+        "fin": 108.32
+       },
+       {
+        "t": "abuelo?",
+        "ini": 108.44,
+        "fin": 108.86
+       },
+       {
+        "t": "—Poca…",
+        "ini": 108.92,
+        "fin": 109.26
+       },
+       {
+        "t": "¡solo",
+        "ini": 109.36,
+        "fin": 109.62
+       },
+       {
+        "t": "una",
+        "ini": 109.68,
+        "fin": 109.84
+       },
+       {
+        "t": "gota!",
+        "ini": 109.88,
+        "fin": 110.2
+       }
+      ],
+      "trad": "How much sunscreen, Grandpa? —Not much… just a drop!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Queda algún hueco para mi pelota? —¡No, no queda ningún hueco!",
+      "ini": 110.3,
+      "fin": 114.12,
+      "palabras": [
+       {
+        "t": "¿Queda",
+        "ini": 110.3,
+        "fin": 110.52
+       },
+       {
+        "t": "algún",
+        "ini": 110.54,
+        "fin": 110.76
+       },
+       {
+        "t": "hueco",
+        "ini": 110.8,
+        "fin": 111.1
+       },
+       {
+        "t": "para",
+        "ini": 111.26,
+        "fin": 111.64
+       },
+       {
+        "t": "mi",
+        "ini": 111.7,
+        "fin": 111.8
+       },
+       {
+        "t": "pelota?",
+        "ini": 111.94,
+        "fin": 112.56
+       },
+       {
+        "t": "—¡No,",
+        "ini": 112.58,
+        "fin": 112.94
+       },
+       {
+        "t": "no",
+        "ini": 113.08,
+        "fin": 113.16
+       },
+       {
+        "t": "queda",
+        "ini": 113.24,
+        "fin": 113.52
+       },
+       {
+        "t": "ningún",
+        "ini": 113.58,
+        "fin": 113.94
+       },
+       {
+        "t": "hueco!",
+        "ini": 113.98,
+        "fin": 114.12
+       }
+      ],
+      "trad": "Is there any room left for my ball? —No, there isn't any room left!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Un poco para ti y un poco para mí… ¡a la maleta, zum, zum, zum!",
+      "ini": 114.16,
+      "fin": 117.92,
+      "palabras": [
+       {
+        "t": "Un",
+        "ini": 114.16,
+        "fin": 114.2
+       },
+       {
+        "t": "poco",
+        "ini": 114.24,
+        "fin": 114.42
+       },
+       {
+        "t": "para",
+        "ini": 114.5,
+        "fin": 114.78
+       },
+       {
+        "t": "ti",
+        "ini": 114.84,
+        "fin": 115.0
+       },
+       {
+        "t": "y",
+        "ini": 115.04,
+        "fin": 115.08
+       },
+       {
+        "t": "un",
+        "ini": 115.1,
+        "fin": 115.16
+       },
+       {
+        "t": "poco",
+        "ini": 115.18,
+        "fin": 115.38
+       },
+       {
+        "t": "para",
+        "ini": 115.42,
+        "fin": 115.7
+       },
+       {
+        "t": "mí…",
+        "ini": 115.78,
+        "fin": 115.94
+       },
+       {
+        "t": "¡a",
+        "ini": 116.08,
+        "fin": 116.28
+       },
+       {
+        "t": "la",
+        "ini": 116.32,
+        "fin": 116.44
+       },
+       {
+        "t": "maleta,",
+        "ini": 116.54,
+        "fin": 117.1
+       },
+       {
+        "t": "zum,",
+        "ini": 117.24,
+        "fin": 117.4
+       },
+       {
+        "t": "zum,",
+        "ini": 117.48,
+        "fin": 117.62
+       },
+       {
+        "t": "zum!",
+        "ini": 117.7,
+        "fin": 117.92
+       }
+      ],
+      "trad": "A little for you and a little for me… to the suitcase, zoom, zoom, zoom!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Cuántos calcetines, abuelo? —¡Muchos, muchos calcetines!",
+      "ini": 118.16,
+      "fin": 121.84,
+      "palabras": [
+       {
+        "t": "¿Cuántos",
+        "ini": 118.16,
+        "fin": 118.54
+       },
+       {
+        "t": "calcetines,",
+        "ini": 118.62,
+        "fin": 119.28
+       },
+       {
+        "t": "abuelo?",
+        "ini": 119.38,
+        "fin": 119.94
+       },
+       {
+        "t": "—¡Muchos,",
+        "ini": 120.0,
+        "fin": 120.4
+       },
+       {
+        "t": "muchos",
+        "ini": 120.5,
+        "fin": 120.86
+       },
+       {
+        "t": "calcetines!",
+        "ini": 120.92,
+        "fin": 121.84
+       }
+      ],
+      "trad": "How many socks, Grandpa? —Many, many socks!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Cuánta crema, abuelo? —Poca… ¡solo una gota!",
+      "ini": 122.28,
+      "fin": 124.96,
+      "palabras": [
+       {
+        "t": "¿Cuánta",
+        "ini": 122.28,
+        "fin": 122.58
+       },
+       {
+        "t": "crema,",
+        "ini": 122.64,
+        "fin": 123.1
+       },
+       {
+        "t": "abuelo?",
+        "ini": 123.22,
+        "fin": 123.64
+       },
+       {
+        "t": "—Poca…",
+        "ini": 123.68,
+        "fin": 124.02
+       },
+       {
+        "t": "¡solo",
+        "ini": 124.14,
+        "fin": 124.4
+       },
+       {
+        "t": "una",
+        "ini": 124.46,
+        "fin": 124.58
+       },
+       {
+        "t": "gota!",
+        "ini": 124.64,
+        "fin": 124.96
+       }
+      ],
+      "trad": "How much sunscreen, Grandpa? —Not much… just a drop!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "¿Queda algún hueco para mi pelota? —¡No, no queda ningún hueco!",
+      "ini": 125.06,
+      "fin": 128.88,
+      "palabras": [
+       {
+        "t": "¿Queda",
+        "ini": 125.06,
+        "fin": 125.28
+       },
+       {
+        "t": "algún",
+        "ini": 125.3,
+        "fin": 125.52
+       },
+       {
+        "t": "hueco",
+        "ini": 125.56,
+        "fin": 125.86
+       },
+       {
+        "t": "para",
+        "ini": 126.02,
+        "fin": 126.42
+       },
+       {
+        "t": "mi",
+        "ini": 126.48,
+        "fin": 126.56
+       },
+       {
+        "t": "pelota?",
+        "ini": 126.7,
+        "fin": 127.32
+       },
+       {
+        "t": "—¡No,",
+        "ini": 127.34,
+        "fin": 127.58
+       },
+       {
+        "t": "no",
+        "ini": 127.86,
+        "fin": 127.94
+       },
+       {
+        "t": "queda",
+        "ini": 128.02,
+        "fin": 128.3
+       },
+       {
+        "t": "ningún",
+        "ini": 128.34,
+        "fin": 128.72
+       },
+       {
+        "t": "hueco!",
+        "ini": 128.76,
+        "fin": 128.88
+       }
+      ],
+      "trad": "Is there any room left for my ball? —No, there isn't any room left!"
+     },
+     {
+      "seccion": "Final Chorus",
+      "texto": "Un poco para ti y un poco para mí… ¡a la maleta, zum, zum, zum!",
+      "ini": 128.9,
+      "fin": 132.7,
+      "palabras": [
+       {
+        "t": "Un",
+        "ini": 128.9,
+        "fin": 128.96
+       },
+       {
+        "t": "poco",
+        "ini": 129.0,
+        "fin": 129.18
+       },
+       {
+        "t": "para",
+        "ini": 129.26,
+        "fin": 129.54
+       },
+       {
+        "t": "ti",
+        "ini": 129.6,
+        "fin": 129.7
+       },
+       {
+        "t": "y",
+        "ini": 129.82,
+        "fin": 129.84
+       },
+       {
+        "t": "un",
+        "ini": 129.86,
+        "fin": 129.92
+       },
+       {
+        "t": "poco",
+        "ini": 129.96,
+        "fin": 130.16
+       },
+       {
+        "t": "para",
+        "ini": 130.2,
+        "fin": 130.48
+       },
+       {
+        "t": "mí…",
+        "ini": 130.54,
+        "fin": 130.72
+       },
+       {
+        "t": "¡a",
+        "ini": 130.86,
+        "fin": 131.04
+       },
+       {
+        "t": "la",
+        "ini": 131.1,
+        "fin": 131.22
+       },
+       {
+        "t": "maleta,",
+        "ini": 131.32,
+        "fin": 131.88
+       },
+       {
+        "t": "zum,",
+        "ini": 132.0,
+        "fin": 132.16
+       },
+       {
+        "t": "zum,",
+        "ini": 132.24,
+        "fin": 132.38
+       },
+       {
+        "t": "zum!",
+        "ini": 132.48,
+        "fin": 132.7
+       }
+      ],
+      "trad": "A little for you and a little for me… to the suitcase, zoom, zoom, zoom!"
+     },
+     {
+      "seccion": "Outro",
+      "texto": "—Abuelo… ¿cuántos jerséis has traído? —¡Siete!",
+      "ini": 132.94,
+      "fin": 135.36,
+      "palabras": [
+       {
+        "t": "—Abuelo…",
+        "ini": 132.94,
+        "fin": 133.46
+       },
+       {
+        "t": "¿cuántos",
+        "ini": 133.68,
+        "fin": 133.92
+       },
+       {
+        "t": "jerséis",
+        "ini": 133.96,
+        "fin": 134.22
+       },
+       {
+        "t": "has",
+        "ini": 134.24,
+        "fin": 134.38
+       },
+       {
+        "t": "traído?",
+        "ini": 134.44,
+        "fin": 134.7
+       },
+       {
+        "t": "—¡Siete!",
+        "ini": 134.78,
+        "fin": 135.36
+       }
+      ],
+      "trad": "—Grandpa… how many sweaters did you bring? —Seven!"
+     }
+    ],
+    "duracion": 136.58
+   },
+   "preguntas": [
+    {
+     "en": "How many sweaters did Grandpa want to pack at first?",
+     "en_op": [
+      "Seven",
+      "Two",
+      "Ten"
+     ],
+     "es": "¿Cuántos jerséis quería meter el abuelo al principio?",
+     "es_op": [
+      "Siete",
+      "Dos",
+      "Diez"
+     ]
+    },
+    {
+     "en": "What did the girl forget?",
+     "en_op": [
+      "Her swimsuit",
+      "Her ball",
+      "Her list"
+     ],
+     "es": "¿Qué se olvidó la niña?",
+     "es_op": [
+      "El bañador",
+      "La pelota",
+      "La lista"
+     ]
+    },
+    {
+     "en": "«How ___ sunscreen?»",
+     "en_op": [
+      "much",
+      "many",
+      "any"
+     ],
+     "es": "«¿___ crema?»",
+     "es_op": [
+      "Cuánta",
+      "Cuántos",
+      "Cuánto"
+     ]
+    }
+   ]
   }
  ]
 }
